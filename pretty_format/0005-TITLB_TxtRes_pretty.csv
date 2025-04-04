@@ -1,0 +1,40 @@
+id,name,text,text_jp
+$C1910_MAIN_0050_0100_00_red,NPC,Where do I even start? What should I tell you?,なにから話すべきか　なにを伝えるべきか
+$C1910_MAIN_0050_0200_00_red,NPC,"The things I’ve seen with my own eyes, heard with my own ears, and felt in my heart.",この目で見たこと　耳で聞いたこと<br>心で感じたこと
+$C1910_MAIN_0050_0300_00_red,NPC,"About the planet, about fate, about my comrades—all of it, I’ll share with you.",星のこと　運命のこと　仲間のこと<br>すべて　おまえたちに語ろう
+$C1910_MAIN_0050_0400_00_red,NPC,"The mako city, Midgar.",魔晄都市ミッドガル
+$C1910_MAIN_0050_0500_00_red,NPC,"The Shinra Company, dominating that massive city,",その巨大な街を支配する神羅カンパニーは
+$C1910_MAIN_0050_0600_00_red,NPC,kept draining the Lifestream—the planet’s very lifeblood—and squandering it as mako energy.,星の命であるライフストリームを吸い上げて<br>魔晄エネルギーとして浪費しつづけていた
+$C1910_MAIN_0050_0700_00_red,NPC,"The planet was screaming in agony, but hardly anyone noticed its cries.",星は悲鳴をあげていたが<br>その声に気づく者は　ほとんどいなかった
+$C1910_MAIN_0050_0800_00_red,NPC,"Yet amidst it all, some rose to fight for the planet.",そんな中　星のために立ち上がる者たちがいた
+$C1910_MAIN_0050_0810_00_red,NPC,"The anti-Shinra group, Avalanche.",反神羅組織　アバランチ
+$C1910_MAIN_0050_0900_00_red,NPC,"They hired a mercenary—a man named Cloud, once a Shinra SOLDIER—and blew up Mako Reactor 1.",彼らは神羅の強化兵士　ソルジャーだった男<br>クラウドを傭兵として雇い　壱番魔晄炉を爆破する
+$C1910_MAIN_0050_1000_00_red,NPC,"In Sector 8, where the reactor’s destruction wreaked havoc, Cloud met Aerith, a flower seller.",魔晄炉爆破の被害が広がる八番街で<br>クラウドは　花売りのエアリスと出会う
+$C1910_MAIN_0050_1100_00_red,NPC,She offered him a yellow flower.,差し出される黄色い花
+$C1910_MAIN_0050_1110_00_red,NPC,"Its meaning: <i>Reunion.</i>",花言葉は　“再会”
+$C1910_MAIN_0050_1200_00_red,NPC,"From that moment, fate began to shift in a big way.",そこから　運命は大きく動きだす
+$C1910_MAIN_0050_1300_00_red,NPC,"Avalanche set their sights on blowing up Mako Reactor 5 next,",アバランチは壱番魔晄炉につづき<br>伍番魔晄炉の爆破を目論む
+$C1910_MAIN_0050_1400_00_red,NPC,but it was all playing right into Shinra’s hands.,しかし　それらはすべて神羅の手の平の上だった
+$C1910_MAIN_0050_1410_00_red,NPC,Shinra cunningly deceived and manipulated the people.,神羅はたくみに人々をだまし　扇動していた
+$C1910_MAIN_0050_1500_00_red,NPC,Avalanche ended up framed as the culprits behind the unprecedented disaster of Sector 7’s plate collapse.,アバランチは　七番プレート落下という<br>未曽有の災害を引き起こした実行犯にされてしまう
+$C1910_MAIN_0050_1600_00_red,NPC,"Losing precious comrades, with everyone crushed by despair, Aerith struck a deal with Shinra and let herself be captured.",大切な仲間を失い　皆が絶望にうちひしがれるなか<br>エアリスは神羅と取引をし自ら捕らわれの身となる
+$C1910_MAIN_0050_1700_00_red,NPC,"Aerith was the last surviving Cetra, a race once called the planet’s pioneers.",エアリスは　星の開拓者とも呼ばれる種族<br>セトラの最後の生き残りだった
+$C1910_MAIN_0050_1800_00_red,NPC,"Shinra sought the <i>Promised Land</i> from Cetra legend,",神羅は　セトラの伝承に残る『約束の地』を<br>見つけだそうとしていた
+$C1910_MAIN_0050_1900_00_red,NPC,and they needed her power to find it.,そのためには　彼女の力が必要だった
+$C1910_MAIN_0050_2000_00_red,NPC,Cloud and the others stormed the Shinra Building to rescue Aerith.,クラウドたちは　エアリスを救出するべく<br>神羅ビルへと侵入する
+$C1910_MAIN_0050_2100_00_red,NPC,"I, held as an experimental specimen, joined them and helped free Aerith from the research lab.",実験サンプルとして捕らわれていた私も<br>彼らと合流し　研究施設からエアリスを助けだす
+$C1910_MAIN_0050_2200_00_red,NPC,"But then, the mightiest SOLDIER appeared before us.",そんな我々の前に　最強のソルジャーが姿を現す
+$C1910_MAIN_0050_2210_00_red,NPC,"The legendary hero, Sephiroth.",伝説の英雄　セフィロス
+$C1910_MAIN_0050_2300_00_red,NPC,Our long-dead nemesis stole Jenova’s remains—the origin of it all—kept in a secret lab.,死んだはずの宿敵は極秘実験施設に保管されていた<br>すべての始まりであるジェノバの遺体を奪い去る
+$C1910_MAIN_0050_2400_00_red,NPC,"Escaping the Shinra Building, Cloud and the others raced down the highway, shaking off Shinra’s forces.",神羅ビルを脱出したクラウドたちは<br>ハイウェイを駆け抜け　神羅軍の追手を振り切る
+$C1910_MAIN_0050_2500_00_red,NPC,That old foe showed himself again.,再び姿を現す宿敵
+$C1910_MAIN_0050_2600_00_red,NPC,"And then, an ear-piercing scream echoed out,",そのとき　耳をつんざく絶叫が響き渡り
+$C1910_MAIN_0050_2700_00_red,NPC,as the Feelers—guardians of fate—engulfed Midgar.,運命の番人であるフィーラーが<br>ミッドガルを覆いつくす
+$C1910_MAIN_0050_2800_00_red,NPC,"Facing the wall of fate, Aerith spoke up.",運命の壁を前に　エアリスが告げる
+$C1910_MAIN_0050_2810_00_red,NPC,"""This is where our paths diverge,"" she said.",ここが　分かれ道だと
+$C1910_MAIN_0050_2900_00_red,NPC,We learned the road we’d walked so far had been protected by the Feelers.,我々は　これまで歩んできた道のりが<br>フィーラーによって守られていたことを知る
+$C1910_MAIN_0050_3000_00_red,NPC,And then—the moment of decision.,そして　決断のとき──
+$C1910_MAIN_0050_3100_00_red,NPC,"Beyond that wall, we clashed with Sephiroth, who’d absorbed the guardians of fate.",壁を越えた先で　我々は<br>運命の番人を取り込んだセフィロスと激突する
+$C1910_MAIN_0050_3200_00_red,NPC,"Carrying our comrades’ hopes, Cloud’s strike cut through destiny itself.",仲間の想いを乗せたクラウドの一撃が<br>運命を斬りひらく
+$C1910_MAIN_0050_3300_00_red,NPC,"The battle over, freed from fate’s rails, we left Midgar behind and stood in the uncharted wilds.",戦いを終え　運命のレールから外れた我々は<br>ミッドガルを飛びだし　道なき荒野に立っていた
+$C1910_MAIN_0050_3400_00_red,NPC,"And from here, a new journey begins—one no one has ever seen before—",そしてここから　誰も見たことのない<br>新たな旅が始まる――

@@ -1,0 +1,1848 @@
+id,sub_id,text
+language,,US
+$C1910_MAIN_0100_0050_00_sep,,"Come quickly, Cloud."
+$C1910_MAIN_0100_0050_00_sep,ACTOR,Sephiroth
+$C1910_MAIN_0100_0070_00_mma,,Live from the Midgar Highway.
+$C1910_MAIN_0100_0070_00_mma,ACTOR,Reporter
+$C1910_MAIN_0100_0080_00_mma,,"Can you see it? A building has completely collapsed, and the road has caved in."
+$C1910_MAIN_0100_0080_00_mma,ACTOR,Reporter
+$C1910_MAIN_0100_0090_00_mma,,"Smoke is rising from multiple buildings, and flames can be seen."
+$C1910_MAIN_0100_0090_00_mma,ACTOR,Reporter
+$C1910_MAIN_0100_0100_00_mma,,"Currently, Midgar is facing an unprecedented crisis."
+$C1910_MAIN_0100_0100_00_mma,ACTOR,Reporter
+$C1910_MAIN_0100_0110_00_mma,,"The Mako Reactor bombing, the Sector 7 Plate——"
+$C1910_MAIN_0100_0110_00_mma,ACTOR,Reporter
+$C1910_MAIN_0100_0120_00_mma,,"Following the collapse of the Sector 7 Plate,"
+$C1910_MAIN_0100_0120_00_mma,ACTOR,Reporter
+$C1910_MAIN_0100_0200_00_mma,,A tornado that suddenly appeared on the Midgar Highway
+$C1910_MAIN_0100_0200_00_mma,ACTOR,Reporter
+$C1910_MAIN_0100_0300_00_mma,,has caused tremendous damage from Sector 0 to Sector 2.
+$C1910_MAIN_0100_0300_00_mma,ACTOR,Reporter
+$C1910_MAIN_0100_0310_00_mma,,
+$C1910_MAIN_0100_0311_00_mma,,
+$C1910_MAIN_0100_0320_00_mfa,,
+$C1910_MAIN_0100_0321_00_mma,,
+$C1910_MAIN_0100_0330_00_mfa,,
+$C1910_MAIN_0100_0331_00_mma,,
+$C1910_MAIN_0100_0332_00_mma,,
+$C1910_MAIN_0100_0340_00_skm,,
+$C1910_MAIN_0100_0341_00_skm,,
+$C1910_MAIN_0100_0342_00_skm,,
+$C1910_MAIN_0100_0400_00_mma,,"Mayor Domino and the city authorities, with advice from the Shinra Company,"
+$C1910_MAIN_0100_0400_00_mma,ACTOR,Reporter
+$C1910_MAIN_0100_0500_00_mma,,"have stated that this tornado is due to the anti-Shinra group ""Avalanche"""
+$C1910_MAIN_0100_0500_00_mma,ACTOR,Reporter
+$C1910_MAIN_0100_0510_00_mma,,"using an unknown weapon, according to their announcement."
+$C1910_MAIN_0100_0510_00_mma,ACTOR,Reporter
+$C1910_MAIN_0100_0600_00_mma,,"They will continue to investigate, considering the involvement of Wutai, currently under a ceasefire."
+$C1910_MAIN_0100_0600_00_mma,ACTOR,Reporter
+$C1910_MAIN_0100_0600_05_mma,,
+$C1910_MAIN_0100_0600_05_mma,ACTOR,Reporter
+$C1910_MAIN_0200_0000_05_zax,,
+$C1910_MAIN_0200_0000_05_zax,ACTOR,Zack
+$C1910_MAIN_0200_0100_00_kre,,I heard that Midgar was completely caught in the tornado.
+$C1910_MAIN_0200_0100_00_kre,ACTOR,Kyrie
+$C1910_MAIN_0200_0100_03_zax,,
+$C1910_MAIN_0200_0100_03_zax,ACTOR,Zack
+$C1910_MAIN_0200_0200_00_mma,,I heard it was some kind of explosion.
+$C1910_MAIN_0200_0200_00_mma,ACTOR,Slum Resident
+$C1910_MAIN_0200_0300_00_kre,,Maybe the tornado caused an explosion?
+$C1910_MAIN_0200_0300_00_kre,ACTOR,Kyrie
+$C1910_MAIN_0200_0400_00_mma,,Too many things are happening one after another.
+$C1910_MAIN_0200_0400_00_mma,ACTOR,Slum Resident
+$C1910_MAIN_0200_0400_05_kre,,
+$C1910_MAIN_0200_0400_05_kre,ACTOR,Kyrie
+$C1910_MAIN_0200_0401_00_mma,,"<i>Currently, Midgar is facing an unprecedented crisis.</i>"
+$C1910_MAIN_0200_0401_00_mma,ACTOR,<i>Reporter</i>
+$C1910_MAIN_0200_0402_00_mma,,"<i>The Mako Reactor bombing, the Sector 7 Plate</i>"
+$C1910_MAIN_0200_0402_00_mma,ACTOR,<i>Reporter</i>
+$C1910_MAIN_0200_0403_00_mma,,<i>Following the collapse of the Sector 7 Plate——</i>
+$C1910_MAIN_0200_0403_00_mma,ACTOR,<i>Reporter</i>
+$C1910_MAIN_0200_0404_00_mma,,
+$C1910_MAIN_0200_0404_00_mma,ACTOR,Reporter
+$C1910_MAIN_0200_0404_01_mma,,
+$C1910_MAIN_0200_0404_01_mma,ACTOR,Reporter
+$C1910_MAIN_0200_0405_00_mma,,<i>We’ll continue bringing you this live broadcast from the scene.</i>
+$C1910_MAIN_0200_0405_00_mma,ACTOR,<i>Reporter</i>
+$C1910_MAIN_0200_0405_03_zax,,
+$C1910_MAIN_0200_0405_03_zax,ACTOR,Zack
+$C1910_MAIN_0200_0406_00_mma,,Search efforts by the Shinra military are still ongoing on the collapsed highway.
+$C1910_MAIN_0200_0406_00_mma,ACTOR,Reporter
+$C1910_MAIN_0200_0407_00_mma,,
+$C1910_MAIN_0200_0407_00_mma,ACTOR,Reporter
+$C1910_MAIN_0200_0410_00_skm,,"One missing person, a former SOLDIER."
+$C1910_MAIN_0200_0410_00_skm,ACTOR,Security Guard
+$C1910_MAIN_0200_0420_00_skm,,"Carrying a large sword, the Buster Sword, with a risk of escape."
+$C1910_MAIN_0200_0420_00_skm,ACTOR,Security Guard
+$C1910_MAIN_0200_0421_00_skm,,<i>Repeat: The fugitive is a former SOLDIER carrying the Buster Sword——</i>
+$C1910_MAIN_0200_0421_00_skm,ACTOR,<i>Security Guard</i>
+$C1910_MAIN_0200_0430_00_zax,,
+$C1910_MAIN_0200_0430_00_zax,ACTOR,Zack
+$C1910_MAIN_0200_0440_00_mma,,"Hey, over there!"
+$C1910_MAIN_0200_0440_00_mma,ACTOR,Reporter
+$C1910_MAIN_0200_0442_00_mma,,Is that someone who was rescued?
+$C1910_MAIN_0200_0442_00_mma,ACTOR,Reporter
+$C1910_MAIN_0200_0450_00_skm,,
+$C1910_MAIN_0200_0450_00_skm,ACTOR,Rescue Team
+$C1910_MAIN_0200_0451_00_skm,,
+$C1910_MAIN_0200_0451_00_skm,ACTOR,Rescue Team
+$C1910_MAIN_0200_0460_00_skm,,
+$C1910_MAIN_0200_0460_00_skm,ACTOR,Rescue Team
+$C1910_MAIN_0200_0461_00_skm,,
+$C1910_MAIN_0200_0461_00_skm,ACTOR,Rescue Team
+$C1910_MAIN_0200_0462_00_skm,,"Hey...over here, over here!"
+$C1910_MAIN_0200_0462_00_skm,ACTOR,Rescue Team
+$C1910_MAIN_0200_0470_00_mma,,"Oh no, turn it that way, that way!"
+$C1910_MAIN_0200_0470_00_mma,ACTOR,Reporter
+$C1910_MAIN_0200_0470_08_mma,,
+$C1910_MAIN_0200_0470_08_mma,ACTOR,Reporter
+$C1910_MAIN_0200_0480_00_skm,,
+$C1910_MAIN_0200_0480_00_skm,ACTOR,Security Guard
+$C1910_MAIN_0200_0481_00_skm,,Contact the rescue team.
+$C1910_MAIN_0200_0481_00_skm,ACTOR,Security Guard
+$C1910_MAIN_0200_0482_00_skm,,We’ve secured the recovery target. Returning by helicopter now.
+$C1910_MAIN_0200_0482_00_skm,ACTOR,Security Guard
+$C1910_MAIN_0200_0483_00_skm,,"Hurry, we’re leaving!"
+$C1910_MAIN_0200_0483_00_skm,ACTOR,Security Guard
+$C1910_MAIN_0200_0500_00_zax,,
+$C1910_MAIN_0200_0500_00_zax,ACTOR,Zack
+$C1910_MAIN_0200_0600_00_skm,,"Hey, what are you doing?!"
+$C1910_MAIN_0200_0600_00_skm,ACTOR,Security Guard
+$C1910_MAIN_0200_0600_03_mma,,
+$C1910_MAIN_0200_0600_03_mma,ACTOR,Cameraman
+$C1910_MAIN_0200_0600_05_skm,,
+$C1910_MAIN_0200_0600_05_skm,ACTOR,Security Guard
+$C1910_MAIN_0200_0610_00_mma,,
+$C1910_MAIN_0200_0610_00_mma,ACTOR,Cameraman
+$C1910_MAIN_0200_0610_07_mma,,
+$C1910_MAIN_0200_0610_07_mma,ACTOR,Reporter
+$C1910_MAIN_0200_0620_00_mma,,The helicopter is taking off now.
+$C1910_MAIN_0200_0620_00_mma,ACTOR,Reporter
+$C1910_MAIN_0200_0630_00_skm,,
+$C1910_MAIN_0200_0630_00_skm,ACTOR,Security Guard
+$C1910_MAIN_0200_0640_00_mma,,It appears to be heading toward Sector 5.
+$C1910_MAIN_0200_0640_00_mma,ACTOR,Reporter
+$C1910_MAIN_0200_0640_05_skm,,
+$C1910_MAIN_0200_0640_05_skm,ACTOR,Security Guard
+$C1910_MAIN_0200_0640_08_mma,,
+$C1910_MAIN_0200_0640_08_mma,ACTOR,Reporter
+$C1910_MAIN_0200_0650_00_skm,,You! Enough already!
+$C1910_MAIN_0200_0650_00_skm,ACTOR,Security Guard
+$C1910_MAIN_0200_0650_05_mma,,
+$C1910_MAIN_0200_0650_05_mma,ACTOR,Cameraman
+$C1910_MAIN_0200_0660_00_mma,,
+$C1910_MAIN_0200_0660_00_mma,ACTOR,Cameraman
+$C1910_MAIN_0200_0660_11_zax,,
+$C1910_MAIN_0200_0660_11_zax,ACTOR,Zack
+$C1910_MAIN_0200_0660_14_zax,,
+$C1910_MAIN_0200_0660_14_zax,ACTOR,Zack
+$C1910_MAIN_0200_0660_16_kre,,
+$C1910_MAIN_0200_0660_16_kre,ACTOR,Kyrie
+$C1910_MAIN_0200_0660_17_zax,,
+$C1910_MAIN_0200_0660_17_zax,ACTOR,Zack
+$C1910_MAIN_0200_0660_20_zax,,
+$C1910_MAIN_0200_0660_20_zax,ACTOR,Zack
+$C1910_MAIN_0200_0660_23_kre,,
+$C1910_MAIN_0200_0660_23_kre,ACTOR,Kyrie
+$C1910_MAIN_0200_0700_00_zax,,Sorry.
+$C1910_MAIN_0200_0700_00_zax,ACTOR,Zack
+$C1910_MAIN_0200_0700_05_kre,,
+$C1910_MAIN_0200_0700_05_kre,ACTOR,Kyrie
+$C1910_MAIN_0200_0710_00_zax,,"I’ll be right back, so keep an eye on this guy."
+$C1910_MAIN_0200_0710_00_zax,ACTOR,Zack
+$C1910_MAIN_0200_0710_05_mma,,
+$C1910_MAIN_0200_0710_05_mma,ACTOR,Slum Resident
+$C1910_MAIN_0200_0710_07_mma,,
+$C1910_MAIN_0200_0710_07_mma,ACTOR,Slum Resident
+$C1910_MAIN_0200_0800_00_zax,,My buddy’s got mako poisoning.
+$C1910_MAIN_0200_0800_00_zax,ACTOR,Zack
+$C1910_MAIN_0200_0800_01_kre,,
+$C1910_MAIN_0200_0800_01_kre,ACTOR,Kyrie
+$C1910_MAIN_0200_0800_05_mfa,,
+$C1910_MAIN_0200_0800_06_zax,,
+$C1910_MAIN_0200_0800_06_zax,ACTOR,Zack
+$C1910_MAIN_0200_0900_00_kre,,Hey!
+$C1910_MAIN_0200_0900_00_kre,ACTOR,Kyrie
+$C1910_MAIN_0200_0900_05_mma,,
+$C1910_MAIN_0300_0000_05_zax,,
+$C1910_MAIN_0300_0000_05_zax,ACTOR,Zack
+$C1910_MAIN_0300_0000_11_zax,,
+$C1910_MAIN_0300_0000_11_zax,ACTOR,Zack
+$C1910_MAIN_0300_0100_00_zax,,Aerith!
+$C1910_MAIN_0300_0100_00_zax,ACTOR,Zack
+$C1910_MAIN_0300_0100_05_zax,,
+$C1910_MAIN_0300_0100_05_zax,ACTOR,Zack
+$C1910_MAIN_0300_0100_11_skm,,
+$C1910_MAIN_0300_0100_13_skm,,
+$C1910_MAIN_0300_0200_00_zax,,
+$C1910_MAIN_0300_0200_00_zax,ACTOR,Zack
+$C1910_MAIN_0310_0100_00_skm,,Emergency request! Confirmed crash landing of an Avalanche transport.
+$C1910_MAIN_0310_0100_00_skm,ACTOR,Shinra Helicopter
+$C1910_MAIN_0310_0200_00_skm,,"All nearby units, head to the scene immediately. Do not let the perpetrators escape!"
+$C1910_MAIN_0310_0200_00_skm,ACTOR,Shinra Helicopter
+$C1910_MAIN_0310_0300_00_skm,,"One of the Avalanche members, a former SOLDIER carrying the Buster Sword,"
+$C1910_MAIN_0310_0300_00_skm,ACTOR,Shinra Helicopter
+$C1910_MAIN_0310_0310_00_skm,,may be hiding near the crash site.
+$C1910_MAIN_0310_0310_00_skm,ACTOR,Shinra Helicopter
+$C1910_MAIN_0310_0320_00_skm,,Stay vigilant.
+$C1910_MAIN_0310_0320_00_skm,ACTOR,Shinra Helicopter
+$C1910_MAIN_0310_0400_00_skm,,Prepare for a counterattack from Avalanche and their collaborators!
+$C1910_MAIN_0310_0400_00_skm,ACTOR,Shinra Helicopter
+$C1910_MAIN_0310_0500_00_skm,,Repeat——
+$C1910_MAIN_0310_0500_00_skm,ACTOR,Shinra Helicopter
+$C1910_MAIN_0320_0100_00_zax,,
+$C1910_MAIN_0320_0100_00_zax,ACTOR,Zack
+$C1910_MAIN_0400_0100_00_skm,,"Be careful, he might still put up a fight."
+$C1910_MAIN_0400_0100_00_skm,ACTOR,Security Guard
+$C1910_MAIN_0400_0200_00_skm,,Clear!
+$C1910_MAIN_0400_0200_00_skm,ACTOR,Security Guard
+$C1910_MAIN_0400_0300_00_skm,,"Alright, move her out."
+$C1910_MAIN_0400_0300_00_skm,ACTOR,Security Guard
+$C1910_MAIN_0400_0400_00_zax,,Get your hands off!
+$C1910_MAIN_0400_0400_00_zax,ACTOR,Zack
+$C1910_MAIN_0410_0100_00_skm,,"Look, the Buster Sword."
+$C1910_MAIN_0410_0100_00_skm,ACTOR,Security Guard
+$C1910_MAIN_0410_0200_00_skm,,Damn Avalanche!
+$C1910_MAIN_0410_0200_00_skm,ACTOR,Security Guard
+$C1910_MAIN_0410_0300_00_skm,,The recovery target is a female Ancient. Prioritize securing her.
+$C1910_MAIN_0410_0300_00_skm,ACTOR,Shinra Helicopter
+$C1910_MAIN_0410_0400_00_skm,,This is Unit 5 requesting backup! Engaging Avalanche at the transport crash site.
+$C1910_MAIN_0410_0400_00_skm,ACTOR,Shinra Helicopter
+$C1910_MAIN_0410_0500_00_skm,,"Crash site is near the Sector 5 slum gate. All units, head to the scene!"
+$C1910_MAIN_0410_0500_00_skm,ACTOR,Shinra Helicopter
+$C1910_MAIN_0410_0600_00_skm,,Repeat——
+$C1910_MAIN_0410_0600_00_skm,ACTOR,Shinra Helicopter
+$C1910_MAIN_0420_0050_00_skm,,Confirmed annihilation of the advance team!
+$C1910_MAIN_0420_0050_00_skm,ACTOR,Shinra Helicopter
+$C1910_MAIN_0420_0060_00_skm,,Deploying the second team. Requesting continued support.
+$C1910_MAIN_0420_0060_00_skm,ACTOR,Shinra Helicopter
+$C1910_MAIN_0420_0060_05_skm,,Let’s go!
+$C1910_MAIN_0420_0060_05_skm,ACTOR,Security Guard
+$C1910_MAIN_0420_0060_11_zax,,
+$C1910_MAIN_0420_0060_11_zax,ACTOR,Zack
+$C1910_MAIN_0420_0060_14_skm,,
+$C1910_MAIN_0420_0060_14_skm,ACTOR,Security Guard
+$C1910_MAIN_0420_0060_17_skm,,
+$C1910_MAIN_0420_0060_17_skm,ACTOR,Security Guard
+$C1910_MAIN_0420_0100_00_zax,,This is bad.
+$C1910_MAIN_0420_0100_00_zax,ACTOR,Zack
+$C1910_MAIN_0420_0100_05_skm,,
+$C1910_MAIN_0420_0100_05_skm,ACTOR,Security Guard
+$C1910_MAIN_0420_0100_08_skm,,
+$C1910_MAIN_0420_0100_08_skm,ACTOR,Security Guard
+$C1910_MAIN_0420_0200_00_skm,,To Avalanche: Cease resistance and surrender immediately.
+$C1910_MAIN_0420_0200_00_skm,ACTOR,Shinra Helicopter
+$C1910_MAIN_0420_0200_05_zax,,
+$C1910_MAIN_0420_0200_05_zax,ACTOR,Zack
+$C1910_MAIN_0420_0200_07_skm,,
+$C1910_MAIN_0420_0200_07_skm,ACTOR,Security Guard
+$C1910_MAIN_0420_0200_08_skm,,
+$C1910_MAIN_0420_0200_08_skm,ACTOR,Security Guard
+$C1910_MAIN_0420_0200_10_zax,,
+$C1910_MAIN_0420_0200_10_zax,ACTOR,Zack
+$C1910_MAIN_0420_0300_00_zax,,Shut up!
+$C1910_MAIN_0420_0300_00_zax,ACTOR,Zack
+$C1910_MAIN_0420_0400_00_skm,,What...!
+$C1910_MAIN_0420_0400_00_skm,ACTOR,Security Guard
+$C1910_MAIN_0420_0400_05_skm,,
+$C1910_MAIN_0420_0400_05_skm,ACTOR,Security Guard
+$C1910_MAIN_0420_0400_08_skm,,
+$C1910_MAIN_0420_0400_08_skm,ACTOR,Security Guard
+$C1910_MAIN_0420_0400_11_skm,,
+$C1910_MAIN_0420_0400_11_skm,ACTOR,Security Guard
+$C1910_MAIN_0420_0400_14_zax,,
+$C1910_MAIN_0420_0400_14_zax,ACTOR,Zack
+$C1910_MAIN_0420_0500_00_skm,,"Don’t falter, attack!"
+$C1910_MAIN_0420_0500_00_skm,ACTOR,Security Guard
+$C1910_MAIN_0420_0500_05_skm,,
+$C1910_MAIN_0420_0500_05_skm,ACTOR,Security Guard
+$C1910_MAIN_0420_0500_08_zax,,
+$C1910_MAIN_0420_0500_08_zax,ACTOR,Zack
+$C1910_MAIN_0500_0050_05_zax,,
+$C1910_MAIN_0500_0050_05_zax,ACTOR,Zack
+$C1910_MAIN_0500_0050_09_zax,,
+$C1910_MAIN_0500_0050_09_zax,ACTOR,Zack
+$C1910_MAIN_0500_0050_13_zax,,
+$C1910_MAIN_0500_0050_13_zax,ACTOR,Zack
+$C1910_MAIN_0500_0100_00_zax,,"Thanks, man."
+$C1910_MAIN_0500_0100_00_zax,ACTOR,Zack
+$C1910_MAIN_0500_0100_07_zax,,
+$C1910_MAIN_0500_0100_07_zax,ACTOR,Zack
+$C1910_MAIN_0500_0200_00_skm,,Where’s the Ancient!
+$C1910_MAIN_0500_0200_00_skm,ACTOR,Security Guard
+$C1910_MAIN_0500_0300_00_skm,,"If we don’t recover her, it’ll be a huge mess."
+$C1910_MAIN_0500_0300_00_skm,ACTOR,Security Guard
+$C1910_MAIN_0500_0400_00_skm,,"Don’t just stand there, search!"
+$C1910_MAIN_0500_0400_00_skm,ACTOR,Security Guard
+$C1910_MAIN_0500_0400_05_zax,,
+$C1910_MAIN_0500_0400_05_zax,ACTOR,Zack
+$C1910_MAIN_0500_0500_00_zax,,What’s this?
+$C1910_MAIN_0500_0500_00_zax,ACTOR,Zack
+$C1910_MAIN_0500_0600_00_zax,,What’s going on?
+$C1910_MAIN_0500_0600_00_zax,ACTOR,Zack
+$C1910_MAIN_0500_0600_05_zax,,
+$C1910_MAIN_0500_0600_05_zax,ACTOR,Zack
+$C1910_MAIN_0500_0700_00_zax,,"Aerith, I’m back, okay?"
+$C1910_MAIN_0500_0700_00_zax,ACTOR,Zack
+$C1910_MAIN_0500_0700_05_zax,,
+$C1910_MAIN_0500_0700_05_zax,ACTOR,Zack
+$C1910_MAIN_0500_0700_07_zax,,
+$C1910_MAIN_0500_0700_07_zax,ACTOR,Zack
+$C2510_MAIN_1600_0000_02_zax,,
+$C2510_MAIN_1600_0000_02_zax,ACTOR,Zack
+$C2510_MAIN_1600_0000_05_zax,,
+$C2510_MAIN_1600_0000_05_zax,ACTOR,Zack
+$C2510_MAIN_1600_0100_00_zax,,Huh?
+$C2510_MAIN_1600_0100_00_zax,ACTOR,Zack
+$C2510_MAIN_1600_0200_00_elm,,Open the door.
+$C2510_MAIN_1600_0200_00_elm,ACTOR,???
+$C2510_MAIN_1600_0200_05_zax,,
+$C2510_MAIN_1600_0200_05_zax,ACTOR,Zack
+$C2510_MAIN_1700_0000_03_elm,,
+$C2510_MAIN_1700_0000_03_elm,ACTOR,Elmyra
+$C2510_MAIN_1700_0000_05_zax,,
+$C2510_MAIN_1700_0000_05_zax,ACTOR,Zack
+$C2510_MAIN_1700_0100_00_zax,,Elmyra?
+$C2510_MAIN_1700_0100_00_zax,ACTOR,Zack
+$C2510_MAIN_1700_0200_00_elm,,"You’re Zack, right?"
+$C2510_MAIN_1700_0200_00_elm,ACTOR,Elmyra
+$C2510_MAIN_1700_0300_00_zax,,Yeah...
+$C2510_MAIN_1700_0300_00_zax,ACTOR,Zack
+$C2510_MAIN_1700_0300_03_elm,,
+$C2510_MAIN_1700_0300_03_elm,ACTOR,Elmyra
+$C2510_MAIN_1700_0300_05_zax,,
+$C2510_MAIN_1700_0300_05_zax,ACTOR,Zack
+$C2510_MAIN_1700_0400_00_elm,,Where’s Aerith?
+$C2510_MAIN_1700_0400_00_elm,ACTOR,Elmyra
+$C2510_MAIN_1700_0500_00_zax,,Upstairs...
+$C2510_MAIN_1700_0500_00_zax,ACTOR,Zack
+$C2510_MAIN_1700_0500_05_elm,,
+$C2510_MAIN_1700_0500_05_elm,ACTOR,Elmyra
+$C2510_MAIN_1800_0100_00_elm,,I’ll take her home with me.
+$C2510_MAIN_1800_0100_00_elm,ACTOR,Elmyra
+$C2510_MAIN_1800_0200_00_zax,,That house is being watched by Shinra. I’ve checked it out a few times.
+$C2510_MAIN_1800_0200_00_zax,ACTOR,Zack
+$C2510_MAIN_1800_0300_00_elm,,They’re gone now. I guess they’ve got bigger things to deal with.
+$C2510_MAIN_1800_0300_00_elm,ACTOR,Elmyra
+$C2510_MAIN_1800_0400_00_zax,,But...
+$C2510_MAIN_1800_0400_00_zax,ACTOR,Zack
+$C2510_MAIN_1800_0500_00_elm,,"You can’t take care of her, can you?"
+$C2510_MAIN_1800_0500_00_elm,ACTOR,Elmyra
+$C2510_MAIN_1800_0600_00_zax,,"No, that’s not true! I’ve been looking after Cloud this whole——"
+$C2510_MAIN_1800_0600_00_zax,ACTOR,Zack
+$C2510_MAIN_1800_0700_00_elm,,You haven’t!
+$C2510_MAIN_1800_0700_00_elm,ACTOR,Elmyra
+$C2510_MAIN_1800_0710_00_elm,,Look at Aerith’s skin.
+$C2510_MAIN_1800_0710_00_elm,ACTOR,Elmyra
+$C2510_MAIN_1800_0800_00_elm,,"It’s all dry, and this dirt!"
+$C2510_MAIN_1800_0800_00_elm,ACTOR,Elmyra
+$C2510_MAIN_1800_0800_05_zax,,
+$C2510_MAIN_1800_0800_05_zax,ACTOR,Zack
+$C2510_MAIN_1800_0900_00_elm,,Sorry.
+$C2510_MAIN_1800_0900_00_elm,ACTOR,Elmyra
+$C2510_MAIN_1800_1000_00_elm,,"I prepared myself after seeing the note, but seeing her like this still hits hard."
+$C2510_MAIN_1800_1000_00_elm,ACTOR,Elmyra
+$C2510_MAIN_1800_1000_05_elm,,
+$C2510_MAIN_1800_1000_05_elm,ACTOR,Elmyra
+$C2510_MAIN_1800_1100_00_zax,,Yeah...
+$C2510_MAIN_1800_1100_00_zax,ACTOR,Zack
+$C2510_MAIN_1800_1100_05_elm,,
+$C2510_MAIN_1800_1100_05_elm,ACTOR,Elmyra
+$C2510_MAIN_1800_1200_00_elm,,I borrowed a wheelchair for Aerith. You carry Cloud on your back.
+$C2510_MAIN_1800_1200_00_elm,ACTOR,Elmyra
+$C2510_MAIN_1800_1300_00_elm,,"That’ll work, right?"
+$C2510_MAIN_1800_1300_00_elm,ACTOR,Elmyra
+$C2510_MAIN_1800_1400_00_zax,,"Yeah, I think so."
+$C2510_MAIN_1800_1400_00_zax,ACTOR,Zack
+$C2510_MAIN_1800_1500_00_zax,,That’s Aerith’s.
+$C2510_MAIN_1800_1500_00_zax,ACTOR,Zack
+$C2510_MAIN_1800_1600_00_elm,,"Yeah, I know."
+$C2510_MAIN_1800_1600_00_elm,ACTOR,Elmyra
+$C2510_MAIN_1900_0100_00_mug,,"Huh, Aerith?"
+$C2510_MAIN_1900_0100_00_mug,ACTOR,Mugi
+$C2510_MAIN_1900_0200_00_mug,,What’s wrong?
+$C2510_MAIN_1900_0200_00_mug,ACTOR,Mugi
+$C2510_MAIN_1900_0200_05_elm,,
+$C2510_MAIN_1900_0200_05_elm,ACTOR,Elmyra
+$C2510_MAIN_1900_0300_00_mug,,Aerith...Aerith!
+$C2510_MAIN_1900_0300_00_mug,ACTOR,Mugi
+$C2510_MAIN_1900_0300_05_mug,,
+$C2510_MAIN_1900_0300_05_mug,ACTOR,Mugi
+$C2510_MAIN_1900_0300_08_mug,,
+$C2510_MAIN_1900_0300_08_mug,ACTOR,Mugi
+$C2510_MAIN_1900_0300_11_zax,,
+$C2510_MAIN_1900_0300_11_zax,ACTOR,Zack
+$C2510_MAIN_1900_0400_00_zax,,"Hey, Elmyra."
+$C2510_MAIN_1900_0400_00_zax,ACTOR,Zack
+$C2510_MAIN_1900_0500_00_elm,,What is it?
+$C2510_MAIN_1900_0500_00_elm,ACTOR,Elmyra
+$C2510_MAIN_1900_0600_00_zax,,What’s happening?
+$C2510_MAIN_1900_0600_00_zax,ACTOR,Zack
+$C2510_MAIN_1900_0600_05_zax,,
+$C2510_MAIN_1900_0600_05_zax,ACTOR,Zack
+$C2510_MAIN_1900_0700_00_elm,,The world’s ending.
+$C2510_MAIN_1900_0700_00_elm,ACTOR,Elmyra
+$C2510_MAIN_1900_0700_05_zax,,
+$C2510_MAIN_1900_0700_05_zax,ACTOR,Zack
+$C2510_MAIN_1900_0710_00_elm,,That’s what everyone’s saying.
+$C2510_MAIN_1900_0710_00_elm,ACTOR,Elmyra
+$C2610_MAIN_3000_0100_00_zax,,"Sorry, I couldn’t do anything for you."
+$C2610_MAIN_3000_0100_00_zax,ACTOR,Zack
+$C2610_MAIN_3000_0200_00_zax,,Didn’t know you were such a bookworm.
+$C2610_MAIN_3000_0200_00_zax,ACTOR,Zack
+$C2610_MAIN_3000_0300_00_zax,,"Materia, huh? Weird color."
+$C2610_MAIN_3000_0300_00_zax,ACTOR,Zack
+$C2610_MAIN_3200_0000_05_elm,,
+$C2610_MAIN_3200_0000_05_elm,ACTOR,Elmyra
+$C2610_MAIN_3200_0000_09_elm,,
+$C2610_MAIN_3200_0000_09_elm,ACTOR,Elmyra
+$C2610_MAIN_3200_0100_00_elm,,Want some too?
+$C2610_MAIN_3200_0100_00_elm,ACTOR,Elmyra
+$C2610_MAIN_3200_0200_00_zax,,"Yeah, yeah!"
+$C2610_MAIN_3200_0200_00_zax,ACTOR,Zack
+$C2610_MAIN_3200_0200_05_zax,,
+$C2610_MAIN_3200_0200_05_zax,ACTOR,Zack
+$C2610_MAIN_3200_0300_00_mrn,,"Say ""Thanks for the food."""
+$C2610_MAIN_3200_0300_00_mrn,ACTOR,Marlene
+$C2610_MAIN_3200_0400_00_zax,,"Yes, yes!"
+$C2610_MAIN_3200_0400_00_zax,ACTOR,Zack
+$C2610_MAIN_3200_0500_00_mrn,,"""Yes"" is just once!"
+$C2610_MAIN_3200_0500_00_mrn,ACTOR,Marlene
+$C2610_MAIN_3200_0500_05_zax,,
+$C2610_MAIN_3200_0500_05_zax,ACTOR,Zack
+$C2610_MAIN_3200_0600_00_zax,,Yes!
+$C2610_MAIN_3200_0600_00_zax,ACTOR,Zack
+$C2610_MAIN_3200_0600_05_zax,,
+$C2610_MAIN_3200_0600_05_zax,ACTOR,Zack
+$C2610_MAIN_3200_0700_00_zax,,"Last night, there was someone outside the house, right?"
+$C2610_MAIN_3200_0700_00_zax,ACTOR,Zack
+$C2610_MAIN_3200_0800_00_elm,,"Yeah, that was Biggs."
+$C2610_MAIN_3200_0800_00_elm,ACTOR,Elmyra
+$C2610_MAIN_3200_0810_00_elm,,He brought us some food.
+$C2610_MAIN_3200_0810_00_elm,ACTOR,Elmyra
+$C2610_MAIN_3200_0900_00_zax,,"He was kinda sneaking around, though."
+$C2610_MAIN_3200_0900_00_zax,ACTOR,Zack
+$C2610_MAIN_3200_1000_00_elm,,"Wanted posters with his face are plastered everywhere, you know? That’s probably why."
+$C2610_MAIN_3200_1000_00_elm,ACTOR,Elmyra
+$C2610_MAIN_3300_0100_00_big,,
+$C2610_MAIN_3300_0100_00_big,ACTOR,Biggs
+$C2610_MAIN_3300_0200_00_big,,
+$C2610_MAIN_3300_0200_00_big,ACTOR,Biggs
+$C2610_MAIN_3400_0100_00_zax,,What’s the connection?
+$C2610_MAIN_3400_0100_00_zax,ACTOR,Zack
+$C2610_MAIN_3400_0200_00_elm,,Ask him yourself.
+$C2610_MAIN_3400_0200_00_elm,ACTOR,Elmyra
+$C2610_MAIN_3400_0210_00_elm,,"As long as Marlene’s here, he’ll come back."
+$C2610_MAIN_3400_0210_00_elm,ACTOR,Elmyra
+$C2610_MAIN_3400_0300_00_mrn,,He won’t.
+$C2610_MAIN_3400_0300_00_mrn,ACTOR,Marlene
+$C2610_MAIN_3400_0300_06_elm,,
+$C2610_MAIN_3400_0300_06_elm,ACTOR,Elmyra
+$C2610_MAIN_3400_0400_00_mrn,,Biggs isn’t coming back. ‘Cause Daddy and Tifa haven’t come back either!
+$C2610_MAIN_3400_0400_00_mrn,ACTOR,Marlene
+$C2610_MAIN_3400_0500_00_mrn,,So Biggs isn’t coming back either.
+$C2610_MAIN_3400_0500_00_mrn,ACTOR,Marlene
+$C2610_MAIN_3400_0500_05_elm,,
+$C2610_MAIN_3400_0500_05_elm,ACTOR,Elmyra
+$C2610_MAIN_3400_0600_00_zax,,Then I’ll go find Biggs.
+$C2610_MAIN_3400_0600_00_zax,ACTOR,Zack
+$C2610_MAIN_3400_0610_00_zax,,And bring him back!
+$C2610_MAIN_3400_0610_00_zax,ACTOR,Zack
+$C2610_MAIN_3400_0610_05_mrn,,
+$C2610_MAIN_3400_0610_05_mrn,ACTOR,Marlene
+$C2610_MAIN_3400_0700_00_mrn,,Really?
+$C2610_MAIN_3400_0700_00_mrn,ACTOR,Marlene
+$C2610_MAIN_3400_0800_00_zax,,"Really, really!"
+$C2610_MAIN_3400_0800_00_zax,ACTOR,Zack
+$C2610_MAIN_3400_0810_00_zax,,"One ""really"" is enough, right?"
+$C2610_MAIN_3400_0810_00_zax,ACTOR,Zack
+$C2610_MAIN_3400_0900_00_mrn,,"No, you can say it more!"
+$C2610_MAIN_3400_0900_00_mrn,ACTOR,Marlene
+$C2610_MAIN_3400_0900_05_zax,,
+$C2610_MAIN_3400_0900_05_zax,ACTOR,Zack
+$C2610_MAIN_3400_1000_00_zax,,"Really, really!"
+$C2610_MAIN_3400_1000_00_zax,ACTOR,Zack
+$C2710_MAIN_0300_0000_02_zax,,
+$C2710_MAIN_0300_0000_02_zax,ACTOR,Zack
+$C2710_MAIN_0300_0000_05_zax,,
+$C2710_MAIN_0300_0000_05_zax,ACTOR,Zack
+$C2710_MAIN_0300_0100_00_zax,,Looks good.
+$C2710_MAIN_0300_0100_00_zax,ACTOR,Zack
+$C2710_MAIN_0400_0100_00_zax,,"Hey, do you know this guy in the photo?"
+$C2710_MAIN_0400_0100_00_zax,ACTOR,Zack
+$C2710_MAIN_0400_0110_00_zax,,Have you seen this guy somewhere?
+$C2710_MAIN_0400_0110_00_zax,ACTOR,Zack
+$C2710_MAIN_0400_0120_00_zax,,This man—does he look familiar?
+$C2710_MAIN_0400_0120_00_zax,ACTOR,Zack
+$C2710_MAIN_0400_0130_00_zax,,Know this guy?
+$C2710_MAIN_0400_0130_00_zax,ACTOR,Zack
+$C2710_MAIN_0400_0200_00_mfa,,"Sorry, don’t know him."
+$C2710_MAIN_0400_0200_00_mfa,ACTOR,Slum Resident
+$C2710_MAIN_0400_0300_00_mma,,No idea.
+$C2710_MAIN_0400_0300_00_mma,ACTOR,Slum Resident
+$C2710_MAIN_0400_0400_00_mma,,Don’t know.
+$C2710_MAIN_0400_0400_00_mma,ACTOR,Slum Resident
+$C2710_MAIN_0400_0500_00_mfa,,"Sorry, I don’t recognize him."
+$C2710_MAIN_0400_0500_00_mfa,ACTOR,Slum Resident
+$C2710_MAIN_0400_0600_00_mmk,,Who’s that?
+$C2710_MAIN_0400_0600_00_mmk,ACTOR,Slum Resident
+$C2710_MAIN_0400_0700_00_mfk,,Sorry.
+$C2710_MAIN_0400_0700_00_mfk,ACTOR,Slum Resident
+$C2710_MAIN_0500_0100_00_zax,,
+$C2710_MAIN_0500_0100_00_zax,ACTOR,Zack
+$C2710_MAIN_0500_0200_00_mma,,"Hey, Avalanche again?"
+$C2710_MAIN_0500_0200_00_mma,ACTOR,Slum Resident
+$C2710_MAIN_0500_0300_00_mma,,Maybe.
+$C2710_MAIN_0500_0300_00_mma,ACTOR,Slum Resident
+$C2710_MAIN_0500_0400_00_zax,,Gotta go!
+$C2710_MAIN_0500_0400_00_zax,ACTOR,Zack
+$C2710_MAIN_0600_0000_05_zax,,
+$C2710_MAIN_0600_0000_05_zax,ACTOR,Zack
+$C2710_MAIN_0600_0100_00_zax,,
+$C2710_MAIN_0600_0100_00_zax,ACTOR,Zack
+$C2710_MAIN_0600_0100_05_zax,,
+$C2710_MAIN_0600_0100_05_zax,ACTOR,Zack
+$C2710_MAIN_0600_0200_00_zax,,Found you!
+$C2710_MAIN_0600_0200_00_zax,ACTOR,Zack
+$C3010_MAIN_0200_0100_00_big,,"And then, I felt blood flowing from all over my body."
+$C3010_MAIN_0200_0100_00_big,ACTOR,Biggs
+$C3010_MAIN_0200_0200_00_big,,I thought I’d die when I stopped feeling anything.
+$C3010_MAIN_0200_0200_00_big,ACTOR,Biggs
+$C3010_MAIN_0200_0300_00_big,,But that didn’t happen.
+$C3010_MAIN_0200_0300_00_big,ACTOR,Biggs
+$C3010_MAIN_0300_0100_00_big,,I think there was a strong wind blowing.
+$C3010_MAIN_0300_0100_00_big,ACTOR,Biggs
+$C3010_MAIN_0300_0200_00_big,,And it felt like my consciousness was being peeled away from my body.
+$C3010_MAIN_0300_0200_00_big,ACTOR,Biggs
+$C3010_MAIN_0400_0000_05_big,,
+$C3010_MAIN_0400_0000_05_big,ACTOR,Biggs
+$C3010_MAIN_0400_0100_00_big,,"When I came to, I was lying in the orphanage."
+$C3010_MAIN_0400_0100_00_big,ACTOR,Biggs
+$C3010_MAIN_0400_0200_00_big,,No one knows who found me or who brought me there.
+$C3010_MAIN_0400_0200_00_big,ACTOR,Biggs
+$C3010_MAIN_0400_0300_00_zax,,"Same here, more or less."
+$C3010_MAIN_0400_0300_00_zax,ACTOR,Zack
+$C3010_MAIN_0400_0400_00_zax,,"I was up against an army, like, seriously."
+$C3010_MAIN_0400_0400_00_zax,ACTOR,Zack
+$C3010_MAIN_0500_0100_00_zax,,It hurt like hell.
+$C3010_MAIN_0500_0100_00_zax,ACTOR,Zack
+$C3010_MAIN_0500_0200_00_zax,,"Yeah, there was definitely a wind blowing."
+$C3010_MAIN_0500_0200_00_zax,ACTOR,Zack
+$C3010_MAIN_0600_0100_00_zax,,I was shocked when I realized I was standing.
+$C3010_MAIN_0600_0100_00_zax,ACTOR,Zack
+$C3010_MAIN_0600_0200_00_big,,"It doesn’t make sense, does it?"
+$C3010_MAIN_0600_0200_00_big,ACTOR,Biggs
+$C3010_MAIN_0600_0300_00_big,,Surviving only to end up in a world like this.
+$C3010_MAIN_0600_0300_00_big,ACTOR,Biggs
+$C3010_MAIN_0600_0310_00_big,,And besides...
+$C3010_MAIN_0600_0310_00_big,ACTOR,Biggs
+$C3010_MAIN_0600_0400_00_big,,Why was I the one to survive?
+$C3010_MAIN_0600_0400_00_big,ACTOR,Biggs
+$C3010_MAIN_0600_0500_00_zax,,What do you mean?
+$C3010_MAIN_0600_0500_00_zax,ACTOR,Zack
+$C3010_MAIN_0600_0500_05_big,,
+$C3010_MAIN_0600_0500_05_big,ACTOR,Biggs
+$C3010_MAIN_0600_0600_00_big,,I can’t help but think about it.
+$C3010_MAIN_0600_0600_00_big,ACTOR,Biggs
+$C3010_MAIN_0600_0700_00_big,,Why was I the one left behind among all those members?
+$C3010_MAIN_0600_0700_00_big,ACTOR,Biggs
+$C3010_MAIN_0600_0800_00_big,,What would they want from me if they were here?
+$C3010_MAIN_0600_0800_00_big,ACTOR,Biggs
+$C3010_MAIN_0600_0900_00_zax,,"Yeah, you think about that stuff."
+$C3010_MAIN_0600_0900_00_zax,ACTOR,Zack
+$C3010_MAIN_0600_0900_05_big,,
+$C3010_MAIN_0600_0900_05_big,ACTOR,Biggs
+$C3010_MAIN_0600_1000_00_big,,Bear with me for a bit.
+$C3010_MAIN_0600_1000_00_big,ACTOR,Biggs
+$C3010_MAIN_0600_1100_00_zax,,"Sure, what is it?"
+$C3010_MAIN_0600_1100_00_zax,ACTOR,Zack
+$C3010_MAIN_0600_1200_00_big,,I’ll talk while we walk.
+$C3010_MAIN_0600_1200_00_big,ACTOR,Biggs
+$C3010_MAIN_0700_0100_00_big,,"So, how’s Cloud doing?"
+$C3010_MAIN_0700_0100_00_big,ACTOR,Biggs
+$C3010_MAIN_0700_0200_00_zax,,Severe mako poisoning. No signs of recovery yet.
+$C3010_MAIN_0700_0200_00_zax,ACTOR,Zack
+$C3010_MAIN_0700_0300_00_zax,,"I’ll ask around, though."
+$C3010_MAIN_0700_0300_00_zax,ACTOR,Zack
+$C3010_MAIN_0700_0400_00_big,,I see.
+$C3010_MAIN_0700_0400_00_big,ACTOR,Biggs
+$C3010_MAIN_0700_0500_00_big,,"When he gets better, he’ll probably brag about it."
+$C3010_MAIN_0700_0500_00_big,ACTOR,Biggs
+$C3010_MAIN_0700_0600_00_big,,"Like, ""I came back from mako poisoning."""
+$C3010_MAIN_0700_0600_00_big,ACTOR,Biggs
+$C3010_MAIN_0700_0700_00_zax,,Is Cloud that kind of guy?
+$C3010_MAIN_0700_0700_00_zax,ACTOR,Zack
+$C3010_MAIN_0700_0800_00_big,,He’s desperate to make himself look valuable.
+$C3010_MAIN_0700_0800_00_big,ACTOR,Biggs
+$C3010_MAIN_0700_0900_00_big,,Even though we already respected him without all that.
+$C3010_MAIN_0700_0900_00_big,ACTOR,Biggs
+$C3010_MAIN_0700_1000_00_zax,,Huh...
+$C3010_MAIN_0700_1000_00_zax,ACTOR,Zack
+$C3010_MAIN_0700_1100_00_big,,"Hey, Zack, why don’t you try being a jack-of-all-trades?"
+$C3010_MAIN_0700_1100_00_big,ACTOR,Biggs
+$C3010_MAIN_0700_1200_00_zax,,Jack-of-all-trades?
+$C3010_MAIN_0700_1200_00_zax,ACTOR,Zack
+$C3010_MAIN_0700_1300_00_big,,There’s quite a demand for it.
+$C3010_MAIN_0700_1300_00_big,ACTOR,Biggs
+$C3010_MAIN_0700_1400_00_zax,,I’ll think about it.
+$C3010_MAIN_0700_1400_00_zax,ACTOR,Zack
+$C3010_MAIN_0800_0100_00_big,,Look at this.
+$C3010_MAIN_0800_0100_00_big,ACTOR,Biggs
+$C3010_MAIN_0800_0100_05_zax,,
+$C3010_MAIN_0800_0100_05_zax,ACTOR,Zack
+$C3010_MAIN_0800_0200_00_zax,,Let’s see...what’s this...
+$C3010_MAIN_0800_0200_00_zax,ACTOR,Zack
+$C3010_MAIN_0800_0300_00_zax,,"""The destruction of Sector 7 was Shinra’s own doing. We can’t overlook Shinra’s tyranny."""
+$C3010_MAIN_0800_0300_00_zax,ACTOR,Zack
+$C3010_MAIN_0800_0400_00_zax,,"""Let’s show them the people’s anger! New Avalanche recruiting members."""
+$C3010_MAIN_0800_0400_00_zax,ACTOR,Zack
+$C3010_MAIN_0800_0500_00_zax,,"Those interested, wait at the outdoor meeting place."
+$C3010_MAIN_0800_0500_00_zax,ACTOR,Zack
+$C3010_MAIN_0800_0600_00_zax,,"Wow, bold."
+$C3010_MAIN_0800_0600_00_zax,ACTOR,Zack
+$C3010_MAIN_0800_0700_00_big,,Right?
+$C3010_MAIN_0800_0700_00_big,ACTOR,Biggs
+$C3010_MAIN_0800_0800_00_zax,,"Shinra’s gonna know about this. Even if people show up, they’ll all get caught."
+$C3010_MAIN_0800_0800_00_zax,ACTOR,Zack
+$C3010_MAIN_0800_0900_00_big,,Shinra won’t bother catching them.
+$C3010_MAIN_0800_0900_00_big,ACTOR,Biggs
+$C3010_MAIN_0800_0910_00_big,,They’ll just shoot them on sight.
+$C3010_MAIN_0800_0910_00_big,ACTOR,Biggs
+$C3010_MAIN_0800_1000_00_zax,,Then all the more reason.
+$C3010_MAIN_0800_1000_00_zax,ACTOR,Zack
+$C3010_MAIN_0800_1100_00_big,,But Avalanche needs...
+$C3010_MAIN_0800_1100_00_big,ACTOR,Biggs
+$C3010_MAIN_0800_1200_00_big,,idiots who don’t care about that.
+$C3010_MAIN_0800_1200_00_big,ACTOR,Biggs
+$C3010_MAIN_0800_1300_00_zax,,Hey!
+$C3010_MAIN_0800_1300_00_zax,ACTOR,Zack
+$C3010_MAIN_0800_1310_00_zax,,"You’re not thinking of going, are you?"
+$C3010_MAIN_0800_1310_00_zax,ACTOR,Zack
+$C3010_MAIN_0800_1400_00_zax,,"Ah, come on!"
+$C3010_MAIN_0800_1400_00_zax,ACTOR,Zack
+$C3010_MAIN_0900_0100_00_big,,Have you ever thought about the purpose or meaning of life?
+$C3010_MAIN_0900_0100_00_big,ACTOR,Biggs
+$C3010_MAIN_0900_0200_00_zax,,"I guess...yeah, I think about it a lot."
+$C3010_MAIN_0900_0200_00_zax,ACTOR,Zack
+$C3010_MAIN_0900_0300_00_big,,You don’t look the type.
+$C3010_MAIN_0900_0300_00_big,ACTOR,Biggs
+$C3010_MAIN_0900_0400_00_zax,,"Since joining Shinra, a lot’s happened. Like, a whole lot."
+$C3010_MAIN_0900_0400_00_zax,ACTOR,Zack
+$C3010_MAIN_0900_0500_00_big,,"I’ve been thinking ever since I woke up. Thanks to that, I’m self-critical every day."
+$C3010_MAIN_0900_0500_00_big,ACTOR,Biggs
+$C3010_MAIN_1000_0100_00_zax,,"Hey, Biggs."
+$C3010_MAIN_1000_0100_00_zax,ACTOR,Zack
+$C3010_MAIN_1000_0110_00_zax,,You said earlier that there’s demand for a jack-of-all-trades.
+$C3010_MAIN_1000_0110_00_zax,ACTOR,Zack
+$C3010_MAIN_1000_0200_00_big,,Yeah.
+$C3010_MAIN_1000_0200_00_big,ACTOR,Biggs
+$C3010_MAIN_1000_0300_00_zax,,Is someone already doing that?
+$C3010_MAIN_1000_0300_00_zax,ACTOR,Zack
+$C3010_MAIN_1000_0400_00_big,,"Of course, it’s Cloud. Are you really his friend?"
+$C3010_MAIN_1000_0400_00_big,ACTOR,Biggs
+$C3010_MAIN_1000_0500_00_zax,,When did you meet Cloud?
+$C3010_MAIN_1000_0500_00_zax,ACTOR,Zack
+$C3010_MAIN_1000_0600_00_big,,That was the day before the operation...
+$C3010_MAIN_1000_0600_00_big,ACTOR,Biggs
+$C3010_MAIN_1000_0700_00_big,,"Wait, how many days ago was that?"
+$C3010_MAIN_1000_0700_00_big,ACTOR,Biggs
+$C3010_MAIN_1000_0800_00_big,,I’ve lost my sense of time.
+$C3010_MAIN_1000_0800_00_big,ACTOR,Biggs
+$C3010_MAIN_1000_0900_00_zax,,Me too. What’s up with that?
+$C3010_MAIN_1000_0900_00_zax,ACTOR,Zack
+$C3010_MAIN_1000_1000_00_big,,Don’t ask me.
+$C3010_MAIN_1000_1000_00_big,ACTOR,Biggs
+$C3010_MAIN_1100_0100_00_big,,"You see, I..."
+$C3010_MAIN_1100_0100_00_big,ACTOR,Biggs
+$C3010_MAIN_1100_0200_00_zax,,Yeah?
+$C3010_MAIN_1100_0200_00_zax,ACTOR,Zack
+$C3010_MAIN_1100_0300_00_big,,I like being second or third. It’s comfortable.
+$C3010_MAIN_1100_0300_00_big,ACTOR,Biggs
+$C3010_MAIN_1100_0400_00_zax,,Uh-huh.
+$C3010_MAIN_1100_0400_00_zax,ACTOR,Zack
+$C3010_MAIN_1100_0500_00_big,,"Rather than deciding whether to do something, I prefer thinking about how to do it."
+$C3010_MAIN_1100_0500_00_big,ACTOR,Biggs
+$C3010_MAIN_1100_0600_00_zax,,That’s fine.
+$C3010_MAIN_1100_0600_00_zax,ACTOR,Zack
+$C3010_MAIN_1100_0700_00_big,,"So, why was someone like me left behind? That’s what it comes back to."
+$C3010_MAIN_1100_0700_00_big,ACTOR,Biggs
+$C3010_MAIN_1100_0800_00_zax,,Maybe your nature is needed.
+$C3010_MAIN_1100_0800_00_zax,ACTOR,Zack
+$C3010_MAIN_1100_0900_00_big,,Who needs it?
+$C3010_MAIN_1100_0900_00_big,ACTOR,Biggs
+$C3010_MAIN_1100_1000_00_zax,,"Well, whoever caused that wind?"
+$C3010_MAIN_1100_1000_00_zax,ACTOR,Zack
+$C3010_MAIN_1100_1100_00_big,,I wonder who caused that wind.
+$C3010_MAIN_1100_1100_00_big,ACTOR,Biggs
+$C3010_MAIN_1100_1200_00_zax,,Don’t ask me.
+$C3010_MAIN_1100_1200_00_zax,ACTOR,Zack
+$C3010_MAIN_1200_0100_00_big,,We’re almost there. Be careful.
+$C3010_MAIN_1200_0100_00_big,ACTOR,Biggs
+$C3010_MAIN_1200_0200_00_zax,,Got it.
+$C3010_MAIN_1200_0200_00_zax,ACTOR,Zack
+$C3010_MAIN_1300_0100_00_zax,,No one’s here.
+$C3010_MAIN_1300_0100_00_zax,ACTOR,Zack
+$C3010_MAIN_1300_0200_00_big,,It’s almost refreshing.
+$C3010_MAIN_1300_0200_00_big,ACTOR,Biggs
+$C3010_MAIN_1300_0300_00_zax,,"Well, lucky there’s no Shinra around."
+$C3010_MAIN_1300_0300_00_zax,ACTOR,Zack
+$C3010_MAIN_1300_0300_05_zax,,
+$C3010_MAIN_1300_0300_05_zax,ACTOR,Zack
+$C3010_MAIN_1300_0300_07_big,,
+$C3010_MAIN_1300_0300_07_big,ACTOR,Biggs
+$C3010_MAIN_1300_0400_00_zax,,Who’s there!
+$C3010_MAIN_1300_0400_00_zax,ACTOR,Zack
+$C3010_MAIN_1300_0400_05_kre,,
+$C3010_MAIN_1300_0400_05_kre,ACTOR,Kyrie
+$C3010_MAIN_1300_0400_08_kre,,
+$C3010_MAIN_1300_0400_08_kre,ACTOR,Kyrie
+$C3010_MAIN_1300_0500_00_zax,,"Wait, an applicant?"
+$C3010_MAIN_1300_0500_00_zax,ACTOR,Zack
+$C3010_MAIN_1300_0600_00_kre,,Huh? No way!
+$C3010_MAIN_1300_0600_00_kre,ACTOR,Kyrie
+$C3010_MAIN_1300_0700_00_kre,,I just wanted to see the faces of the idiots who’d show up for such a sloppy poster.
+$C3010_MAIN_1300_0700_00_kre,ACTOR,Kyrie
+$C3010_MAIN_1300_0800_00_kre,,"But too bad, looks like I missed out."
+$C3010_MAIN_1300_0800_00_kre,ACTOR,Kyrie
+$C3010_MAIN_1300_0900_00_kre,,
+$C3010_MAIN_1300_0900_00_kre,ACTOR,Kyrie
+$C3010_MAIN_1300_1000_00_kre,,"Well, I’m off."
+$C3010_MAIN_1300_1000_00_kre,ACTOR,Kyrie
+$C3010_MAIN_1300_1100_00_big,,
+$C3010_MAIN_1300_1100_00_big,ACTOR,Biggs
+$C3010_MAIN_1300_1110_00_big,,Looks like this wasn’t my mission.
+$C3010_MAIN_1300_1110_00_big,ACTOR,Biggs
+$C3010_MAIN_1300_1200_00_big,,It was meaningless. I wasn’t chosen...
+$C3010_MAIN_1300_1200_00_big,ACTOR,Biggs
+$C3010_MAIN_1300_1300_00_zax,,
+$C3010_MAIN_1300_1300_00_zax,ACTOR,Zack
+$C3010_MAIN_1300_1400_00_big,,Sorry for dragging you into this.
+$C3010_MAIN_1300_1400_00_big,ACTOR,Biggs
+$C3010_MAIN_1600_0100_00_zax,,Biggs!
+$C3010_MAIN_1600_0100_00_zax,ACTOR,Zack
+$C3010_MAIN_1600_0100_05_big,,
+$C3010_MAIN_1600_0100_05_big,ACTOR,Biggs
+$C3010_MAIN_1600_0200_00_zax,,Let’s find something.
+$C3010_MAIN_1600_0200_00_zax,ACTOR,Zack
+$C3010_MAIN_1600_0300_00_zax,,Who said the world is ending?
+$C3010_MAIN_1600_0300_00_zax,ACTOR,Zack
+$C3010_MAIN_1600_0400_00_zax,,Something’s off. Why is everyone just accepting it?
+$C3010_MAIN_1600_0400_00_zax,ACTOR,Zack
+$C3010_MAIN_1600_0500_00_zax,,We can’t let it stay like this!
+$C3010_MAIN_1600_0500_00_zax,ACTOR,Zack
+$C3010_MAIN_1600_0500_05_zax,,
+$C3010_MAIN_1600_0500_05_zax,ACTOR,Zack
+$C3010_MAIN_1600_0600_00_zax,,"Let’s look for something, find something."
+$C3010_MAIN_1600_0600_00_zax,ACTOR,Zack
+$C3010_MAIN_1600_0600_05_big,,
+$C3010_MAIN_1600_0600_05_big,ACTOR,Biggs
+$C3010_MAIN_1600_0700_00_zax,,"I don’t know what yet, but..."
+$C3010_MAIN_1600_0700_00_zax,ACTOR,Zack
+$C3010_MAIN_1600_0800_00_zax,,Like dreams or hope.
+$C3010_MAIN_1600_0800_00_zax,ACTOR,Zack
+$C3010_MAIN_1600_0900_00_zax,,Find those and hold onto them tight.
+$C3010_MAIN_1600_0900_00_zax,ACTOR,Zack
+$C3010_MAIN_1600_1000_00_big,,Tight?
+$C3010_MAIN_1600_1000_00_big,ACTOR,Biggs
+$C3010_MAIN_1600_1100_00_zax,,"Yeah, or really tight!"
+$C3010_MAIN_1600_1100_00_zax,ACTOR,Zack
+$C3010_MAIN_1600_1100_05_big,,
+$C3010_MAIN_1600_1100_05_big,ACTOR,Biggs
+$C3010_MAIN_1600_1200_00_big,,You’re a good guy.
+$C3010_MAIN_1600_1200_00_big,ACTOR,Biggs
+$C3010_MAIN_1600_1200_05_big,,
+$C3010_MAIN_1600_1200_05_big,ACTOR,Biggs
+$C3010_MAIN_1600_1300_00_big,,I’ll think about it.
+$C3010_MAIN_1600_1300_00_big,ACTOR,Biggs
+$C3010_MAIN_1600_1300_05_zax,,
+$C3010_MAIN_1600_1300_05_zax,ACTOR,Zack
+$C3010_MAIN_1600_1400_00_big,,See you then. I’ll visit Cloud sometime.
+$C3010_MAIN_1600_1400_00_big,ACTOR,Biggs
+$C3010_MAIN_1600_1500_00_zax,,Yeah!
+$C3010_MAIN_1600_1500_00_zax,ACTOR,Zack
+$C3010_MAIN_1600_1600_00_zax,,Make sure you think about it.
+$C3010_MAIN_1600_1600_00_zax,ACTOR,Zack
+$C3010_MAIN_1600_1600_05_zax,,
+$C3010_MAIN_1600_1600_05_zax,ACTOR,Zack
+$C3010_MAIN_1600_1700_00_zax,,Guess I’ll head home.
+$C3010_MAIN_1600_1700_00_zax,ACTOR,Zack
+$C3010_MAIN_1600_1700_05_zax,,
+$C3010_MAIN_1600_1700_05_zax,ACTOR,Zack
+$C3010_MAIN_1600_1800_00_zax,,"Home, huh."
+$C3010_MAIN_1600_1800_00_zax,ACTOR,Zack
+$C3010_MAIN_1700_0100_00_zax,,I’m back.
+$C3010_MAIN_1700_0100_00_zax,ACTOR,Zack
+$C3010_MAIN_1700_0200_00_elm,,Welcome home.
+$C3010_MAIN_1700_0200_00_elm,ACTOR,Elmyra
+$C3010_MAIN_1700_0300_00_mrn,,Welcome back.
+$C3010_MAIN_1700_0300_00_mrn,ACTOR,Marlene
+$C3010_MAIN_1700_0400_00_zax,,I saw Biggs. He’s doing fine.
+$C3010_MAIN_1700_0400_00_zax,ACTOR,Zack
+$C3010_MAIN_1700_0500_00_mrn,,Really?
+$C3010_MAIN_1700_0500_00_mrn,ACTOR,Marlene
+$C3010_MAIN_1700_0500_05_elm,,
+$C3010_MAIN_1700_0500_05_elm,ACTOR,Elmyra
+$C3010_MAIN_1700_0500_08_mrn,,
+$C3010_MAIN_1700_0500_08_mrn,ACTOR,Marlene
+$C3010_MAIN_1700_0600_00_zax,,He said he’ll come by.
+$C3010_MAIN_1700_0600_00_zax,ACTOR,Zack
+$C3010_MAIN_1700_0700_00_mrn,,Yay!
+$C3010_MAIN_1700_0700_00_mrn,ACTOR,Marlene
+$C3010_MAIN_1700_0700_05_mrn,,
+$C3010_MAIN_1700_0700_05_mrn,ACTOR,Marlene
+$C3010_MAIN_1700_0800_00_mrn,,Did he know anything about Dad or Tifa?
+$C3010_MAIN_1700_0800_00_mrn,ACTOR,Marlene
+$C3010_MAIN_1700_0900_00_zax,,"Sorry, we didn’t talk about that."
+$C3010_MAIN_1700_0900_00_zax,ACTOR,Zack
+$C3010_MAIN_1700_1000_00_mrn,,Aww!
+$C3010_MAIN_1700_1000_00_mrn,ACTOR,Marlene
+$C3010_MAIN_1700_1000_05_zax,,
+$C3010_MAIN_1700_1000_05_zax,ACTOR,Zack
+$C3010_MAIN_1700_1100_00_elm,,"Zack, could you check on the second floor?"
+$C3010_MAIN_1700_1100_00_elm,ACTOR,Elmyra
+$C3010_MAIN_1700_1200_00_zax,,Sure.
+$C3010_MAIN_1700_1200_00_zax,ACTOR,Zack
+$C3010_MAIN_1700_1300_00_elm,,You’ll see them eventually. Everyone’s heading to the same place.
+$C3010_MAIN_1700_1300_00_elm,ACTOR,Elmyra
+$C3010_MAIN_1700_1400_00_mrn,,When?
+$C3010_MAIN_1700_1400_00_mrn,ACTOR,Marlene
+$C3010_MAIN_1700_1500_00_elm,,I don’t think it’ll be long.
+$C3010_MAIN_1700_1500_00_elm,ACTOR,Elmyra
+$C3010_MAIN_1700_1600_00_zax,,I’m back.
+$C3010_MAIN_1700_1600_00_zax,ACTOR,Zack
+$C3010_MAIN_1700_1700_00_zax,,"The wind...it’s Aerith, right?"
+$C3010_MAIN_1700_1700_00_zax,ACTOR,Zack
+$C3010_MAIN_1700_1800_00_zax,,Hello?
+$C3010_MAIN_1700_1800_00_zax,ACTOR,Zack
+$C3220_MAIN_0100_0000_05_elm,,Here.
+$C3220_MAIN_0100_0000_05_elm,ACTOR,Elmyra
+$C3220_MAIN_0100_0000_08_zax,,
+$C3220_MAIN_0100_0000_08_zax,ACTOR,Zack
+$C3220_MAIN_0100_0100_00_elm,,I’ll take care of Aerith later.
+$C3220_MAIN_0100_0100_00_elm,ACTOR,Elmyra
+$C3220_MAIN_0100_0200_00_zax,,Got it.
+$C3220_MAIN_0100_0200_00_zax,ACTOR,Zack
+$C3220_MAIN_0200_0100_00_zax,,Aerith sure sleeps a lot.
+$C3220_MAIN_0200_0100_00_zax,ACTOR,Zack
+$C3220_MAIN_0200_0200_00_mrn,,It’s better that way.
+$C3220_MAIN_0200_0200_00_mrn,ACTOR,Marlene
+$C3220_MAIN_0200_0300_00_zax,,"Huh, why?"
+$C3220_MAIN_0200_0300_00_zax,ACTOR,Zack
+$C3220_MAIN_0200_0400_00_mrn,,Because Cloud is still sick.
+$C3220_MAIN_0200_0400_00_mrn,ACTOR,Marlene
+$C3220_MAIN_0200_0400_05_zax,,
+$C3220_MAIN_0200_0400_05_zax,ACTOR,Zack
+$C3220_MAIN_0200_0500_00_mrn,,"Zack, please cure Cloud quickly."
+$C3220_MAIN_0200_0500_00_mrn,ACTOR,Marlene
+$C3220_MAIN_0200_0500_05_zax,,
+$C3220_MAIN_0200_0500_05_zax,ACTOR,Zack
+$C3220_MAIN_0200_0600_00_zax,,"I want to, but..."
+$C3220_MAIN_0200_0600_00_zax,ACTOR,Zack
+$C3220_MAIN_0200_0700_00_zax,,"Wait, what do you mean it’s better for Aerith to sleep because Cloud is sick?"
+$C3220_MAIN_0200_0700_00_zax,ACTOR,Zack
+$C3220_MAIN_0200_0800_00_mrn,,If she wakes up...
+$C3220_MAIN_0200_0800_00_mrn,ACTOR,Marlene
+$C3220_MAIN_0200_0810_00_mrn,,Big sis will die.
+$C3220_MAIN_0200_0810_00_mrn,ACTOR,Marlene
+$C3220_MAIN_0200_0900_00_zax,,"Sorry, Marlene, I don’t understand at all."
+$C3220_MAIN_0200_0900_00_zax,ACTOR,Zack
+$C3220_MAIN_0200_0900_05_zax,,
+$C3220_MAIN_0200_0900_05_zax,ACTOR,Zack
+$C3220_MAIN_0200_1000_00_mrn,,"You won’t tell anyone, right?"
+$C3220_MAIN_0200_1000_00_mrn,ACTOR,Marlene
+$C3220_MAIN_0200_1000_05_zax,,
+$C3220_MAIN_0200_1000_05_zax,ACTOR,Zack
+$C3220_MAIN_0200_1000_08_zax,,
+$C3220_MAIN_0200_1000_08_zax,ACTOR,Zack
+$C3220_MAIN_0200_1100_00_mrn,,Big sis will be killed by a scary person.
+$C3220_MAIN_0200_1100_00_mrn,ACTOR,Marlene
+$C3220_MAIN_0200_1100_05_zax,,
+$C3220_MAIN_0200_1100_05_zax,ACTOR,Zack
+$C3220_MAIN_0200_1200_00_mrn,,"Cloud will try to save her, but he won’t make it in time."
+$C3220_MAIN_0200_1200_00_mrn,ACTOR,Marlene
+$C3220_MAIN_0200_1210_00_mrn,,"He’s so close, but he won’t make it!"
+$C3220_MAIN_0200_1210_00_mrn,ACTOR,Marlene
+$C3220_MAIN_0200_1300_00_mrn,,"Big sis is really happy that Cloud, who she really likes, comes for her."
+$C3220_MAIN_0200_1300_00_mrn,ACTOR,Marlene
+$C3220_MAIN_0200_1310_00_mrn,,But...
+$C3220_MAIN_0200_1310_00_mrn,ACTOR,Marlene
+$C3220_MAIN_0200_1400_00_mrn,,But she dies.
+$C3220_MAIN_0200_1400_00_mrn,ACTOR,Marlene
+$C3220_MAIN_0200_1500_00_mrn,,"So, we need to cure Cloud quickly so he can protect her."
+$C3220_MAIN_0200_1500_00_mrn,ACTOR,Marlene
+$C3220_MAIN_0200_1500_05_zax,,
+$C3220_MAIN_0200_1500_05_zax,ACTOR,Zack
+$C3220_MAIN_0200_1600_00_zax,,"Marlene, is this...a dream?"
+$C3220_MAIN_0200_1600_00_zax,ACTOR,Zack
+$C3220_MAIN_0200_1600_05_mrn,,No.
+$C3220_MAIN_0200_1600_05_mrn,ACTOR,Marlene
+$C3220_MAIN_0200_1700_00_mrn,,It’s not a dream.
+$C3220_MAIN_0200_1700_00_mrn,ACTOR,Marlene
+$C3220_MAIN_0200_1800_00_zax,,I see.
+$C3220_MAIN_0200_1800_00_zax,ACTOR,Zack
+$C3220_MAIN_0200_1900_00_mrn,,It’s true!
+$C3220_MAIN_0200_1900_00_mrn,ACTOR,Marlene
+$C3220_MAIN_0200_1900_05_zax,,
+$C3220_MAIN_0200_1900_05_zax,ACTOR,Zack
+$C3220_MAIN_0200_2000_00_zax,,"I believe you. In a world like this, I’ll believe anything."
+$C3220_MAIN_0200_2000_00_zax,ACTOR,Zack
+$C3220_MAIN_0200_2000_05_zax,,
+$C3220_MAIN_0200_2000_05_zax,ACTOR,Zack
+$C3220_MAIN_0200_2000_08_mrn,,Yeah...
+$C3220_MAIN_0200_2000_08_mrn,ACTOR,Marlene
+$C3220_MAIN_0200_2100_00_zax,,"So, Marlene, one more question."
+$C3220_MAIN_0200_2100_00_zax,ACTOR,Zack
+$C3220_MAIN_0200_2200_00_zax,,Who is this scary person? What do they look like?
+$C3220_MAIN_0200_2200_00_zax,ACTOR,Zack
+$C3220_MAIN_0200_2300_00_mrn,,Long hair...
+$C3220_MAIN_0200_2300_00_mrn,ACTOR,Marlene
+$C3220_MAIN_0200_2300_04_zax,,
+$C3220_MAIN_0200_2300_04_zax,ACTOR,Zack
+$C3220_MAIN_0200_2300_07_zax,,
+$C3220_MAIN_0200_2300_07_zax,ACTOR,Zack
+$C3220_MAIN_0200_2310_00_mrn,,Silver.
+$C3220_MAIN_0200_2310_00_mrn,ACTOR,Marlene
+$C3220_MAIN_0200_2400_00_zax,,Oh boy.
+$C3220_MAIN_0200_2400_00_zax,ACTOR,Zack
+$C3220_MAIN_0300_0100_00_elm,,"Zack, look."
+$C3220_MAIN_0300_0100_00_elm,ACTOR,Elmyra
+$C3220_MAIN_0300_0100_05_zax,,
+$C3220_MAIN_0300_0100_05_zax,ACTOR,Zack
+$C3220_MAIN_0300_0200_00_elm,,The flowers are blooming.
+$C3220_MAIN_0300_0200_00_elm,ACTOR,Elmyra
+$C3220_MAIN_0300_0300_00_zax,,They are!
+$C3220_MAIN_0300_0300_00_zax,ACTOR,Zack
+$C3220_MAIN_0300_0400_00_elm,,Aerith loves these flowers.
+$C3220_MAIN_0300_0400_00_elm,ACTOR,Elmyra
+$C3220_MAIN_0300_0400_05_elm,,
+$C3220_MAIN_0300_0400_05_elm,ACTOR,Elmyra
+$C3220_MAIN_0300_0500_00_elm,,Maybe she’ll wake up.
+$C3220_MAIN_0300_0500_00_elm,ACTOR,Elmyra
+$C3220_MAIN_0300_0500_05_zax,,
+$C3220_MAIN_0300_0500_05_zax,ACTOR,Zack
+$C3220_MAIN_0300_0600_00_zax,,"Yeah, I hope so."
+$C3220_MAIN_0300_0600_00_zax,ACTOR,Zack
+$C3220_MAIN_0300_0600_04_zax,,
+$C3220_MAIN_0300_0600_04_zax,ACTOR,Zack
+$C3220_MAIN_0300_0600_07_zax,,
+$C3220_MAIN_0300_0600_07_zax,ACTOR,Zack
+$C3220_MAIN_0300_0700_00_zax,,"Hey, I’m going out for a bit. To ask about Cloud."
+$C3220_MAIN_0300_0700_00_zax,ACTOR,Zack
+$C3220_MAIN_0300_0700_05_elm,,
+$C3220_MAIN_0300_0700_05_elm,ACTOR,Elmyra
+$C3220_MAIN_0300_0800_00_elm,,Is there someone like that?
+$C3220_MAIN_0300_0800_00_elm,ACTOR,Elmyra
+$C3220_MAIN_0300_0810_00_elm,,A doctor?
+$C3220_MAIN_0300_0810_00_elm,ACTOR,Elmyra
+$C3220_MAIN_0300_0900_00_zax,,
+$C3220_MAIN_0300_0900_00_zax,ACTOR,Zack
+$C3220_MAIN_0300_0900_07_zax,,
+$C3220_MAIN_0300_0900_07_zax,ACTOR,Zack
+$C3220_MAIN_0300_1000_00_zax,,Something like that.
+$C3220_MAIN_0300_1000_00_zax,ACTOR,Zack
+$C3220_MAIN_0300_1100_00_elm,,Don’t be late. We’ve gotten used to having you around.
+$C3220_MAIN_0300_1100_00_elm,ACTOR,Elmyra
+$C3220_MAIN_0300_1200_00_elm,,It’s unsettling when you’re not here.
+$C3220_MAIN_0300_1200_00_elm,ACTOR,Elmyra
+$C3220_MAIN_0300_1200_05_zax,,
+$C3220_MAIN_0300_1200_05_zax,ACTOR,Zack
+$C3220_MAIN_0300_1300_00_zax,,"Got it. I’ll take the bike, so it’ll be quick."
+$C3220_MAIN_0300_1300_00_zax,ACTOR,Zack
+$C3220_MAIN_0300_1310_00_zax,,Take care of Aerith and Cloud.
+$C3220_MAIN_0300_1310_00_zax,ACTOR,Zack
+$C3220_MAIN_0300_1310_05_elm,,
+$C3220_MAIN_0300_1310_05_elm,ACTOR,Elmyra
+$C3220_MAIN_0300_1400_00_zax,,"Even if they wake up, don’t let them go anywhere."
+$C3220_MAIN_0300_1400_00_zax,ACTOR,Zack
+$C3220_MAIN_0300_1400_05_elm,,
+$C3220_MAIN_0300_1400_05_elm,ACTOR,Elmyra
+$C3220_MAIN_0300_1500_00_elm,,I’m not sure. It’s hard to keep her cooped up.
+$C3220_MAIN_0300_1500_00_elm,ACTOR,Elmyra
+$C3220_MAIN_0300_1500_04_zax,,
+$C3220_MAIN_0300_1500_04_zax,ACTOR,Zack
+$C3220_MAIN_0300_1500_07_zax,,
+$C3220_MAIN_0300_1500_07_zax,ACTOR,Zack
+$C3220_MAIN_0300_1600_00_zax,,"Please, do whatever it takes to stop her."
+$C3220_MAIN_0300_1600_00_zax,ACTOR,Zack
+$C3220_MAIN_0300_1600_05_elm,,
+$C3220_MAIN_0300_1600_05_elm,ACTOR,Elmyra
+$C3220_MAIN_0400_0100_00_elm,,Be back by dinner.
+$C3220_MAIN_0400_0100_00_elm,ACTOR,Elmyra
+$C3220_MAIN_0500_0100_00_mrn,,Don’t tell anyone about earlier.
+$C3220_MAIN_0500_0100_00_mrn,ACTOR,Marlene
+$C3220_MAIN_0500_0200_00_mrn,,I hope Biggs comes soon.
+$C3220_MAIN_0500_0200_00_mrn,ACTOR,Marlene
+$C3220_MAIN_0600_0000_05_zax,,
+$C3220_MAIN_0600_0000_05_zax,ACTOR,Zack
+$C3220_MAIN_0600_0000_08_zax,,
+$C3220_MAIN_0600_0000_08_zax,ACTOR,Zack
+$C3220_MAIN_0600_0090_00_zax,,"""I thought about what you said. I’ve been thinking about it ever since."""
+$C3220_MAIN_0600_0090_00_zax,ACTOR,Zack
+$C3220_MAIN_0600_0200_00_big,,"<i>Dreams and hope, the reason I survived.</i>"
+$C3220_MAIN_0600_0200_00_big,ACTOR,<i>Biggs</i>
+$C3220_MAIN_0600_0300_00_big,,"<i>And I realized, I’m still Avalanche.</i>"
+$C3220_MAIN_0600_0300_00_big,ACTOR,<i>Biggs</i>
+$C3220_MAIN_0600_0400_00_big,,<i>Time is running out.</i>
+$C3220_MAIN_0600_0400_00_big,ACTOR,<i>Biggs</i>
+$C3220_MAIN_0600_0410_00_big,,<i>We’re doing it this evening.</i>
+$C3220_MAIN_0600_0410_00_big,ACTOR,<i>Biggs</i>
+$C3220_MAIN_0600_0500_00_big,,<i>Stay as far away from Mako Reactor 6 as possible.</i>
+$C3220_MAIN_0600_0500_00_big,ACTOR,<i>Biggs</i>
+$C3220_MAIN_0600_0500_05_zax,,
+$C3220_MAIN_0600_0500_05_zax,ACTOR,Zack
+$C3220_MAIN_0600_0510_00_big,,<i>I’m glad I got to see you.</i>
+$C3220_MAIN_0600_0510_00_big,ACTOR,<i>Biggs</i>
+$C3220_MAIN_0600_0600_00_big,,<i>Biggs</i>
+$C3220_MAIN_0600_0600_00_big,ACTOR,<i>Biggs</i>
+$C3220_MAIN_0600_0700_00_zax,,"No, that’s not it!"
+$C3220_MAIN_0600_0700_00_zax,ACTOR,Zack
+$C3220_MAIN_0600_0700_05_zax,,
+$C3220_MAIN_0600_0700_05_zax,ACTOR,Zack
+$C3220_MAIN_0600_0800_00_zax,,"Elmyra, this is bad."
+$C3220_MAIN_0600_0800_00_zax,ACTOR,Zack
+$C3410_MAIN_0100_0050_05_ren,,
+$C3410_MAIN_0100_0050_05_ren,ACTOR,Reno
+$C3410_MAIN_0100_0100_00_lud,,It’s almost time.
+$C3410_MAIN_0100_0100_00_lud,ACTOR,Rude
+$C3410_MAIN_0100_0100_04_ren,,
+$C3410_MAIN_0100_0100_04_ren,ACTOR,Reno
+$C3410_MAIN_0100_0100_08_tsu,,
+$C3410_MAIN_0100_0100_08_tsu,ACTOR,Tseng
+$C3410_MAIN_0100_0200_00_hjo,,"Tseng is in danger, I hear. I’ll take a look."
+$C3410_MAIN_0100_0200_00_hjo,ACTOR,Hojo
+$C3410_MAIN_0100_0300_00_ruf,,"No, leave it to the medical team."
+$C3410_MAIN_0100_0300_00_ruf,ACTOR,Rufus
+$C3410_MAIN_0100_0310_00_ruf,,You...are dangerous.
+$C3410_MAIN_0100_0310_00_ruf,ACTOR,Rufus
+$C3410_MAIN_0100_0400_00_hjo,,
+$C3410_MAIN_0100_0400_00_hjo,ACTOR,Hojo
+$C3410_MAIN_0100_0500_00_ruf,,"Professor Hojo, what did we see at that temple?"
+$C3410_MAIN_0100_0500_00_ruf,ACTOR,Rufus
+$C3410_MAIN_0100_0600_00_hjo,,"As a scientist, I can’t say anything rash, but one thing is clear."
+$C3410_MAIN_0100_0600_00_hjo,ACTOR,Hojo
+$C3410_MAIN_0100_0700_00_hjo,,Shinra has been left behind.
+$C3410_MAIN_0100_0700_00_hjo,ACTOR,Hojo
+$C3410_MAIN_0100_0800_00_ruf,,It seems we agree.
+$C3410_MAIN_0100_0800_00_ruf,ACTOR,Rufus
+$C3410_MAIN_0300_0000_05_zax,,
+$C3410_MAIN_0300_0000_05_zax,ACTOR,Zack
+$C3410_MAIN_0300_0100_00_zax,,Right—Shinra Building.
+$C3410_MAIN_0300_0100_00_zax,ACTOR,Zack
+$C3410_MAIN_0300_0200_00_zax,,Professor Hojo might be able to cure Cloud.
+$C3410_MAIN_0300_0200_00_zax,ACTOR,Zack
+$C3410_MAIN_0300_0300_00_zax,,Left—Mako Reactor 6.
+$C3410_MAIN_0300_0300_00_zax,ACTOR,Zack
+$C3410_MAIN_0300_0400_00_zax,,"Stop Biggs, prevent the reactor explosion."
+$C3410_MAIN_0300_0400_00_zax,ACTOR,Zack
+$C3410_MAIN_0300_0400_03_zax,,
+$C3410_MAIN_0300_0400_03_zax,ACTOR,Zack
+$C3410_MAIN_0300_0400_06_zax,,
+$C3410_MAIN_0300_0400_06_zax,ACTOR,Zack
+$C3410_MAIN_0400_0100_00_mrn,,Long hair...
+$C3410_MAIN_0400_0100_00_mrn,ACTOR,Marlene
+$C3410_MAIN_0400_0100_04_zax,,
+$C3410_MAIN_0400_0100_04_zax,ACTOR,Zack
+$C3410_MAIN_0400_0100_07_zax,,
+$C3410_MAIN_0400_0100_07_zax,ACTOR,Zack
+$C3410_MAIN_0400_0110_00_mrn,,Silver.
+$C3410_MAIN_0400_0110_00_mrn,ACTOR,Marlene
+$C3410_MAIN_0400_0200_00_zax,,Oh boy.
+$C3410_MAIN_0400_0200_00_zax,ACTOR,Zack
+$C3410_MAIN_0400_0200_05_zax,,
+$C3410_MAIN_0400_0200_05_zax,ACTOR,Zack
+$C3410_MAIN_0400_0300_00_zax,,Tell me one more thing.
+$C3410_MAIN_0400_0300_00_zax,ACTOR,Zack
+$C3410_MAIN_0400_0400_00_zax,,Does Aerith like Cloud?
+$C3410_MAIN_0400_0400_00_zax,ACTOR,Zack
+$C3410_MAIN_0400_0500_00_mrn,,"Yeah, probably."
+$C3410_MAIN_0400_0500_00_mrn,ACTOR,Marlene
+$C3410_MAIN_0400_0500_05_zax,,
+$C3410_MAIN_0400_0500_05_zax,ACTOR,Zack
+$C3410_MAIN_0400_0600_00_zax,,I see.
+$C3410_MAIN_0400_0600_00_zax,ACTOR,Zack
+$C3410_MAIN_0400_0610_00_zax,,That’s something.
+$C3410_MAIN_0400_0610_00_zax,ACTOR,Zack
+$C3410_MAIN_0400_0610_05_zax,,
+$C3410_MAIN_0400_0610_05_zax,ACTOR,Zack
+$C3410_MAIN_0400_0700_00_mrn,,Something!
+$C3410_MAIN_0400_0700_00_mrn,ACTOR,Marlene
+$C3410_MAIN_0500_0000_05_zax,,
+$C3410_MAIN_0500_0000_05_zax,ACTOR,Zack
+$C3410_MAIN_0500_0100_00_zax,,"Cloud, wait for me."
+$C3410_MAIN_0500_0100_00_zax,ACTOR,Zack
+$C3410_MAIN_0600_0100_00_art,,Hello?
+$C3410_MAIN_0600_0100_00_art,ACTOR,???
+$C3410_MAIN_0600_0200_00_art,,"Wake up, please."
+$C3410_MAIN_0600_0200_00_art,ACTOR,???
+$C3410_MAIN_0600_0300_00_art,,"Mr. Cloud, there’s no time."
+$C3410_MAIN_0600_0300_00_art,ACTOR,???
+$C3410_MAIN_0600_0400_00_art,,Shh shh shh shh shh!
+$C3410_MAIN_0600_0400_00_art,ACTOR,???
+$C3410_MAIN_0600_0410_00_art,,Wake up!
+$C3410_MAIN_0600_0410_00_art,ACTOR,???
+$C3410_MAIN_0600_0410_05_cld,,
+$C3410_MAIN_0600_0410_05_cld,ACTOR,Cloud
+$C3410_MAIN_0600_0410_08_cld,,
+$C3410_MAIN_0600_0410_08_cld,ACTOR,Cloud
+$C3410_MAIN_0600_0410_09_cld,,
+$C3410_MAIN_0600_0410_09_cld,ACTOR,Cloud
+$C3410_MAIN_0600_0410_11_cld,,
+$C3410_MAIN_0600_0410_11_cld,ACTOR,Cloud
+$C3410_MAIN_0600_0410_12_cld,,
+$C3410_MAIN_0600_0410_12_cld,ACTOR,Cloud
+$C3410_MAIN_0600_0500_00_cld,,We...
+$C3410_MAIN_0600_0500_00_cld,ACTOR,Cloud
+$C3410_MAIN_0600_0500_05_cld,,
+$C3410_MAIN_0600_0500_05_cld,ACTOR,Cloud
+$C3410_MAIN_0600_0600_00_cld,,Did we die?
+$C3410_MAIN_0600_0600_00_cld,ACTOR,Cloud
+$C3410_MAIN_0600_0600_05_art,,
+$C3410_MAIN_0600_0600_05_art,ACTOR,Aerith
+$C3410_MAIN_0600_0700_00_art,,Just returned to the planet?
+$C3410_MAIN_0600_0700_00_art,ACTOR,Aerith
+$C3410_MAIN_0600_0800_00_art,,On the way back?
+$C3410_MAIN_0600_0800_00_art,ACTOR,Aerith
+$C3410_MAIN_0600_0890_00_art,,
+$C3410_MAIN_0600_0890_00_art,ACTOR,Aerith
+$C3410_MAIN_0600_0900_00_art,,Let’s call it a dream.
+$C3410_MAIN_0600_0900_00_art,ACTOR,Aerith
+$C3410_MAIN_0600_1000_00_art,,My dream world.
+$C3410_MAIN_0600_1000_00_art,ACTOR,Aerith
+$C3410_MAIN_0600_1100_00_cld,,What are you talking about?
+$C3410_MAIN_0600_1100_00_cld,ACTOR,Cloud
+$C3410_MAIN_0600_1100_05_art,,
+$C3410_MAIN_0600_1100_05_art,ACTOR,Aerith
+$C3410_MAIN_0600_1200_00_art,,Just give up and follow me.
+$C3410_MAIN_0600_1200_00_art,ACTOR,Aerith
+$C3410_MAIN_0700_0100_00_art,,Shall we walk a bit?
+$C3410_MAIN_0700_0100_00_art,ACTOR,Aerith
+$C3410_MAIN_0700_0190_00_art,,
+$C3410_MAIN_0700_0190_00_art,ACTOR,Aerith
+$C3410_MAIN_0700_0200_00_art,,Promise.
+$C3410_MAIN_0700_0200_00_art,ACTOR,Aerith
+$C3410_MAIN_0700_0300_00_art,,Don’t look at the sky.
+$C3410_MAIN_0700_0300_00_art,ACTOR,Aerith
+$C3410_MAIN_0700_0300_05_cld,,
+$C3410_MAIN_0700_0300_05_cld,ACTOR,Cloud
+$C3410_MAIN_0700_0400_00_art,,I thought it might be better not to look at the sky.
+$C3410_MAIN_0700_0400_00_art,ACTOR,Aerith
+$C3410_MAIN_0700_0500_00_cld,,"If you say that, I’m going to look."
+$C3410_MAIN_0700_0500_00_cld,ACTOR,Cloud
+$C3410_MAIN_0700_0500_05_art,,
+$C3410_MAIN_0700_0500_05_art,ACTOR,Aerith
+$C3410_MAIN_0700_0600_00_art,,Right?
+$C3410_MAIN_0700_0600_00_art,ACTOR,Aerith
+$C3410_MAIN_0700_0700_00_art,,I make mistakes like this a lot. I get ahead of myself.
+$C3410_MAIN_0700_0700_00_art,ACTOR,Aerith
+$C3410_MAIN_0700_0800_00_cld,,
+$C3410_MAIN_0700_0800_00_cld,ACTOR,Cloud
+$C3410_MAIN_0800_0050_05_art,,
+$C3410_MAIN_0800_0050_05_art,ACTOR,Aerith
+$C3410_MAIN_0800_0050_08_art,,
+$C3410_MAIN_0800_0050_08_art,ACTOR,Aerith
+$C3410_MAIN_0800_0100_00_art,,Let’s go over there!
+$C3410_MAIN_0800_0100_00_art,ACTOR,Aerith
+$C3410_MAIN_0800_0100_05_art,,
+$C3410_MAIN_0800_0100_05_art,ACTOR,Aerith
+$C3410_MAIN_0800_0100_06_cld,,
+$C3410_MAIN_0800_0100_06_cld,ACTOR,Cloud
+$C3410_MAIN_0800_0100_08_art,,
+$C3410_MAIN_0800_0100_08_art,ACTOR,Aerith
+$C3410_MAIN_0800_0100_11_art,,Ta-da!
+$C3410_MAIN_0800_0100_11_art,ACTOR,Aerith
+$C3410_MAIN_0800_0100_13_cld,,
+$C3410_MAIN_0800_0100_13_cld,ACTOR,Cloud
+$C3410_MAIN_0800_0200_00_art,,"Cloud, buy it, buy it!"
+$C3410_MAIN_0800_0200_00_art,ACTOR,Aerith
+$C3410_MAIN_0800_0200_05_cld,,
+$C3410_MAIN_0800_0200_05_cld,ACTOR,Cloud
+$C3410_MAIN_0800_0300_00_art,,No?
+$C3410_MAIN_0800_0300_00_art,ACTOR,Aerith
+$C3410_MAIN_0800_0300_05_cld,,
+$C3410_MAIN_0800_0300_05_cld,ACTOR,Cloud
+$C3410_MAIN_0800_0400_00_cld,,
+$C3410_MAIN_0800_0400_00_cld,ACTOR,Cloud
+$C3410_MAIN_0800_0500_00_cld,,Which one do you want?
+$C3410_MAIN_0800_0500_00_cld,ACTOR,Cloud
+$C3410_MAIN_0800_0500_05_art,,
+$C3410_MAIN_0800_0500_05_art,ACTOR,Aerith
+$C3410_MAIN_0800_0600_00_art,,"You choose, Cloud."
+$C3410_MAIN_0800_0600_00_art,ACTOR,Aerith
+$C3410_MAIN_0800_0700_00_cld,,"Aerith, you’re acting weird."
+$C3410_MAIN_0800_0700_00_cld,ACTOR,Cloud
+$C3410_MAIN_0800_0700_05_art,,
+$C3410_MAIN_0800_0700_05_art,ACTOR,Aerith
+$C3410_MAIN_0800_0800_00_cld,,Still weird. Not like you.
+$C3410_MAIN_0800_0800_00_cld,ACTOR,Cloud
+$C3410_MAIN_0800_0900_00_mma,,"I think this one suits you, miss."
+$C3410_MAIN_0800_0900_00_mma,ACTOR,Shopkeeper
+$C3410_MAIN_0800_0900_05_art,,
+$C3410_MAIN_0800_0900_05_art,ACTOR,Aerith
+$C3410_MAIN_0800_1000_00_art,,"Hmm, maybe I’ll have Cloud pick after all. "
+$C3410_MAIN_0800_1000_00_art,ACTOR,Aerith
+$C3410_MAIN_0800_1100_00_mma,,Everything’s free! But only one per person.
+$C3410_MAIN_0800_1100_00_mma,ACTOR,Shopkeeper
+$C3410_MAIN_0800_1200_00_art,,"Alright, Cloud is about to pick his first gift for Aerith. "
+$C3410_MAIN_0800_1200_00_art,ACTOR,Aerith
+$C3410_MAIN_0800_1300_00_art,,Which one will Cloud choose?
+$C3410_MAIN_0800_1300_00_art,ACTOR,Aerith
+$C3410_MAIN_0800_1300_05_art,,
+$C3410_MAIN_0800_1300_05_art,ACTOR,Aerith
+$C3410_MAIN_0800_1310_00_sys,,<button=RS> Choose a gift
+$C3410_MAIN_0800_1320_00_sys,,Pink barrette
+$C3410_MAIN_0800_1330_00_sys,,Golden bracelet
+$C3410_MAIN_0800_1340_00_sys,,Stamp the loyal dog plush
+$C3410_MAIN_0800_1400_00_cld,,This one.
+$C3410_MAIN_0800_1400_00_cld,ACTOR,Cloud
+$C3410_MAIN_0800_1500_00_mma,,"Sorry, that’s my favorite one."
+$C3410_MAIN_0800_1500_00_mma,ACTOR,Shopkeeper
+$C3410_MAIN_0800_1600_00_mma,,"Really sorry. Here, take this instead."
+$C3410_MAIN_0800_1600_00_mma,ACTOR,Shopkeeper
+$C3410_MAIN_0800_1700_00_mma,,I’m really sorry!
+$C3410_MAIN_0800_1700_00_mma,ACTOR,Shopkeeper
+$C3410_MAIN_0800_1700_05_art,,
+$C3410_MAIN_0800_1700_05_art,ACTOR,Aerith
+$C3410_MAIN_0800_1800_00_art,,"Oh, this is nice too!"
+$C3410_MAIN_0800_1800_00_art,ACTOR,Aerith
+$C3410_MAIN_0800_1900_00_art,,I’ll treasure it.
+$C3410_MAIN_0800_1900_00_art,ACTOR,Aerith
+$C3410_MAIN_0800_1900_05_art,,
+$C3410_MAIN_0800_1900_05_art,ACTOR,Aerith
+$C3410_MAIN_0800_2000_00_cld,,What the...?
+$C3410_MAIN_0800_2000_00_cld,ACTOR,Cloud
+$C3410_MAIN_0800_2100_00_mma,,Thank you for your patronage over the years.
+$C3410_MAIN_0800_2100_00_mma,ACTOR,Shopkeeper
+$C3410_MAIN_0800_2100_05_art,,
+$C3410_MAIN_0800_2100_05_art,ACTOR,Aerith
+$C3410_MAIN_0800_2200_00_art,,"Alright, next..."
+$C3410_MAIN_0800_2200_00_art,ACTOR,Aerith
+$C3410_MAIN_0800_2200_05_art,,
+$C3410_MAIN_0800_2200_05_art,ACTOR,Aerith
+$C3410_MAIN_0800_2300_00_art,,Let’s go over there.
+$C3410_MAIN_0800_2300_00_art,ACTOR,Aerith
+$C3410_MAIN_0800_2300_05_cld,,
+$C3410_MAIN_0800_2300_05_cld,ACTOR,Cloud
+$C3410_MAIN_0900_0050_05_art,,
+$C3410_MAIN_0900_0050_05_art,ACTOR,Aerith
+$C3410_MAIN_0900_0100_00_mfa,,"Young man, young lady, take whichever you like."
+$C3410_MAIN_0900_0100_00_mfa,ACTOR,Shopkeeper
+$C3410_MAIN_0900_0200_00_mfa,,But only one each.
+$C3410_MAIN_0900_0200_00_mfa,ACTOR,Shopkeeper
+$C3410_MAIN_0900_0300_00_art,,Which one should I pick?
+$C3410_MAIN_0900_0300_00_art,ACTOR,Aerith
+$C3410_MAIN_0900_0310_00_sys,,<button=RS> Choose a snack
+$C3410_MAIN_0900_0320_00_sys,,Stamp Chips
+$C3410_MAIN_0900_0330_00_sys,,Cosmo Candy
+$C3410_MAIN_0900_0340_00_sys,,Choco Stick
+$C3410_MAIN_0900_0400_00_cld,,I’ll take this one.
+$C3410_MAIN_0900_0400_00_cld,ACTOR,Cloud
+$C3410_MAIN_0900_0500_00_art,,Then I’ll take this.
+$C3410_MAIN_0900_0500_00_art,ACTOR,Aerith
+$C3410_MAIN_0900_0600_00_mfa,,Here you go.
+$C3410_MAIN_0900_0600_00_mfa,ACTOR,Shopkeeper
+$C3410_MAIN_0900_0700_00_mfa,,"Oh, those are good, but I’ve got a new product too."
+$C3410_MAIN_0900_0700_00_mfa,ACTOR,Shopkeeper
+$C3410_MAIN_0900_0800_00_mfa,,Give it a try.
+$C3410_MAIN_0900_0800_00_mfa,ACTOR,Shopkeeper
+$C3410_MAIN_0900_0900_00_art,,A new product?
+$C3410_MAIN_0900_0900_00_art,ACTOR,Aerith
+$C3410_MAIN_0900_1000_00_art,,I’ll take it!
+$C3410_MAIN_0900_1000_00_art,ACTOR,Aerith
+$C3410_MAIN_0900_1000_05_cld,,
+$C3410_MAIN_0900_1000_05_cld,ACTOR,Cloud
+$C3410_MAIN_0900_1100_00_mfa,,"Go ahead, dig in."
+$C3410_MAIN_0900_1100_00_mfa,ACTOR,Shopkeeper
+$C3410_MAIN_0900_1100_05_art,,
+$C3410_MAIN_0900_1100_05_art,ACTOR,Aerith
+$C3410_MAIN_0900_1200_00_art,,
+$C3410_MAIN_0900_1200_00_art,ACTOR,Aerith
+$C3410_MAIN_0900_1300_00_cld,,
+$C3410_MAIN_0900_1300_00_cld,ACTOR,Cloud
+$C3410_MAIN_0900_1300_05_cld,,
+$C3410_MAIN_0900_1300_05_cld,ACTOR,Cloud
+$C3410_MAIN_0900_1400_00_cld,,This is awful...
+$C3410_MAIN_0900_1400_00_cld,ACTOR,Cloud
+$C3410_MAIN_0900_1500_00_mfa,,I thought I’d experiment since it’s the end.
+$C3410_MAIN_0900_1500_00_mfa,ACTOR,Shopkeeper
+$C3410_MAIN_0900_1600_00_mfa,,Guess it didn’t work out.
+$C3410_MAIN_0900_1600_00_mfa,ACTOR,Shopkeeper
+$C3410_MAIN_0900_1700_00_art,,Maybe a bit sweeter would be better.
+$C3410_MAIN_0900_1700_00_art,ACTOR,Aerith
+$C3410_MAIN_0900_1800_00_cld,,What’s with this weird aftertaste?
+$C3410_MAIN_0900_1800_00_cld,ACTOR,Cloud
+$C3410_MAIN_0900_1900_00_mfa,,This is going to be tough.
+$C3410_MAIN_0900_1900_00_mfa,ACTOR,Shopkeeper
+$C3410_MAIN_0900_2000_00_mfa,,But time’s running out.
+$C3410_MAIN_0900_2000_00_mfa,ACTOR,Shopkeeper
+$C3410_MAIN_1000_0100_00_zax,,"I just asked to see Hojo, right?"
+$C3410_MAIN_1000_0100_00_zax,ACTOR,Zack
+$C3410_MAIN_1000_0110_00_zax,,Why does it always end up like this?
+$C3410_MAIN_1000_0110_00_zax,ACTOR,Zack
+$C3410_MAIN_1000_0200_00_zax,,"Well, the world’s ending anyway."
+$C3410_MAIN_1000_0200_00_zax,ACTOR,Zack
+$C3410_MAIN_1000_0300_00_zax,,"If I think about it that way, I can do anything!"
+$C3410_MAIN_1000_0300_00_zax,ACTOR,Zack
+$C3410_MAIN_1000_0400_00_zax,,Welcome!
+$C3410_MAIN_1000_0400_00_zax,ACTOR,Zack
+$C3410_MAIN_1100_0100_00_sep,,<i>So you were in this backwater place.</i>
+$C3410_MAIN_1100_0100_00_sep,ACTOR,<i>Sephiroth</i>
+$C3410_MAIN_1100_0200_00_sep,,<i>A world that accepts its disappearance—</i>
+$C3410_MAIN_1100_0200_00_sep,ACTOR,<i>Sephiroth</i>
+$C3410_MAIN_1100_0300_00_cld,,"Aerith, what’s that over there?"
+$C3410_MAIN_1100_0300_00_cld,ACTOR,Cloud
+$C3410_MAIN_1100_0400_00_art,,Want to check it out?
+$C3410_MAIN_1100_0400_00_art,ACTOR,Aerith
+$C3410_MAIN_1100_0500_00_sep,,<i>Will simply vanish.</i>
+$C3410_MAIN_1100_0500_00_sep,ACTOR,<i>Sephiroth</i>
+$C3410_MAIN_1200_0050_00_mma,,
+$C3410_MAIN_1200_0051_00_mma,,
+$C3410_MAIN_1200_0052_00_mma,,
+$C3410_MAIN_1200_0100_00_mma,,"Sorry, I only have one left."
+$C3410_MAIN_1200_0100_00_mma,ACTOR,Photographer
+$C3410_MAIN_1200_0100_05_mma,,
+$C3410_MAIN_1200_0100_06_mma,,
+$C3410_MAIN_1200_0100_07_mma,,
+$C3410_MAIN_1200_0200_00_mma,,Please take our picture.
+$C3410_MAIN_1200_0200_00_mma,ACTOR,Slum Resident
+$C3410_MAIN_1200_0200_05_mfa,,
+$C3410_MAIN_1200_0300_00_mfa,,"Us too, please!"
+$C3410_MAIN_1200_0300_00_mfa,ACTOR,Slum Resident
+$C3410_MAIN_1200_0300_05_mma,,
+$C3410_MAIN_1200_0400_00_mma,,We don’t have any pictures together.
+$C3410_MAIN_1200_0400_00_mma,ACTOR,Slum Resident
+$C3410_MAIN_1200_0400_05_mfa,,
+$C3410_MAIN_1200_0500_00_art,,We don’t either!
+$C3410_MAIN_1200_0500_00_art,ACTOR,Aerith
+$C3410_MAIN_1200_0500_05_mma,,
+$C3410_MAIN_1200_0500_06_mma,,
+$C3410_MAIN_1200_0500_07_mma,,
+$C3410_MAIN_1200_0600_00_mma,,"Hmm, alright...Everyone strike a pose."
+$C3410_MAIN_1200_0600_00_mma,ACTOR,Photographer
+$C3410_MAIN_1200_0700_00_mma,,I’ll take the couple with the best vibe.
+$C3410_MAIN_1200_0700_00_mma,ACTOR,Photographer
+$C3410_MAIN_1200_0700_05_art,,
+$C3410_MAIN_1200_0700_05_art,ACTOR,Aerith
+$C3410_MAIN_1200_0700_11_mma,,
+$C3410_MAIN_1200_0700_13_mma,,
+$C3410_MAIN_1200_0700_15_mma,,
+$C3410_MAIN_1200_0700_17_mma,,
+$C3410_MAIN_1200_0700_19_mma,,
+$C3410_MAIN_1200_0700_21_mma,,
+$C3410_MAIN_1200_0700_23_mma,,
+$C3410_MAIN_1200_0900_00_mma,,Alright then.
+$C3410_MAIN_1200_0900_00_mma,ACTOR,Photographer
+$C3410_MAIN_1200_1000_00_mma,,The final best couple is—
+$C3410_MAIN_1200_1000_00_mma,ACTOR,Photographer
+$C3410_MAIN_1200_1100_00_sys,,Model Couple
+$C3410_MAIN_1200_1200_00_sys,,Showtime
+$C3410_MAIN_1200_1300_00_sys,,Dance Hold
+$C3410_MAIN_1300_0100_00_zax,,"Biggs, wait for me."
+$C3410_MAIN_1300_0100_00_zax,ACTOR,Zack
+$C3410_MAIN_1300_0100_11_big,,
+$C3410_MAIN_1300_0100_11_big,ACTOR,Biggs
+$C3410_MAIN_1300_0200_00_big,,
+$C3410_MAIN_1300_0200_00_big,ACTOR,Biggs
+$C3410_MAIN_1300_0300_00_zax,,What’s this? What’s going on?
+$C3410_MAIN_1300_0300_00_zax,ACTOR,Zack
+$C3410_MAIN_1300_0400_00_big,,Mako levels are almost zero.
+$C3410_MAIN_1300_0400_00_big,ACTOR,Biggs
+$C3410_MAIN_1300_0410_00_big,,"The reactor’s running, but no Mako is coming up."
+$C3410_MAIN_1300_0410_00_big,ACTOR,Biggs
+$C3410_MAIN_1300_0500_00_zax,,So?
+$C3410_MAIN_1300_0500_00_zax,ACTOR,Zack
+$C3410_MAIN_1300_0600_00_big,,The Lifestream is nearly depleted.
+$C3410_MAIN_1300_0600_00_big,ACTOR,Biggs
+$C3410_MAIN_1300_0610_00_big,,"No matter what we do, the world is ending."
+$C3410_MAIN_1300_0610_00_big,ACTOR,Biggs
+$C3410_MAIN_1300_0610_05_big,,
+$C3410_MAIN_1300_0610_05_big,ACTOR,Biggs
+$C3410_MAIN_1300_0700_00_big,,"Ah, damn it!"
+$C3410_MAIN_1300_0700_00_big,ACTOR,Biggs
+$C3410_MAIN_1300_0700_05_big,,
+$C3410_MAIN_1300_0700_05_big,ACTOR,Biggs
+$C3410_MAIN_1300_0800_00_zax,,Look out!
+$C3410_MAIN_1300_0800_00_zax,ACTOR,Zack
+$C3410_MAIN_1300_0800_04_big,,
+$C3410_MAIN_1300_0800_04_big,ACTOR,Biggs
+$C3410_MAIN_1300_0800_06_zax,,
+$C3410_MAIN_1300_0800_06_zax,ACTOR,Zack
+$C3410_MAIN_1300_0800_07_big,,
+$C3410_MAIN_1300_0800_07_big,ACTOR,Biggs
+$C3410_MAIN_1300_0800_11_big,,
+$C3410_MAIN_1300_0800_11_big,ACTOR,Biggs
+$C3410_MAIN_1300_0800_12_zax,,
+$C3410_MAIN_1300_0800_12_zax,ACTOR,Zack
+$C3410_MAIN_1300_0800_14_big,,
+$C3410_MAIN_1300_0800_14_big,ACTOR,Biggs
+$C3410_MAIN_1300_0800_15_zax,,
+$C3410_MAIN_1300_0800_15_zax,ACTOR,Zack
+$C3410_MAIN_1300_0900_00_zax,,Is that it?
+$C3410_MAIN_1300_0900_00_zax,ACTOR,Zack
+$C3410_MAIN_1300_1000_00_big,,I got scared during the test and messed up the real thing.
+$C3410_MAIN_1300_1000_00_big,ACTOR,Biggs
+$C3410_MAIN_1300_1000_05_zax,,
+$C3410_MAIN_1300_1000_05_zax,ACTOR,Zack
+$C3410_MAIN_1300_1100_00_big,,Why was I the one left behind?
+$C3410_MAIN_1300_1100_00_big,ACTOR,Biggs
+$C3410_MAIN_1300_1110_00_big,,Why was I chosen?
+$C3410_MAIN_1300_1110_00_big,ACTOR,Biggs
+$C3410_MAIN_1300_1200_00_big,,"You saw it, right?"
+$C3410_MAIN_1300_1200_00_big,ACTOR,Biggs
+$C3410_MAIN_1300_1210_00_big,,I can’t do anything on my own.
+$C3410_MAIN_1300_1210_00_big,ACTOR,Biggs
+$C3410_MAIN_1300_1300_00_zax,,Don’t say that.
+$C3410_MAIN_1300_1300_00_zax,ACTOR,Zack
+$C3410_MAIN_1300_1400_00_big,,I guess I wasn’t chosen after all.
+$C3410_MAIN_1300_1400_00_big,ACTOR,Biggs
+$C3410_MAIN_1300_1400_05_zax,,
+$C3410_MAIN_1300_1400_05_zax,ACTOR,Zack
+$C3410_MAIN_1300_1410_00_big,,I was left behind.
+$C3410_MAIN_1300_1410_00_big,ACTOR,Biggs
+$C3410_MAIN_1300_1500_00_zax,,I told you not to say that.
+$C3410_MAIN_1300_1500_00_zax,ACTOR,Zack
+$C3410_MAIN_1300_1510_00_zax,,Look at me.
+$C3410_MAIN_1300_1510_00_zax,ACTOR,Zack
+$C3410_MAIN_1300_1600_00_zax,,I chose you. That’s why I’m here.
+$C3410_MAIN_1300_1600_00_zax,ACTOR,Zack
+$C3410_MAIN_1300_1700_00_big,,
+$C3410_MAIN_1300_1700_00_big,ACTOR,Biggs
+$C3410_MAIN_1300_1700_05_big,,
+$C3410_MAIN_1300_1700_05_big,ACTOR,Biggs
+$C3410_MAIN_1300_1800_00_big,,Thanks.
+$C3410_MAIN_1300_1800_00_big,ACTOR,Biggs
+$C3410_MAIN_1300_1810_00_big,,But why?
+$C3410_MAIN_1300_1810_00_big,ACTOR,Biggs
+$C3410_MAIN_1300_1900_00_zax,,"Well, you know..."
+$C3410_MAIN_1300_1900_00_zax,ACTOR,Zack
+$C3410_MAIN_1300_2000_00_big,,A reactor explosion would be a disaster.
+$C3410_MAIN_1300_2000_00_big,ACTOR,Biggs
+$C3410_MAIN_1300_2100_00_big,,"Even if the world’s ending, I can’t just ignore it."
+$C3410_MAIN_1300_2100_00_big,ACTOR,Biggs
+$C3410_MAIN_1300_2200_00_zax,,"That’s part of it, but I was worried about you first."
+$C3410_MAIN_1300_2200_00_zax,ACTOR,Zack
+$C3410_MAIN_1300_2300_00_big,,Sounds fake. You’re too nice.
+$C3410_MAIN_1300_2300_00_big,ACTOR,Biggs
+$C3410_MAIN_1300_2400_00_zax,,
+$C3410_MAIN_1300_2400_00_zax,ACTOR,Zack
+$C3410_MAIN_1300_2500_00_zax,,"No, I get it."
+$C3410_MAIN_1300_2500_00_zax,ACTOR,Zack
+$C3410_MAIN_1300_2510_00_zax,,I wanted to do something.
+$C3410_MAIN_1300_2510_00_zax,ACTOR,Zack
+$C3410_MAIN_1300_2520_00_zax,,I wanted to choose.
+$C3410_MAIN_1300_2520_00_zax,ACTOR,Zack
+$C3410_MAIN_1300_2600_00_zax,,Anything.
+$C3410_MAIN_1300_2600_00_zax,ACTOR,Zack
+$C3410_MAIN_1300_2700_00_zax,,Choosing opens up a path.
+$C3410_MAIN_1300_2700_00_zax,ACTOR,Zack
+$C3410_MAIN_1300_2710_00_zax,,Choosing opens up a new world.
+$C3410_MAIN_1300_2710_00_zax,ACTOR,Zack
+$C3410_MAIN_1300_2710_05_zax,,
+$C3410_MAIN_1300_2710_05_zax,ACTOR,Zack
+$C3410_MAIN_1300_2800_00_zax,,I want to take back my life.
+$C3410_MAIN_1300_2800_00_zax,ACTOR,Zack
+$C3410_MAIN_1300_2900_00_big,,Huh.
+$C3410_MAIN_1300_2900_00_big,ACTOR,Biggs
+$C3410_MAIN_1300_2900_03_big,,
+$C3410_MAIN_1300_2900_03_big,ACTOR,Biggs
+$C3410_MAIN_1300_2900_08_zax,,
+$C3410_MAIN_1300_2900_08_zax,ACTOR,Zack
+$C3410_MAIN_1300_3000_00_zax,,"Hey, Biggs."
+$C3410_MAIN_1300_3000_00_zax,ACTOR,Zack
+$C3410_MAIN_1300_3000_05_zax,,
+$C3410_MAIN_1300_3000_05_zax,ACTOR,Zack
+$C3410_MAIN_1300_3100_00_zax,,What is this? What’s going on?
+$C3410_MAIN_1300_3100_00_zax,ACTOR,Zack
+$C3410_MAIN_1300_3110_00_zax,,"Hey, Biggs!"
+$C3410_MAIN_1300_3110_00_zax,ACTOR,Zack
+$C3410_MAIN_1300_3110_05_zax,,
+$C3410_MAIN_1300_3110_05_zax,ACTOR,Zack
+$C3410_MAIN_1300_3200_00_zax,,"This means death, right?"
+$C3410_MAIN_1300_3200_00_zax,ACTOR,Zack
+$C3410_MAIN_1300_3300_00_zax,,Is this fate or something?
+$C3410_MAIN_1300_3300_00_zax,ACTOR,Zack
+$C3410_MAIN_1300_3300_05_zax,,
+$C3410_MAIN_1300_3300_05_zax,ACTOR,Zack
+$C3410_MAIN_1300_3400_00_zax,,What the hell is fate?
+$C3410_MAIN_1300_3400_00_zax,ACTOR,Zack
+$C3410_MAIN_1300_3410_00_zax,,Who decides that?
+$C3410_MAIN_1300_3410_00_zax,ACTOR,Zack
+$C3410_MAIN_1300_3410_05_zax,,
+$C3410_MAIN_1300_3410_05_zax,ACTOR,Zack
+$C3410_MAIN_1300_3500_00_zax,,I decide. I choose!
+$C3410_MAIN_1300_3500_00_zax,ACTOR,Zack
+$C3410_MAIN_1300_3500_05_zax,,
+$C3410_MAIN_1300_3500_05_zax,ACTOR,Zack
+$C3410_MAIN_1300_3600_00_zax,,Goodbye!
+$C3410_MAIN_1300_3600_00_zax,ACTOR,Zack
+$C3410_MAIN_1400_0050_02_mma,,
+$C3410_MAIN_1400_0050_04_mma,,
+$C3410_MAIN_1400_0050_06_mma,,
+$C3410_MAIN_1400_0050_10_mma,,
+$C3410_MAIN_1400_0050_12_mma,,
+$C3410_MAIN_1400_0050_12_mma,ACTOR,Photographer
+$C3410_MAIN_1400_0050_16_mma,,
+$C3410_MAIN_1400_0050_16_mma,ACTOR,Photographer
+$C3410_MAIN_1400_0050_18_mma,,
+$C3410_MAIN_1400_0050_18_mma,ACTOR,Photographer
+$C3410_MAIN_1400_0100_00_cld,,Why not us?
+$C3410_MAIN_1400_0100_00_cld,ACTOR,Cloud
+$C3410_MAIN_1400_0200_00_mma,,I wonder.
+$C3410_MAIN_1400_0200_00_mma,ACTOR,Photographer
+$C3410_MAIN_1400_0300_00_mma,,Lack of couple vibes?
+$C3410_MAIN_1400_0300_00_mma,ACTOR,Photographer
+$C3410_MAIN_1400_0310_00_mma,,The lady looks like she’s about to cry.
+$C3410_MAIN_1400_0310_00_mma,ACTOR,Photographer
+$C3410_MAIN_1400_0400_00_art,,That’s not true.
+$C3410_MAIN_1400_0400_00_art,ACTOR,Aerith
+$C3410_MAIN_1400_0500_00_mma,,You two need to get along better.
+$C3410_MAIN_1400_0500_00_mma,ACTOR,Photographer
+$C3410_MAIN_1400_0600_00_art,,Too bad. Next—
+$C3410_MAIN_1400_0600_00_art,ACTOR,Aerith
+$C3410_MAIN_1400_0700_00_cld,,"Before that, explain what’s going on."
+$C3410_MAIN_1400_0700_00_cld,ACTOR,Cloud
+$C3410_MAIN_1400_0710_00_cld,,Something’s off with the town and with you.
+$C3410_MAIN_1400_0710_00_cld,ACTOR,Cloud
+$C3410_MAIN_1400_0720_00_cld,,"You know something, don’t you?"
+$C3410_MAIN_1400_0720_00_cld,ACTOR,Cloud
+$C3410_MAIN_1400_0810_00_art,,"So, want to go to a memorable place?"
+$C3410_MAIN_1400_0810_00_art,ACTOR,Aerith
+$C3410_MAIN_1400_0810_05_cld,,
+$C3410_MAIN_1400_0810_05_cld,ACTOR,Cloud
+$C3410_MAIN_1400_0900_00_cld,,Where?
+$C3410_MAIN_1400_0900_00_cld,ACTOR,Cloud
+$C3410_MAIN_1400_1000_00_art,,Do you want to know?
+$C3410_MAIN_1400_1000_00_art,ACTOR,Aerith
+$C3410_MAIN_1400_1000_05_cld,,
+$C3410_MAIN_1400_1000_05_cld,ACTOR,Cloud
+$C3410_MAIN_1400_1100_00_art,,My favorite place.
+$C3410_MAIN_1400_1100_00_art,ACTOR,Aerith
+$C3410_MAIN_1400_1110_00_art,,That’s a big hint!
+$C3410_MAIN_1400_1110_00_art,ACTOR,Aerith
+$C3410_MAIN_1400_1110_05_art,,
+$C3410_MAIN_1400_1110_05_art,ACTOR,Aerith
+$C3410_MAIN_1600_0100_00_zax,,Cloud...
+$C3410_MAIN_1600_0100_00_zax,ACTOR,Zack
+$C3410_MAIN_1600_0110_00_zax,,Biggs...
+$C3410_MAIN_1600_0110_00_zax,ACTOR,Zack
+$C3410_MAIN_1600_0120_00_zax,,Aerith...
+$C3410_MAIN_1600_0120_00_zax,ACTOR,Zack
+$C3410_MAIN_1600_0120_05_zax,,
+$C3410_MAIN_1600_0120_05_zax,ACTOR,Zack
+$C3410_MAIN_1600_0200_00_zax,,
+$C3410_MAIN_1600_0200_00_zax,ACTOR,Zack
+$C3410_MAIN_1600_0300_00_zax,,As if I can choose that easily!
+$C3410_MAIN_1600_0300_00_zax,ACTOR,Zack
+$C3410_MAIN_1600_0300_03_zax,,
+$C3410_MAIN_1600_0300_03_zax,ACTOR,Zack
+$C3410_MAIN_1600_0300_06_zax,,
+$C3410_MAIN_1600_0300_06_zax,ACTOR,Zack
+$C3410_MAIN_1600_0300_09_zax,,
+$C3410_MAIN_1600_0300_09_zax,ACTOR,Zack
+$C3410_MAIN_1600_0400_00_zax,,Sephiroth!
+$C3410_MAIN_1600_0400_00_zax,ACTOR,Zack
+$C3410_MAIN_1600_0500_00_zax,,Hey!
+$C3410_MAIN_1600_0500_00_zax,ACTOR,Zack
+$C3410_MAIN_1600_0600_00_zax,,What the—!
+$C3410_MAIN_1600_0600_00_zax,ACTOR,Zack
+$C3410_MAIN_1600_0700_00_sep,,You...won’t do.
+$C3410_MAIN_1600_0700_00_sep,ACTOR,Sephiroth
+$C3410_MAIN_1600_0800_00_zax,,
+$C3410_MAIN_1600_0800_00_zax,ACTOR,Zack
+$C3410_MAIN_1700_0100_00_zax,,"Sephiroth, so it was you."
+$C3410_MAIN_1700_0100_00_zax,ACTOR,Zack
+$C3410_MAIN_1700_0100_05_zax,,
+$C3410_MAIN_1700_0100_05_zax,ACTOR,Zack
+$C3410_MAIN_1700_0200_00_zax,,I won’t let it end like this!
+$C3410_MAIN_1700_0200_00_zax,ACTOR,Zack
+$C3410_MAIN_1700_0200_05_zax,,
+$C3410_MAIN_1700_0200_05_zax,ACTOR,Zack
+$C3410_MAIN_1700_0200_07_zax,,
+$C3410_MAIN_1700_0200_07_zax,ACTOR,Zack
+$C3410_MAIN_1700_0300_00_zax,,
+$C3410_MAIN_1700_0300_00_zax,ACTOR,Zack
+$C3410_MAIN_1700_0300_05_zax,,
+$C3410_MAIN_1700_0300_05_zax,ACTOR,Zack
+$C3410_MAIN_1700_0300_08_zax,,
+$C3410_MAIN_1700_0300_08_zax,ACTOR,Zack
+$C3410_MAIN_1700_0300_10_zax,,
+$C3410_MAIN_1700_0300_10_zax,ACTOR,Zack
+$C3410_MAIN_1700_0500_00_zax,,I’m going there.
+$C3410_MAIN_1700_0500_00_zax,ACTOR,Zack
+$C3410_MAIN_1700_0510_00_zax,,Let’s go!
+$C3410_MAIN_1700_0510_00_zax,ACTOR,Zack
+$C3410_MAIN_1800_0100_00_cld,,The memorable place is here.
+$C3410_MAIN_1800_0100_00_cld,ACTOR,Cloud
+$C3410_MAIN_1800_0200_00_art,,Correct.
+$C3410_MAIN_1800_0200_00_art,ACTOR,Aerith
+$C3410_MAIN_1800_0300_00_cld,,Too easy.
+$C3410_MAIN_1800_0300_00_cld,ACTOR,Cloud
+$C3410_MAIN_1800_0400_00_art,,We don’t have many memories.
+$C3410_MAIN_1800_0400_00_art,ACTOR,Aerith
+$C3410_MAIN_1800_0500_00_cld,,We can make more from now on.
+$C3410_MAIN_1800_0500_00_cld,ACTOR,Cloud
+$C3410_MAIN_1800_0600_00_art,,Is that how you really feel?
+$C3410_MAIN_1800_0600_00_art,ACTOR,Aerith
+$C3410_MAIN_1800_0700_00_cld,,"Yeah, of course."
+$C3410_MAIN_1800_0700_00_cld,ACTOR,Cloud
+$C3410_MAIN_1800_0700_05_art,,
+$C3410_MAIN_1800_0700_05_art,ACTOR,Aerith
+$C3410_MAIN_1800_0800_00_cld,,We’re comrades.
+$C3410_MAIN_1800_0800_00_cld,ACTOR,Cloud
+$C3410_MAIN_1800_0900_00_art,,Right.
+$C3410_MAIN_1800_0900_00_art,ACTOR,Aerith
+$C3410_MAIN_1800_1000_00_art,,I’m glad I heard how you feel.
+$C3410_MAIN_1800_1000_00_art,ACTOR,Aerith
+$C3410_MAIN_1800_1000_05_art,,
+$C3410_MAIN_1800_1000_05_art,ACTOR,Aerith
+$C3410_MAIN_1800_1100_00_art,,"I like you, Cloud."
+$C3410_MAIN_1800_1100_00_art,ACTOR,Aerith
+$C3410_MAIN_1800_1110_00_art,,"But there are many kinds of ""like."""
+$C3410_MAIN_1800_1110_00_art,ACTOR,Aerith
+$C3410_MAIN_1800_1200_00_art,,"I wonder which ""like"" this is."
+$C3410_MAIN_1800_1200_00_art,ACTOR,Aerith
+$C3410_MAIN_1800_1300_00_cld,,"Aerith, you’re acting strange."
+$C3410_MAIN_1800_1300_00_cld,ACTOR,Cloud
+$C3410_MAIN_1800_1310_00_cld,,You’ve been weird all day.
+$C3410_MAIN_1800_1310_00_cld,ACTOR,Cloud
+$C3410_MAIN_1800_1900_00_art,,Excuse me.
+$C3410_MAIN_1800_1900_00_art,ACTOR,Aerith
+$C3410_MAIN_1800_2000_00_art,,"Go away, guilt."
+$C3410_MAIN_1800_2000_00_art,ACTOR,Aerith
+$C3410_MAIN_1800_2000_05_cld,,
+$C3410_MAIN_1800_2000_05_cld,ACTOR,Cloud
+$C3410_MAIN_1800_2100_00_art,,Cloud.
+$C3410_MAIN_1800_2100_00_art,ACTOR,Aerith
+$C3410_MAIN_1800_2200_00_art,,Thank you.
+$C3410_MAIN_1800_2200_00_art,ACTOR,Aerith
+$C3410_MAIN_1800_2300_00_cld,,
+$C3410_MAIN_1800_2300_00_cld,ACTOR,Cloud
+$C3410_MAIN_1800_2300_05_art,,
+$C3410_MAIN_1800_2300_05_art,ACTOR,Aerith
+$C3410_MAIN_1800_2400_00_art,,"No, it’s nothing."
+$C3410_MAIN_1800_2400_00_art,ACTOR,Aerith
+$C3410_MAIN_1800_2400_05_art,,
+$C3410_MAIN_1800_2400_05_art,ACTOR,Aerith
+$C3410_MAIN_1800_2400_08_art,,
+$C3410_MAIN_1800_2400_08_art,ACTOR,Aerith
+$C3410_MAIN_1800_2400_11_art,,
+$C3410_MAIN_1800_2400_11_art,ACTOR,Aerith
+$C3410_MAIN_1800_2500_00_art,,Hold onto this.
+$C3410_MAIN_1800_2500_00_art,ACTOR,Aerith
+$C3410_MAIN_1800_2600_00_cld,,Isn’t this important to you?
+$C3410_MAIN_1800_2600_00_cld,ACTOR,Cloud
+$C3410_MAIN_1800_2700_00_art,,This materia will save the world.
+$C3410_MAIN_1800_2700_00_art,ACTOR,Aerith
+$C3410_MAIN_1800_2700_05_cld,,
+$C3410_MAIN_1800_2700_05_cld,ACTOR,Cloud
+$C3410_MAIN_1800_2700_09_cld,,
+$C3410_MAIN_1800_2700_09_cld,ACTOR,Cloud
+$C3410_MAIN_1800_2800_00_art,,"Goodbye, Cloud."
+$C3410_MAIN_1800_2800_00_art,ACTOR,Aerith
+$C3410_MAIN_1800_2900_00_cld,,This is...
+$C3410_MAIN_1800_2900_00_cld,ACTOR,Cloud
+$C3410_MAIN_1800_2900_07_cld,,
+$C3410_MAIN_1800_2900_07_cld,ACTOR,Cloud
+$C3410_MAIN_1800_2900_10_cld,,
+$C3410_MAIN_1800_2900_10_cld,ACTOR,Cloud
+$C3410_MAIN_1800_3000_00_art,,It was fun.
+$C3410_MAIN_1800_3000_00_art,ACTOR,Aerith
+$C3410_MAIN_1800_3100_00_cld,,Aerith!
+$C3410_MAIN_1800_3100_00_cld,ACTOR,Cloud
+$MIDGR_NPC_10_0100_0100_00_mma,,They say the crack in the sky will swallow the stars.
+$MIDGR_NPC_10_0100_0200_00_mma,,I won’t look. I won’t look at the sky.
+$MIDGR_NPC_10_0100_0300_00_mma,,Is that sky Avalanche’s fault too?
+$MIDGR_NPC_10_0100_0400_00_mma,,"If I can be grateful for being safe today, that’s enough happiness for me."
+$MIDGR_NPC_10_0100_0500_00_mma,,"Ah, the rift in the sky. It’s getting bigger."
+$MIDGR_NPC_10_0100_0600_00_mma,,I decided to confess to the girl I like! I don’t want to have regrets.
+$MIDGR_NPC_10_0100_0700_00_mma,,I quit my job to spend the remaining days with my family.
+$MIDGR_NPC_10_0100_0710_00_mma,,I’m working through my bucket list.
+$MIDGR_NPC_10_0100_0800_00_mma,,There’s a rumor that Mako energy is running out.
+$MIDGR_NPC_10_0100_0810_00_mma,,The sun in the slums might stop too.
+$MIDGR_NPC_10_0100_0900_00_mma,,That rift is divine punishment. It’s time to pay for drowning in Mako.
+$MIDGR_NPC_10_0100_10000_00_mfa,,We who have sinned must accept our punishment.
+$MIDGR_NPC_10_0100_1000_00_mma,,Everyone dies eventually. Let’s live freely until then.
+$MIDGR_NPC_10_0100_10100_00_mma,,Let’s all go camping. I bought a new car.
+$MIDGR_NPC_10_0100_10200_00_mfk,,Really? Yay!
+$MIDGR_NPC_10_0100_10300_00_mmk,,"Dad, what about work?"
+$MIDGR_NPC_10_0100_10400_00_mma,,I quit. It’s fine now.
+$MIDGR_NPC_10_0100_10500_00_mfa,,Shall we make sandwiches together?
+$MIDGR_NPC_10_0100_10600_00_mfk,,I’ll put the meat in!
+$MIDGR_NPC_10_0100_10700_00_mmk,,Then I’ll cut the vegetables!
+$MIDGR_NPC_10_0100_10800_00_mma,,"Haha, I’ll show you how big the world is. Let’s make some memories."
+$MIDGR_NPC_10_0100_10900_00_mfa,,"We’ve had a lot of fights, haven’t we?"
+$MIDGR_NPC_10_0100_11000_00_mma,,Any complaints you’ve been holding back? Now’s the time to say them.
+$MIDGR_NPC_10_0100_1100_00_mma,,"You always get hungry, no matter what. That’s what being alive is."
+$MIDGR_NPC_10_0100_11100_00_mfa,,I wish we’d gone on more dates.
+$MIDGR_NPC_10_0100_11200_00_mma,,Sorry for always working. But we can still make it.
+$MIDGR_NPC_10_0100_11300_00_mfa,,"Yeah, let’s go everywhere we want!"
+$MIDGR_NPC_10_0100_11400_00_mfa,,I wonder what will happen to the baby inside me.
+$MIDGR_NPC_10_0100_11500_00_mma,,I don’t know...
+$MIDGR_NPC_10_0100_11600_00_mfa,,I wanted to see their face.
+$MIDGR_NPC_10_0100_11700_00_mma,,"Hey, let’s pick a name."
+$MIDGR_NPC_10_0100_11800_00_mma,,"I don’t know what’ll happen, but I want to call them by name."
+$MIDGR_NPC_10_0100_11900_00_mfa,,"Yes, let’s give them the best name."
+$MIDGR_NPC_10_0100_12000_00_mma,,"Sigh, I wish I’d had a lover at least once before dying."
+$MIDGR_NPC_10_0100_1200_00_mma,,Looking at that light makes me want to cry. I’m so scared...
+$MIDGR_NPC_10_0100_12100_00_mma,,What about me?
+$MIDGR_NPC_10_0100_12200_00_mma,,"Wait, really? You’re serious?"
+$MIDGR_NPC_10_0100_12210_00_mma,,"Haha, I should’ve confessed sooner."
+$MIDGR_NPC_10_0100_12300_00_mma,,Aerith was taken away in a wheelchair?
+$MIDGR_NPC_10_0100_12310_00_mma,,Was she caught in the tornado accident?
+$MIDGR_NPC_10_0100_12400_00_mma,,"I don’t know, but it doesn’t seem serious."
+$MIDGR_NPC_10_0100_12500_00_mfa,,I hope she gets better soon and helps at the shop again.
+$MIDGR_NPC_10_0100_12600_00_mma,,"Yeah, the place feels livelier with Aerith around."
+$MIDGR_NPC_10_0100_12700_00_mma,,"Without Aerith’s special spices, the food doesn’t taste the same."
+$MIDGR_NPC_10_0100_12800_00_mfa,,"Exactly, Maruke’s stew has been bland lately."
+$MIDGR_NPC_10_0100_12900_00_mma,,Thank you for your patronage! We’re having a closing sale!
+$MIDGR_NPC_10_0100_13000_00_mma,,Everything must go! Take one as a keepsake!
+$MIDGR_NPC_10_0100_1300_00_mma,,I wonder what’s beyond that rift.
+$MIDGR_NPC_10_0100_13100_00_mma,,How about one as a memory? It’s free!
+$MIDGR_NPC_10_0100_13200_00_mma,,Guaranteed happiness! One per person!
+$MIDGR_NPC_10_0100_13300_00_mfa,,"Sweet treats, anyone? No charge now."
+$MIDGR_NPC_10_0100_13400_00_mfa,,"Young man, young lady, take whichever you like."
+$MIDGR_NPC_10_0100_13500_00_mma,,Here’s a commemorative photo. Smile!
+$MIDGR_NPC_10_0100_13600_00_mma,,"Here’s ""Loyal Dog Stamp""!"
+$MIDGR_NPC_10_0100_13800_00_mma,,I thought I’d get a pro to take my last photo.
+$MIDGR_NPC_10_0100_13900_00_mma,,I hope I can smile properly...
+$MIDGR_NPC_10_0100_14000_00_mfa,,Take ours next!
+$MIDGR_NPC_10_0100_1400_00_mma,,Shinra will handle it. Right?
+$MIDGR_NPC_10_0100_14100_00_mfa,,I want it to look nice.
+$MIDGR_NPC_10_0100_14200_00_mfa,,I wish I’d taken more photos.
+$MIDGR_NPC_10_0100_1500_00_mma,,I’m still working. I don’t want to think about bad things.
+$MIDGR_NPC_10_0100_1600_00_mfa,,There’s a rumor that a huge meteor will fall from the rift.
+$MIDGR_NPC_10_0100_1700_00_mfa,,"It’s too late to regret, but everyone should have followed the teachings of the planet."
+$MIDGR_NPC_10_0100_1800_00_mfa,,Better to do everything now than regret later!
+$MIDGR_NPC_10_0100_1900_00_mfa,,Has Avalanche quieted down? Anti-Shinra activities don’t matter anymore.
+$MIDGR_NPC_10_0100_2000_00_mfa,,They say the tornado caused by Avalanche cracked the sky over Midgar.
+$MIDGR_NPC_10_0100_2100_00_mfa,,Will anyone remember us?
+$MIDGR_NPC_10_0100_2110_00_mfa,,It’s lonely to think that...
+$MIDGR_NPC_10_0100_2200_00_mfa,,It feels like a dream. It doesn’t feel real.
+$MIDGR_NPC_10_0100_2300_00_mfa,,I wish I could have gone to Costa del Sol at least once.
+$MIDGR_NPC_10_0100_2400_00_mfa,,"Every night, I wonder if I lived my life right."
+$MIDGR_NPC_10_0100_2500_00_mfa,,All those worries from when life was carefree feel precious now.
+$MIDGR_NPC_10_0100_2600_00_mfa,,Spending every day with family is so happy.
+$MIDGR_NPC_10_0100_2700_00_mfa,,Looking at the rift tightens my chest.
+$MIDGR_NPC_10_0100_2710_00_mfa,,Why is it so beautiful?
+$MIDGR_NPC_10_0100_2800_00_mfa,,"Every morning, I’m relieved to wake up. Good, I’m still alive."
+$MIDGR_NPC_10_0100_2900_00_mfa,,Is it true the reactors are stopping? Because of Avalanche?
+$MIDGR_NPC_10_0100_3000_00_mfa,,"My lover died in the Sector 7 accident, so I think it’s okay for me too."
+$MIDGR_NPC_10_0100_3100_00_mma,,What? What’s going on?
+$MIDGR_NPC_10_0100_3200_00_mma,,"No more trouble, please."
+$MIDGR_NPC_10_0100_3300_00_mma,,Are Avalanche remnants still active?
+$MIDGR_NPC_10_0100_3400_00_mma,,"Hey, the plate’s okay, right?"
+$MIDGR_NPC_10_0100_3500_00_mma,,Did an accident happen?
+$MIDGR_NPC_10_0100_3600_00_mma,,Who cares? Destroy more!
+$MIDGR_NPC_10_0100_3700_00_mma,,Was that explosion near the church?
+$MIDGR_NPC_10_0100_3800_00_mma,,Probably Avalanche again. Give it a rest.
+$MIDGR_NPC_10_0100_3900_00_mfa,,What? What’s this? Stop it already!
+$MIDGR_NPC_10_0100_4000_00_mfa,,"The explosion was near the church, right? What were they targeting?"
+$MIDGR_NPC_10_0100_4100_00_mfa,,"Avalanche did something again, didn’t they?"
+$MIDGR_NPC_10_0100_4200_00_mfa,,I don’t want to see people die anymore.
+$MIDGR_NPC_10_0100_4300_00_mfa,,Is it true there was a riot?
+$MIDGR_NPC_10_0100_4400_00_mfa,,Maybe blowing up the whole planet would bring peace.
+$MIDGR_NPC_10_0100_4500_00_mfa,,I just want to live quietly...
+$MIDGR_NPC_10_0100_4600_00_mfa,,Shinra can’t even handle Avalanche remnants.
+$MIDGR_NPC_10_0100_4700_00_mfa,,Here’s the latest on the rift that appeared over Midgar.
+$MIDGR_NPC_10_0100_4700_00_mfa,ACTOR,Announcer
+$MIDGR_NPC_10_0100_4800_00_mfa,,"According to Shinra’s science department, they’ve investigated the rift."
+$MIDGR_NPC_10_0100_4800_00_mfa,ACTOR,Announcer
+$MIDGR_NPC_10_0100_4900_00_mfa,,"They detected unusual waves, but no harm to humans has been confirmed. It’s not a problem."
+$MIDGR_NPC_10_0100_4900_00_mfa,ACTOR,Announcer
+$MIDGR_NPC_10_0100_5000_00_mfa,,"Regarding rumors that the planet is ending, Public Security Chief Heidegger said:"
+$MIDGR_NPC_10_0100_5000_00_mfa,ACTOR,Announcer
+$MIDGR_NPC_10_0100_5200_00_mfa,,"""We’re working hard to investigate the cause, so don’t be misled by uncertain information."""
+$MIDGR_NPC_10_0100_5200_00_mfa,ACTOR,Announcer
+$MIDGR_NPC_10_0100_5300_00_mfa,,"In the day after tomorrow’s press conference, President Rufus will report on the tornado damage"
+$MIDGR_NPC_10_0100_5300_00_mfa,ACTOR,Announcer
+$MIDGR_NPC_10_0100_5400_00_mfa,,and announce measures for the rift.
+$MIDGR_NPC_10_0100_5400_00_mfa,ACTOR,Announcer
+$MIDGR_NPC_10_0100_5500_00_mma,,There’s a theory that the rift is the planet’s lament.
+$MIDGR_NPC_10_0100_5600_00_mfa,,Has the planet abandoned us?
+$MIDGR_NPC_10_0100_5700_00_mma,,We wasted the planet’s blessings and fought. Maybe it’s angry.
+$MIDGR_NPC_10_0100_5800_00_mma,,Or perhaps it’s crying.
+$MIDGR_NPC_10_0100_5900_00_mfa,,"Ah, what will happen now?"
+$MIDGR_NPC_10_0100_6000_00_mma,,"In the end, the planet decides the future, right?"
+$MIDGR_NPC_10_0100_6100_00_mma,,Whether humans survive is up to the planet.
+$MIDGR_NPC_10_0100_6200_00_mma,,"So, what are you going to do?"
+$MIDGR_NPC_10_0100_6300_00_mma,,"Hmm, live as usual, I guess."
+$MIDGR_NPC_10_0100_6400_00_mma,,Boring. Aren’t you going to start something new?
+$MIDGR_NPC_10_0100_6500_00_mma,,I tried praying at the church for the first time.
+$MIDGR_NPC_10_0100_6600_00_mma,,"It was awkward, but I felt a bit calmer."
+$MIDGR_NPC_10_0100_6700_00_mma,,Even Shinra might be out of their depth this time.
+$MIDGR_NPC_10_0100_6800_00_mfa,,Maybe I’ll go to Cosmo Canyon and ask for a solution.
+$MIDGR_NPC_10_0100_6900_00_mma,,Planetology won’t help now.
+$MIDGR_NPC_10_0100_6910_00_mma,,They just pray and do nothing.
+$MIDGR_NPC_10_0100_7000_00_mfa,,Then what should we do?
+$MIDGR_NPC_10_0100_7100_00_mma,,There’s nothing we can do.
+$MIDGR_NPC_10_0100_7200_00_mfa,,I’ve lived enough. I have no regrets if my life ends here.
+$MIDGR_NPC_10_0100_7300_00_mfa,,But you all have your lives ahead. I’m so sorry.
+$MIDGR_NPC_10_0100_7400_00_mmk,,"Why are you apologizing, Grandma?"
+$MIDGR_NPC_10_0100_7500_00_mfk,,"Don’t cry, Grandma. It makes me sad too."
+$MIDGR_NPC_10_0100_7600_00_fol,,"Everyone, calm down!"
+$MIDGR_NPC_10_0100_7600_00_fol,ACTOR,Ms. Folia
+$MIDGR_NPC_10_0100_7700_00_fol,,Let’s dance together.
+$MIDGR_NPC_10_0100_7700_00_fol,ACTOR,Ms. Folia
+$MIDGR_NPC_10_0100_7800_00_mmk,,What’s going to happen to us?
+$MIDGR_NPC_10_0100_7900_00_mmk,,"Wow, the rift is getting bigger!"
+$MIDGR_NPC_10_0100_8000_00_mmk,,Do we not have to study anymore?
+$MIDGR_NPC_10_0100_8100_00_mfk,,Is there anything we can do?
+$MIDGR_NPC_10_0100_8200_00_mfk,,Can’t we grow up?
+$MIDGR_NPC_10_0100_8300_00_mfa,,Ms. Folia is a dancer.
+$MIDGR_NPC_10_0100_8400_00_mfa,,She was secretly working at the Honeybee Inn.
+$MIDGR_NPC_10_0100_8500_00_mfa,,Now she’s trying to cheer up the kids with her dancing.
+$MIDGR_NPC_10_0100_8600_00_mfa,,It’s really helpful.
+$MIDGR_NPC_10_0100_8700_00_mug,,Are you the guy who was with Aerith?
+$MIDGR_NPC_10_0100_8700_00_mug,ACTOR,Mugi
+$MIDGR_NPC_10_0100_8800_00_mug,,"Aerith’s okay, right?"
+$MIDGR_NPC_10_0100_8800_00_mug,ACTOR,Mugi
+$MIDGR_NPC_10_0100_8900_00_mma,,"Let’s do whatever we want from now on. First, money. Should we rob someone?"
+$MIDGR_NPC_10_0100_9000_00_mfa,,You don’t have to act tough.
+$MIDGR_NPC_10_0100_9100_00_mma,,"Shut up! After money, alcohol."
+$MIDGR_NPC_10_0100_9200_00_mfa,,"You’re scared, aren’t you?"
+$MIDGR_NPC_10_0100_9300_00_mma,,"Yeah, I’m scared. So what?"
+$MIDGR_NPC_10_0100_9400_00_mma,,"People of the planet, look at the sky! Look at that wound of despair!"
+$MIDGR_NPC_10_0100_9410_00_mma,,"The planet is suffering, screaming, mourning."
+$MIDGR_NPC_10_0100_9500_00_mma,,"Right now, the planet’s life is about to end."
+$MIDGR_NPC_10_0100_9510_00_mma,,"The Lifestream will soon die out, and our lives will vanish with the planet."
+$MIDGR_NPC_10_0100_9600_00_mma,,This fate is the planet’s punishment for our foolishness!
+$MIDGR_NPC_10_0100_9700_00_mfa,,"People of the planet, look at the sky! Look at that wound of despair!"
+$MIDGR_NPC_10_0100_9710_00_mfa,,"The planet is suffering, screaming, mourning."
+$MIDGR_NPC_10_0100_9800_00_mfa,,The creaking of the weakened planet tore the sky apart.
+$MIDGR_NPC_10_0100_9900_00_mfa,,That wound in the sky is a symbol of our sins for not listening to the planet’s cries.
+$MIDGR_NPC_10_0200_0100_00_mma,,I don’t have to go to work anymore.
+$MIDGR_NPC_10_0200_0200_00_mma,,"Even if I run, there’s nowhere to go."
+$MIDGR_NPC_10_0200_0300_00_mma,,I used to meet for dates here often.
+$MIDGR_NPC_10_0200_0400_00_mma,,I’m waiting for my wife to come back.
+$MIDGR_NPC_10_0200_0500_00_mma,,"If the trains aren’t running, maybe they’ll send a helicopter."
+$MIDGR_NPC_10_0200_0600_00_mma,,"The spiral tunnel took some heavy damage, I hear."
+$MIDGR_NPC_10_0200_0700_00_mma,,"The whole of Midgar won’t collapse, right?"
+$MIDGR_NPC_10_0200_0800_00_mma,,I want to distract myself with work at times like this.
+$MIDGR_NPC_10_0200_0900_00_mma,,I heard there’s a riot in Sector 8.
+$MIDGR_NPC_10_0200_1000_00_mma,,Can you see the rift better from the plate?
+$MIDGR_NPC_10_0200_1100_00_mfa,,This station has seen many meetings and partings. It was loved by everyone.
+$MIDGR_NPC_10_0200_1200_00_mfa,,"My boyfriend lives on the plate, so I have many memories here."
+$MIDGR_NPC_10_0200_1300_00_mfa,,My husband hasn’t come back yet.
+$MIDGR_NPC_10_0200_1400_00_mfa,,Is it true that the top of the Shinra Building blew off?
+$MIDGR_NPC_10_0200_1500_00_mfa,,"So many things are happening, everyone’s losing the will to live."
+$MIDGR_NPC_10_0200_1600_00_mfa,,"Hey, did you hear? Shinra’s going to attack the rift."
+$MIDGR_NPC_10_0200_1700_00_mfa,,I’m kinda expecting Shinra to do something about it.
+$MIDGR_NPC_10_0200_1800_00_mfa,,Maybe it’s because we used too much Mako?
+$MIDGR_NPC_10_0200_1810_00_mfa,,The planet must be angry.
+$MIDGR_NPC_10_0200_1900_00_mfa,,"If the trains aren’t running, can I walk up the tracks?"
+$MIDGR_NPC_10_0200_2000_00_mfa,,"Don’t be fooled by rumors. Shinra made an announcement, right?"
+$MIDGR_NPC_10_0200_2100_00_mma,,All trains to the plate are suspended.
+$MIDGR_NPC_10_0200_2110_00_mma,,No plans to resume service.
+$MIDGR_NPC_10_0200_2200_00_mma,,I can’t say when service will resume.
+$MIDGR_NPC_10_0200_2210_00_mma,,Wait for the Urban Development Department’s announcement.
+$MIDGR_NPC_10_0200_2300_00_mma,,All trains to the plate are suspended.
+$MIDGR_NPC_10_0200_2310_00_mma,,No plans to resume service.
+$MIDGR_NPC_10_0200_2400_00_mma,,I can’t say when service will resume.
+$MIDGR_NPC_10_0200_2410_00_mma,,Wait for the Urban Development Department’s announcement.
+$MIDGR_NPC_10_0200_2500_00_mfa,,Maruke’s stew. A harmony of sweetness and spice.
+$MIDGR_NPC_10_0200_2600_00_mfa,,"Lots of sugar, lots of oil. High calorie!"
+$MIDGR_NPC_10_0200_2700_00_mfa,,Sector 5 Slum’s special meatballs. How about it?
+$MIDGR_NPC_10_0200_2800_00_mfa,,Secret sweet and spicy sauce.
+$MIDGR_NPC_10_0200_2900_00_mma,,The best sweet and spicy meatballs in the slums.
+$MIDGR_NPC_10_0200_3000_00_mma,,Our secret sauce is the original.
+$MIDGR_NPC_10_0300_togaki_00,,
+$MIDGR_NPC_10_0300_togaki_00,ACTOR,

@@ -1,0 +1,1035 @@
+id,name,text,text_jp
+$C1910_MAIN_0100_0050_00_sep,Sephiroth,"Come quickly, Cloud.",早く来い　クラウド
+$C1910_MAIN_0100_0070_00_mma,Reporter,Live from the Midgar Highway.,ミッドガル・ハイウェイから中継です
+$C1910_MAIN_0100_0080_00_mma,Reporter,"Can you see it? A building has completely collapsed, and the road has caved in.",ご覧いただけますでしょうか<br>ビルが完全に倒壊し　道路が崩落しております
+$C1910_MAIN_0100_0090_00_mma,Reporter,"Smoke is rising from multiple buildings, and flames can be seen.",複数の建物から煙が立ちのぼり<br>火の手があがっているのが確認できます
+$C1910_MAIN_0100_0100_00_mma,Reporter,"Currently, Midgar is facing an unprecedented crisis.",現在　ミッドガルは<br>かつてない危機にさらされています
+$C1910_MAIN_0100_0110_00_mma,Reporter,"The Mako Reactor bombing, the Sector 7 Plate——",魔晄炉爆破事件　七番プレート――
+$C1910_MAIN_0100_0120_00_mma,Reporter,"Following the collapse of the Sector 7 Plate,",七番プレート崩壊につづき
+$C1910_MAIN_0100_0200_00_mma,Reporter,A tornado that suddenly appeared on the Midgar Highway,ミッドガル・ハイウェイに　突如発生した竜巻が
+$C1910_MAIN_0100_0300_00_mma,Reporter,has caused tremendous damage from Sector 0 to Sector 2.,零番街から　弐番街にいたる区画に<br>甚大な被害をもたらしました
+$C1910_MAIN_0100_0310_00_mma,NPC,MIDGR___9,MIDGR___9
+$C1910_MAIN_0100_0311_00_mma,NPC,MIDGR___10,MIDGR___10
+$C1910_MAIN_0100_0320_00_mfa,NPC,MIDGR___11,MIDGR___11
+$C1910_MAIN_0100_0321_00_mma,NPC,MIDGR___12,MIDGR___12
+$C1910_MAIN_0100_0330_00_mfa,NPC,MIDGR___13,MIDGR___13
+$C1910_MAIN_0100_0331_00_mma,NPC,MIDGR___14,MIDGR___14
+$C1910_MAIN_0100_0332_00_mma,NPC,MIDGR___15,MIDGR___15
+$C1910_MAIN_0100_0340_00_skm,NPC,MIDGR___16,MIDGR___16
+$C1910_MAIN_0100_0341_00_skm,NPC,MIDGR___17,MIDGR___17
+$C1910_MAIN_0100_0342_00_skm,NPC,MIDGR___18,MIDGR___18
+$C1910_MAIN_0100_0400_00_mma,Reporter,"Mayor Domino and the city authorities, with advice from the Shinra Company,",ドミノ市長と市当局は<br>神羅カンパニーの助言を得て
+$C1910_MAIN_0100_0500_00_mma,Reporter,"have stated that this tornado is due to the anti-Shinra group ""Avalanche""",この竜巻は　反神羅勢力『アバランチ』による
+$C1910_MAIN_0100_0510_00_mma,Reporter,"using an unknown weapon, according to their announcement.",未知の兵器を使った攻撃であるという見解を<br>発表しました
+$C1910_MAIN_0100_0600_00_mma,Reporter,"They will continue to investigate, considering the involvement of Wutai, currently under a ceasefire.",現在停戦中の　ウータイの関与も視野に入れて<br>引き続き　調査するとのことです
+$C1910_MAIN_0100_0600_05_mma,Reporter,,
+$C1910_MAIN_0200_0000_05_zax,Zack,MIDGR___24,MIDGR___24
+$C1910_MAIN_0200_0100_00_kre,Kyrie,I heard that Midgar was completely caught in the tornado.,ミッドガルが　ぜんぶ<br>竜巻に入っちゃったんだって
+$C1910_MAIN_0200_0100_03_zax,Zack,MIDGR___26,MIDGR___26
+$C1910_MAIN_0200_0200_00_mma,Slum Resident,I heard it was some kind of explosion.,俺は　なにかの爆発だって聞いたぜ
+$C1910_MAIN_0200_0300_00_kre,Kyrie,Maybe the tornado caused an explosion?,竜巻で爆発したんじゃない？
+$C1910_MAIN_0200_0400_00_mma,Slum Resident,Too many things are happening one after another.,立て続けに　色々起こりすぎるよな
+$C1910_MAIN_0200_0400_05_kre,Kyrie,MIDGR___30,MIDGR___30
+$C1910_MAIN_0200_0401_00_mma,<i>Reporter</i>,"<i>Currently, Midgar is facing an unprecedented crisis.</i>",<i>現在　ミッドガルは<br>かつてない危機にさらされています</i>
+$C1910_MAIN_0200_0402_00_mma,<i>Reporter</i>,"<i>The Mako Reactor bombing, the Sector 7 Plate</i>",<i>魔晄炉爆破事件　七番プレート</i>
+$C1910_MAIN_0200_0403_00_mma,<i>Reporter</i>,<i>Following the collapse of the Sector 7 Plate——</i>,<i>七番プレート崩壊につづき――</i>
+$C1910_MAIN_0200_0404_00_mma,Reporter,MIDGR___34,MIDGR___34
+$C1910_MAIN_0200_0404_01_mma,Reporter,MIDGR___35,MIDGR___35
+$C1910_MAIN_0200_0405_00_mma,<i>Reporter</i>,<i>We’ll continue bringing you this live broadcast from the scene.</i>,<i>引き続き　現場から生中継でお送りします</i>
+$C1910_MAIN_0200_0405_03_zax,Zack,MIDGR___37,MIDGR___37
+$C1910_MAIN_0200_0406_00_mma,Reporter,Search efforts by the Shinra military are still ongoing on the collapsed highway.,現在も　倒壊したハイウェイでは<br>神羅軍によって捜索が進められています
+$C1910_MAIN_0200_0407_00_mma,Reporter,MIDGR___39,MIDGR___39
+$C1910_MAIN_0200_0410_00_skm,Security Guard,"One missing person, a former SOLDIER.",行方不明者１名　元ソルジャー
+$C1910_MAIN_0200_0420_00_skm,Security Guard,"Carrying a large sword, the Buster Sword, with a risk of escape.",大型の剣　バスターソードを所持<br>逃亡の恐れあり
+$C1910_MAIN_0200_0421_00_skm,<i>Security Guard</i>,<i>Repeat: The fugitive is a former SOLDIER carrying the Buster Sword——</i>,<i>繰り返す　逃亡犯は元ソルジャー<br>バスターソードを所持――</i>
+$C1910_MAIN_0200_0430_00_zax,Zack,,
+$C1910_MAIN_0200_0440_00_mma,Reporter,"Hey, over there!",おい　あそこ！
+$C1910_MAIN_0200_0442_00_mma,Reporter,Is that someone who was rescued?,あれは　救助された方でしょうか
+$C1910_MAIN_0200_0450_00_skm,Rescue Team,MIDGR___46,MIDGR___46
+$C1910_MAIN_0200_0451_00_skm,Rescue Team,MIDGR___47,MIDGR___47
+$C1910_MAIN_0200_0460_00_skm,Rescue Team,MIDGR___48,MIDGR___48
+$C1910_MAIN_0200_0461_00_skm,Rescue Team,MIDGR___49,MIDGR___49
+$C1910_MAIN_0200_0462_00_skm,Rescue Team,"Hey...over here, over here!",おい、こちこち！
+$C1910_MAIN_0200_0470_00_mma,Reporter,"Oh no, turn it that way, that way!",まずい　あっち　あっち向けて
+$C1910_MAIN_0200_0470_08_mma,Reporter,MIDGR___52,MIDGR___52
+$C1910_MAIN_0200_0480_00_skm,Security Guard,MIDGR___53,MIDGR___53
+$C1910_MAIN_0200_0481_00_skm,Security Guard,Contact the rescue team.,救護班に連絡しろ
+$C1910_MAIN_0200_0482_00_skm,Security Guard,We’ve secured the recovery target. Returning by helicopter now.,回収対象者を確保した<br>これより　ヘリにて帰還する
+$C1910_MAIN_0200_0483_00_skm,Security Guard,"Hurry, we’re leaving!",急げ　出発するぞ！
+$C1910_MAIN_0200_0500_00_zax,Zack,,
+$C1910_MAIN_0200_0600_00_skm,Security Guard,"Hey, what are you doing?!",おい　なにをしてる！
+$C1910_MAIN_0200_0600_03_mma,Cameraman,MIDGR___59,MIDGR___59
+$C1910_MAIN_0200_0600_05_skm,Security Guard,MIDGR___60,MIDGR___60
+$C1910_MAIN_0200_0610_00_mma,Cameraman,MIDGR___61,MIDGR___61
+$C1910_MAIN_0200_0610_07_mma,Reporter,MIDGR___62,MIDGR___62
+$C1910_MAIN_0200_0620_00_mma,Reporter,The helicopter is taking off now.,いま　ヘリが飛び立ちます
+$C1910_MAIN_0200_0630_00_skm,Security Guard,MIDGR___64,MIDGR___64
+$C1910_MAIN_0200_0640_00_mma,Reporter,It appears to be heading toward Sector 5.,伍番街方面に向かう模様です
+$C1910_MAIN_0200_0640_05_skm,Security Guard,MIDGR___66,MIDGR___66
+$C1910_MAIN_0200_0640_08_mma,Reporter,MIDGR___67,MIDGR___67
+$C1910_MAIN_0200_0650_00_skm,Security Guard,"You! Enough already!",貴様　いい加減に――
+$C1910_MAIN_0200_0650_05_mma,Cameraman,MIDGR___69,MIDGR___69
+$C1910_MAIN_0200_0660_00_mma,Cameraman,MIDGR___70,MIDGR___70
+$C1910_MAIN_0200_0660_11_zax,Zack,MIDGR___71,MIDGR___71
+$C1910_MAIN_0200_0660_14_zax,Zack,MIDGR___72,MIDGR___72
+$C1910_MAIN_0200_0660_16_kre,Kyrie,MIDGR___73,MIDGR___73
+$C1910_MAIN_0200_0660_17_zax,Zack,MIDGR___74,MIDGR___74
+$C1910_MAIN_0200_0660_20_zax,Zack,MIDGR___75,MIDGR___75
+$C1910_MAIN_0200_0660_23_kre,Kyrie,MIDGR___76,MIDGR___76
+$C1910_MAIN_0200_0700_00_zax,Zack,Sorry.,悪い
+$C1910_MAIN_0200_0700_05_kre,Kyrie,MIDGR___78,MIDGR___78
+$C1910_MAIN_0200_0710_00_zax,Zack,"I’ll be right back, so keep an eye on this guy.",すぐ戻るから　こいつ見てて
+$C1910_MAIN_0200_0710_05_mma,Slum Resident,MIDGR___80,MIDGR___80
+$C1910_MAIN_0200_0710_07_mma,Slum Resident,MIDGR___81,MIDGR___81
+$C1910_MAIN_0200_0800_00_zax,Zack,My buddy’s got mako poisoning.,俺のトモダチ　魔晄中毒
+$C1910_MAIN_0200_0800_01_kre,Kyrie,MIDGR___83,MIDGR___83
+$C1910_MAIN_0200_0800_05_mfa,NPC,MIDGR___84,MIDGR___84
+$C1910_MAIN_0200_0800_06_zax,Zack,MIDGR___85,MIDGR___85
+$C1910_MAIN_0200_0900_00_kre,Kyrie,Hey!,ちょっと！
+$C1910_MAIN_0200_0900_05_mma,NPC,MIDGR___87,MIDGR___87
+$C1910_MAIN_0300_0000_05_zax,Zack,MIDGR___88,MIDGR___88
+$C1910_MAIN_0300_0000_11_zax,Zack,MIDGR___89,MIDGR___89
+$C1910_MAIN_0300_0100_00_zax,Zack,Aerith!,エアリス！
+$C1910_MAIN_0300_0100_05_zax,Zack,MIDGR___91,MIDGR___91
+$C1910_MAIN_0300_0100_11_skm,NPC,MIDGR___92,MIDGR___92
+$C1910_MAIN_0300_0100_13_skm,NPC,MIDGR___93,MIDGR___93
+$C1910_MAIN_0300_0200_00_zax,Zack,MIDGR___94,MIDGR___94
+$C1910_MAIN_0310_0100_00_skm,Shinra Helicopter,Emergency request! Confirmed crash landing of an Avalanche transport.,緊急要請！<br>アバランチ護送機の不時着を確認
+$C1910_MAIN_0310_0200_00_skm,Shinra Helicopter,"All nearby units, head to the scene immediately. Do not let the perpetrators escape!",周辺の部隊は　現場に急行せよ<br>犯人の逃亡を絶対に許すな！
+$C1910_MAIN_0310_0300_00_skm,Shinra Helicopter,"One of the Avalanche members, a former SOLDIER carrying the Buster Sword,",アバランチメンバーのひとり<br>バスターソードを所持する元ソルジャーが
+$C1910_MAIN_0310_0310_00_skm,Shinra Helicopter,may be hiding near the crash site.,事故現場周辺に潜伏中の可能性あり
+$C1910_MAIN_0310_0320_00_skm,Shinra Helicopter,Stay vigilant.,警戒を緩めるな
+$C1910_MAIN_0310_0400_00_skm,Shinra Helicopter,Prepare for a counterattack from Avalanche and their collaborators!,アバランチ　および<br>協力者の反撃に備えろ！
+$C1910_MAIN_0310_0500_00_skm,Shinra Helicopter,Repeat——,繰り返す――
+$C1910_MAIN_0320_0100_00_zax,Zack,MIDGR___102,MIDGR___102
+$C1910_MAIN_0400_0100_00_skm,Security Guard,"Be careful, he might still put up a fight.",気をつけろ　まだ暴れるかもしれん
+$C1910_MAIN_0400_0200_00_skm,Security Guard,Clear!,クリア！
+$C1910_MAIN_0400_0300_00_skm,Security Guard,"Alright, move her out.",よし　運びだせ
+$C1910_MAIN_0400_0400_00_zax,Zack,Get your hands off!,手を離せ！
+$C1910_MAIN_0410_0100_00_skm,Security Guard,"Look, the Buster Sword.",見ろ　バスターソードだ
+$C1910_MAIN_0410_0200_00_skm,Security Guard,Damn Avalanche!,アバランチめ！
+$C1910_MAIN_0410_0300_00_skm,Shinra Helicopter,The recovery target is a female Ancient. Prioritize securing her.,回収対象は　古代種の女<br>女の確保を優先せよ
+$C1910_MAIN_0410_0400_00_skm,Shinra Helicopter,This is Unit 5 requesting backup! Engaging Avalanche at the transport crash site.,こちら伍番機　応援要請！<br>護送機不時着現場でアバランチと交戦中
+$C1910_MAIN_0410_0500_00_skm,Shinra Helicopter,"Crash site is near the Sector 5 slum gate. All units, head to the scene!",不時着地点は　伍番街スラムゲート至近<br>各機現場に急行せよ！
+$C1910_MAIN_0410_0600_00_skm,Shinra Helicopter,Repeat——,繰り返す――
+$C1910_MAIN_0420_0050_00_skm,Shinra Helicopter,Confirmed annihilation of the advance team!,先行部隊の全滅を確認！
+$C1910_MAIN_0420_0060_00_skm,Shinra Helicopter,Deploying the second team. Requesting continued support.,第二班を投入する<br>引き続き　応援を求む
+$C1910_MAIN_0420_0060_05_skm,Security Guard,Let’s go!,行くぞ！
+$C1910_MAIN_0420_0060_11_zax,Zack,MIDGR___116,MIDGR___116
+$C1910_MAIN_0420_0060_14_skm,Security Guard,MIDGR___117,MIDGR___117
+$C1910_MAIN_0420_0060_17_skm,Security Guard,MIDGR___118,MIDGR___118
+$C1910_MAIN_0420_0100_00_zax,Zack,This is bad.,まっずいな
+$C1910_MAIN_0420_0100_05_skm,Security Guard,MIDGR___120,MIDGR___120
+$C1910_MAIN_0420_0100_08_skm,Security Guard,MIDGR___121,MIDGR___121
+$C1910_MAIN_0420_0200_00_skm,Shinra Helicopter,To Avalanche: Cease resistance and surrender immediately.,アバランチに告ぐ<br>ただちに抵抗をやめ　降伏せよ
+$C1910_MAIN_0420_0200_05_zax,Zack,MIDGR___123,MIDGR___123
+$C1910_MAIN_0420_0200_07_skm,Security Guard,MIDGR___124,MIDGR___124
+$C1910_MAIN_0420_0200_08_skm,Security Guard,MIDGR___125,MIDGR___125
+$C1910_MAIN_0420_0200_10_zax,Zack,MIDGR___126,MIDGR___126
+$C1910_MAIN_0420_0300_00_zax,Zack,Shut up!,だまれ！
+$C1910_MAIN_0420_0400_00_skm,Security Guard,What...!,なに……！
+$C1910_MAIN_0420_0400_05_skm,Security Guard,MIDGR___129,MIDGR___129
+$C1910_MAIN_0420_0400_08_skm,Security Guard,MIDGR___130,MIDGR___130
+$C1910_MAIN_0420_0400_11_skm,Security Guard,MIDGR___131,MIDGR___131
+$C1910_MAIN_0420_0400_14_zax,Zack,MIDGR___132,MIDGR___132
+$C1910_MAIN_0420_0500_00_skm,Security Guard,"Don’t falter, attack!",ひるむな　かかれ！
+$C1910_MAIN_0420_0500_05_skm,Security Guard,MIDGR___134,MIDGR___134
+$C1910_MAIN_0420_0500_08_zax,Zack,MIDGR___135,MIDGR___135
+$C1910_MAIN_0500_0050_05_zax,Zack,MIDGR___136,MIDGR___136
+$C1910_MAIN_0500_0050_09_zax,Zack,MIDGR___137,MIDGR___137
+$C1910_MAIN_0500_0050_13_zax,Zack,MIDGR___138,MIDGR___138
+$C1910_MAIN_0500_0100_00_zax,Zack,"Thanks, man.",ありがとな
+$C1910_MAIN_0500_0100_07_zax,Zack,MIDGR___140,MIDGR___140
+$C1910_MAIN_0500_0200_00_skm,Security Guard,Where’s the Ancient!,古代種はどこだ！
+$C1910_MAIN_0500_0300_00_skm,Security Guard,"If we don’t recover her, it’ll be a huge mess.",回収しないと　えらい騒ぎになるぞ
+$C1910_MAIN_0500_0400_00_skm,Security Guard,"Don’t just stand there, search!",ぼさっとするな　探せ
+$C1910_MAIN_0500_0400_05_zax,Zack,MIDGR___144,MIDGR___144
+$C1910_MAIN_0500_0500_00_zax,Zack,What’s this?,なによ　これ
+$C1910_MAIN_0500_0600_00_zax,Zack,What’s going on?,なにごと？
+$C1910_MAIN_0500_0600_05_zax,Zack,MIDGR___147,MIDGR___147
+$C1910_MAIN_0500_0700_00_zax,Zack,"Aerith, I’m back, okay?",エアリス　帰ってきたぞ？
+$C1910_MAIN_0500_0700_05_zax,Zack,MIDGR___149,MIDGR___149
+$C1910_MAIN_0500_0700_07_zax,Zack,MIDGR___150,MIDGR___150
+$C2510_MAIN_1600_0000_02_zax,Zack,MIDGR___151,MIDGR___151
+$C2510_MAIN_1600_0000_05_zax,Zack,MIDGR___152,MIDGR___152
+$C2510_MAIN_1600_0100_00_zax,Zack,Huh?,はい？
+$C2510_MAIN_1600_0200_00_elm,???,Open the door.,開けておくれ
+$C2510_MAIN_1600_0200_05_zax,Zack,MIDGR___155,MIDGR___155
+$C2510_MAIN_1700_0000_03_elm,Elmyra,MIDGR___156,MIDGR___156
+$C2510_MAIN_1700_0000_05_zax,Zack,MIDGR___157,MIDGR___157
+$C2510_MAIN_1700_0100_00_zax,Zack,Elmyra?,エルミナ？
+$C2510_MAIN_1700_0200_00_elm,Elmyra,"You’re Zack, right?",ザックスだね
+$C2510_MAIN_1700_0300_00_zax,Zack,Yeah...,ああ……
+$C2510_MAIN_1700_0300_03_elm,Elmyra,MIDGR___161,MIDGR___161
+$C2510_MAIN_1700_0300_05_zax,Zack,MIDGR___162,MIDGR___162
+$C2510_MAIN_1700_0400_00_elm,Elmyra,Where’s Aerith?,エアリスは？
+$C2510_MAIN_1700_0500_00_zax,Zack,Upstairs...,上に……
+$C2510_MAIN_1700_0500_05_elm,Elmyra,MIDGR___165,MIDGR___165
+$C2510_MAIN_1800_0100_00_elm,Elmyra,I’ll take her home with me.,うちに連れて帰るよ
+$C2510_MAIN_1800_0200_00_zax,Zack,That house is being watched by Shinra. I’ve checked it out a few times.,あの家は　神羅が見張ってる<br>何度か見に行ったんだ
+$C2510_MAIN_1800_0300_00_elm,Elmyra,They’re gone now. I guess they’ve got bigger things to deal with.,もういないよ<br>向こうも　それどころじゃないんだろうね
+$C2510_MAIN_1800_0400_00_zax,Zack,But...,でも……
+$C2510_MAIN_1800_0500_00_elm,Elmyra,"You can’t take care of her, can you?",あんたじゃ　世話できないだろ？
+$C2510_MAIN_1800_0600_00_zax,Zack,"No, that’s not true! I’ve been looking after Cloud this whole——",いや　そんなことないって<br>俺　ずっとクラウドの──
+$C2510_MAIN_1800_0700_00_elm,Elmyra,You haven’t!,できてないよ！
+$C2510_MAIN_1800_0710_00_elm,Elmyra,Look at Aerith’s skin.,見てごらんよ　エアリスの肌
+$C2510_MAIN_1800_0800_00_elm,Elmyra,"It’s all dry, and this dirt!",カサカサじゃないか　それにこの汚れ！
+$C2510_MAIN_1800_0800_05_zax,Zack,MIDGR___175,MIDGR___175
+$C2510_MAIN_1800_0900_00_elm,Elmyra,Sorry.,悪いね
+$C2510_MAIN_1800_1000_00_elm,Elmyra,"I prepared myself after seeing the note, but seeing her like this still hits hard.",置き手紙を見て　覚悟はしてきたけど<br>やっぱり　こんな姿見るとね
+$C2510_MAIN_1800_1000_05_elm,Elmyra,MIDGR___178,MIDGR___178
+$C2510_MAIN_1800_1100_00_zax,Zack,Yeah...,うん……
+$C2510_MAIN_1800_1100_05_elm,Elmyra,MIDGR___180,MIDGR___180
+$C2510_MAIN_1800_1200_00_elm,Elmyra,I borrowed a wheelchair for Aerith. You carry Cloud on your back.,車椅子を借りてきたよ　エアリスを乗せて<br>クラウドは　あんたがおぶって
+$C2510_MAIN_1800_1300_00_elm,Elmyra,"That’ll work, right?",それで　いけるだろ？
+$C2510_MAIN_1800_1400_00_zax,Zack,"Yeah, I think so.",ああ　いけると思う
+$C2510_MAIN_1800_1500_00_zax,Zack,That’s Aerith’s.,それ　エアリスの
+$C2510_MAIN_1800_1600_00_elm,Elmyra,"Yeah, I know.",ああ　知ってるよ
+$C2510_MAIN_1900_0100_00_mug,Mugi,"Huh, Aerith?",あれ　エアリス？
+$C2510_MAIN_1900_0200_00_mug,Mugi,What’s wrong?,どうしたの？
+$C2510_MAIN_1900_0200_05_elm,Elmyra,MIDGR___188,MIDGR___188
+$C2510_MAIN_1900_0300_00_mug,Mugi,Aerith...Aerith!,エアリス……エアリス！
+$C2510_MAIN_1900_0300_05_mug,Mugi,MIDGR___190,MIDGR___190
+$C2510_MAIN_1900_0300_08_mug,Mugi,MIDGR___191,MIDGR___191
+$C2510_MAIN_1900_0300_11_zax,Zack,MIDGR___192,MIDGR___192
+$C2510_MAIN_1900_0400_00_zax,Zack,"Hey, Elmyra.",なあ　エルミナ
+$C2510_MAIN_1900_0500_00_elm,Elmyra,What is it?,なんだい
+$C2510_MAIN_1900_0600_00_zax,Zack,What’s happening?,なにが起こってるんだ？
+$C2510_MAIN_1900_0600_05_zax,Zack,MIDGR___196,MIDGR___196
+$C2510_MAIN_1900_0700_00_elm,Elmyra,The world’s ending.,世界が終わる
+$C2510_MAIN_1900_0700_05_zax,Zack,MIDGR___198,MIDGR___198
+$C2510_MAIN_1900_0710_00_elm,Elmyra,That’s what everyone’s saying.,みんな　そう言ってるよ
+$C2610_MAIN_3000_0100_00_zax,Zack,"Sorry, I couldn’t do anything for you.",ごめんな　なにもしてやれなくてさ
+$C2610_MAIN_3000_0200_00_zax,Zack,Didn’t know you were such a bookworm.,意外と読書家だったんだな
+$C2610_MAIN_3000_0300_00_zax,Zack,"Materia, huh? Weird color.",マテリアか　不思議な色だな
+$C2610_MAIN_3200_0000_05_elm,Elmyra,MIDGR___203,MIDGR___203
+$C2610_MAIN_3200_0000_09_elm,Elmyra,MIDGR___204,MIDGR___204
+$C2610_MAIN_3200_0100_00_elm,Elmyra,Want some too?,あんたも食べるかい？
+$C2610_MAIN_3200_0200_00_zax,Zack,"Yeah, yeah!",食べる食べる！
+$C2610_MAIN_3200_0200_05_zax,Zack,MIDGR___207,MIDGR___207
+$C2610_MAIN_3200_0300_00_mrn,Marlene,"Say ""Thanks for the food.""",『いただきます』です
+$C2610_MAIN_3200_0400_00_zax,Zack,"Yes, yes!",はいはい！
+$C2610_MAIN_3200_0500_00_mrn,Marlene,"""Yes"" is just once!",『はい』は１回です！
+$C2610_MAIN_3200_0500_05_zax,Zack,MIDGR___211,MIDGR___211
+$C2610_MAIN_3200_0600_00_zax,Zack,Yes!,はい！
+$C2610_MAIN_3200_0600_05_zax,Zack,MIDGR___213,MIDGR___213
+$C2610_MAIN_3200_0700_00_zax,Zack,"Last night, there was someone outside the house, right?",昨日の夜　家のまえに誰かいたよな
+$C2610_MAIN_3200_0800_00_elm,Elmyra,"Yeah, that was Biggs.",ああ　ビッグスだね
+$C2610_MAIN_3200_0810_00_elm,Elmyra,He brought us some food.,食料を届けてくれたんだ
+$C2610_MAIN_3200_0900_00_zax,Zack,"He was kinda sneaking around, though.",なんか　コソコソしてたけど
+$C2610_MAIN_3200_1000_00_elm,Elmyra,"Wanted posters with his face are plastered everywhere, you know? That’s probably why.",そこら中に　手配書が貼ってあるだろ？<br>あれに顔が載ってるんだ
+$C2610_MAIN_3300_0100_00_big,Biggs,MIDGR___219,MIDGR___219
+$C2610_MAIN_3300_0200_00_big,Biggs,MIDGR___220,MIDGR___220
+$C2610_MAIN_3400_0100_00_zax,Zack,What’s the connection?,どういう関係？
+$C2610_MAIN_3400_0200_00_elm,Elmyra,Ask him yourself.,本人から　聞きなよ
+$C2610_MAIN_3400_0210_00_elm,Elmyra,"As long as Marlene’s here, he’ll come back.",マリンがここにいる限り　また来るだろ
+$C2610_MAIN_3400_0300_00_mrn,Marlene,He won’t.,来ないよ
+$C2610_MAIN_3400_0300_06_elm,Elmyra,MIDGR___225,MIDGR___225
+$C2610_MAIN_3400_0400_00_mrn,Marlene,Biggs isn’t coming back. ‘Cause Daddy and Tifa haven’t come back either!,ビッグスは　もう来ないよ<br>だって　父ちゃんもティファも帰ってこないもん！
+$C2610_MAIN_3400_0500_00_mrn,Marlene,So Biggs isn’t coming back either.,だから　ビッグスももう来ないの
+$C2610_MAIN_3400_0500_05_elm,Elmyra,MIDGR___228,MIDGR___228
+$C2610_MAIN_3400_0600_00_zax,Zack,Then I’ll go find Biggs.,そんじゃ　俺がビッグスを探しに行くよ
+$C2610_MAIN_3400_0610_00_zax,Zack,And bring him back!,そんで　連れてくる！
+$C2610_MAIN_3400_0610_05_mrn,Marlene,MIDGR___231,MIDGR___231
+$C2610_MAIN_3400_0700_00_mrn,Marlene,Really?,ほんと？
+$C2610_MAIN_3400_0800_00_zax,Zack,"Really, really!",ほんとほんと！
+$C2610_MAIN_3400_0810_00_zax,Zack,"One ""really"" is enough, right?",返事は１回だったよな
+$C2610_MAIN_3400_0900_00_mrn,Marlene,"No, you can say it more!",ううん　もっと言っていいよ
+$C2610_MAIN_3400_0900_05_zax,Zack,MIDGR___236,MIDGR___236
+$C2610_MAIN_3400_1000_00_zax,Zack,"Really, really!",ほんとほんと！
+$C2710_MAIN_0300_0000_02_zax,Zack,MIDGR___238,MIDGR___238
+$C2710_MAIN_0300_0000_05_zax,Zack,MIDGR___239,MIDGR___239
+$C2710_MAIN_0300_0100_00_zax,Zack,Looks good.,これでよしと
+$C2710_MAIN_0400_0100_00_zax,Zack,"Hey, do you know this guy in the photo?",なあ　この写真の人　知らない？
+$C2710_MAIN_0400_0110_00_zax,Zack,Have you seen this guy somewhere?,この人　どこかで見なかった？
+$C2710_MAIN_0400_0120_00_zax,Zack,This man—does he look familiar?,この男なんだけど　見覚えない？
+$C2710_MAIN_0400_0130_00_zax,Zack,Know this guy?,こいつ　知ってる？
+$C2710_MAIN_0400_0200_00_mfa,Slum Resident,"Sorry, don’t know him.",ごめん　知らない
+$C2710_MAIN_0400_0300_00_mma,Slum Resident,No idea.,知りませんね
+$C2710_MAIN_0400_0400_00_mma,Slum Resident,Don’t know.,知らないな
+$C2710_MAIN_0400_0500_00_mfa,Slum Resident,"Sorry, I don’t recognize him.",悪いわね　わからないわ
+$C2710_MAIN_0400_0600_00_mmk,Slum Resident,Who’s that?,だれ　それ？
+$C2710_MAIN_0400_0700_00_mfk,Slum Resident,Sorry.,ごめんなさい
+$C2710_MAIN_0500_0100_00_zax,Zack,MIDGR___251,MIDGR___251
+$C2710_MAIN_0500_0200_00_mma,Slum Resident,"Hey, Avalanche again?",おいおい　またアバランチか？
+$C2710_MAIN_0500_0300_00_mma,Slum Resident,Maybe.,かもな
+$C2710_MAIN_0500_0400_00_zax,Zack,Gotta go!,行かないと！
+$C2710_MAIN_0600_0000_05_zax,Zack,MIDGR___255,MIDGR___255
+$C2710_MAIN_0600_0100_00_zax,Zack,MIDGR___256,MIDGR___256
+$C2710_MAIN_0600_0100_05_zax,Zack,MIDGR___257,MIDGR___257
+$C2710_MAIN_0600_0200_00_zax,Zack,Found you!,みーつけた！
+$C3010_MAIN_0200_0100_00_big,Biggs,"And then, I felt blood flowing from all over my body.",でな　体のあちこちから<br>血が流れていくのを感じてた
+$C3010_MAIN_0200_0200_00_big,Biggs,I thought I’d die when I stopped feeling anything.,なにも感じなくなったら　死ぬんだと思ってた
+$C3010_MAIN_0200_0300_00_big,Biggs,But that didn’t happen.,でも　そうはならなかった
+$C3010_MAIN_0300_0100_00_big,Biggs,I think there was a strong wind blowing.,強い風が吹いてた気がするんだよな
+$C3010_MAIN_0300_0200_00_big,Biggs,And it felt like my consciousness was being peeled away from my body.,んで　意識が体から<br>引きはがされるような気がして
+$C3010_MAIN_0400_0000_05_big,Biggs,MIDGR___264,MIDGR___264
+$C3010_MAIN_0400_0100_00_big,Biggs,"When I came to, I was lying in the orphanage.",気がついたら　孤児院で寝てた
+$C3010_MAIN_0400_0200_00_big,Biggs,No one knows who found me or who brought me there.,誰が俺を見つけて　誰が運んだのか<br>誰も知らないんだ
+$C3010_MAIN_0400_0300_00_zax,Zack,"Same here, more or less.",俺も似たようなもん
+$C3010_MAIN_0400_0400_00_zax,Zack,"I was up against an army, like, seriously.",マジかってくらいの軍勢の相手して
+$C3010_MAIN_0500_0100_00_zax,Zack,It hurt like hell.,すっげえ　痛かったわ
+$C3010_MAIN_0500_0200_00_zax,Zack,"Yeah, there was definitely a wind blowing.",うん　たしかに風が吹いてたな
+$C3010_MAIN_0600_0100_00_zax,Zack,I was shocked when I realized I was standing.,自分が立ってるって気づいた時は　驚いたのなんの
+$C3010_MAIN_0600_0200_00_big,Biggs,"It doesn’t make sense, does it?",ワケがわからないよな
+$C3010_MAIN_0600_0300_00_big,Biggs,Surviving only to end up in a world like this.,生き延びてみたら　こんな世界だし
+$C3010_MAIN_0600_0310_00_big,Biggs,And besides...,それに……
+$C3010_MAIN_0600_0400_00_big,Biggs,Why was I the one to survive?,なんで　生き残ったのが俺なんだ？
+$C3010_MAIN_0600_0500_00_zax,Zack,What do you mean?,どういう意味よ
+$C3010_MAIN_0600_0500_05_big,Biggs,MIDGR___277,MIDGR___277
+$C3010_MAIN_0600_0600_00_big,Biggs,I can’t help but think about it.,つい　考えちまうんだ
+$C3010_MAIN_0600_0700_00_big,Biggs,Why was I the one left behind among all those members?,あのメンバーの中で<br>俺が残ったのは　どうしてだろうってな
+$C3010_MAIN_0600_0800_00_big,Biggs,What would they want from me if they were here?,あいつらがいたら<br>俺になにを望むだろうとか
+$C3010_MAIN_0600_0900_00_zax,Zack,"Yeah, you think about that stuff.",考えるよな　うん
+$C3010_MAIN_0600_0900_05_big,Biggs,MIDGR___282,MIDGR___282
+$C3010_MAIN_0600_1000_00_big,Biggs,Bear with me for a bit.,ちょっと　つきあってくれ
+$C3010_MAIN_0600_1100_00_zax,Zack,"Sure, what is it?",いいけど　なに？
+$C3010_MAIN_0600_1200_00_big,Biggs,I’ll talk while we walk.,歩きながら　話すわ
+$C3010_MAIN_0700_0100_00_big,Biggs,"So, how’s Cloud doing?",なあ　クラウドの様子は？
+$C3010_MAIN_0700_0200_00_zax,Zack,Severe mako poisoning. No signs of recovery yet.,重度の魔晄中毒って感じだな<br>いまのところ　回復のきざしはない
+$C3010_MAIN_0700_0300_00_zax,Zack,"I’ll ask around, though.",まあ　あちこち当たってみるよ
+$C3010_MAIN_0700_0400_00_big,Biggs,I see.,そっか
+$C3010_MAIN_0700_0500_00_big,Biggs,"When he gets better, he’ll probably brag about it.",元気になったら<br>あいつ　得意気に話すんだろうな
+$C3010_MAIN_0700_0600_00_big,Biggs,"Like, ""I came back from mako poisoning.""",魔晄中毒からの帰還とか　そんな話をさ
+$C3010_MAIN_0700_0700_00_zax,Zack,Is Cloud that kind of guy?,クラウドって　そんなヤツか？
+$C3010_MAIN_0700_0800_00_big,Biggs,He’s desperate to make himself look valuable.,自分を価値ある人間に見せようと必死
+$C3010_MAIN_0700_0900_00_big,Biggs,Even though we already respected him without all that.,そんなことしなくたって<br>俺たちは　一目置いてたのによ
+$C3010_MAIN_0700_1000_00_zax,Zack,Huh...,へえ……
+$C3010_MAIN_0700_1100_00_big,Biggs,"Hey, Zack, why don’t you try being a jack-of-all-trades?",そうだ　ザックス<br>あんたも『なんでも屋』　やったらどうだ？
+$C3010_MAIN_0700_1200_00_zax,Zack,Jack-of-all-trades?,なんでも屋？
+$C3010_MAIN_0700_1300_00_big,Biggs,There’s quite a demand for it.,けっこう　需要あるぜ？
+$C3010_MAIN_0700_1400_00_zax,Zack,I’ll think about it.,考えとくわ
+$C3010_MAIN_0800_0100_00_big,Biggs,Look at this.,見ろよ　これ
+$C3010_MAIN_0800_0100_05_zax,Zack,MIDGR___301,MIDGR___301
+$C3010_MAIN_0800_0200_00_zax,Zack,Let’s see...what’s this...,え～っと　なになに……
+$C3010_MAIN_0800_0300_00_zax,Zack,"""The destruction of Sector 7 was Shinra’s own doing. We can’t overlook Shinra’s tyranny.""",『七番街の壊滅は　神羅の自作自演<br>　神羅の横暴を見過ごすわけにはいかない』
+$C3010_MAIN_0800_0400_00_zax,Zack,"""Let’s show them the people’s anger! New Avalanche recruiting members.""",『民衆の怒りを思い知らせよう！<br>　新生アバランチ　メンバー募集』
+$C3010_MAIN_0800_0500_00_zax,Zack,"Those interested, wait at the outdoor meeting place.",『希望者は　野外集会所で待て』
+$C3010_MAIN_0800_0600_00_zax,Zack,"Wow, bold.",うわ　大胆
+$C3010_MAIN_0800_0700_00_big,Biggs,Right?,だろ？
+$C3010_MAIN_0800_0800_00_zax,Zack,"Shinra’s gonna know about this. Even if people show up, they’ll all get caught.",こんなの　神羅にも筒抜けだぞ？<br>希望者が集まっても　みんな捕まる
+$C3010_MAIN_0800_0900_00_big,Biggs,Shinra won’t bother catching them.,捕まえるなんて面倒なこと　神羅がするかよ
+$C3010_MAIN_0800_0910_00_big,Biggs,They’ll just shoot them on sight.,いきなり撃たれて　それでおしまいだ
+$C3010_MAIN_0800_1000_00_zax,Zack,Then all the more reason.,だったら　なおさら
+$C3010_MAIN_0800_1100_00_big,Biggs,But Avalanche needs...,でも　アバランチには
+$C3010_MAIN_0800_1200_00_big,Biggs,idiots who don’t care about that.,そんなことは　ものともしない<br>バカ野郎が必要なのさ
+$C3010_MAIN_0800_1300_00_zax,Zack,Hey!,おい！
+$C3010_MAIN_0800_1310_00_zax,Zack,"You’re not thinking of going, are you?",まさか　行くつもり？
+$C3010_MAIN_0800_1400_00_zax,Zack,"Ah, come on!",あ～　もう！
+$C3010_MAIN_0900_0100_00_big,Biggs,Have you ever thought about the purpose or meaning of life?,あんたは　人生の目的とか意味とか<br>考えたことあるか？
+$C3010_MAIN_0900_0200_00_zax,Zack,"I guess...yeah, I think about it a lot.",ある……かな<br>うん　めちゃくちゃ考える
+$C3010_MAIN_0900_0300_00_big,Biggs,You don’t look the type.,見かけによらない
+$C3010_MAIN_0900_0400_00_zax,Zack,"Since joining Shinra, a lot’s happened. Like, a whole lot.",神羅に入ってから　色々あったんだ<br>いやもうホント　いろいろ
+$C3010_MAIN_0900_0500_00_big,Biggs,"I’ve been thinking ever since I woke up. Thanks to that, I’m self-critical every day.",俺も　目覚めてからずっと考えてる<br>おかげで毎日　自己批判だよ
+$C3010_MAIN_1000_0100_00_zax,Zack,"Hey, Biggs.",なあ　ビッグス
+$C3010_MAIN_1000_0110_00_zax,Zack,You said earlier that there’s demand for a jack-of-all-trades.,さっき　なんでも屋は需要がある<br>って言ってたよな
+$C3010_MAIN_1000_0200_00_big,Biggs,Yeah.,ああ
+$C3010_MAIN_1000_0300_00_zax,Zack,Is someone already doing that?,だれかもうやってんの　なんでも屋
+$C3010_MAIN_1000_0400_00_big,Biggs,"Of course, it’s Cloud. Are you really his friend?",クラウドに決まってるだろ<br>あんた　ほんとに友達か？
+$C3010_MAIN_1000_0500_00_zax,Zack,When did you meet Cloud?,クラウドとは　いつ知り合ったんだ？
+$C3010_MAIN_1000_0600_00_big,Biggs,That was the day before the operation...,あれは　作戦の前の日だから……
+$C3010_MAIN_1000_0700_00_big,Biggs,"Wait, how many days ago was that?",あれ　何日前だ？
+$C3010_MAIN_1000_0800_00_big,Biggs,I’ve lost my sense of time.,俺　どうも時間の感覚がおかしくなってるな
+$C3010_MAIN_1000_0900_00_zax,Zack,Me too. What’s up with that?,それ　俺もなんだ　どゆこと？
+$C3010_MAIN_1000_1000_00_big,Biggs,Don’t ask me.,俺に聞くなよ
+$C3010_MAIN_1100_0100_00_big,Biggs,"You see, I...",俺はさ
+$C3010_MAIN_1100_0200_00_zax,Zack,Yeah?,うん？
+$C3010_MAIN_1100_0300_00_big,Biggs,I like being second or third. It’s comfortable.,２番目か　３番目が好きなんだ<br>居心地が良くてさ
+$C3010_MAIN_1100_0400_00_zax,Zack,Uh-huh.,うん
+$C3010_MAIN_1100_0500_00_big,Biggs,"Rather than deciding whether to do something, I prefer thinking about how to do it.",やるか　やらないかを決めるより<br>どうやってやるかを考えるのが性に合ってる
+$C3010_MAIN_1100_0600_00_zax,Zack,That’s fine.,いいじゃないの
+$C3010_MAIN_1100_0700_00_big,Biggs,"So, why was someone like me left behind? That’s what it comes back to.",どうして　そんな俺が残されたのか<br>話はそこに戻る
+$C3010_MAIN_1100_0800_00_zax,Zack,Maybe your nature is needed.,必要なんだろ　あんたのその性分が
+$C3010_MAIN_1100_0900_00_big,Biggs,Who needs it?,誰が求めてるんだ？
+$C3010_MAIN_1100_1000_00_zax,Zack,"Well, whoever caused that wind?",そりゃあ　風を吹かせたヤツ？
+$C3010_MAIN_1100_1100_00_big,Biggs,I wonder who caused that wind.,あの風　誰が吹かせたんだろうな
+$C3010_MAIN_1100_1200_00_zax,Zack,Don’t ask me.,俺に聞くなって
+$C3010_MAIN_1200_0100_00_big,Biggs,We’re almost there. Be careful.,そろそろだ　用心してくれ
+$C3010_MAIN_1200_0200_00_zax,Zack,Got it.,おう
+$C3010_MAIN_1300_0100_00_zax,Zack,No one’s here.,誰もいない
+$C3010_MAIN_1300_0200_00_big,Biggs,It’s almost refreshing.,気持ちいいくらいな
+$C3010_MAIN_1300_0300_00_zax,Zack,"Well, lucky there’s no Shinra around.",まあ　神羅もいなくてラッキーっと
+$C3010_MAIN_1300_0300_05_zax,Zack,MIDGR___350,MIDGR___350
+$C3010_MAIN_1300_0300_07_big,Biggs,MIDGR___351,MIDGR___351
+$C3010_MAIN_1300_0400_00_zax,Zack,Who’s there!,誰だ！
+$C3010_MAIN_1300_0400_05_kre,Kyrie,MIDGR___353,MIDGR___353
+$C3010_MAIN_1300_0400_08_kre,Kyrie,MIDGR___354,MIDGR___354
+$C3010_MAIN_1300_0500_00_zax,Zack,"Wait, an applicant?",あれ　応募者？
+$C3010_MAIN_1300_0600_00_kre,Kyrie,Huh? No way!,はあ？　んなワケないじゃん！
+$C3010_MAIN_1300_0700_00_kre,Kyrie,I just wanted to see the faces of the idiots who’d show up for such a sloppy poster.,あーんな　雑なポスターで集まるヤツらの<br>マヌケ面を見てやろうと思っただけ
+$C3010_MAIN_1300_0800_00_kre,Kyrie,"But too bad, looks like I missed out.",でも　ざんねん<br>アテがはずれちゃったみたい
+$C3010_MAIN_1300_0900_00_kre,Kyrie,MIDGR___359,MIDGR___359
+$C3010_MAIN_1300_1000_00_kre,Kyrie,"Well, I’m off.",じゃあね　わたし　行くから
+$C3010_MAIN_1300_1100_00_big,Biggs,MIDGR___361,MIDGR___361
+$C3010_MAIN_1300_1110_00_big,Biggs,Looks like this wasn’t my mission.,俺の使命は　これじゃなかったみたいだ
+$C3010_MAIN_1300_1200_00_big,Biggs,It was meaningless. I wasn’t chosen...,意味なんてなかった<br>俺は選ばれたわけじゃ……
+$C3010_MAIN_1300_1300_00_zax,Zack,MIDGR___364,MIDGR___364
+$C3010_MAIN_1300_1400_00_big,Biggs,Sorry for dragging you into this.,つきあわせて　悪かったな
+$C3010_MAIN_1600_0100_00_zax,Zack,Biggs!,ビッグス！
+$C3010_MAIN_1600_0100_05_big,Biggs,MIDGR___367,MIDGR___367
+$C3010_MAIN_1600_0200_00_zax,Zack,Let’s find something.,なんか　見つけようぜ
+$C3010_MAIN_1600_0300_00_zax,Zack,Who said the world is ending?,世界が終わるなんて　誰が言い出した？
+$C3010_MAIN_1600_0400_00_zax,Zack,Something’s off. Why is everyone just accepting it?,なんか変だろ　どうしてみんな<br>そんなこと受け入れてるんだ？
+$C3010_MAIN_1600_0500_00_zax,Zack,We can’t let it stay like this!,このままじゃ　ダメだって！
+$C3010_MAIN_1600_0500_05_zax,Zack,MIDGR___372,MIDGR___372
+$C3010_MAIN_1600_0600_00_zax,Zack,"Let’s look for something, find something.",探そう　なんか見つけよう
+$C3010_MAIN_1600_0600_05_big,Biggs,MIDGR___374,MIDGR___374
+$C3010_MAIN_1600_0700_00_zax,Zack,"I don’t know what yet, but...",なんかって　なんだって話だよな
+$C3010_MAIN_1600_0800_00_zax,Zack,Like dreams or hope.,いまはまだ思いつかないけど<br>夢とか　希望とか
+$C3010_MAIN_1600_0900_00_zax,Zack,Find those and hold onto them tight.,そういうの見つけて<br>それをグッと抱きしめるんだ
+$C3010_MAIN_1600_1000_00_big,Biggs,Tight?,グッと？
+$C3010_MAIN_1600_1100_00_zax,Zack,"Yeah, or really tight!",ああ　ギュ～っとでもいい！
+$C3010_MAIN_1600_1100_05_big,Biggs,MIDGR___380,MIDGR___380
+$C3010_MAIN_1600_1200_00_big,Biggs,You’re a good guy.,あんた　いいヤツだな
+$C3010_MAIN_1600_1200_05_big,Biggs,MIDGR___382,MIDGR___382
+$C3010_MAIN_1600_1300_00_big,Biggs,I’ll think about it.,考えとくよ
+$C3010_MAIN_1600_1300_05_zax,Zack,MIDGR___384,MIDGR___384
+$C3010_MAIN_1600_1400_00_big,Biggs,See you then. I’ll visit Cloud sometime.,じゃあ　またな<br>クラウドの見舞いも　そのうち
+$C3010_MAIN_1600_1500_00_zax,Zack,Yeah!,おう！
+$C3010_MAIN_1600_1600_00_zax,Zack,Make sure you think about it.,ちゃんと　考えろよ
+$C3010_MAIN_1600_1600_05_zax,Zack,MIDGR___388,MIDGR___388
+$C3010_MAIN_1600_1700_00_zax,Zack,Guess I’ll head home.,俺も　うちに帰りますか
+$C3010_MAIN_1600_1700_05_zax,Zack,MIDGR___390,MIDGR___390
+$C3010_MAIN_1600_1800_00_zax,Zack,"Home, huh.",うち　だってよ
+$C3010_MAIN_1700_0100_00_zax,Zack,I’m back.,ただいま
+$C3010_MAIN_1700_0200_00_elm,Elmyra,Welcome home.,おかえりなさい
+$C3010_MAIN_1700_0300_00_mrn,Marlene,Welcome back.,おかえりなさい
+$C3010_MAIN_1700_0400_00_zax,Zack,I saw Biggs. He’s doing fine.,ビッグスいたぞ　元気だった
+$C3010_MAIN_1700_0500_00_mrn,Marlene,Really?,ほんと？
+$C3010_MAIN_1700_0500_05_elm,Elmyra,MIDGR___397,MIDGR___397
+$C3010_MAIN_1700_0500_08_mrn,Marlene,MIDGR___398,MIDGR___398
+$C3010_MAIN_1700_0600_00_zax,Zack,He said he’ll come by.,こんど　来るって
+$C3010_MAIN_1700_0700_00_mrn,Marlene,Yay!,やったあ！
+$C3010_MAIN_1700_0700_05_mrn,Marlene,MIDGR___401,MIDGR___401
+$C3010_MAIN_1700_0800_00_mrn,Marlene,Did he know anything about Dad or Tifa?,父ちゃんやティファのこと　知ってた？
+$C3010_MAIN_1700_0900_00_zax,Zack,"Sorry, we didn’t talk about that.",ごめん　その話はしなかった
+$C3010_MAIN_1700_1000_00_mrn,Marlene,Aww!,もう～！
+$C3010_MAIN_1700_1000_05_zax,Zack,MIDGR___405,MIDGR___405
+$C3010_MAIN_1700_1100_00_elm,Elmyra,"Zack, could you check on the second floor?",ザックス　２階の様子を見てきておくれ
+$C3010_MAIN_1700_1200_00_zax,Zack,Sure.,おう
+$C3010_MAIN_1700_1300_00_elm,Elmyra,You’ll see them eventually. Everyone’s heading to the same place.,かならず会えるよ<br>みんな　同じ場所を目指しているんだから
+$C3010_MAIN_1700_1400_00_mrn,Marlene,When?,いつ？
+$C3010_MAIN_1700_1500_00_elm,Elmyra,I don’t think it’ll be long.,そんなに先じゃないと思うよ
+$C3010_MAIN_1700_1600_00_zax,Zack,I’m back.,ただいま
+$C3010_MAIN_1700_1700_00_zax,Zack,"The wind...it’s Aerith, right?",風　エアリスだろ？
+$C3010_MAIN_1700_1800_00_zax,Zack,Hello?,もしも～し
+$C3220_MAIN_0100_0000_05_elm,Elmyra,Here.,MIDGR___414
+$C3220_MAIN_0100_0000_08_zax,Zack,MIDGR___415,MIDGR___415
+$C3220_MAIN_0100_0100_00_elm,Elmyra,I’ll take care of Aerith later.,エアリスは　あとで私がやるからね
+$C3220_MAIN_0100_0200_00_zax,Zack,Got it.,了解
+$C3220_MAIN_0200_0100_00_zax,Zack,Aerith sure sleeps a lot.,エアリスは　よく寝るよなあ
+$C3220_MAIN_0200_0200_00_mrn,Marlene,It’s better that way.,そのほうがいいの
+$C3220_MAIN_0200_0300_00_zax,Zack,"Huh, why?",なんで？
+$C3220_MAIN_0200_0400_00_mrn,Marlene,Because Cloud is still sick.,だって　クラウドがまだ病気だから
+$C3220_MAIN_0200_0400_05_zax,Zack,MIDGR___422,MIDGR___422
+$C3220_MAIN_0200_0500_00_mrn,Marlene,"Zack, please cure Cloud quickly.",ザックス<br>クラウドをはやく治して　おねがい
+$C3220_MAIN_0200_0500_05_zax,Zack,MIDGR___424,MIDGR___424
+$C3220_MAIN_0200_0600_00_zax,Zack,"I want to, but...",俺だって　そうしたいけど
+$C3220_MAIN_0200_0700_00_zax,Zack,"Wait, what do you mean it’s better for Aerith to sleep because Cloud is sick?",でも　クラウドが病気だから<br>エアリスは寝てたほうがいいって　どういうこと？
+$C3220_MAIN_0200_0800_00_mrn,Marlene,If she wakes up...,起きたら……
+$C3220_MAIN_0200_0810_00_mrn,Marlene,Big sis will die.,お姉ちゃん　死んじゃうの
+$C3220_MAIN_0200_0900_00_zax,Zack,"Sorry, Marlene, I don’t understand at all.",ごめん　マリン　全然わかんない
+$C3220_MAIN_0200_0900_05_zax,Zack,MIDGR___430,MIDGR___430
+$C3220_MAIN_0200_1000_00_mrn,Marlene,"You won’t tell anyone, right?",だれにも言わない？
+$C3220_MAIN_0200_1000_05_zax,Zack,MIDGR___432,MIDGR___432
+$C3220_MAIN_0200_1000_08_zax,Zack,MIDGR___433,MIDGR___433
+$C3220_MAIN_0200_1100_00_mrn,Marlene,Big sis will be killed by a scary person.,お姉ちゃんはね　こわい人に殺されちゃうの
+$C3220_MAIN_0200_1100_05_zax,Zack,MIDGR___435,MIDGR___435
+$C3220_MAIN_0200_1200_00_mrn,Marlene,"Cloud will try to save her, but he won’t make it in time.",クラウドが助けようとするけど　間に合わないの
+$C3220_MAIN_0200_1210_00_mrn,Marlene,"He’s so close, but he won’t make it!",もうすこしなのに　間に合わないの！
+$C3220_MAIN_0200_1300_00_mrn,Marlene,"Big sis is really happy that Cloud, who she really likes, comes for her.",お姉ちゃんは　大好きなクラウドがきてくれて<br>とってもうれしいんだけど
+$C3220_MAIN_0200_1310_00_mrn,Marlene,But...,でも……
+$C3220_MAIN_0200_1400_00_mrn,Marlene,But she dies.,でも　死んじゃうの
+$C3220_MAIN_0200_1500_00_mrn,Marlene,"So, we need to cure Cloud quickly so he can protect her.",だから　はやくクラウドの病気を治して<br>お姉ちゃんを守ってもらわなくちゃ
+$C3220_MAIN_0200_1500_05_zax,Zack,MIDGR___442,MIDGR___442
+$C3220_MAIN_0200_1600_00_zax,Zack,"Marlene, is this...a dream?",マリン　その話は……夢？
+$C3220_MAIN_0200_1600_05_mrn,Marlene,No.,ううん
+$C3220_MAIN_0200_1700_00_mrn,Marlene,It’s not a dream.,夢じゃないよ
+$C3220_MAIN_0200_1800_00_zax,Zack,I see.,そっか
+$C3220_MAIN_0200_1900_00_mrn,Marlene,It’s true!,ほんとだよ！
+$C3220_MAIN_0200_1900_05_zax,Zack,MIDGR___448,MIDGR___448
+$C3220_MAIN_0200_2000_00_zax,Zack,"I believe you. In a world like this, I’ll believe anything.",わかってるって<br>こんな世界だからな　なんでも信じるよ
+$C3220_MAIN_0200_2000_05_zax,Zack,MIDGR___450,MIDGR___450
+$C3220_MAIN_0200_2000_08_mrn,Marlene,Yeah...,うん……
+$C3220_MAIN_0200_2100_00_zax,Zack,"So, Marlene, one more question.",んで　マリン　質問なんだけど
+$C3220_MAIN_0200_2200_00_zax,Zack,Who is this scary person? What do they look like?,そのこわい人って　だれ？　どんな人？
+$C3220_MAIN_0200_2300_00_mrn,Marlene,Long hair...,髪が長くて……
+$C3220_MAIN_0200_2300_04_zax,Zack,MIDGR___455,MIDGR___455
+$C3220_MAIN_0200_2300_07_zax,Zack,MIDGR___456,MIDGR___456
+$C3220_MAIN_0200_2310_00_mrn,Marlene,Silver.,銀色なの
+$C3220_MAIN_0200_2400_00_zax,Zack,Oh boy.,まいったな
+$C3220_MAIN_0300_0100_00_elm,Elmyra,"Zack, look.",ザックス　見てごらん
+$C3220_MAIN_0300_0100_05_zax,Zack,MIDGR___460,MIDGR___460
+$C3220_MAIN_0300_0200_00_elm,Elmyra,The flowers are blooming.,花が咲いてるよ
+$C3220_MAIN_0300_0300_00_zax,Zack,They are!,ほんとだ！
+$C3220_MAIN_0300_0400_00_elm,Elmyra,Aerith loves these flowers.,エアリスは　この花が大好きなんだ
+$C3220_MAIN_0300_0400_05_elm,Elmyra,MIDGR___464,MIDGR___464
+$C3220_MAIN_0300_0500_00_elm,Elmyra,Maybe she’ll wake up.,あの子　目を覚ますのかもね
+$C3220_MAIN_0300_0500_05_zax,Zack,MIDGR___466,MIDGR___466
+$C3220_MAIN_0300_0600_00_zax,Zack,"Yeah, I hope so.",うん　そうだといいな
+$C3220_MAIN_0300_0600_04_zax,Zack,MIDGR___468,MIDGR___468
+$C3220_MAIN_0300_0600_07_zax,Zack,MIDGR___469,MIDGR___469
+$C3220_MAIN_0300_0700_00_zax,Zack,"Hey, I’m going out for a bit. To ask about Cloud.",あのさ　ちょっとでかけてくるよ<br>クラウドのこと　相談しにいく
+$C3220_MAIN_0300_0700_05_elm,Elmyra,MIDGR___471,MIDGR___471
+$C3220_MAIN_0300_0800_00_elm,Elmyra,Is there someone like that?,そんな人がいるのかい？
+$C3220_MAIN_0300_0810_00_elm,Elmyra,A doctor?,お医者さんかい？
+$C3220_MAIN_0300_0900_00_zax,Zack,MIDGR___474,MIDGR___474
+$C3220_MAIN_0300_0900_07_zax,Zack,MIDGR___475,MIDGR___475
+$C3220_MAIN_0300_1000_00_zax,Zack,Something like that.,まあ　そんなとこ
+$C3220_MAIN_0300_1100_00_elm,Elmyra,Don’t be late. We’ve gotten used to having you around.,遅くなるんじゃないよ<br>あんたがいることが当たり前になってね
+$C3220_MAIN_0300_1200_00_elm,Elmyra,It’s unsettling when you’re not here.,いないと　不安になる
+$C3220_MAIN_0300_1200_05_zax,Zack,MIDGR___479,MIDGR___479
+$C3220_MAIN_0300_1300_00_zax,Zack,"Got it. I’ll take the bike, so it’ll be quick.",わかったよ　バイクで行くからすぐだ
+$C3220_MAIN_0300_1310_00_zax,Zack,Take care of Aerith and Cloud.,じゃあ　エアリスとクラウドをよろしく
+$C3220_MAIN_0300_1310_05_elm,Elmyra,MIDGR___482,MIDGR___482
+$C3220_MAIN_0300_1400_00_zax,Zack,"Even if they wake up, don’t let them go anywhere.",もし目が覚めても　どこへも行かせないで
+$C3220_MAIN_0300_1400_05_elm,Elmyra,MIDGR___484,MIDGR___484
+$C3220_MAIN_0300_1500_00_elm,Elmyra,I’m not sure. It’s hard to keep her cooped up.,どうだろうね<br>あの子を家に閉じ込めておくのは難しいよ
+$C3220_MAIN_0300_1500_04_zax,Zack,MIDGR___486,MIDGR___486
+$C3220_MAIN_0300_1500_07_zax,Zack,MIDGR___487,MIDGR___487
+$C3220_MAIN_0300_1600_00_zax,Zack,"Please, do whatever it takes to stop her.",なにがなんでも　引き止めて
+$C3220_MAIN_0300_1600_05_elm,Elmyra,MIDGR___489,MIDGR___489
+$C3220_MAIN_0400_0100_00_elm,Elmyra,Be back by dinner.,食事までには帰ってくるんだよ
+$C3220_MAIN_0500_0100_00_mrn,Marlene,Don’t tell anyone about earlier.,さっきのこと　言っちゃダメだよ
+$C3220_MAIN_0500_0200_00_mrn,Marlene,I hope Biggs comes soon.,ビッグス　はやく来ないかなあ
+$C3220_MAIN_0600_0000_05_zax,Zack,MIDGR___493,MIDGR___493
+$C3220_MAIN_0600_0000_08_zax,Zack,MIDGR___494,MIDGR___494
+$C3220_MAIN_0600_0090_00_zax,Zack,"""I thought about what you said. I’ve been thinking about it ever since.""",『あんたに言われたことを考えた<br>　あれから　ずっと考えていた』
+$C3220_MAIN_0600_0200_00_big,<i>Biggs</i>,"<i>Dreams and hope, the reason I survived.</i>",<i>夢と希望　俺が生きのびた意味</i>
+$C3220_MAIN_0600_0300_00_big,<i>Biggs</i>,"<i>And I realized, I’m still Avalanche.</i>",<i>そしてわかった<br>やっぱり俺は　アバランチだ</i>
+$C3220_MAIN_0600_0400_00_big,<i>Biggs</i>,<i>Time is running out.</i>,<i>もう　残り時間はすくない</i>
+$C3220_MAIN_0600_0410_00_big,<i>Biggs</i>,<i>We’re doing it this evening.</i>,<i>今日の夕方決行</i>
+$C3220_MAIN_0600_0500_00_big,<i>Biggs</i>,<i>Stay as far away from Mako Reactor 6 as possible.</i>,<i>六番魔晄炉から　できるだけ離れてくれ</i>
+$C3220_MAIN_0600_0500_05_zax,Zack,MIDGR___501,MIDGR___501
+$C3220_MAIN_0600_0510_00_big,<i>Biggs</i>,<i>I’m glad I got to see you.</i>,<i>会えて良かった</i>
+$C3220_MAIN_0600_0600_00_big,<i>Biggs</i>,<i>Biggs</i>,<i>ビッグス</i>
+$C3220_MAIN_0600_0700_00_zax,Zack,"No, that’s not it!",ちがうって　ちがうだろ！
+$C3220_MAIN_0600_0700_05_zax,Zack,MIDGR___505,MIDGR___505
+$C3220_MAIN_0600_0800_00_zax,Zack,"Elmyra, this is bad.",エルミナ　大変だ
+$C3410_MAIN_0100_0050_05_ren,Reno,MIDGR___507,MIDGR___507
+$C3410_MAIN_0100_0100_00_lud,Rude,It’s almost time.,もうすぐだ
+$C3410_MAIN_0100_0100_04_ren,Reno,MIDGR___509,MIDGR___509
+$C3410_MAIN_0100_0100_08_tsu,Tseng,MIDGR___510,MIDGR___510
+$C3410_MAIN_0100_0200_00_hjo,Hojo,"Tseng is in danger, I hear. I’ll take a look.",ツォンが　危ないらしいな<br>私が診るとしよう
+$C3410_MAIN_0100_0300_00_ruf,Rufus,"No, leave it to the medical team.",いや　医療班にまかせる
+$C3410_MAIN_0100_0310_00_ruf,Rufus,You...are dangerous.,あなたは……危険だ
+$C3410_MAIN_0100_0400_00_hjo,Hojo,MIDGR___514,MIDGR___514
+$C3410_MAIN_0100_0500_00_ruf,Rufus,"Professor Hojo, what did we see at that temple?",宝条博士<br>あの神殿で我々はなにを見たんだ？
+$C3410_MAIN_0100_0600_00_hjo,Hojo,"As a scientist, I can’t say anything rash, but one thing is clear.",科学者として　うかつなことは言えないが<br>ただひとつ　はっきりしていることは
+$C3410_MAIN_0100_0700_00_hjo,Hojo,Shinra has been left behind.,神羅はおいてきぼりということかな
+$C3410_MAIN_0100_0800_00_ruf,Rufus,It seems we agree.,意見が一致したようだ
+$C3410_MAIN_0300_0000_05_zax,Zack,MIDGR___519,MIDGR___519
+$C3410_MAIN_0300_0100_00_zax,Zack,Right—Shinra Building.,右──神羅ビル
+$C3410_MAIN_0300_0200_00_zax,Zack,Professor Hojo might be able to cure Cloud.,宝条博士なら　クラウドを治せるかもしれない
+$C3410_MAIN_0300_0300_00_zax,Zack,Left—Mako Reactor 6.,左──六番魔晄炉
+$C3410_MAIN_0300_0400_00_zax,Zack,"Stop Biggs, prevent the reactor explosion.",ビッグスを止める　魔晄炉爆破を阻止
+$C3410_MAIN_0300_0400_03_zax,Zack,MIDGR___524,MIDGR___524
+$C3410_MAIN_0300_0400_06_zax,Zack,MIDGR___525,MIDGR___525
+$C3410_MAIN_0400_0100_00_mrn,Marlene,Long hair...,髪が長くて……
+$C3410_MAIN_0400_0100_04_zax,Zack,MIDGR___527,MIDGR___527
+$C3410_MAIN_0400_0100_07_zax,Zack,MIDGR___528,MIDGR___528
+$C3410_MAIN_0400_0110_00_mrn,Marlene,Silver.,銀色なの
+$C3410_MAIN_0400_0200_00_zax,Zack,Oh boy.,まいったな
+$C3410_MAIN_0400_0200_05_zax,Zack,MIDGR___531,MIDGR___531
+$C3410_MAIN_0400_0300_00_zax,Zack,Tell me one more thing.,もうひとつ　教えてよ
+$C3410_MAIN_0400_0400_00_zax,Zack,Does Aerith like Cloud?,エアリスは　クラウドのことが好きなのか？
+$C3410_MAIN_0400_0500_00_mrn,Marlene,"Yeah, probably.",うん　きっとね
+$C3410_MAIN_0400_0500_05_zax,Zack,MIDGR___535,MIDGR___535
+$C3410_MAIN_0400_0600_00_zax,Zack,I see.,そうか
+$C3410_MAIN_0400_0610_00_zax,Zack,That’s something.,それは　ひゅ～ひゅ～だな
+$C3410_MAIN_0400_0610_05_zax,Zack,MIDGR___538,MIDGR___538
+$C3410_MAIN_0400_0700_00_mrn,Marlene,Something!,ひゅ～ひゅ～！
+$C3410_MAIN_0500_0000_05_zax,Zack,MIDGR___540,MIDGR___540
+$C3410_MAIN_0500_0100_00_zax,Zack,"Cloud, wait for me.",クラウド　待ってろ
+$C3410_MAIN_0600_0100_00_art,???,Hello?,もしも～し
+$C3410_MAIN_0600_0200_00_art,???,"Wake up, please.",起きてくださーい
+$C3410_MAIN_0600_0300_00_art,???,"Mr. Cloud, there’s no time.",クラウドさん　時間　ありませんよ？
+$C3410_MAIN_0600_0400_00_art,???,Shh shh shh shh shh!,シュシュシュシュシュ！
+$C3410_MAIN_0600_0410_00_art,???,Wake up!,起きろ～！
+$C3410_MAIN_0600_0410_05_cld,Cloud,MIDGR___547,MIDGR___547
+$C3410_MAIN_0600_0410_08_cld,Cloud,MIDGR___548,MIDGR___548
+$C3410_MAIN_0600_0410_09_cld,Cloud,MIDGR___549,MIDGR___549
+$C3410_MAIN_0600_0410_11_cld,Cloud,MIDGR___550,MIDGR___550
+$C3410_MAIN_0600_0410_12_cld,Cloud,MIDGR___551,MIDGR___551
+$C3410_MAIN_0600_0500_00_cld,Cloud,We...,俺たちは……
+$C3410_MAIN_0600_0500_05_cld,Cloud,MIDGR___553,MIDGR___553
+$C3410_MAIN_0600_0600_00_cld,Cloud,Did we die?,死んだのか？
+$C3410_MAIN_0600_0600_05_art,Aerith,MIDGR___555,MIDGR___555
+$C3410_MAIN_0600_0700_00_art,Aerith,Just returned to the planet?,星に帰っただけ？
+$C3410_MAIN_0600_0800_00_art,Aerith,On the way back?,帰る……途中？
+$C3410_MAIN_0600_0890_00_art,Aerith,MIDGR___558,MIDGR___558
+$C3410_MAIN_0600_0900_00_art,Aerith,Let’s call it a dream.,夢ってことにしとく？
+$C3410_MAIN_0600_1000_00_art,Aerith,My dream world.,わたしの　夢の世界
+$C3410_MAIN_0600_1100_00_cld,Cloud,What are you talking about?,なにを言って
+$C3410_MAIN_0600_1100_05_art,Aerith,MIDGR___562,MIDGR___562
+$C3410_MAIN_0600_1200_00_art,Aerith,Just give up and follow me.,あきらめて　ついてきて
+$C3410_MAIN_0700_0100_00_art,Aerith,Shall we walk a bit?,すこし　歩こう？
+$C3410_MAIN_0700_0190_00_art,Aerith,MIDGR___565,MIDGR___565
+$C3410_MAIN_0700_0200_00_art,Aerith,Promise.,約束
+$C3410_MAIN_0700_0300_00_art,Aerith,Don’t look at the sky.,空　見ないでね
+$C3410_MAIN_0700_0300_05_cld,Cloud,MIDGR___568,MIDGR___568
+$C3410_MAIN_0700_0400_00_art,Aerith,I thought it might be better not to look at the sky.,空　見ないほうがいいかな～って
+$C3410_MAIN_0700_0500_00_cld,Cloud,"If you say that, I’m going to look.",そんなことを言われたら　見るだろ
+$C3410_MAIN_0700_0500_05_art,Aerith,MIDGR___571,MIDGR___571
+$C3410_MAIN_0700_0600_00_art,Aerith,Right?,だよね
+$C3410_MAIN_0700_0700_00_art,Aerith,I make mistakes like this a lot. I get ahead of myself.,わたし　こんな失敗多いんだ<br>先まわりしちゃうの
+$C3410_MAIN_0700_0800_00_cld,Cloud,MIDGR___574,MIDGR___574
+$C3410_MAIN_0800_0050_05_art,Aerith,MIDGR___575,MIDGR___575
+$C3410_MAIN_0800_0050_08_art,Aerith,MIDGR___576,MIDGR___576
+$C3410_MAIN_0800_0100_00_art,Aerith,Let’s go over there!,あれ　行こう！
+$C3410_MAIN_0800_0100_05_art,Aerith,MIDGR___578,MIDGR___578
+$C3410_MAIN_0800_0100_06_cld,Cloud,MIDGR___579,MIDGR___579
+$C3410_MAIN_0800_0100_08_art,Aerith,MIDGR___580,MIDGR___580
+$C3410_MAIN_0800_0100_11_art,Aerith,Ta-da!,じゃ～ん！
+$C3410_MAIN_0800_0100_13_cld,Cloud,MIDGR___582,MIDGR___582
+$C3410_MAIN_0800_0200_00_art,Aerith,"Cloud, buy it, buy it!",クラウド　買って買って～？
+$C3410_MAIN_0800_0200_05_cld,Cloud,MIDGR___584,MIDGR___584
+$C3410_MAIN_0800_0300_00_art,Aerith,No?,だめ？
+$C3410_MAIN_0800_0300_05_cld,Cloud,MIDGR___586,MIDGR___586
+$C3410_MAIN_0800_0400_00_cld,Cloud,MIDGR___587,MIDGR___587
+$C3410_MAIN_0800_0500_00_cld,Cloud,Which one do you want?,どれがいいんだ？
+$C3410_MAIN_0800_0500_05_art,Aerith,MIDGR___589,MIDGR___589
+$C3410_MAIN_0800_0600_00_art,Aerith,"You choose, Cloud.",クラウドが選んで
+$C3410_MAIN_0800_0700_00_cld,Cloud,"Aerith, you’re acting weird.",エアリス　変だぞ
+$C3410_MAIN_0800_0700_05_art,Aerith,MIDGR___592,MIDGR___592
+$C3410_MAIN_0800_0800_00_cld,Cloud,Still weird. Not like you.,やっぱり変だ　らしくない
+$C3410_MAIN_0800_0900_00_mma,Shopkeeper,"I think this one suits you, miss.",お姉さんには　これが似合うと思うな
+$C3410_MAIN_0800_0900_05_art,Aerith,MIDGR___595,MIDGR___595
+$C3410_MAIN_0800_1000_00_art,Aerith,"Hmm, maybe I’ll have Cloud pick after all. ",う～ん　やっぱり<br>クラウドに選んでもらおっと
+$C3410_MAIN_0800_1100_00_mma,Shopkeeper,Everything’s free! But only one per person.,ぜーんぶ　タダだよ<br>でも　ひとり１個ね
+$C3410_MAIN_0800_1200_00_art,Aerith,"Alright, Cloud is about to pick his first gift for Aerith. ",さあ　クラウドくんが　エアリスさんのために<br>はじめてプレゼントを選びます
+$C3410_MAIN_0800_1300_00_art,Aerith,Which one will Cloud choose?,クラウドくん　どれを選ぶのでしょうか？
+$C3410_MAIN_0800_1300_05_art,Aerith,MIDGR___600,MIDGR___600
+$C3410_MAIN_0800_1310_00_sys,NPC,<button=RS> Choose a gift,<button=RS> プレゼントを選ぼう
+$C3410_MAIN_0800_1320_00_sys,NPC,Pink barrette,ピンクのバレッタ
+$C3410_MAIN_0800_1330_00_sys,NPC,Golden bracelet,金色のブレスレット
+$C3410_MAIN_0800_1340_00_sys,NPC,Stamp the loyal dog plush,忠犬スタンプの人形
+$C3410_MAIN_0800_1400_00_cld,Cloud,This one.,これだ
+$C3410_MAIN_0800_1500_00_mma,Shopkeeper,"Sorry, that’s my favorite one.",ごめんね　それ<br>俺が気に入ってるやつなんだ
+$C3410_MAIN_0800_1600_00_mma,Shopkeeper,"Really sorry. Here, take this instead.",ほんとごめん<br>かわりに　これあげる
+$C3410_MAIN_0800_1700_00_mma,Shopkeeper,I’m really sorry!,ごめんってば
+$C3410_MAIN_0800_1700_05_art,Aerith,MIDGR___609,MIDGR___609
+$C3410_MAIN_0800_1800_00_art,Aerith,"Oh, this is nice too!",あっ　これもいいな～
+$C3410_MAIN_0800_1900_00_art,Aerith,I’ll treasure it.,大切にするね
+$C3410_MAIN_0800_1900_05_art,Aerith,MIDGR___612,MIDGR___612
+$C3410_MAIN_0800_2000_00_cld,Cloud,What the...?,なんだよ……
+$C3410_MAIN_0800_2100_00_mma,Shopkeeper,Thank you for your patronage over the years.,長年のご愛顧ありがとうございました
+$C3410_MAIN_0800_2100_05_art,Aerith,MIDGR___615,MIDGR___615
+$C3410_MAIN_0800_2200_00_art,Aerith,"Alright, next...",じゃあ　次は……
+$C3410_MAIN_0800_2200_05_art,Aerith,MIDGR___617,MIDGR___617
+$C3410_MAIN_0800_2300_00_art,Aerith,Let’s go over there.,あっち　行こう
+$C3410_MAIN_0800_2300_05_cld,Cloud,MIDGR___619,MIDGR___619
+$C3410_MAIN_0900_0050_05_art,Aerith,MIDGR___620,MIDGR___620
+$C3410_MAIN_0900_0100_00_mfa,Shopkeeper,"Young man, young lady, take whichever you like.",坊っちゃん　嬢ちゃん<br>どれでも　好きなのを持っていきな
+$C3410_MAIN_0900_0200_00_mfa,Shopkeeper,But only one each.,でもね　ひとりひとつだよ
+$C3410_MAIN_0900_0300_00_art,Aerith,Which one should I pick?,どれにしようかな～
+$C3410_MAIN_0900_0310_00_sys,NPC,<button=RS> Choose a snack,<button=RS> お菓子を選ぼう
+$C3410_MAIN_0900_0320_00_sys,NPC,Stamp Chips,スタンプチップス
+$C3410_MAIN_0900_0330_00_sys,NPC,Cosmo Candy,コスモキャンディ
+$C3410_MAIN_0900_0340_00_sys,NPC,Choco Stick,チョコスティック
+$C3410_MAIN_0900_0400_00_cld,Cloud,I’ll take this one.,俺は　これだ
+$C3410_MAIN_0900_0500_00_art,Aerith,Then I’ll take this.,じゃあ　わたしはこれ
+$C3410_MAIN_0900_0600_00_mfa,Shopkeeper,Here you go.,はいよ
+$C3410_MAIN_0900_0700_00_mfa,Shopkeeper,"Oh, those are good, but I’ve got a new product too.",そうだ　それもいいけど<br>新作があるんだよ
+$C3410_MAIN_0900_0800_00_mfa,Shopkeeper,Give it a try.,試してみておくれ
+$C3410_MAIN_0900_0900_00_art,Aerith,A new product?,新作？
+$C3410_MAIN_0900_1000_00_art,Aerith,I’ll take it!,いただいちゃお
+$C3410_MAIN_0900_1000_05_cld,Cloud,MIDGR___635,MIDGR___635
+$C3410_MAIN_0900_1100_00_mfa,Shopkeeper,"Go ahead, dig in.",さあ　めしあがれ
+$C3410_MAIN_0900_1100_05_art,Aerith,MIDGR___637,MIDGR___637
+$C3410_MAIN_0900_1200_00_art,Aerith,MIDGR___638,MIDGR___638
+$C3410_MAIN_0900_1300_00_cld,Cloud,MIDGR___639,MIDGR___639
+$C3410_MAIN_0900_1300_05_cld,Cloud,MIDGR___640,MIDGR___640
+$C3410_MAIN_0900_1400_00_cld,Cloud,This is awful...,まずい……
+$C3410_MAIN_0900_1500_00_mfa,Shopkeeper,I thought I’d experiment since it’s the end.,最後だと思って　冒険してみたんだけどね
+$C3410_MAIN_0900_1600_00_mfa,Shopkeeper,Guess it didn’t work out.,やっぱり　ダメか
+$C3410_MAIN_0900_1700_00_art,Aerith,Maybe a bit sweeter would be better.,もうすこし　甘いといいかも
+$C3410_MAIN_0900_1800_00_cld,Cloud,What’s with this weird aftertaste?,それよりも　このイヤな刺激はなんだ？
+$C3410_MAIN_0900_1900_00_mfa,Shopkeeper,This is going to be tough.,こりゃ　前途多難だねえ
+$C3410_MAIN_0900_2000_00_mfa,Shopkeeper,But time’s running out.,でも　時間はなさそうだ
+$C3410_MAIN_1000_0100_00_zax,Zack,"I just asked to see Hojo, right?",宝条に会わせてくれって言っただけだろ？
+$C3410_MAIN_1000_0110_00_zax,Zack,Why does it always end up like this?,なんで　こうなるんだよ
+$C3410_MAIN_1000_0200_00_zax,Zack,"Well, the world’s ending anyway.",まあ　どうせ世界は終わるんだよな
+$C3410_MAIN_1000_0300_00_zax,Zack,"If I think about it that way, I can do anything!",そう思えば　なんでもできる！
+$C3410_MAIN_1000_0400_00_zax,Zack,Welcome!,いらっしゃいませ～！
+$C3410_MAIN_1100_0100_00_sep,<i>Sephiroth</i>,<i>So you were in this backwater place.</i>,<i>こんな辺境にいたのか</i>
+$C3410_MAIN_1100_0200_00_sep,<i>Sephiroth</i>,<i>A world that accepts its disappearance—</i>,<i>消失を受け入れた世界は──</i>
+$C3410_MAIN_1100_0300_00_cld,Cloud,"Aerith, what’s that over there?",エアリス　あれはなんだろう
+$C3410_MAIN_1100_0400_00_art,Aerith,Want to check it out?,行ってみる？
+$C3410_MAIN_1100_0500_00_sep,<i>Sephiroth</i>,<i>Will simply vanish.</i>,<i>ただ　消え去るのみ</i>
+$C3410_MAIN_1200_0050_00_mma,NPC,MIDGR___658,MIDGR___658
+$C3410_MAIN_1200_0051_00_mma,NPC,MIDGR___659,MIDGR___659
+$C3410_MAIN_1200_0052_00_mma,NPC,MIDGR___660,MIDGR___660
+$C3410_MAIN_1200_0100_00_mma,Photographer,"Sorry, I only have one left.",ごめん　あと１枚だけなんだ
+$C3410_MAIN_1200_0100_05_mma,NPC,MIDGR___662,MIDGR___662
+$C3410_MAIN_1200_0100_06_mma,NPC,MIDGR___663,MIDGR___663
+$C3410_MAIN_1200_0100_07_mma,NPC,MIDGR___664,MIDGR___664
+$C3410_MAIN_1200_0200_00_mma,Slum Resident,Please take our picture.,俺たちを撮ってください
+$C3410_MAIN_1200_0200_05_mfa,NPC,MIDGR___666,MIDGR___666
+$C3410_MAIN_1200_0300_00_mfa,Slum Resident,"Us too, please!",私たち　お願いしまーす
+$C3410_MAIN_1200_0300_05_mma,NPC,MIDGR___668,MIDGR___668
+$C3410_MAIN_1200_0400_00_mma,Slum Resident,We don’t have any pictures together.,いっしょの写真がないんですよ～
+$C3410_MAIN_1200_0400_05_mfa,NPC,MIDGR___670,MIDGR___670
+$C3410_MAIN_1200_0500_00_art,Aerith,We don’t either!,わたしたちもありませ～ん！
+$C3410_MAIN_1200_0500_05_mma,NPC,MIDGR___672,MIDGR___672
+$C3410_MAIN_1200_0500_06_mma,NPC,MIDGR___673,MIDGR___673
+$C3410_MAIN_1200_0500_07_mma,NPC,MIDGR___674,MIDGR___674
+$C3410_MAIN_1200_0600_00_mma,Photographer,"Hmm, alright...Everyone strike a pose.",困ったな……<br>じゃあ　みんなでポーズ決めてよ
+$C3410_MAIN_1200_0700_00_mma,Photographer,I’ll take the couple with the best vibe.,いちばん　雰囲気のいいカップルを撮るから
+$C3410_MAIN_1200_0700_05_art,Aerith,MIDGR___677,MIDGR___677
+$C3410_MAIN_1200_0700_11_mma,NPC,MIDGR___678,MIDGR___678
+$C3410_MAIN_1200_0700_13_mma,NPC,MIDGR___679,MIDGR___679
+$C3410_MAIN_1200_0700_15_mma,NPC,MIDGR___680,MIDGR___680
+$C3410_MAIN_1200_0700_17_mma,NPC,MIDGR___681,MIDGR___681
+$C3410_MAIN_1200_0700_19_mma,NPC,MIDGR___682,MIDGR___682
+$C3410_MAIN_1200_0700_21_mma,NPC,MIDGR___683,MIDGR___683
+$C3410_MAIN_1200_0700_23_mma,NPC,MIDGR___684,MIDGR___684
+$C3410_MAIN_1200_0900_00_mma,Photographer,Alright then.,さ～て
+$C3410_MAIN_1200_1000_00_mma,Photographer,The final best couple is—,最後のベストカップルは──
+$C3410_MAIN_1200_1100_00_sys,NPC,Model Couple,モデルカップル
+$C3410_MAIN_1200_1200_00_sys,NPC,Showtime,ショータイム
+$C3410_MAIN_1200_1300_00_sys,NPC,Dance Hold,ダンスホールド
+$C3410_MAIN_1300_0100_00_zax,Zack,"Biggs, wait for me.",ビッグス　待ってろ
+$C3410_MAIN_1300_0100_11_big,Biggs,MIDGR___691,MIDGR___691
+$C3410_MAIN_1300_0200_00_big,Biggs,MIDGR___692,MIDGR___692
+$C3410_MAIN_1300_0300_00_zax,Zack,What’s this? What’s going on?,これなに　どういうこと？
+$C3410_MAIN_1300_0400_00_big,Biggs,Mako levels are almost zero.,魔晄がもうゼロに近い
+$C3410_MAIN_1300_0410_00_big,Biggs,"The reactor’s running, but no Mako is coming up.",魔晄炉は稼働しているのに<br>魔晄は上がってこない
+$C3410_MAIN_1300_0500_00_zax,Zack,So?,つまり？
+$C3410_MAIN_1300_0600_00_big,Biggs,The Lifestream is nearly depleted.,ライフストリームが　すっからかん
+$C3410_MAIN_1300_0610_00_big,Biggs,"No matter what we do, the world is ending.",俺たちがどうあがこうと　世界は終わるってこと
+$C3410_MAIN_1300_0610_05_big,Biggs,MIDGR___699,MIDGR___699
+$C3410_MAIN_1300_0700_00_big,Biggs,"Ah, damn it!",ああ　もう！
+$C3410_MAIN_1300_0700_05_big,Biggs,MIDGR___701,MIDGR___701
+$C3410_MAIN_1300_0800_00_zax,Zack,Look out!,危ない！
+$C3410_MAIN_1300_0800_04_big,Biggs,MIDGR___703,MIDGR___703
+$C3410_MAIN_1300_0800_06_zax,Zack,MIDGR___704,MIDGR___704
+$C3410_MAIN_1300_0800_07_big,Biggs,MIDGR___705,MIDGR___705
+$C3410_MAIN_1300_0800_11_big,Biggs,MIDGR___706,MIDGR___706
+$C3410_MAIN_1300_0800_12_zax,Zack,MIDGR___707,MIDGR___707
+$C3410_MAIN_1300_0800_14_big,Biggs,MIDGR___708,MIDGR___708
+$C3410_MAIN_1300_0800_15_zax,Zack,MIDGR___709,MIDGR___709
+$C3410_MAIN_1300_0900_00_zax,Zack,Is that it?,いまので　終わり？
+$C3410_MAIN_1300_1000_00_big,Biggs,I got scared during the test and messed up the real thing.,実験でビビって　本番でしくじっちまった
+$C3410_MAIN_1300_1000_05_zax,Zack,MIDGR___712,MIDGR___712
+$C3410_MAIN_1300_1100_00_big,Biggs,Why was I the one left behind?,なんで　俺が残ったんだ？
+$C3410_MAIN_1300_1110_00_big,Biggs,Why was I chosen?,なんで　俺が選ばれた？
+$C3410_MAIN_1300_1200_00_big,Biggs,"You saw it, right?",見たよな
+$C3410_MAIN_1300_1210_00_big,Biggs,I can’t do anything on my own.,俺はひとりじゃ　なーんにもできないのに
+$C3410_MAIN_1300_1300_00_zax,Zack,Don’t say that.,そんなこと言うなよ
+$C3410_MAIN_1300_1400_00_big,Biggs,I guess I wasn’t chosen after all.,やっぱり　俺は選ばれたんじゃない
+$C3410_MAIN_1300_1400_05_zax,Zack,MIDGR___719,MIDGR___719
+$C3410_MAIN_1300_1410_00_big,Biggs,I was left behind.,置いていかれたんだ
+$C3410_MAIN_1300_1500_00_zax,Zack,I told you not to say that.,そんなこと言うなって
+$C3410_MAIN_1300_1510_00_zax,Zack,Look at me.,俺を見ろよ
+$C3410_MAIN_1300_1600_00_zax,Zack,I chose you. That’s why I’m here.,俺は　おまえを選んだ<br>だから　ここにいる
+$C3410_MAIN_1300_1700_00_big,Biggs,MIDGR___724,MIDGR___724
+$C3410_MAIN_1300_1700_05_big,Biggs,MIDGR___725,MIDGR___725
+$C3410_MAIN_1300_1800_00_big,Biggs,Thanks.,ありがとな
+$C3410_MAIN_1300_1810_00_big,Biggs,But why?,でも　なんで？
+$C3410_MAIN_1300_1900_00_zax,Zack,"Well, you know...",そりゃあな～
+$C3410_MAIN_1300_2000_00_big,Biggs,A reactor explosion would be a disaster.,まあ　魔晄炉が爆発したら大変だからな
+$C3410_MAIN_1300_2100_00_big,Biggs,"Even if the world’s ending, I can’t just ignore it.",いくら　世界が終わるからって<br>放ってはおけない
+$C3410_MAIN_1300_2200_00_zax,Zack,"That’s part of it, but I was worried about you first.",それもあるけど<br>まず　あんたが心配だった
+$C3410_MAIN_1300_2300_00_big,Biggs,Sounds fake. You’re too nice.,ウソくさい　いいヤツすぎるわ
+$C3410_MAIN_1300_2400_00_zax,Zack,MIDGR___733,MIDGR___733
+$C3410_MAIN_1300_2500_00_zax,Zack,"No, I get it.",いや　そうか
+$C3410_MAIN_1300_2510_00_zax,Zack,I wanted to do something.,俺は　なにかしたかった
+$C3410_MAIN_1300_2520_00_zax,Zack,I wanted to choose.,選びたかった
+$C3410_MAIN_1300_2600_00_zax,Zack,Anything.,なんでもいいんだ
+$C3410_MAIN_1300_2700_00_zax,Zack,Choosing opens up a path.,選んだら　道ができて
+$C3410_MAIN_1300_2710_00_zax,Zack,Choosing opens up a new world.,選んだら　新しい世界が広がる
+$C3410_MAIN_1300_2710_05_zax,Zack,MIDGR___740,MIDGR___740
+$C3410_MAIN_1300_2800_00_zax,Zack,I want to take back my life.,俺の人生を　取り戻したい
+$C3410_MAIN_1300_2900_00_big,Biggs,Huh.,へえ
+$C3410_MAIN_1300_2900_03_big,Biggs,MIDGR___743,MIDGR___743
+$C3410_MAIN_1300_2900_08_zax,Zack,MIDGR___744,MIDGR___744
+$C3410_MAIN_1300_3000_00_zax,Zack,"Hey, Biggs.",おい　ビッグス
+$C3410_MAIN_1300_3000_05_zax,Zack,MIDGR___746,MIDGR___746
+$C3410_MAIN_1300_3100_00_zax,Zack,What is this? What’s going on?,なにこれ　なんだよ……
+$C3410_MAIN_1300_3110_00_zax,Zack,"Hey, Biggs!",おい　ビッグス！
+$C3410_MAIN_1300_3110_05_zax,Zack,MIDGR___749,MIDGR___749
+$C3410_MAIN_1300_3200_00_zax,Zack,"This means death, right?",これって　死ぬよな
+$C3410_MAIN_1300_3300_00_zax,Zack,Is this fate or something?,もしかして　運命ってやつか
+$C3410_MAIN_1300_3300_05_zax,Zack,MIDGR___752,MIDGR___752
+$C3410_MAIN_1300_3400_00_zax,Zack,What the hell is fate?,運命って　なんだよ
+$C3410_MAIN_1300_3410_00_zax,Zack,Who decides that?,誰が決めてんだよ
+$C3410_MAIN_1300_3410_05_zax,Zack,MIDGR___755,MIDGR___755
+$C3410_MAIN_1300_3500_00_zax,Zack,I decide. I choose!,俺が決める　俺が選ぶ！
+$C3410_MAIN_1300_3500_05_zax,Zack,MIDGR___757,MIDGR___757
+$C3410_MAIN_1300_3600_00_zax,Zack,Goodbye!,さよなら～！
+$C3410_MAIN_1400_0050_02_mma,NPC,MIDGR___759,MIDGR___759
+$C3410_MAIN_1400_0050_04_mma,NPC,MIDGR___760,MIDGR___760
+$C3410_MAIN_1400_0050_06_mma,NPC,MIDGR___761,MIDGR___761
+$C3410_MAIN_1400_0050_10_mma,NPC,MIDGR___762,MIDGR___762
+$C3410_MAIN_1400_0050_12_mma,Photographer,MIDGR___763,MIDGR___763
+$C3410_MAIN_1400_0050_16_mma,Photographer,MIDGR___764,MIDGR___764
+$C3410_MAIN_1400_0050_18_mma,Photographer,MIDGR___765,MIDGR___765
+$C3410_MAIN_1400_0100_00_cld,Cloud,Why not us?,どうして　俺たちじゃないんだ？
+$C3410_MAIN_1400_0200_00_mma,Photographer,I wonder.,なんだろうね
+$C3410_MAIN_1400_0300_00_mma,Photographer,Lack of couple vibes?,カップル感の欠如？
+$C3410_MAIN_1400_0310_00_mma,Photographer,The lady looks like she’s about to cry.,お姉さん　泣きそうだし
+$C3410_MAIN_1400_0400_00_art,Aerith,That’s not true.,そんなことありませんけど
+$C3410_MAIN_1400_0500_00_mma,Photographer,You two need to get along better.,仲良くしなくちゃ　ダメだよ
+$C3410_MAIN_1400_0600_00_art,Aerith,Too bad. Next—,残念　じゃあ次は──
+$C3410_MAIN_1400_0700_00_cld,Cloud,"Before that, explain what’s going on.",その前に　ちゃんと話してくれ
+$C3410_MAIN_1400_0710_00_cld,Cloud,Something’s off with the town and with you.,様子がおかしい　街もエアリスも
+$C3410_MAIN_1400_0720_00_cld,Cloud,"You know something, don’t you?",なにか　知ってるんだよな？
+$C3410_MAIN_1400_0810_00_art,Aerith,"So, want to go to a memorable place?",じゃあ　思い出の場所　行く？
+$C3410_MAIN_1400_0810_05_cld,Cloud,MIDGR___777,MIDGR___777
+$C3410_MAIN_1400_0900_00_cld,Cloud,Where?,どこだ？
+$C3410_MAIN_1400_1000_00_art,Aerith,Do you want to know?,聞きますか
+$C3410_MAIN_1400_1000_05_cld,Cloud,MIDGR___780,MIDGR___780
+$C3410_MAIN_1400_1100_00_art,Aerith,My favorite place.,わたしの　好きな場所
+$C3410_MAIN_1400_1110_00_art,Aerith,That’s a big hint!,これ　もう大ヒント！
+$C3410_MAIN_1400_1110_05_art,Aerith,MIDGR___783,MIDGR___783
+$C3410_MAIN_1600_0100_00_zax,Zack,Cloud...,クラウド……
+$C3410_MAIN_1600_0110_00_zax,Zack,Biggs...,ビッグス……
+$C3410_MAIN_1600_0120_00_zax,Zack,Aerith...,エアリス……
+$C3410_MAIN_1600_0120_05_zax,Zack,MIDGR___787,MIDGR___787
+$C3410_MAIN_1600_0200_00_zax,Zack,MIDGR___788,MIDGR___788
+$C3410_MAIN_1600_0300_00_zax,Zack,As if I can choose that easily!,簡単に選べるかっての！
+$C3410_MAIN_1600_0300_03_zax,Zack,MIDGR___790,MIDGR___790
+$C3410_MAIN_1600_0300_06_zax,Zack,MIDGR___791,MIDGR___791
+$C3410_MAIN_1600_0300_09_zax,Zack,MIDGR___792,MIDGR___792
+$C3410_MAIN_1600_0400_00_zax,Zack,Sephiroth!,セフィロス！
+$C3410_MAIN_1600_0500_00_zax,Zack,Hey!,おい！
+$C3410_MAIN_1600_0600_00_zax,Zack,What the—!,なになに！
+$C3410_MAIN_1600_0700_00_sep,Sephiroth,You...won’t do.,おまえでは……ダメだ
+$C3410_MAIN_1600_0800_00_zax,Zack,MIDGR___797,MIDGR___797
+$C3410_MAIN_1700_0100_00_zax,Zack,"Sephiroth, so it was you.",セフィロス　あんただったのか
+$C3410_MAIN_1700_0100_05_zax,Zack,MIDGR___799,MIDGR___799
+$C3410_MAIN_1700_0200_00_zax,Zack,I won’t let it end like this!,こんなんで　終われるか！
+$C3410_MAIN_1700_0200_05_zax,Zack,MIDGR___801,MIDGR___801
+$C3410_MAIN_1700_0200_07_zax,Zack,MIDGR___802,MIDGR___802
+$C3410_MAIN_1700_0300_00_zax,Zack,MIDGR___803,MIDGR___803
+$C3410_MAIN_1700_0300_05_zax,Zack,MIDGR___804,MIDGR___804
+$C3410_MAIN_1700_0300_08_zax,Zack,MIDGR___805,MIDGR___805
+$C3410_MAIN_1700_0300_10_zax,Zack,MIDGR___806,MIDGR___806
+$C3410_MAIN_1700_0500_00_zax,Zack,I’m going there.,俺は　あそこへ行く
+$C3410_MAIN_1700_0510_00_zax,Zack,Let’s go!,行くぞ！
+$C3410_MAIN_1800_0100_00_cld,Cloud,"The memorable place...it’s here.",思い出の場所は　ここだ
+$C3410_MAIN_1800_0200_00_art,Aerith,Correct.,正解
+$C3410_MAIN_1800_0300_00_cld,Cloud,Too easy.,簡単すぎる
+$C3410_MAIN_1800_0400_00_art,Aerith,"Well, I don’t have many special memories, you know?",思い出　少ないからね
+$C3410_MAIN_1800_0500_00_cld,Cloud,We can make more from now on.,これから　作ればいい
+$C3410_MAIN_1800_0600_00_art,Aerith,Is that how you really feel?,それ　本心？
+$C3410_MAIN_1800_0700_00_cld,Cloud,"Yeah, of course.",ああ　もちろん
+$C3410_MAIN_1800_0700_05_art,Aerith,MIDGR___816,MIDGR___816
+$C3410_MAIN_1800_0800_00_cld,Cloud,"We’re friends, after all.",仲間だからな
+$C3410_MAIN_1800_0900_00_art,Aerith,"Yeah, you’re right.",そうだね
+$C3410_MAIN_1800_1000_00_art,Aerith,I’m glad I heard how you feel.,クラウドの気持ち　聞けてよかった
+$C3410_MAIN_1800_1000_05_art,Aerith,MIDGR___820,MIDGR___820
+$C3410_MAIN_1800_1100_00_art,Aerith,"I like you, Cloud.",わたしは　クラウドが好き
+$C3410_MAIN_1800_1110_00_art,Aerith,"But there are many kinds of ""like.""",でも　好きにも　色々あるよね
+$C3410_MAIN_1800_1200_00_art,Aerith,"I wonder which ""like"" this is.",この好きは　どの好きなんだろう
+$C3410_MAIN_1800_1300_00_cld,Cloud,"Aerith, you’re acting strange.",エアリス　変だぞ
+$C3410_MAIN_1800_1310_00_cld,Cloud,You’ve been acting strange all day.,今日は　ずっと変だ
+$C3410_MAIN_1800_1900_00_art,Aerith,Excuse me.,失礼します
+$C3410_MAIN_1800_2000_00_art,Aerith,"Go away, guilt.",消えろ　罪悪感
+$C3410_MAIN_1800_2000_05_cld,Cloud,MIDGR___828,MIDGR___828
+$C3410_MAIN_1800_2100_00_art,Aerith,Cloud.,クラウド
+$C3410_MAIN_1800_2200_00_art,Aerith,Thank you.,ありがと
+$C3410_MAIN_1800_2300_00_cld,Cloud,MIDGR___831,MIDGR___831
+$C3410_MAIN_1800_2300_05_art,Aerith,MIDGR___832,MIDGR___832
+$C3410_MAIN_1800_2400_00_art,Aerith,"No, it’s nothing.",ううん　なんでもない
+$C3410_MAIN_1800_2400_05_art,Aerith,MIDGR___834,MIDGR___834
+$C3410_MAIN_1800_2400_08_art,Aerith,MIDGR___835,MIDGR___835
+$C3410_MAIN_1800_2400_11_art,Aerith,MIDGR___836,MIDGR___836
+$C3410_MAIN_1800_2500_00_art,Aerith,Hold onto this.,これ　持ってて
+$C3410_MAIN_1800_2600_00_cld,Cloud,Isn’t this important to you?,大切なものなんだろ？
+$C3410_MAIN_1800_2700_00_art,Aerith,This materia will save the world.,このマテリアがきっと　世界を救う
+$C3410_MAIN_1800_2700_05_cld,Cloud,MIDGR___840,MIDGR___840
+$C3410_MAIN_1800_2700_09_cld,Cloud,MIDGR___841,MIDGR___841
+$C3410_MAIN_1800_2800_00_art,Aerith,"Goodbye, Cloud.",さよなら　クラウド
+$C3410_MAIN_1800_2900_00_cld,Cloud,This is...,これは……
+$C3410_MAIN_1800_2900_07_cld,Cloud,MIDGR___844,MIDGR___844
+$C3410_MAIN_1800_2900_10_cld,Cloud,MIDGR___845,MIDGR___845
+$C3410_MAIN_1800_3000_00_art,Aerith,It was fun.,楽しかった
+$C3410_MAIN_1800_3100_00_cld,Cloud,Aerith!,エアリス！
+$MIDGR_NPC_10_0100_0100_00_mma,NPC,They say the crack in the sky will swallow the stars.,空の亀裂が<br>星を飲み込んじまうんだってな
+$MIDGR_NPC_10_0100_0200_00_mma,NPC,I won’t look. I won’t look at the sky.,見ない見ない　空は見ない
+$MIDGR_NPC_10_0100_0300_00_mma,NPC,Is that sky Avalanche’s fault too?,あの空も<br>アバランチのせいなのか？
+$MIDGR_NPC_10_0100_0400_00_mma,NPC,"If I can be grateful for being safe today, that’s enough happiness for me.",今日も無事だと感謝できるなら<br>それだけで俺はじゅうぶん　幸せさ
+$MIDGR_NPC_10_0100_0500_00_mma,NPC,"Ah, the rift in the sky. It’s getting bigger.",ああ　空の裂け目<br>また大きくなってるや
+$MIDGR_NPC_10_0100_0600_00_mma,NPC,I decided to confess to the girl I like! I don’t want to have regrets.,好きな子に告白しようと決めました！<br>悔いは残したくはないんで
+$MIDGR_NPC_10_0100_0700_00_mma,NPC,I quit my job to spend the remaining days with my family.,残りの日々を家族と過ごしたくて<br>仕事を辞めたんです
+$MIDGR_NPC_10_0100_0710_00_mma,NPC,I’m working through my bucket list.,やりたいことリストを<br>片付けてるんですよ
+$MIDGR_NPC_10_0100_0800_00_mma,NPC,There’s a rumor that Mako energy is running out.,魔晄エネルギーが<br>底をついたって噂もあるんだ
+$MIDGR_NPC_10_0100_0810_00_mma,NPC,The sun in the slums might stop too.,スラムの太陽も<br>止められちゃうのかもしれないな
+$MIDGR_NPC_10_0100_0900_00_mma,NPC,That rift is divine punishment. It’s time to pay for drowning in Mako.,あの裂け目は天罰だよ<br>魔晄に溺れた報いを受ける時がきたんだ
+$MIDGR_NPC_10_0100_10000_00_mfa,NPC,We who have sinned must accept our punishment.,罪を犯した我々は<br>甘んじて罰を受け入れましょう
+$MIDGR_NPC_10_0100_1000_00_mma,NPC,Everyone dies eventually. Let’s live freely until then.,どうせいつかは　みんな死ぬんだ<br>それまで好きに生きようぜ
+$MIDGR_NPC_10_0100_10100_00_mma,NPC,Let’s all go camping. I bought a new car.,みんなでキャンプにでも行こう<br>新しい車を買ったからな
+$MIDGR_NPC_10_0100_10200_00_mfk,NPC,Really? Yay!,ホントに？　やった～！
+$MIDGR_NPC_10_0100_10300_00_mmk,NPC,"Dad, what about work?",父さん　お仕事はいいの？
+$MIDGR_NPC_10_0100_10400_00_mma,NPC,I quit. It’s fine now.,ああ　仕事はもう辞めた<br>もういいんだ
+$MIDGR_NPC_10_0100_10500_00_mfa,NPC,Shall we make sandwiches together?,みんなでサンドイッチでも<br>作りましょうか
+$MIDGR_NPC_10_0100_10600_00_mfk,NPC,I’ll put the meat in!,あたし　お肉をはさむ～！
+$MIDGR_NPC_10_0100_10700_00_mmk,NPC,Then I’ll cut the vegetables!,じゃあ　ボクは野菜を切る係ね！
+$MIDGR_NPC_10_0100_10800_00_mma,NPC,"Haha, I’ll show you how big the world is. Let’s make some memories.",ははっ　おまえたちに<br>世界の広さを見せてやるぞ<br>しっかりと思い出を作ろうな
+$MIDGR_NPC_10_0100_10900_00_mfa,NPC,"We’ve had a lot of fights, haven’t we?",思えば私たち<br>たくさんケンカしたね
+$MIDGR_NPC_10_0100_11000_00_mma,NPC,Any complaints you’ve been holding back? Now’s the time to say them.,言いそびれてた不満はないか？<br>吐き出すなら　いまのうちだぞ
+$MIDGR_NPC_10_0100_1100_00_mma,NPC,"You always get hungry, no matter what. That’s what being alive is.",どんなときでも腹は減るんだよなあ<br>ああ　それが生きてるってことか
+$MIDGR_NPC_10_0100_11100_00_mfa,NPC,I wish we’d gone on more dates.,もっといっぱい<br>デートしておきたかったな
+$MIDGR_NPC_10_0100_11200_00_mma,NPC,Sorry for always working. But we can still make it.,仕事ばっかりしててゴメン<br>でも　まだ間に合うよな
+$MIDGR_NPC_10_0100_11300_00_mfa,NPC,"Yeah, let’s go everywhere we want!",うん　行きたいところ<br>ぜんぶ行っちゃおう！
+$MIDGR_NPC_10_0100_11400_00_mfa,NPC,I wonder what will happen to the baby inside me.,お腹の中にいるこの子は<br>どうなるのかな
+$MIDGR_NPC_10_0100_11500_00_mma,NPC,I don’t know...,わからない……
+$MIDGR_NPC_10_0100_11600_00_mfa,NPC,I wanted to see their face.,この子の顔　見たかったな
+$MIDGR_NPC_10_0100_11700_00_mma,NPC,"Hey, let’s pick a name.",なあ　名前を決めないか
+$MIDGR_NPC_10_0100_11800_00_mma,NPC,"I don’t know what’ll happen, but I want to call them by name.",この先　どうなるかわからないけど<br>名前で呼んでやりたいんだ
+$MIDGR_NPC_10_0100_11900_00_mfa,NPC,"Yes, let’s give them the best name.",そうね　とびっきりの名前を<br>付けてあげましょう
+$MIDGR_NPC_10_0100_12000_00_mma,NPC,"Sigh, I wish I’d had a lover at least once before dying.",はあ　死ぬまでにいちどでいいから<br>恋人が欲しかったな
+$MIDGR_NPC_10_0100_1200_00_mma,NPC,Looking at that light makes me want to cry. I’m so scared...,あの光を見ていると泣きそうになるよ<br>怖くて仕方ないんだ……
+$MIDGR_NPC_10_0100_12100_00_mma,NPC,What about me?,オレじゃ……ダメか？
+$MIDGR_NPC_10_0100_12200_00_mma,NPC,"Wait, really? You’re serious?",えっ　ホントか！<br>なんだよ　そうくるか？
+$MIDGR_NPC_10_0100_12210_00_mma,NPC,"Haha, I should’ve confessed sooner.",ははっ　ボクのほうから<br>もっとはやく告白すればよかったよ
+$MIDGR_NPC_10_0100_12300_00_mma,NPC,Aerith was taken away in a wheelchair?,エアリスが<br>車椅子で運ばれていったって？
+$MIDGR_NPC_10_0100_12310_00_mma,NPC,Was she caught in the tornado accident?,竜巻の事故に巻き込まれたのか？
+$MIDGR_NPC_10_0100_12400_00_mma,NPC,"I don’t know, but it doesn’t seem serious.",わかんないけど<br>重傷ってわけじゃないみたいだよ
+$MIDGR_NPC_10_0100_12500_00_mfa,NPC,I hope she gets better soon and helps at the shop again.,はやく良くなって<br>また店を手伝ってほしいわね
+$MIDGR_NPC_10_0100_12600_00_mma,NPC,"Yeah, the place feels livelier with Aerith around.",おうよ　エアリスがいると<br>店が華やかになるからな
+$MIDGR_NPC_10_0100_12700_00_mma,NPC,"Without Aerith’s special spices, the food doesn’t taste the same.",エアリスちゃんの特製スパイスがないと<br>この店の味にはならねえしな
+$MIDGR_NPC_10_0100_12800_00_mfa,NPC,"Exactly, Maruke’s stew has been bland lately.",そうそう　最近<br>マルケの煮込みが味気ないのよね
+$MIDGR_NPC_10_0100_12900_00_mma,NPC,Thank you for your patronage! We’re having a closing sale!,これまでのご愛顧に感謝します<br>閉店セール　開催中で～す！
+$MIDGR_NPC_10_0100_13000_00_mma,NPC,Everything must go! Take one as a keepsake!,商品は在庫があるだけ売りっきり<br>最後におひとつ買っていって！
+$MIDGR_NPC_10_0100_1300_00_mma,NPC,I wonder what’s beyond that rift.,裂け目の向こうは<br>どうなってんだろうな
+$MIDGR_NPC_10_0100_13100_00_mma,NPC,How about one as a memory? It’s free!,思い出におひとつどうですか<br>無料でプレゼントするよ～！
+$MIDGR_NPC_10_0100_13200_00_mma,NPC,Guaranteed happiness! One per person!,幸せになること間違いなし<br>おひとり様　おひとつまでね～！
+$MIDGR_NPC_10_0100_13300_00_mfa,NPC,"Sweet treats, anyone? No charge now.",あま～い駄菓子はいかが？<br>いまなら　お代はいらないよ
+$MIDGR_NPC_10_0100_13400_00_mfa,NPC,"Young man, young lady, take whichever you like.",坊ちゃん　嬢ちゃん<br>どれでも好きなのを持っていきな
+$MIDGR_NPC_10_0100_13500_00_mma,NPC,Here’s a commemorative photo. Smile!,はい　記念の１枚だ<br>笑って～！
+$MIDGR_NPC_10_0100_13600_00_mma,NPC,"Here’s ""Loyal Dog Stamp""!",はい『忠犬スタンプ～』！
+$MIDGR_NPC_10_0100_13800_00_mma,NPC,I thought I’d get a pro to take my last photo.,最後の記念写真は<br>プロに頼もうと思ってね
+$MIDGR_NPC_10_0100_13900_00_mma,NPC,I hope I can smile properly...,うまく笑えるといいけど……
+$MIDGR_NPC_10_0100_14000_00_mfa,NPC,Take ours next!,次は私たちを撮って！
+$MIDGR_NPC_10_0100_1400_00_mma,NPC,Shinra will handle it. Right?,神羅がどうにかしてくれるさ<br>なあ　そうだろ？
+$MIDGR_NPC_10_0100_14100_00_mfa,NPC,I want it to look nice.,キレイに撮ってもらいたいなあ
+$MIDGR_NPC_10_0100_14200_00_mfa,NPC,I wish I’d taken more photos.,もっとたくさん<br>写真撮っておけば良かったな
+$MIDGR_NPC_10_0100_1500_00_mma,NPC,I’m still working. I don’t want to think about bad things.,仕事は続けているんです<br>ぐるぐる嫌なこと考えたくないんで
+$MIDGR_NPC_10_0100_1600_00_mfa,NPC,There’s a rumor that a huge meteor will fall from the rift.,割れた空から　大きな隕石が<br>落ちてくるなんて噂もあるわ
+$MIDGR_NPC_10_0100_1700_00_mfa,NPC,"It’s too late to regret, but everyone should have followed the teachings of the planet.",いまさら悔やんでも遅いんだけど<br>みんな　星命学に従うべきだったのよ
+$MIDGR_NPC_10_0100_1800_00_mfa,NPC,Better to do everything now than regret later!,やりたいことをガマンして後悔するより<br>いまのうちに　なんでもやってみよ！
+$MIDGR_NPC_10_0100_1900_00_mfa,NPC,Has Avalanche quieted down? Anti-Shinra activities don’t matter anymore.,アバランチはおとなしくなったのかな<br>反神羅活動なんて<br>もう　どうでもいいよね
+$MIDGR_NPC_10_0100_2000_00_mfa,NPC,They say the tornado caused by Avalanche cracked the sky over Midgar.,アバランチが起こした竜巻のせいで<br>ミッドガルの空が割れちゃったんだって
+$MIDGR_NPC_10_0100_2100_00_mfa,NPC,Will anyone remember us?,私たちのこと　覚えていてくれる人も<br>いなくなるのかな
+$MIDGR_NPC_10_0100_2110_00_mfa,NPC,It’s lonely to think that...,そう思うと　さみしいな……
+$MIDGR_NPC_10_0100_2200_00_mfa,NPC,It feels like a dream. It doesn’t feel real.,なんだか夢を見ているみたい<br>実感がないんだよね
+$MIDGR_NPC_10_0100_2300_00_mfa,NPC,I wish I could have gone to Costa del Sol at least once.,いちどでいいから<br>コスタに行ってみたかったな
+$MIDGR_NPC_10_0100_2400_00_mfa,NPC,"Every night, I wonder if I lived my life right.",ベッドに入るたびに　私の生き方は<br>間違ってなかったかなって考えちゃうの
+$MIDGR_NPC_10_0100_2500_00_mfa,NPC,All those worries from when life was carefree feel precious now.,のんきに暮らしていた頃の<br>たくさんの悩み事が<br>いまはとても愛おしいわ
+$MIDGR_NPC_10_0100_2600_00_mfa,NPC,Spending every day with family is so happy.,家族といっしょに過ごす毎日って<br>こんなに幸せなものだったのね
+$MIDGR_NPC_10_0100_2700_00_mfa,NPC,Looking at the rift tightens my chest.,裂け目を見てると<br>胸が締めつけられない？
+$MIDGR_NPC_10_0100_2710_00_mfa,NPC,Why is it so beautiful?,なんであんなにキレイなんだろ
+$MIDGR_NPC_10_0100_2800_00_mfa,NPC,"Every morning, I’m relieved to wake up. Good, I’m still alive.",朝　目が覚めるたびにホッとするの<br>よかった　まだ生きてるって
+$MIDGR_NPC_10_0100_2900_00_mfa,NPC,Is it true the reactors are stopping? Because of Avalanche?,魔晄炉が止まるって噂　ホント？<br>アバランチのせい？
+$MIDGR_NPC_10_0100_3000_00_mfa,NPC,"My lover died in the Sector 7 accident, so I think it’s okay for me too.",七番プレートの事故で恋人が死んで<br>だから私も　もういいかなって
+$MIDGR_NPC_10_0100_3100_00_mma,NPC,What? What’s going on?,なんだ　なんだ？
+$MIDGR_NPC_10_0100_3200_00_mma,NPC,"No more trouble, please.",もめごとは　もう勘弁してくれ
+$MIDGR_NPC_10_0100_3300_00_mma,NPC,Are Avalanche remnants still active?,アバランチの残党がまだ活動してるのか
+$MIDGR_NPC_10_0100_3400_00_mma,NPC,"Hey, the plate’s okay, right?",おい　プレートは大丈夫だろうな？
+$MIDGR_NPC_10_0100_3500_00_mma,NPC,Did an accident happen?,事故でも起きたか？
+$MIDGR_NPC_10_0100_3600_00_mma,NPC,Who cares? Destroy more!,いいじゃねえか<br>もっと　ぶっ壊しちまえ！
+$MIDGR_NPC_10_0100_3700_00_mma,NPC,Was that explosion near the church?,爆発は教会のほうか？
+$MIDGR_NPC_10_0100_3800_00_mma,NPC,Probably Avalanche again. Give it a rest.,どうせアバランチだろ？<br>もうやめてくれよ
+$MIDGR_NPC_10_0100_3900_00_mfa,NPC,What? What’s this? Stop it already!,なに　なんなの<br>やめてよね　もう！
+$MIDGR_NPC_10_0100_4000_00_mfa,NPC,"The explosion was near the church, right? What were they targeting?",爆発は教会のほうよね？<br>なにを狙ったのかな
+$MIDGR_NPC_10_0100_4100_00_mfa,NPC,"Avalanche did something again, didn’t they?",アバランチがまた<br>なにかやったんでしょ？
+$MIDGR_NPC_10_0100_4200_00_mfa,NPC,I don’t want to see people die anymore.,人が死ぬところは　もう見たくないわ
+$MIDGR_NPC_10_0100_4300_00_mfa,NPC,Is it true there was a riot?,暴動が起きたって本当？
+$MIDGR_NPC_10_0100_4400_00_mfa,NPC,Maybe blowing up the whole planet would bring peace.,いっそ星ごと爆破しちゃえば<br>平和かもね
+$MIDGR_NPC_10_0100_4500_00_mfa,NPC,I just want to live quietly...,静かに暮らしていたいだけなのに……
+$MIDGR_NPC_10_0100_4600_00_mfa,NPC,Shinra can’t even handle Avalanche remnants.,神羅は　アバランチの残党にまで<br>手がまわらないのね
+$MIDGR_NPC_10_0100_4700_00_mfa,Announcer,Here’s the latest on the rift that appeared over Midgar.,ミッドガル上空に突如として出現した<br>亀裂に関する続報です
+$MIDGR_NPC_10_0100_4800_00_mfa,Announcer,"According to Shinra’s science department, they’ve investigated the rift.",神羅の科学部門によりますと<br>亀裂を調べた結果
+$MIDGR_NPC_10_0100_4900_00_mfa,Announcer,"They detected unusual waves, but no harm to humans has been confirmed. It’s not a problem.",特異な波動を計測したものの<br>人体への影響は確認されず<br>問題はないとのことです
+$MIDGR_NPC_10_0100_5000_00_mfa,Announcer,"Regarding rumors that the planet is ending, Public Security Chief Heidegger said:",また　星が終焉を迎えるのではないか<br>といった憶測が広まっている事について<br>治安維持部門のハイデッカー統括は
+$MIDGR_NPC_10_0100_5200_00_mfa,Announcer,"""We’re working hard to investigate the cause, so don’t be misled by uncertain information.""",現在　総力をあげて<br>原因究明に取り組んでいるので<br>不確かな情報に惑わされないでほしいと<br>コメントしました
+$MIDGR_NPC_10_0100_5300_00_mfa,Announcer,"In the day after tomorrow’s press conference, President Rufus will report on the tornado damage",明後日に行われる<br>ルーファウス社長の会見では<br>先日の竜巻被害の報告とあわせ
+$MIDGR_NPC_10_0100_5400_00_mfa,Announcer,and announce measures for the rift.,亀裂についての対策を<br>発表するとしています
+$MIDGR_NPC_10_0100_5500_00_mma,NPC,There’s a theory that the rift is the planet’s lament.,空に生じたあの裂け目は<br>星が嘆いている証だって説があるな
+$MIDGR_NPC_10_0100_5600_00_mfa,NPC,Has the planet abandoned us?,星は私たちを見捨てたのでしょうか
+$MIDGR_NPC_10_0100_5700_00_mma,NPC,We wasted the planet’s blessings and fought. Maybe it’s angry.,星の恵みを浪費して争ってばっかり<br>そんな俺たちに怒っちまったのか
+$MIDGR_NPC_10_0100_5800_00_mma,NPC,Or perhaps it’s crying.,あるいは　泣いているのかもな
+$MIDGR_NPC_10_0100_5900_00_mfa,NPC,"Ah, what will happen now?",ああ　これから<br>なにが起こるのでしょう
+$MIDGR_NPC_10_0100_6000_00_mma,NPC,"In the end, the planet decides the future, right?",結局　未来は星が決めるんだろ？
+$MIDGR_NPC_10_0100_6100_00_mma,NPC,Whether humans survive is up to the planet.,人が生き残れるかどうかも<br>星の裁量次第ってことだ
+$MIDGR_NPC_10_0100_6200_00_mma,NPC,"So, what are you going to do?",おまえさ　これからどうする？
+$MIDGR_NPC_10_0100_6300_00_mma,NPC,"Hmm, live as usual, I guess.",う～ん　いままでどおり暮らすかな
+$MIDGR_NPC_10_0100_6400_00_mma,NPC,Boring. Aren’t you going to start something new?,つまんねえなあ<br>なんか新しく始めたりしないのかよ
+$MIDGR_NPC_10_0100_6500_00_mma,NPC,I tried praying at the church for the first time.,このまえ　初めて教会で祈ってみたんだ
+$MIDGR_NPC_10_0100_6600_00_mma,NPC,"It was awkward, but I felt a bit calmer.",見よう見まねだったけど<br>すこし心が落ち着いた気がするよ
+$MIDGR_NPC_10_0100_6700_00_mma,NPC,Even Shinra might be out of their depth this time.,さすがの神羅も<br>今回ばかりはお手上げかもな
+$MIDGR_NPC_10_0100_6800_00_mfa,NPC,Maybe I’ll go to Cosmo Canyon and ask for a solution.,あたし　コスモキャニオンに行って<br>解決方法を聞いてこようかな
+$MIDGR_NPC_10_0100_6900_00_mma,NPC,Planetology won’t help now.,星命学が<br>いまさら役に立つわけねえだろ
+$MIDGR_NPC_10_0100_6910_00_mma,NPC,They just pray and do nothing.,どうせ祈るだけで<br>なんもしてくんねえよ
+$MIDGR_NPC_10_0100_7000_00_mfa,NPC,Then what should we do?,じゃあ　どうすればいいの？
+$MIDGR_NPC_10_0100_7100_00_mma,NPC,There’s nothing we can do.,だから　もうどうしようもねえんだよ
+$MIDGR_NPC_10_0100_7200_00_mfa,NPC,I’ve lived enough. I have no regrets if my life ends here.,私はじゅうぶんに生きたからね<br>ここで人生が終わっても悔いはないの
+$MIDGR_NPC_10_0100_7300_00_mfa,NPC,But you all have your lives ahead. I’m so sorry.,だけど　おまえたちはこれからなのに<br>本当にすまないねえ
+$MIDGR_NPC_10_0100_7400_00_mmk,NPC,"Why are you apologizing, Grandma?",なんで　ばあちゃんが謝るんだよ
+$MIDGR_NPC_10_0100_7500_00_mfk,NPC,"Don’t cry, Grandma. It makes me sad too.",おばあちゃん　泣かないで<br>わたしも悲しくなっちゃうから
+$MIDGR_NPC_10_0100_7600_00_fol,Ms. Folia,"Everyone, calm down!",ほらみんな　落ち着いて！
+$MIDGR_NPC_10_0100_7700_00_fol,Ms. Folia,Let’s dance together.,いっしょに踊りましょう
+$MIDGR_NPC_10_0100_7800_00_mmk,NPC,What’s going to happen to us?,ボクたち　どうなっちゃうんだろ
+$MIDGR_NPC_10_0100_7900_00_mmk,NPC,"Wow, the rift is getting bigger!",うわあ　キレツ<br>でかくなってるであります！
+$MIDGR_NPC_10_0100_8000_00_mmk,NPC,Do we not have to study anymore?,もう勉強しなくていい？
+$MIDGR_NPC_10_0100_8100_00_mfk,NPC,Is there anything we can do?,あたしたちにできること<br>あるかな？
+$MIDGR_NPC_10_0100_8200_00_mfk,NPC,Can’t we grow up?,あたしたち　大人になれないの？
+$MIDGR_NPC_10_0100_8300_00_mfa,NPC,Ms. Folia is a dancer.,フォリア先生はダンサーなんです
+$MIDGR_NPC_10_0100_8400_00_mfa,NPC,She was secretly working at the Honeybee Inn.,蜜蜂の館で兼業していることは<br>ずっと秘密だったんですけど
+$MIDGR_NPC_10_0100_8500_00_mfa,NPC,Now she’s trying to cheer up the kids with her dancing.,いまは踊りで　子供たちを<br>勇気づけようとしてくれています
+$MIDGR_NPC_10_0100_8600_00_mfa,NPC,It’s really helpful.,本当に助かってますよ
+$MIDGR_NPC_10_0100_8700_00_mug,Mugi,Are you the guy who was with Aerith?,エアリスといっしょにいた兄ちゃん？
+$MIDGR_NPC_10_0100_8800_00_mug,Mugi,"Aerith’s okay, right?",エアリス　大丈夫だよな？
+$MIDGR_NPC_10_0100_8900_00_mma,NPC,"Let’s do whatever we want from now on. First, money. Should we rob someone?",これからは好き勝手にやろうぜ<br>まずは金だ　強盗でもするか？
+$MIDGR_NPC_10_0100_9000_00_mfa,NPC,You don’t have to act tough.,無理にワルぶらなくてもいいわよ
+$MIDGR_NPC_10_0100_9100_00_mma,NPC,"Shut up! After money, alcohol.",うるせえ！<br>金が手に入ったら　次は酒だな
+$MIDGR_NPC_10_0100_9200_00_mfa,NPC,"You’re scared, aren’t you?",怖いのね……
+$MIDGR_NPC_10_0100_9300_00_mma,NPC,"Yeah, I’m scared. So what?",ああ　怖えよ<br>悪いかよ！
+$MIDGR_NPC_10_0100_9400_00_mma,NPC,"People of the planet, look at the sky! Look at that wound of despair!",星の民よ　あの空を見よ<br>あの絶望の傷を！
+$MIDGR_NPC_10_0100_9410_00_mma,NPC,"The planet is suffering, screaming, mourning.",星は苦しみ　悲鳴をあげ<br>嘆き悲しんでいるのだ
+$MIDGR_NPC_10_0100_9500_00_mma,NPC,"Right now, the planet’s life is about to end.",いままさに　星の命は<br>終焉を迎えんとしている
+$MIDGR_NPC_10_0100_9510_00_mma,NPC,"The Lifestream will soon die out, and our lives will vanish with the planet.",ライフストリームはやがて死に絶えよう<br>我々の命も　星とともに消え失せる
+$MIDGR_NPC_10_0100_9600_00_mma,NPC,This fate is the planet’s punishment for our foolishness!,この運命は<br>星が愚かな我々に課した報いなのだ！
+$MIDGR_NPC_10_0100_9700_00_mfa,NPC,"People of the planet, look at the sky! Look at that wound of despair!",星の民よ　あの空を見よ<br>あの絶望の傷を！
+$MIDGR_NPC_10_0100_9710_00_mfa,NPC,"The planet is suffering, screaming, mourning.",星は苦しみ　悲鳴をあげ<br>嘆き悲しんでいます
+$MIDGR_NPC_10_0100_9800_00_mfa,NPC,The creaking of the weakened planet tore the sky apart.,弱った星の軋みが　空を裂いたのです
+$MIDGR_NPC_10_0100_9900_00_mfa,NPC,That wound in the sky is a symbol of our sins for not listening to the planet’s cries.,空にできたあの傷は<br>星の慟哭に耳を傾けてこなかった<br>我々の罪の象徴です
+$MIDGR_NPC_10_0200_0100_00_mma,NPC,I don’t have to go to work anymore.,仕事なんて　もう行かなくていいか
+$MIDGR_NPC_10_0200_0200_00_mma,NPC,"Even if I run, there’s nowhere to go.",ここから逃げるにしても<br>行き場がないよな
+$MIDGR_NPC_10_0200_0300_00_mma,NPC,I used to meet for dates here often.,ここでよく<br>デートの待ち合わせをしたな
+$MIDGR_NPC_10_0200_0400_00_mma,NPC,I’m waiting for my wife to come back.,妻が帰るのを待っているんだ
+$MIDGR_NPC_10_0200_0500_00_mma,NPC,"If the trains aren’t running, maybe they’ll send a helicopter.",列車が動かないなら<br>ヘリでも飛ばしてくれないかな
+$MIDGR_NPC_10_0200_0600_00_mma,NPC,"The spiral tunnel took some heavy damage, I hear.",螺旋トンネルが<br>大きな被害を受けたらしい
+$MIDGR_NPC_10_0200_0700_00_mma,NPC,"The whole of Midgar won’t collapse, right?",まさか　ミッドガル全体が<br>崩れ落ちたりしないよな
+$MIDGR_NPC_10_0200_0800_00_mma,NPC,I want to distract myself with work at times like this.,こんなときこそ<br>仕事で気を紛らわせたいのに
+$MIDGR_NPC_10_0200_0900_00_mma,NPC,I heard there’s a riot in Sector 8.,八番街では暴動が起きてるって話だ
+$MIDGR_NPC_10_0200_1000_00_mma,NPC,Can you see the rift better from the plate?,プレートからだと<br>亀裂がもっとよく見えんのかな？
+$MIDGR_NPC_10_0200_1100_00_mfa,NPC,This station has seen many meetings and partings. It was loved by everyone.,この駅は　出会いも別れも<br>たくさん見てきた<br>みんなに愛されていたのよ
+$MIDGR_NPC_10_0200_1200_00_mfa,NPC,"My boyfriend lives on the plate, so I have many memories here.",あたしの彼はプレート住まいだから<br>ここには思い出がいっぱい
+$MIDGR_NPC_10_0200_1300_00_mfa,NPC,My husband hasn’t come back yet.,夫が　まだ帰ってこないの
+$MIDGR_NPC_10_0200_1400_00_mfa,NPC,Is it true that the top of the Shinra Building blew off?,神羅ビルのてっぺんが吹っ飛んだって<br>本当……？
+$MIDGR_NPC_10_0200_1500_00_mfa,NPC,"So many things are happening, everyone’s losing the will to live.",いろいろなことが起こりすぎて<br>みんな　生きる気力を無くしちゃってる
+$MIDGR_NPC_10_0200_1600_00_mfa,NPC,"Hey, did you hear? Shinra’s going to attack the rift.",ねえ　聞いた？<br>神羅が裂け目を攻撃するんだって
+$MIDGR_NPC_10_0200_1700_00_mfa,NPC,I’m kinda expecting Shinra to do something about it.,神羅が<br>どうにかしてくれるんじゃないかって<br>結構　期待しているんだけどな
+$MIDGR_NPC_10_0200_1800_00_mfa,NPC,Maybe it’s because we used too much Mako?,ひょっとして<br>魔晄を使い過ぎちゃったせい？
+$MIDGR_NPC_10_0200_1810_00_mfa,NPC,The planet must be angry.,きっと　星が怒っているのよ
+$MIDGR_NPC_10_0200_1900_00_mfa,NPC,"If the trains aren’t running, can I walk up the tracks?",列車が動いてないなら<br>線路を歩いて上に行っちゃダメかな？
+$MIDGR_NPC_10_0200_2000_00_mfa,NPC,"Don’t be fooled by rumors. Shinra made an announcement, right?",デマに惑わされちゃダメよ<br>神羅から通達があったでしょ？
+$MIDGR_NPC_10_0200_2100_00_mma,NPC,All trains to the plate are suspended.,プレートへの列車は全線運休中です
+$MIDGR_NPC_10_0200_2110_00_mma,NPC,No plans to resume service.,運行再開の見込みは立っておりません
+$MIDGR_NPC_10_0200_2200_00_mma,NPC,I can’t say when service will resume.,列車の運行再開時期は<br>お答えできません
+$MIDGR_NPC_10_0200_2210_00_mma,NPC,Wait for the Urban Development Department’s announcement.,都市開発部門からの発表を<br>お待ちください
+$MIDGR_NPC_10_0200_2300_00_mma,NPC,All trains to the plate are suspended.,プレートへの列車は全線運休中です
+$MIDGR_NPC_10_0200_2310_00_mma,NPC,No plans to resume service.,運行再開の見込みは立っておりません
+$MIDGR_NPC_10_0200_2400_00_mma,NPC,I can’t say when service will resume.,列車の運行再開時期は<br>お答えできません
+$MIDGR_NPC_10_0200_2410_00_mma,NPC,Wait for the Urban Development Department’s announcement.,都市開発部門からの発表を<br>お待ちください
+$MIDGR_NPC_10_0200_2500_00_mfa,NPC,Maruke’s stew. A harmony of sweetness and spice.,マルケの煮込みだよ<br>甘さとスパイスのハーモニー
+$MIDGR_NPC_10_0200_2600_00_mfa,NPC,"Lots of sugar, lots of oil. High calorie!",砂糖たっぷり　油たっぷり<br>ハイカロリー！
+$MIDGR_NPC_10_0200_2700_00_mfa,NPC,Sector 5 Slum’s special meatballs. How about it?,伍番街スラム特製<br>ミートボールは　いかが？
+$MIDGR_NPC_10_0200_2800_00_mfa,NPC,Secret sweet and spicy sauce.,秘伝の甘辛ソースだよ
+$MIDGR_NPC_10_0200_2900_00_mma,NPC,The best sweet and spicy meatballs in the slums.,スラムでいちばんの<br>辛甘ミートボールだよ
+$MIDGR_NPC_10_0200_3000_00_mma,NPC,Our secret sauce is the original.,秘伝のソースは　うちが元祖だよ
+$MIDGR_NPC_10_0300_togaki_00,,MIDGR___1033,MIDGR___1033
