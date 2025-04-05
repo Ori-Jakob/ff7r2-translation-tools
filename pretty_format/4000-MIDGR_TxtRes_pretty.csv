@@ -781,7 +781,7 @@ $C3410_MAIN_1400_0900_00_cld,Cloud,Where?,どこだ？
 $C3410_MAIN_1400_1000_00_art,Aerith,Do you want to know?,聞きますか
 $C3410_MAIN_1400_1000_05_cld,Cloud,MIDGR___780,MIDGR___780
 $C3410_MAIN_1400_1100_00_art,Aerith,My favorite place.,わたしの　好きな場所
-$C3410_MAIN_1400_1110_00_art,Aerith,That’s a big hint!,これ　もう大ヒント！
+$C3410_MAIN_1400_1110_00_art,Aerith,This is already a big hint!,これ　もう大ヒント！
 $C3410_MAIN_1400_1110_05_art,Aerith,MIDGR___783,MIDGR___783
 $C3410_MAIN_1600_0100_00_zax,Zack,Cloud...,クラウド……
 $C3410_MAIN_1600_0110_00_zax,Zack,Biggs...,ビッグス……
@@ -811,20 +811,20 @@ $C3410_MAIN_1700_0510_00_zax,Zack,Let’s go!,行くぞ！
 $C3410_MAIN_1800_0100_00_cld,Cloud,"The memorable place...it’s here.",思い出の場所は　ここだ
 $C3410_MAIN_1800_0200_00_art,Aerith,Correct.,正解
 $C3410_MAIN_1800_0300_00_cld,Cloud,Too easy.,簡単すぎる
-$C3410_MAIN_1800_0400_00_art,Aerith,"Well, I don’t have many special memories, you know?",思い出　少ないからね
+$C3410_MAIN_1800_0400_00_art,Aerith,"Well, we don’t have many special memories, you know.",思い出　少ないからね
 $C3410_MAIN_1800_0500_00_cld,Cloud,We can make more from now on.,これから　作ればいい
 $C3410_MAIN_1800_0600_00_art,Aerith,Is that how you really feel?,それ　本心？
 $C3410_MAIN_1800_0700_00_cld,Cloud,"Yeah, of course.",ああ　もちろん
 $C3410_MAIN_1800_0700_05_art,Aerith,MIDGR___816,MIDGR___816
-$C3410_MAIN_1800_0800_00_cld,Cloud,"We’re friends, after all.",仲間だからな
+$C3410_MAIN_1800_0800_00_cld,Cloud,"We’re close friends, after all.",仲間だからな
 $C3410_MAIN_1800_0900_00_art,Aerith,"Yeah, you’re right.",そうだね
-$C3410_MAIN_1800_1000_00_art,Aerith,I’m glad I heard how you feel.,クラウドの気持ち　聞けてよかった
+$C3410_MAIN_1800_1000_00_art,Aerith,"Cloud, your feelings...I'm glad to hear them.",クラウドの気持ち　聞けてよかった
 $C3410_MAIN_1800_1000_05_art,Aerith,MIDGR___820,MIDGR___820
 $C3410_MAIN_1800_1100_00_art,Aerith,"I like you, Cloud.",わたしは　クラウドが好き
 $C3410_MAIN_1800_1110_00_art,Aerith,"But there are many kinds of ""like.""",でも　好きにも　色々あるよね
 $C3410_MAIN_1800_1200_00_art,Aerith,"I wonder which ""like"" this is.",この好きは　どの好きなんだろう
 $C3410_MAIN_1800_1300_00_cld,Cloud,"Aerith, you’re acting strange.",エアリス　変だぞ
-$C3410_MAIN_1800_1310_00_cld,Cloud,You’ve been acting strange all day.,今日は　ずっと変だ
+$C3410_MAIN_1800_1310_00_cld,Cloud,You’ve been weird all day.,今日は　ずっと変だ
 $C3410_MAIN_1800_1900_00_art,Aerith,Excuse me.,失礼します
 $C3410_MAIN_1800_2000_00_art,Aerith,"Go away, guilt.",消えろ　罪悪感
 $C3410_MAIN_1800_2000_05_cld,Cloud,MIDGR___828,MIDGR___828
