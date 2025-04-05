@@ -27,11 +27,11 @@ Why does this project exist? Well, for one, the English localization does not re
 
 You will need [Python](https://python.org)
 
-First, clone the repository with the method of your choice:
+First, clone the repository (the `dev-translations` branch will usually be the most up-to-date, so pull from that) with the method of your choice:
 
 1.  using the git command-line (requires git) `git clone %repository-link%`
 
-2.  click the green "Code" button dropdown, and select **Download .zip**
+2.  Make sure you are on `dev-translations` branch, then click the green "Code" button dropdown, and select **Download .zip**
 
 #### External Tools
 
