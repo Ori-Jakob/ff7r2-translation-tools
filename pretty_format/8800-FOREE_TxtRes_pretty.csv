@@ -1354,7 +1354,7 @@ $C3340_MAIN_1800_0050_25_blt,Barret,FOREE_1351,FOREE_1351
 $C3340_MAIN_1800_0050_28_cld,Cloud,FOREE_1352,FOREE_1352
 $C3340_MAIN_1900_0000_08_yfi,Yuffie,FOREE_1353,FOREE_1353
 $C3340_MAIN_1900_0000_11_art,Aerith,FOREE_1354,FOREE_1354
-$C3340_MAIN_1900_0100_00_cat,???,"Whoa, now that’s a sight to behold!",いや～　壮観ですな～！
+$C3340_MAIN_1900_0100_00_cat,???,"Yaaa, now that’s a sight to behold!",いや～　壮観ですな～！
 $C3340_MAIN_1900_0200_00_blt,Barret,How the hell’d you—!,おまえ　どうやって！
 $C3340_MAIN_1900_0200_03_yfi,Yuffie,FOREE_1357,FOREE_1357
 $C3340_MAIN_1900_0200_05_cat,Cait Sith,FOREE_1358,FOREE_1358
@@ -1362,7 +1362,7 @@ $C3340_MAIN_1900_0300_00_cat,Cait Sith,"Can’t let Gold Saucer get lonely witho
 $C3340_MAIN_1900_0400_00_cat,Cait Sith,I’ve got plenty of spare bodies lyin’ around!,ボディの予備は　いっぱいあるんです
 $C3340_MAIN_1900_0400_01_cat,Cait Sith,FOREE_1361,FOREE_1361
 $C3340_MAIN_1900_0400_05_art,Aerith,FOREE_1362,FOREE_1362
-$C3340_MAIN_1900_0500_00_art,Aerith,I’m so glad.,よかった
+$C3340_MAIN_1900_0500_00_art,Aerith,Thank goodness...,よかった
 $C3340_MAIN_1900_0600_00_cat,Cait Sith,"Aw, stop it!",やめてえな～！
 $C3340_MAIN_1900_0600_05_art,Aerith,FOREE_1365,FOREE_1365
 $C3340_MAIN_1900_0600_08_tif,Tifa,FOREE_1366,FOREE_1366
@@ -1441,7 +1441,7 @@ $C3340_MAIN_2200_0700_05_art,Aerith,FOREE_1438,FOREE_1438
 $C3340_MAIN_2200_0800_00_sep,Sephiroth,"Come now, you’ll have to take it back.",さあ　取り返さなくては
 $C3340_MAIN_2200_0800_05_cld,Cloud,FOREE_1440,FOREE_1440
 $C3340_MAIN_2200_0800_07_tif,Tifa,FOREE_1441,FOREE_1441
-$C3340_MAIN_2200_0900_00_tif,Tifa,"Cloud, don’t!",クラウド　だめ！
+$C3340_MAIN_2200_0900_00_tif,Tifa,"Cloud, you can’t!",クラウド　だめ！
 $C3340_MAIN_2300_0100_00_cld,Cloud,FOREE_1443,FOREE_1443
 $C3340_MAIN_2300_0200_00_cld,Cloud,Aerith...,エアリス……
 $C3340_MAIN_2300_0201_00_cld,Cloud,Aerith...,エアリス……
@@ -1463,8 +1463,8 @@ $C3340_MAIN_2400_0200_00_cld,Cloud,Hand it over.,渡してくれ
 $C3340_MAIN_2400_0201_00_cld,Cloud,Hand it over.,渡してくれ
 $C3340_MAIN_2400_0300_00_cld,Cloud,Please...,お願いだ……
 $C3340_MAIN_2400_0301_00_cld,Cloud,Please...,お願いだ……
-$C3340_MAIN_2400_0400_00_cld,Cloud,Trust me.,信じてくれ
-$C3340_MAIN_2400_0401_00_cld,Cloud,Trust me.,信じてくれ
+$C3340_MAIN_2400_0400_00_cld,Cloud,"Believe me, please.",信じてくれ
+$C3340_MAIN_2400_0401_00_cld,Cloud,"Believe me, please.",信じてくれ
 $C3340_MAIN_2400_0500_00_cld,Cloud,Let’s protect the Planet together.,いっしょに　星を守ろう
 $C3340_MAIN_2400_0501_00_cld,Cloud,Let’s protect the Planet together.,いっしょに　星を守ろう
 $C3340_MAIN_2500_0050_05_art,Aerith,FOREE_1468,FOREE_1468
@@ -1785,14 +1785,14 @@ $C3510_MAIN_3100_0700_05_cld,Cloud,FOREE_1782,FOREE_1782
 $C3510_MAIN_3100_0800_00_sep,Sephiroth,Stop pretending to be angry.,怒るふりもやめろ
 $C3510_MAIN_3100_0900_00_sep,Sephiroth,You have nothing.,おまえには　なにもない
 $C3510_MAIN_3100_0900_07_cld,Cloud,FOREE_1785,FOREE_1785
-$C3510_MAIN_3100_1000_00_art,Aerith,Cloud’s gonna be fine.,クラウドは　だいじょうぶ
+$C3510_MAIN_3100_1000_00_art,Aerith,"Cloud, you’ll gonna be fine.",クラウドは　だいじょうぶ
 $C3510_MAIN_3100_1000_05_cld,Cloud,FOREE_1787,FOREE_1787
 $C3510_MAIN_3100_1000_09_cld,Cloud,FOREE_1788,FOREE_1788
 $C3510_MAIN_3100_1100_00_cld,Cloud,Aerith...,エアリス……
 $C3510_MAIN_3100_1100_11_blt,Barret,FOREE_1790,FOREE_1790
 $C3510_MAIN_3100_1200_00_tif,Tifa,Aerith!,エアリス！
 $C3510_MAIN_3100_1300_00_blt,Barret,You bastard!,てめえ！
-$C3510_MAIN_3100_1400_00_sep,Sephiroth,Here it begins.,さあ　始まるぞ
+$C3510_MAIN_3100_1400_00_sep,Sephiroth,"So, here it begins.",さあ　始まるぞ
 $C3510_MAIN_3100_1500_00_sep,Sephiroth,Worlds brimming with every emotion will collide.,あらゆる情を乗せた世界が混ざり合うのだ
 $C3510_MAIN_3100_1600_00_sep,Sephiroth,Negative emotions run deep.,負の感情は強い
 $C3510_MAIN_3100_1700_00_sep,Sephiroth,"They swallow petty joys, turning them into anger, sorrow, and hatred.",ちっぽけな喜びなど飲み込んでしまい<br>そればかりか　怒り　悲しみ　憎悪に変える

@@ -876,14 +876,14 @@ $C2210_MAIN_3200_0100_00_art,Aerith,"Hey, look at that!",ねえ　あれ！
 $C2210_MAIN_3200_0100_05_lud,Rude,JUNOE_874,JUNOE_874
 $C2210_MAIN_3200_0100_09_lud,Rude,JUNOE_875,JUNOE_875
 $C2210_MAIN_3200_0200_00_art,Aerith,Suspicious...,あやしい……
-$C2210_MAIN_3400_0100_00_mma,NPC,"<i>Shine, polish, my sun</i>",<i>輝け　磨け　オレの太陽</i>
+$C2210_MAIN_3400_0100_00_mma,NPC,"<i>Shine, be polished, my sun</i>",<i>輝け　磨け　オレの太陽</i>
 $C2210_MAIN_3400_0100_05_lud,Rude,JUNOE_878,JUNOE_878
 $C2210_MAIN_3400_0100_08_mma,NPC,JUNOE_879,JUNOE_879
 $C2210_MAIN_3400_0100_11_lud,Rude,JUNOE_880,JUNOE_880
 $C2210_MAIN_3400_0100_16_lud,Rude,JUNOE_881,JUNOE_881
 $C2210_MAIN_3400_0100_18_mma,NPC,JUNOE_882,JUNOE_882
 $C2210_MAIN_3400_0100_21_lud,Rude,JUNOE_883,JUNOE_883
-$C2210_MAIN_3400_0110_00_mma,NPC,"<i>Shine, polish, your sun</i>",<i>輝け　磨け　キミの太陽</i>
+$C2210_MAIN_3400_0110_00_mma,NPC,"<i>Shine, be polished, your sun</i>",<i>輝け　磨け　キミの太陽</i>
 $C2210_MAIN_3400_0150_00_mma,Member,"Rude, please!",ルードさん　お願いします
 $C2210_MAIN_3400_0200_00_lud,Rude,First time here?,ここは　初めてか？
 $C2210_MAIN_3400_0300_00_lud,Rude,"If you’re drinking here, lose the helmet first.",ここで飲むなら　まずはメットを取るんだな
@@ -896,7 +896,7 @@ $C2210_MAIN_3400_0400_00_lud,Rude,What’s wrong?,どうした？
 $C2210_MAIN_3400_0500_00_lud,Rude,You guys...you’re not,おまえたち　もしかして
 $C2210_MAIN_3400_0510_00_lud,Rude,"growing ‘em out, are you?",伸ばしてるんじゃないだろうな？
 $C2210_MAIN_3400_0600_00_skm,Trooper,Hold on—he’s our captain!,待ってくれ　この人は俺たちの隊長だ
-$C2210_MAIN_3400_0600_05_skm,Soldier,JUNOE_897,JUNOE_897
+$C2210_MAIN_3400_0600_05_skm,Trooper,JUNOE_897,JUNOE_897
 $C2210_MAIN_3400_0700_00_skm,Trooper,"Captain, this bar’s a bit special—helmets don’t fly here.",隊長　ここはちょっと特殊な酒場でして<br>メットのままじゃ　ダメなんです
 $C2210_MAIN_3400_0700_04_cld,Cloud,JUNOE_899,JUNOE_899
 $C2210_MAIN_3400_0800_00_cld,Cloud,"Free time’s over. Everyone, outside.",自由時間は終わりだ　全員外へ出ろ
@@ -951,12 +951,12 @@ $C2210_MAIN_4210_0700_00_skf,Trooper,Midgar is currently facing hardships.,ミ�
 $C2210_MAIN_4210_0710_00_skf,Trooper,We’ll march forward carrying everyone’s hopes on our shoulders.,我々は　皆さんの想いを背負って<br>行進します
 $C2210_MAIN_4210_0800_00_skf,Trooper,Let’s overcome this together!,一緒に乗り越えましょう！
 $C2210_MAIN_4215_0100_00_mfa,Announcer,What’s that? I’m in the middle of an interview here!,なんですか？　取材中なんですけど
-$C2210_MAIN_4215_0100_05_skm,Soldier,JUNOE_952,JUNOE_952
+$C2210_MAIN_4215_0100_05_skm,Trooper,JUNOE_952,JUNOE_952
 $C2210_MAIN_4215_0200_00_skm,Trooper,Salute the captain!,隊長に敬礼！
 $C2210_MAIN_4215_0300_00_mfa,Announcer,"Oh, the captain! My apologies!",隊長さんでしたか　失礼しました！
 $C2210_MAIN_4215_0400_00_mfa,Announcer,Perfect timing.,ちょうどよかった
 $C2210_MAIN_4215_0410_00_mfa,Announcer,Could I trouble you for a quick interview?,すこしだけ　インタビューさせていただいて<br>よろしいでしょうか？
-$C2210_MAIN_4215_0500_00_cld,Cloud,Hmph...,いや……
+$C2210_MAIN_4215_0500_00_cld,Cloud,Mmmm...No...,いや……
 $C2210_MAIN_4215_0600_00_mfa,Announcer,This parade promises to be a fierce competition. Any secret strategies you’d care to share?,今回のパレードは激戦が予想されますが<br>秘策などがありましたら　教えてもらえませんか？
 $C2210_MAIN_4215_0700_00_cld,Cloud,Yeah...,ああ……
 $C2210_MAIN_4215_0800_00_skm,Trooper,"Oh...our captain, as expected!",おお……隊長　さすがです
@@ -1049,25 +1049,25 @@ $C2210_MAIN_4265_0500_00_cld,Cloud,Got it? Then get outside—now!,わかった�
 $C2210_MAIN_4265_0600_00_skm,Troopers,"Yes, sir! Apologies!",ハッ　失礼しました！
 $C2210_MAIN_4265_0610_00_skm,NPC,JUNOE_1048,JUNOE_1048
 $C2210_MAIN_4265_0620_00_skm,NPC,JUNOE_1049,JUNOE_1049
-$C2210_MAIN_4280_0100_00_skm,Soldier,"Captain, good work, sir!",隊長　ご苦労さまです！
+$C2210_MAIN_4280_0100_00_skm,Trooper,"Captain, good work, sir!",隊長　ご苦労さまです！
 $C2210_MAIN_4280_0200_00_skm,Seventh Infantry,"Good work, sir!",ご苦労さまです！
-$C2210_MAIN_4280_0300_00_skm,Soldier,We’re fully prepared!,我々は準備万端です！
+$C2210_MAIN_4280_0300_00_skm,Trooper,We’re fully prepared!,我々は準備万端です！
 $C2210_MAIN_4280_0400_00_skm,Seventh Infantry,Ready to go!,万端です！
-$C2210_MAIN_4280_0500_00_skm,Soldier,Salute the captain!,隊長に敬礼！
+$C2210_MAIN_4280_0500_00_skm,Trooper,Salute the captain!,隊長に敬礼！
 $C2210_MAIN_4280_0600_00_skm,Seventh Infantry,"Yes, sir!",ハッ！
-$C2210_MAIN_4280_0700_00_skm,Soldier,How was your shopping?,お買い物はいかがでしたか！
+$C2210_MAIN_4280_0700_00_skm,Trooper,How was your shopping?,お買い物はいかがでしたか！
 $C2210_MAIN_4280_0800_00_skm,Seventh Infantry,Did you enjoy it?,いかがでしたか！
-$C2210_MAIN_4280_0900_00_skm,Soldier,The captain’s back from the hotel!,隊長がホテルからお戻りだ！
+$C2210_MAIN_4280_0900_00_skm,Trooper,The captain’s back from the hotel!,隊長がホテルからお戻りだ！
 $C2210_MAIN_4280_1000_00_skm,Seventh Infantry,"Good work, sir!",お疲れ様です！
-$C2210_MAIN_4280_1100_00_skm,Soldier,Congrats on the skill-up!,スキルアップ　おめでとうございます！
-$C2210_MAIN_4280_1200_00_skm,Soldier,Congratulations!,おめでとうございます！
-$C2210_MAIN_4280_1300_00_skm,Soldier,Thanks for booking the celebration venue!,祝賀会場の予約<br>ありがとうございます！
+$C2210_MAIN_4280_1100_00_skm,Trooper,Congrats on the skill-up!,スキルアップ　おめでとうございます！
+$C2210_MAIN_4280_1200_00_skm,Trooper,Congratulations!,おめでとうございます！
+$C2210_MAIN_4280_1300_00_skm,Trooper,Thanks for booking the celebration venue!,祝賀会場の予約<br>ありがとうございます！
 $C2210_MAIN_4280_1400_00_skm,Seventh Infantry,Thanks for the feast!,ごちそうさまです！
-$C2210_MAIN_4280_1500_00_skm,Soldier,"Captain, everyone’s assembled!",隊長　全員集合しました！
+$C2210_MAIN_4280_1500_00_skm,Trooper,"Captain, everyone’s assembled!",隊長　全員集合しました！
 $C2210_MAIN_4280_1600_00_skm,Seventh Infantry,All here!,集合しました！
-$C2210_MAIN_4280_1700_00_skm,Soldier,"Midgar Seventh Infantry Regiment, assembled!",ミッドガル第七歩兵連隊　そろいました！
+$C2210_MAIN_4280_1700_00_skm,Trooper,"Midgar Seventh Infantry Regiment, assembled!",ミッドガル第七歩兵連隊　そろいました！
 $C2210_MAIN_4280_1800_00_skm,Seventh Infantry,"Ready, sir!",そろいました！
-$C2210_MAIN_4300_0100_00_skm,Soldier,"Midgar Seventh Infantry Regiment, attention!",ミッドガル第七歩兵連隊　気をつけ！
+$C2210_MAIN_4300_0100_00_skm,Trooper,"Midgar Seventh Infantry Regiment, attention!",ミッドガル第七歩兵連隊　気をつけ！
 $C2210_MAIN_4300_0100_05_cld,Cloud,JUNOE_1069,JUNOE_1069
 $C2210_MAIN_4300_0200_00_art,Aerith,Cloud!,クラウド！
 $C2210_MAIN_4300_0300_00_cld,Cloud,"From here on out,",これから
@@ -1082,11 +1082,11 @@ $C2210_MAIN_4300_0800_00_cld,Cloud,Yeah...,ああ……
 $C2210_MAIN_4300_0900_00_tif,Tifa,Finish it off strong.,最後に決めて
 $C2210_MAIN_4300_1000_00_cld,Cloud,We came here to win. And we’re taking the president’s award too.,俺たちは優勝するために　ここに来た<br>もちろん　社長賞もいただく
 $C2210_MAIN_4300_1100_00_cld,Cloud,That’s the only goal for this parade.,それ以外に　このパレードのゴールはない
-$C2210_MAIN_4300_1200_00_skm,Soldier,"Yes, sir!",イエッサー！
+$C2210_MAIN_4300_1200_00_skm,Trooper,"Yes, sir!",イエッサー！
 $C2210_MAIN_4300_1300_00_cld,Cloud,We won’t lose to anyone!,俺たちは　誰にも負けない！
-$C2210_MAIN_4300_1400_00_skm,Soldier,"Yes, sir!",イエッサー！
+$C2210_MAIN_4300_1400_00_skm,Trooper,"Yes, sir!",イエッサー！
 $C2210_MAIN_4300_1500_00_cld,Cloud,We’re the strongest!,俺たちは　最強だ！
-$C2210_MAIN_4300_1600_00_skm,Soldier,"Yes, sir!",イエッサー！
+$C2210_MAIN_4300_1600_00_skm,Trooper,"Yes, sir!",イエッサー！
 $C2210_MAIN_4300_1600_03_cld,Cloud,JUNOE_1088,JUNOE_1088
 $C2210_MAIN_4300_1600_06_cld,Cloud,JUNOE_1089,JUNOE_1089
 $C2210_MAIN_4300_1700_00_tif,Tifa,"Captain, it’s about time for the venue.",隊長　そろそろ会場へ
@@ -1592,19 +1592,19 @@ $C2210_MAIN_8500_0110_05_rch,Roche,JUNOE_1589,JUNOE_1589
 $C2210_MAIN_8500_0110_09_rch,Roche,JUNOE_1590,JUNOE_1590
 $C2210_MAIN_8500_0200_00_rch,Roche,Too bad—did my lady ditch me?,残念　マイレディにはフラれたか
 $C2210_MAIN_8500_0200_05_mma,NPC,JUNOE_1592,JUNOE_1592
-$C2210_MAIN_8500_0200_08_skm,Soldier,JUNOE_1593,JUNOE_1593
-$C2210_MAIN_8500_0200_09_skm,Soldier,JUNOE_1594,JUNOE_1594
-$C2210_MAIN_8500_0200_10_skm,Soldier,JUNOE_1595,JUNOE_1595
+$C2210_MAIN_8500_0200_08_skm,Trooper,JUNOE_1593,JUNOE_1593
+$C2210_MAIN_8500_0200_09_skm,Trooper,JUNOE_1594,JUNOE_1594
+$C2210_MAIN_8500_0200_10_skm,Trooper,JUNOE_1595,JUNOE_1595
 $C2210_MAIN_8500_0300_00_cld,Cloud,Who’re these guys?,こいつらは？
 $C2210_MAIN_8500_0400_00_rch,Roche,JUNOE_1597,JUNOE_1597
 $C2210_MAIN_8500_0400_05_mma,NPC,JUNOE_1598,JUNOE_1598
 $C2210_MAIN_8500_0401_00_rch,Roche,Spectators!,観客だよ！
 $C2210_MAIN_8500_0410_00_rch,Roche,You and I are already legends!,キミと私は　すでにレジェンドなんだ
 $C2210_MAIN_8500_0500_00_cld,Cloud,Stay back.,離れてろ
-$C2210_MAIN_8500_0500_05_skm,Soldier,JUNOE_1602,JUNOE_1602
-$C2210_MAIN_8500_0500_12_skm,Soldier,JUNOE_1603,JUNOE_1603
-$C2210_MAIN_8500_0500_13_skm,Soldier,JUNOE_1604,JUNOE_1604
-$C2210_MAIN_8500_0500_14_skm,Soldier,JUNOE_1605,JUNOE_1605
+$C2210_MAIN_8500_0500_05_skm,Trooper,JUNOE_1602,JUNOE_1602
+$C2210_MAIN_8500_0500_12_skm,Trooper,JUNOE_1603,JUNOE_1603
+$C2210_MAIN_8500_0500_13_skm,Trooper,JUNOE_1604,JUNOE_1604
+$C2210_MAIN_8500_0500_14_skm,Trooper,JUNOE_1605,JUNOE_1605
 $C2210_MAIN_8500_0600_00_rch,Roche,"Ahh, how I’ve longed for this moment!",あ～この時を　どれほど待ち望んでいたか
 $C2210_MAIN_8500_0610_00_rch,Roche,"You feel the same, don’t you?",キミも　同じ気持ちだろう？
 $C2210_MAIN_8500_0700_00_cld,Cloud,Let’s wrap this up quick.,さっさと　終わらせよう
@@ -1687,7 +1687,7 @@ $C2210_MAIN_8800_1800_00_cld,Cloud,That’s not true. I had fun at the parade to
 $C2210_MAIN_8800_1900_00_cld,Cloud,"But if you get it, then go. I want to be alone.",でも　わかってくれたなら行ってくれ<br>俺はひとりになりたい
 $C2210_MAIN_8800_2000_00_skm,Trooper,"We’ll see you again, right?",また　お会いできますよね
 $C2210_MAIN_8800_2100_00_cld,Cloud,"Yeah, sure.",ああ　もちろん
-$C2210_MAIN_8800_2100_05_skm,Soldier,JUNOE_1688,JUNOE_1688
+$C2210_MAIN_8800_2100_05_skm,Trooper,JUNOE_1688,JUNOE_1688
 $C2210_MAIN_8900_0100_00_art,Aerith,Cloud!,クラウド！
 $C2210_MAIN_8900_0200_00_tif,Tifa,You okay?,無事だった？
 $C2210_MAIN_8900_0300_00_cld,Cloud,Yeah.,ああ
@@ -5227,32 +5227,32 @@ $JUNOE_QST_06_0900_1700_00_prs,Priscilla,All done—let’s do it again sometime
 $JUNOE_QST_06_0900_1800_00_prs,Priscilla,Showtime’s over~ good job!,ショータイムおわり～　おつかれさま
 $JUNOE_QST_07_0100_0100_00_skm,???,"Captain! It’s the captain, right?!",隊長　隊長ですよね！
 $JUNOE_QST_07_0100_0200_00_cld,Cloud,Seventh Infantry Regiment.,第七歩兵連隊
-$JUNOE_QST_07_0100_0300_00_skm,Soldier,"It’s been a while, Captain! Did you come to back us up?",お久しぶりです　隊長<br>応援に来てくださったんですか
+$JUNOE_QST_07_0100_0300_00_skm,Trooper,"It’s been a while, Captain! Did you come to back us up?",お久しぶりです　隊長<br>応援に来てくださったんですか
 $JUNOE_QST_07_0100_0400_00_cld,Cloud,"Yeah, something like that.",ああ　まあな
 $JUNOE_QST_07_0100_0410_00_cld,Cloud,What’s the situation?,状況は？
-$JUNOE_QST_07_0100_0500_00_skm,Soldier,Sir!,ハッ！
-$JUNOE_QST_07_0100_0600_00_skm,Soldier,We’ve cornered a ferocious monster in the area ahead.,凶暴なモンスターを<br>この先のエリアへ追い詰めたところです
-$JUNOE_QST_07_0100_0700_00_skm,Soldier,But it’s proving tougher than expected...,ですが　相手が思いのほか手強く……
-$JUNOE_QST_07_0100_0800_00_skm,Soldier,"We were waiting for reinforcements, but I never imagined you’d show up, Captain!",援軍の到着を待っていたのですが<br>まさか　隊長が来てくださるとは！
-$JUNOE_QST_07_0100_0900_00_skm,Soldier,"It’s calm for now, but we don’t know when it’ll rampage again.",いまはおとなしくしていますが<br>いつまた暴れ出すか　わかりません
-$JUNOE_QST_07_0100_1000_00_skm,Soldier,Let’s head out to take it down right away!,さっそく　討伐へ向かいましょう
+$JUNOE_QST_07_0100_0500_00_skm,Trooper,Sir!,ハッ！
+$JUNOE_QST_07_0100_0600_00_skm,Trooper,We’ve cornered a ferocious monster in the area ahead.,凶暴なモンスターを<br>この先のエリアへ追い詰めたところです
+$JUNOE_QST_07_0100_0700_00_skm,Trooper,But it’s proving tougher than expected...,ですが　相手が思いのほか手強く……
+$JUNOE_QST_07_0100_0800_00_skm,Trooper,"We were waiting for reinforcements, but I never imagined you’d show up, Captain!",援軍の到着を待っていたのですが<br>まさか　隊長が来てくださるとは！
+$JUNOE_QST_07_0100_0900_00_skm,Trooper,"It’s calm for now, but we don’t know when it’ll rampage again.",いまはおとなしくしていますが<br>いつまた暴れ出すか　わかりません
+$JUNOE_QST_07_0100_1000_00_skm,Trooper,Let’s head out to take it down right away!,さっそく　討伐へ向かいましょう
 $JUNOE_QST_07_0100_1000_05_cld,Cloud,JUNOE_5237,JUNOE_5237
 $JUNOE_QST_07_0100_1100_00_art,Aerith,Wanna lend a hand?,お手伝い　する？
 $JUNOE_QST_07_0100_1200_00_sys,NPC,Will you provide support?,援護に向かいますか？
 $JUNOE_QST_07_0100_1300_00_sys,NPC,Yes,はい
 $JUNOE_QST_07_0100_1400_00_sys,NPC,No,いいえ
-$JUNOE_QST_07_0100_1500_00_skm,Soldier,I see you’ve got preparations to handle. We’ll wait here for you!,色々と準備がおありなのですね<br>我々は　ここでお待ちしております！
-$JUNOE_QST_07_0100_1600_00_skm,Soldier,"This way, Captain!",こちらです　隊長！
-$JUNOE_QST_07_0200_0100_00_skm,Soldier,The monster’s up ahead. Let’s go take it down now!,モンスターはこの先です<br>さっそく　討伐に向かいましょう
+$JUNOE_QST_07_0100_1500_00_skm,Trooper,I see you’ve got preparations to handle. We’ll wait here for you!,色々と準備がおありなのですね<br>我々は　ここでお待ちしております！
+$JUNOE_QST_07_0100_1600_00_skm,Trooper,"This way, Captain!",こちらです　隊長！
+$JUNOE_QST_07_0200_0100_00_skm,Trooper,The monster’s up ahead. Let’s go take it down now!,モンスターはこの先です<br>さっそく　討伐に向かいましょう
 $JUNOE_QST_07_0300_0100_00_skf,Commander,You...!,貴様は……！
 $JUNOE_QST_07_0300_0100_05_cld,Cloud,JUNOE_5246,JUNOE_5246
-$JUNOE_QST_07_0300_0100_08_skm,Soldier,JUNOE_5247,JUNOE_5247
-$JUNOE_QST_07_0300_0100_09_skm,Soldier,JUNOE_5248,JUNOE_5248
-$JUNOE_QST_07_0300_0100_10_skm,Soldier,JUNOE_5249,JUNOE_5249
+$JUNOE_QST_07_0300_0100_08_skm,Trooper,JUNOE_5247,JUNOE_5247
+$JUNOE_QST_07_0300_0100_09_skm,Trooper,JUNOE_5248,JUNOE_5248
+$JUNOE_QST_07_0300_0100_10_skm,Trooper,JUNOE_5249,JUNOE_5249
 $JUNOE_QST_07_0300_0200_00_cld,Cloud,"All of you, stand back!",おまえたちは　さがっていろ！
-$JUNOE_QST_07_0300_0300_00_skm,Soldier,Sir!,ハッ！
-$JUNOE_QST_07_0300_0300_05_skm,Soldier,JUNOE_5252,JUNOE_5252
-$JUNOE_QST_07_0300_0300_06_skm,Soldier,JUNOE_5253,JUNOE_5253
+$JUNOE_QST_07_0300_0300_00_skm,Trooper,Sir!,ハッ！
+$JUNOE_QST_07_0300_0300_05_skm,Trooper,JUNOE_5252,JUNOE_5252
+$JUNOE_QST_07_0300_0300_06_skm,Trooper,JUNOE_5253,JUNOE_5253
 $JUNOE_QST_07_0400_0000_05_skf,Commander,JUNOE_5254,JUNOE_5254
 $JUNOE_QST_07_0400_0100_00_skf,Commander,This is turning into a mess.,まずいことになったな
 $JUNOE_QST_07_0400_0200_00_skm,Lieutenant,"We need to track it down fast, or the locals could get hurt.",急ぎ追跡せねば<br>周辺住民に被害が出かねません
@@ -5264,7 +5264,7 @@ $JUNOE_QST_07_0400_0410_00_skf,Commander,We’ve got to head back to Junon to re
 $JUNOE_QST_07_0400_0500_00_skf,Commander,Make sure you finish it off.,必ず仕留めろ
 $JUNOE_QST_07_0400_0501_00_skf,Commander,Otherwise—,さもなくば──
 $JUNOE_QST_07_0400_0510_00_skf,Commander,"Before I have to step in, you’ll end up as its next meal.",私が手を下すまでもなく<br>貴様は　ヤツのエサだ
-$JUNOE_QST_07_0400_0600_00_skm,Soldier,We’ll join you as soon as we finish reporting. Good luck!,報告が終わり次第　我々も合流します<br>ご武運を！
+$JUNOE_QST_07_0400_0600_00_skm,Trooper,We’ll join you as soon as we finish reporting. Good luck!,報告が終わり次第　我々も合流します<br>ご武運を！
 $JUNOE_QST_07_0800_0100_00_skf,Commander,Looks like you took it down clean.,無事　討伐に成功したようだな
 $JUNOE_QST_07_0800_0110_00_skf,Commander,Thanks for the help.,協力　感謝する
 $JUNOE_QST_07_0800_0110_05_cld,Cloud,JUNOE_5268,JUNOE_5268
@@ -5287,13 +5287,13 @@ $JUNOE_QST_07_0800_1800_00_skf,Commander,"You know about the Coalition, right?",
 $JUNOE_QST_07_0800_1900_00_cld,Cloud,"No, I don’t.",いや　知らない
 $JUNOE_QST_07_0800_1900_02_art,Aerith,JUNOE_5286,JUNOE_5286
 $JUNOE_QST_07_0800_1900_05_skf,Commander,Hmph...,ふん……
-$JUNOE_QST_07_0800_2000_00_skm,Soldier,Our mission’s to take down the escaped monster and keep the civilians safe.,我々の任務は　逃走したモンスターの討伐と<br>市民の安全の確保です
-$JUNOE_QST_07_0800_2100_00_skm,Soldier,"We tracked it down and cornered it in the restricted zone, but that’s as far as we got.",首尾よくモンスターを見つけて<br>規制線内に追い込んだまでは良かったのですが
-$JUNOE_QST_07_0800_2200_00_skm,Soldier,Thing’s tough as nails.,なにしろ　強くて
-$JUNOE_QST_07_0800_2300_00_skm,Soldier,"After splitting from you, Captain, we rushed back to Junon and requested backup.",隊長と別れた後　我々は急ぎジュノンに戻り<br>あらためて応援を要請しました
-$JUNOE_QST_07_0800_2400_00_skm,Soldier,"But they said they’re short on manpower, so we didn’t get much help.",しかし　人手が足りないとのことで<br>なかなか対応してもらえなかったのです
-$JUNOE_QST_07_0800_2500_00_skm,Soldier,"It’s harassment, I’m sure of it.",いやがらせですよ　きっと
-$JUNOE_QST_07_0800_2600_00_skm,Soldier,There’s a rumor going around that we’re tied to the anti-Shinra crowd.,俺たちは　反神羅の連中と繋がりがあるって<br>そんな噂が流れてるんです
+$JUNOE_QST_07_0800_2000_00_skm,Trooper,Our mission’s to take down the escaped monster and keep the civilians safe.,我々の任務は　逃走したモンスターの討伐と<br>市民の安全の確保です
+$JUNOE_QST_07_0800_2100_00_skm,Trooper,"We tracked it down and cornered it in the restricted zone, but that’s as far as we got.",首尾よくモンスターを見つけて<br>規制線内に追い込んだまでは良かったのですが
+$JUNOE_QST_07_0800_2200_00_skm,Trooper,Thing’s tough as nails.,なにしろ　強くて
+$JUNOE_QST_07_0800_2300_00_skm,Trooper,"After splitting from you, Captain, we rushed back to Junon and requested backup.",隊長と別れた後　我々は急ぎジュノンに戻り<br>あらためて応援を要請しました
+$JUNOE_QST_07_0800_2400_00_skm,Trooper,"But they said they’re short on manpower, so we didn’t get much help.",しかし　人手が足りないとのことで<br>なかなか対応してもらえなかったのです
+$JUNOE_QST_07_0800_2500_00_skm,Trooper,"It’s harassment, I’m sure of it.",いやがらせですよ　きっと
+$JUNOE_QST_07_0800_2600_00_skm,Trooper,There’s a rumor going around that we’re tied to the anti-Shinra crowd.,俺たちは　反神羅の連中と繋がりがあるって<br>そんな噂が流れてるんです
 $JUNOE_QST_07_0800_2700_00_skf,Commander,Looks like anti-Shinra groups scattered around have been secretly working together.,各地に散らばる反神羅の連中が<br>ひそかに繋がっていたようだ
 $JUNOE_QST_07_0800_2800_00_skf,Commander,"They might share a goal of taking down Shinra, but their ideals and methods are all over the place.",神羅打倒の目的こそ共通しているのだろうが<br>目指す理想や活動方針は　バラバラだろう
 $JUNOE_QST_07_0800_2900_00_skm,Lieutenant,Some of ‘em don’t care about civilian casualties—there’s definitely a few loose cannons.,市民の被害などおかまいなしの危険分子も<br>少なからず　存在するようだ
@@ -5317,9 +5317,9 @@ $JUNOE_QST_07_0800_4100_05_cld,Cloud,JUNOE_5314,JUNOE_5314
 $JUNOE_QST_07_0800_4100_07_art,Aerith,JUNOE_5315,JUNOE_5315
 $JUNOE_QST_07_0800_4200_00_skm,Lieutenant,"If we both make it through, we might cross paths again someday.",お互い　生きていれば<br>いずれまた会うこともあるだろう
 $JUNOE_QST_07_0800_4300_00_skm,Lieutenant,Be ready when that happens.,その時には　覚悟しろ
-$JUNOE_QST_07_0800_4400_00_skm,Soldier,With gratitude and respect for our Captain—,我らの隊長に感謝と敬意を込めて
+$JUNOE_QST_07_0800_4400_00_skm,Trooper,With gratitude and respect for our Captain—,我らの隊長に感謝と敬意を込めて
 $JUNOE_QST_07_0800_4400_08_art,Aerith,JUNOE_5319,JUNOE_5319
-$JUNOE_QST_07_0800_4410_00_skm,Soldier,Salute!,敬礼！
+$JUNOE_QST_07_0800_4410_00_skm,Trooper,Salute!,敬礼！
 $JUNOE_QST_07_0800_4500_00_cld,Cloud,Sorry for dragging you into this.,巻きこんで　悪かったな
 $JUNOE_QST_07_0800_4500_05_art,Aerith,JUNOE_5322,JUNOE_5322
 $JUNOV_BOS_04_1100_0100_00_cld,Cloud,Watch out below!,下に注意しろ
