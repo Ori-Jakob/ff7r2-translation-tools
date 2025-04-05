@@ -1570,13 +1570,13 @@ $C3410_MAIN_1700_0500_00_zax,,I’m going there.
 $C3410_MAIN_1700_0500_00_zax,ACTOR,Zack
 $C3410_MAIN_1700_0510_00_zax,,Let’s go!
 $C3410_MAIN_1700_0510_00_zax,ACTOR,Zack
-$C3410_MAIN_1800_0100_00_cld,,The memorable place is here.
+$C3410_MAIN_1800_0100_00_cld,,The memorable place...it’s here.
 $C3410_MAIN_1800_0100_00_cld,ACTOR,Cloud
 $C3410_MAIN_1800_0200_00_art,,Correct.
 $C3410_MAIN_1800_0200_00_art,ACTOR,Aerith
 $C3410_MAIN_1800_0300_00_cld,,Too easy.
 $C3410_MAIN_1800_0300_00_cld,ACTOR,Cloud
-$C3410_MAIN_1800_0400_00_art,,We don’t have many memories.
+$C3410_MAIN_1800_0400_00_art,,"We don’t have many special memories, you know."
 $C3410_MAIN_1800_0400_00_art,ACTOR,Aerith
 $C3410_MAIN_1800_0500_00_cld,,We can make more from now on.
 $C3410_MAIN_1800_0500_00_cld,ACTOR,Cloud
@@ -1586,9 +1586,9 @@ $C3410_MAIN_1800_0700_00_cld,,"Yeah, of course."
 $C3410_MAIN_1800_0700_00_cld,ACTOR,Cloud
 $C3410_MAIN_1800_0700_05_art,,
 $C3410_MAIN_1800_0700_05_art,ACTOR,Aerith
-$C3410_MAIN_1800_0800_00_cld,,We’re comrades.
+$C3410_MAIN_1800_0800_00_cld,,"We’re friends, after all."
 $C3410_MAIN_1800_0800_00_cld,ACTOR,Cloud
-$C3410_MAIN_1800_0900_00_art,,Right.
+$C3410_MAIN_1800_0900_00_art,,"Yeah, you’re right."
 $C3410_MAIN_1800_0900_00_art,ACTOR,Aerith
 $C3410_MAIN_1800_1000_00_art,,I’m glad I heard how you feel.
 $C3410_MAIN_1800_1000_00_art,ACTOR,Aerith
@@ -1602,7 +1602,7 @@ $C3410_MAIN_1800_1200_00_art,,"I wonder which ""like"" this is."
 $C3410_MAIN_1800_1200_00_art,ACTOR,Aerith
 $C3410_MAIN_1800_1300_00_cld,,"Aerith, you’re acting strange."
 $C3410_MAIN_1800_1300_00_cld,ACTOR,Cloud
-$C3410_MAIN_1800_1310_00_cld,,You’ve been weird all day.
+$C3410_MAIN_1800_1310_00_cld,,You’ve been acting strange all day.
 $C3410_MAIN_1800_1310_00_cld,ACTOR,Cloud
 $C3410_MAIN_1800_1900_00_art,,Excuse me.
 $C3410_MAIN_1800_1900_00_art,ACTOR,Aerith
