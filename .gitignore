@@ -1,5 +1,6 @@
 /__pycache__
 /discrepancies
+/output
 *.dll
 *.exe
 *.pdb
