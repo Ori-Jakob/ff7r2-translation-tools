@@ -45,6 +45,8 @@ These tools rely on external tools. In order to have my tools be able to automat
 
 **NOTE**: I have not provided these files in this repository as they are property of their respective authors
 
+
+
 #### Making Text Changes
 
 As stated earlier, all text changes should be done on the CSV files contained within the `pretty_format` folder. 
@@ -58,7 +60,9 @@ As stated earlier, all text changes should be done on the CSV files contained wi
 
 **If you don't follow these, then things will either not build, or you will have major errors when text is rendered**
 
-I will now explain how you know which subtitles are in which file. if you haven't figured it out each of the files has subtitles that are associated with the region (i.e. MIDGR -> Midgar, GRASE -> Grasslands, etc.). For flashbacks, the case is the same. For instance, in Cloud's reciting of his memories at the beginning of the game,  these memories take place in *Nibelheim*, so the dialog for that will be found in the corresponding file.
+I will now explain how you know which subtitles are in which file. if you haven't figured it out each of the files has subtitles that are associated with the region (i.e. MIDGR -> Midgard, GRASE -> Grasslands, etc.). For flashbacks, the case is the same. For instance, in Cloud's reciting of his memories at the beginning of the game,  these memories take place in *Nibelheim*, so the dialog for that will be found in the corresponding file.
+
+
 
 ###### Guidelines for Text
 
@@ -75,6 +79,8 @@ There are several guidelines to follow for consistency's sake. **Make sure you h
 5. If you are going to use an em dash, make sure to use the Unicode one — and not -
 
 6. Any eclipses being used need to be connect on both sides to text (no white space) -> `"You...You said that?!"` **and not** `"You... You said that?!"`
+
+
 
 #### Building the Mod
 
