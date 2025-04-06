@@ -52,7 +52,7 @@ These tools rely on external tools. In order to have my tools be able to automat
 As stated earlier, all text changes should be done on the CSV files contained within the `pretty_format` folder. 
 
 **IMPORTAT: Keep in mind that the changes need to conform with how CSVs are parsed:**
-1. `,` is a delimiter in CSV denoting the end of a column, if your text contains any `,`, you need to make sure the whole text is surround by double-quotes -> `"Currently, Midgar is facing an unprecedented crisis."
+1. `,` is a delimiter in CSV denoting the end of a column, if your text contains any `,`, you need to make sure the whole text is surround by double-quotes -> `"Currently, Midgar is facing an unprecedented crisis."`
 
 2. To *wrap* text in double-quotes, two sets are needed and the whole text needs to be wrapped in double-quotes -> `"Say ""Thanks for the food."""`
 
@@ -78,7 +78,7 @@ There are several guidelines to follow for consistency's sake. **Make sure you h
 
 5. If you are going to use an em dash, make sure to use the Unicode one — and not -
 
-6. Any eclipses being used need to be connect on both sides to text (no white space) -> `"You...You said that?!"` **and not** `"You... You said that?!"`
+6. Any ellipses being used need to be connect on both sides to text (no white space) -> `"You...You said that?!"` **and not** `"You... You said that?!"`
 
 
 
