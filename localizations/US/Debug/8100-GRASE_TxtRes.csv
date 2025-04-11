@@ -22,7 +22,7 @@ $C1910_MAIN_8000_0700_05_art,,Excuse me~...
 $C1910_MAIN_8000_0700_05_art,ACTOR,Aerith
 $C1910_MAIN_8000_0800_00_art,,"I believed it, though."
 $C1910_MAIN_8000_0800_00_art,ACTOR,Aerith
-$C1910_MAIN_8000_0900_00_blt,,"Oh...right, that."
+$C1910_MAIN_8000_0900_00_blt,,Oh...right...
 $C1910_MAIN_8000_0900_00_blt,ACTOR,Barret
 $C1910_MAIN_8000_0910_00_blt,,"Anyway, Shinra’s to blame for everything."
 $C1910_MAIN_8000_0910_00_blt,ACTOR,Barret
@@ -30,7 +30,7 @@ $C1910_MAIN_8000_1000_00_cld,,"Whatever the truth was five years ago, we fought 
 $C1910_MAIN_8000_1000_00_cld,ACTOR,Cloud
 $C1910_MAIN_8000_1100_00_cld,,He’s alive.
 $C1910_MAIN_8000_1100_00_cld,ACTOR,Cloud
-$C1910_MAIN_8000_1200_00_art,,"<i>Alive</i>, or...like, he’s <i>here?</i>"
+$C1910_MAIN_8000_1200_00_art,,"""Alive,"" or more like, he <i>exists</i>...?"
 $C1910_MAIN_8000_1200_00_art,ACTOR,Aerith
 $C1910_MAIN_8000_1300_00_tif,,"Why’d he show up now, of all times?"
 $C1910_MAIN_8000_1300_00_tif,ACTOR,Tifa

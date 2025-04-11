@@ -295,7 +295,7 @@ $C3010_MAIN_0700_0700_00_zax,Zack,Is Cloud that kind of guy?,クラウドって�
 $C3010_MAIN_0700_0800_00_big,Biggs,He’s desperate to make himself look valuable.,自分を価値ある人間に見せようと必死
 $C3010_MAIN_0700_0900_00_big,Biggs,Even though we already respected him without all that.,そんなことしなくたって<br>俺たちは　一目置いてたのによ
 $C3010_MAIN_0700_1000_00_zax,Zack,Huh...,へえ……
-$C3010_MAIN_0700_1100_00_big,Biggs,"Hey, Zack, why don’t you try being a jack-of-all-trades?",そうだ　ザックス<br>あんたも『なんでも屋』　やったらどうだ？
+$C3010_MAIN_0700_1100_00_big,Biggs,"Hey, Zack, why don’t you try being a ""jack-of-all-trades?""",そうだ　ザックス<br>あんたも『なんでも屋』　やったらどうだ？
 $C3010_MAIN_0700_1200_00_zax,Zack,Jack-of-all-trades?,なんでも屋？
 $C3010_MAIN_0700_1300_00_big,Biggs,There’s quite a demand for it.,けっこう　需要あるぜ？
 $C3010_MAIN_0700_1400_00_zax,Zack,I’ll think about it.,考えとくわ
@@ -322,7 +322,7 @@ $C3010_MAIN_0900_0300_00_big,Biggs,You don’t look the type.,見かけによら
 $C3010_MAIN_0900_0400_00_zax,Zack,"Since joining Shinra, a lot’s happened. Like, a whole lot.",神羅に入ってから　色々あったんだ<br>いやもうホント　いろいろ
 $C3010_MAIN_0900_0500_00_big,Biggs,"I’ve been thinking ever since I woke up. Thanks to that, I’m self-critical every day.",俺も　目覚めてからずっと考えてる<br>おかげで毎日　自己批判だよ
 $C3010_MAIN_1000_0100_00_zax,Zack,"Hey, Biggs.",なあ　ビッグス
-$C3010_MAIN_1000_0110_00_zax,Zack,You said earlier that there’s demand for a jack-of-all-trades.,さっき　なんでも屋は需要がある<br>って言ってたよな
+$C3010_MAIN_1000_0110_00_zax,Zack,You said earlier that there’s demand for a guy who does odd-jobs.,さっき　なんでも屋は需要がある<br>って言ってたよな
 $C3010_MAIN_1000_0200_00_big,Biggs,Yeah.,ああ
 $C3010_MAIN_1000_0300_00_zax,Zack,Is someone already doing that?,だれかもうやってんの　なんでも屋
 $C3010_MAIN_1000_0400_00_big,Biggs,"Of course, it’s Cloud. Are you really his friend?",クラウドに決まってるだろ<br>あんた　ほんとに友達か？

@@ -292,7 +292,7 @@ $C2610_MAIN_0800_0100_00_sfa,Gate Park Staff,"Welcome to the golden paradise, th
 $C2610_MAIN_0950_0100_00_ani,Andrea,"Hey there, Cloud.",やあ　クラウド
 $C2610_MAIN_0950_0200_00_ani,Andrea,It’s been a while.,久しぶりだな
 $C2610_MAIN_0950_0300_00_ani,Andrea,We meet again.,また会ったな
-$C2610_MAIN_0950_0400_00_ani,Andrea,I got to witness your heated battle with Warden Dio.,ディオ園長との熱い戦い　見させてもらったよ
+$C2610_MAIN_0950_0400_00_ani,Andrea,I got to witness your heated battle with Overseer Dio.,ディオ園長との熱い戦い　見させてもらったよ
 $C2610_MAIN_0950_0500_00_ani,Andrea,It gave me a thrill.,キュンとしたよ
 $C2610_MAIN_0950_0600_00_ani,Andrea,"As always, you stand out. It’s like you’ve set your heart free.",相変わらず　目立っていたな<br>心を解き放っているようだ
 $C2610_MAIN_0950_0700_00_cld,Cloud,What are you doing here?,ここで　なにをしている？
@@ -378,10 +378,10 @@ $C2610_MAIN_1500_0000_16_blt,Barret,GOLDE_375,GOLDE_375
 $C2610_MAIN_1500_0100_00_blt,Barret,This is ridiculous!,くっだらねえ！
 $C2610_MAIN_1500_0110_00_blt,Barret,How much damn mako are they burnin’ for this kiddie crap!?,こんな子供だましのために<br>どんだけ　魔晄を使ってんだよ
 $C2610_MAIN_1500_0110_05_blt,Barret,GOLDE_378,GOLDE_378
-$C2610_MAIN_1500_0200_00_blt,Barret,"This too,",これも
-$C2610_MAIN_1500_0210_00_blt,Barret,"and that,",あれも
-$C2610_MAIN_1500_0220_00_blt,Barret,it’s all mako!,ぜんぶ　魔晄だ！
-$C2610_MAIN_1500_0300_00_blt,Barret,"In other words, the Lifestream—the planet’s blood!",つまり　ライフストリーム　星の血！
+$C2610_MAIN_1500_0200_00_blt,Barret,"This too.",これも
+$C2610_MAIN_1500_0210_00_blt,Barret,"And that.",あれも
+$C2610_MAIN_1500_0220_00_blt,Barret,It’s all mako!,ぜんぶ　魔晄だ！
+$C2610_MAIN_1500_0300_00_blt,Barret,"Get it? It’s the Lifestream—the planet’s blood!",つまり　ライフストリーム　星の血！
 $C2610_MAIN_1500_0400_00_cld,Cloud,"Calm down, Barret.",落ち着け　バレット
 $C2610_MAIN_1500_0500_00_blt,Barret,GOLDE_384,GOLDE_384
 $C2610_MAIN_1500_0500_05_blt,Barret,GOLDE_385,GOLDE_385
@@ -391,14 +391,14 @@ $C2610_MAIN_1500_0700_00_cat,???,"Hey, you!",ヘイ・ユー！
 $C2610_MAIN_1500_0710_00_cat,???,You’ve got a real weird mug on ya!,けったいな顔してますな～
 $C2610_MAIN_1500_0710_05_blt,Barret,GOLDE_390,GOLDE_390
 $C2610_MAIN_1500_0800_00_cat,???,"How about I read your fortune, you two?",おふたりさん　よかったら占いましょか？
-$C2610_MAIN_1500_0900_00_cat,???,"A bright future, a fun future—if it’s a rotten one, don’t blame me!",明るいミライ　ゆかいなミライ<br>悲惨な未来が出たら　かんにんしてや
+$C2610_MAIN_1500_0900_00_cat,???,"A bright future, a fun future. Ah— If it’s a rotten one, don’t blame me!",明るいミライ　ゆかいなミライ<br>悲惨な未来が出たら　かんにんしてや
 $C2610_MAIN_1500_1000_00_blt,Barret,What’s this thing?,なんだ　こいつ
-$C2610_MAIN_1500_1100_00_cat,???,"Hey, big guy, over here, over here!",お兄さんお兄さん　こっちこっち
+$C2610_MAIN_1500_1100_00_cat,???,"Big guy, big guy! Over here, over here!",お兄さんお兄さん　こっちこっち
 $C2610_MAIN_1500_1100_05_blt,Barret,GOLDE_395,GOLDE_395
-$C2610_MAIN_1500_1200_00_cat,Cait Sith,"I’m Cait Sith, the fortune-tellin’ machine!",ボクは　占いマシーンのケット・シー
+$C2610_MAIN_1500_1200_00_cat,Cait Sith,"I’m the fortune-tellin’ machine, Cait Sith!",ボクは　占いマシーンのケット・シー
 $C2610_MAIN_1500_1210_00_cat,Cait Sith,Nice to meetcha!,よろしゅう！
 $C2610_MAIN_1500_1300_00_blt,Barret,"A stuffed robot, huh? Pretty well made.",ぬいぐるみのロボットか　よくできてんじゃねえか
-$C2610_MAIN_1500_1400_00_cat,Cait Sith,"Big guy, gimme a smiiiile~!",お兄さん　スマ～イル！
+$C2610_MAIN_1500_1400_00_cat,Cait Sith,"Big guy, smiiiile~!",お兄さん　スマ～イル！
 $C2610_MAIN_1500_1500_00_cat,Cait Sith,This place is for forgettin’ your daily woes and havin’ a good time!,ここは　日頃の面倒ごとを忘れて<br>楽しむ場所やねんから
 $C2610_MAIN_1500_1510_00_cat,Cait Sith,"C’mon, laugh it up!",ほら　笑って笑って！
 $C2610_MAIN_1500_1600_00_blt,Barret,Shut it!,うるせえ！
@@ -412,18 +412,18 @@ $C2610_MAIN_1700_0100_00_blt,Barret,GOLDE_409,GOLDE_409
 $C2610_MAIN_1700_0100_05_blt,Barret,GOLDE_410,GOLDE_410
 $C2610_MAIN_1700_0200_00_blt,Barret,This hotel got no intention of lettin’ folks rest?,客を休ませる気はねえのか　このホテルはよ
 $C2610_MAIN_1800_0000_05_cld,Cloud,GOLDE_412,GOLDE_412
-$C2610_MAIN_1800_0100_00_blt,Barret,"What, nobody here?",なんだ　誰もいねえのか
-$C2610_MAIN_1800_0100_03_blt,Barret,Sor—,すいま――
+$C2610_MAIN_1800_0100_00_blt,Barret,"What? Nobody here?",なんだ　誰もいねえのか
+$C2610_MAIN_1800_0100_03_blt,Barret,Excu—,すいま――
 $C2610_MAIN_1800_0100_05_cld,Cloud,GOLDE_415,GOLDE_415
 $C2610_MAIN_1800_0200_03_sma,Front Desk,GOLDE_416,GOLDE_416
 $C2610_MAIN_1800_0200_05_blt,Barret,GOLDE_417,GOLDE_417
 $C2610_MAIN_1800_0200_07_sma,Front Desk,GOLDE_418,GOLDE_418
 $C2610_MAIN_1800_0200_09_sma,Front Desk,GOLDE_419,GOLDE_419
 $C2610_MAIN_1800_0300_00_sma,Front Desk,Welcome!,いらっしゃいませ
-$C2610_MAIN_1800_0400_00_blt,Barret,Don’t sneak up on me like that!,おどろかすんじゃねえ！
+$C2610_MAIN_1800_0400_00_blt,Barret,Don’t surprise me like that!,おどろかすんじゃねえ！
 $C2610_MAIN_1800_0500_00_sma,Front Desk,"Hee hee hee, my apologies.",ひひひ　申し訳ございません
 $C2610_MAIN_1800_0600_00_blt,Barret,"You got rooms? Two guys, three gals.",部屋はあるか　男２　女３
-$C2610_MAIN_1800_0700_00_blt,Barret,"Oh, and one animal.",あと　動物１
+$C2610_MAIN_1800_0700_00_blt,Barret,"Uh, and one animal.",あと　動物１
 $C2610_MAIN_1800_0700_05_sma,Front Desk,GOLDE_425,GOLDE_425
 $C2610_MAIN_1800_0800_00_sma,Front Desk,What kind of pet might that be?,ペット様は　どういった種類でしょうか？
 $C2610_MAIN_1800_0900_00_blt,Barret,GOLDE_427,GOLDE_427
@@ -432,20 +432,20 @@ $C2610_MAIN_1800_1100_00_sma,Front Desk,Understood. Then—,かしこまりま�
 $C2610_MAIN_1800_1100_05_sma,Front Desk,GOLDE_430,GOLDE_430
 $C2610_MAIN_1800_1200_00_sma,Front Desk,My apologies. We’re fully booked tonight.,申し訳ございません<br>本日　満室になっております
 $C2610_MAIN_1800_1200_05_cld,Cloud,GOLDE_432,GOLDE_432
-$C2610_MAIN_1800_1300_00_blt,Barret,What? Any other inns around?,んだよ　ほかの宿は？
+$C2610_MAIN_1800_1300_00_blt,Barret,What the? Any other inns around?,んだよ　ほかの宿は？
 $C2610_MAIN_1800_1400_00_sma,Front Desk,I’m terribly sorry.,申し訳ありません
 $C2610_MAIN_1800_1410_00_sma,Front Desk,All hotels in the Gold Saucer are fully booked tonight.,本日　ゴールドソーサーにある<br>すべてのホテルが満室となっております
 $C2610_MAIN_1800_1500_00_blt,Barret,GOLDE_436,GOLDE_436
 $C2610_MAIN_1800_1500_05_blt,Barret,GOLDE_437,GOLDE_437
-$C2610_MAIN_1800_1600_00_cat,Cait Sith,"Hello there, you in a pickle?",もしもし　お困りですか？
+$C2610_MAIN_1800_1600_00_cat,Cait Sith,"Hello there~! Are you having trouble?",もしもし　お困りですか？
 $C2610_MAIN_1800_1700_00_blt,Barret,You again!?,また　おまえか！
 $C2610_MAIN_1800_1800_00_cat,Cait Sith,"If ya like, I can snag ya a room!",よければ　ボクが部屋　用意しましょか？
 $C2610_MAIN_1800_1900_00_blt,Barret,GOLDE_441,GOLDE_441
 $C2610_MAIN_1800_2000_00_blt,Barret,"Tryin’ to rip us off, huh?",ぼったくろうってのか
-$C2610_MAIN_1800_2100_00_cat,Cait Sith,"No way, I wouldn’t do that! Heck, I’ll even cover the cost if ya want!",そんなことしませんて<br>なんやったら　お代もボクが出させてもらいます
+$C2610_MAIN_1800_2100_00_cat,Cait Sith,"No way, I wouldn’t do that! In fact, I’ll even cover the cost if ya want!",そんなことしませんて<br>なんやったら　お代もボクが出させてもらいます
 $C2610_MAIN_1800_2200_00_cld,Cloud,That makes it even shadier.,余計に　あやしい
-$C2610_MAIN_1800_2300_00_cat,Cait Sith,"Man, you’re a doubtful one!",うたぐり深いひとやな～！
-$C2610_MAIN_1800_2400_00_cat,Cait Sith,"Sorry, pal, but could ya check again?",キミ　悪いけど　もういちど確認してんか？
+$C2610_MAIN_1800_2300_00_cat,Cait Sith,"You sure are a suspicious one, huh?",うたぐり深いひとやな～！
+$C2610_MAIN_1800_2400_00_cat,Cait Sith,"Sorry to bother ya, friend, but could ya check one more time?",キミ　悪いけど　もういちど確認してんか？
 $C2610_MAIN_1800_2400_05_sma,Front Desk,GOLDE_447,GOLDE_447
 $C2610_MAIN_1800_2400_08_sma,Front Desk,GOLDE_448,GOLDE_448
 $C2610_MAIN_1800_2500_00_sma,Front Desk,GOLDE_449,GOLDE_449
@@ -456,7 +456,7 @@ $C2610_MAIN_1800_2600_06_blt,Barret,GOLDE_453,GOLDE_453
 $C2610_MAIN_1800_2600_09_blt,Barret,GOLDE_454,GOLDE_454
 $C2610_MAIN_1800_2700_00_cat,Cait Sith,GOLDE_455,GOLDE_455
 $C2610_MAIN_1800_2700_05_cld,Cloud,GOLDE_456,GOLDE_456
-$C2610_MAIN_1800_2710_00_cat,Cait Sith,"Bein’ nice feels good, huh? Well then, take it easy!",親切は気持ちええわあ<br>ほな　ごゆっくり～
+$C2610_MAIN_1800_2710_00_cat,Cait Sith,"Bein’ nice feels good, huh? Alrighty, enjoy your stay~!",親切は気持ちええわあ<br>ほな　ごゆっくり～
 $C2610_MAIN_1800_2710_05_cat,Cait Sith,See ya ‘round!,さいなら～！
 $C2610_MAIN_1800_2710_08_sma,Front Desk,GOLDE_459,GOLDE_459
 $C2610_MAIN_1800_2800_00_sma,Front Desk,Your rooms are on the 4th floor.,お部屋は　４階になります
@@ -465,40 +465,40 @@ $C2610_MAIN_1800_2810_05_cld,Cloud,GOLDE_462,GOLDE_462
 $C2610_MAIN_1900_0100_00_sma,Front Desk,"Hee hee hee, the rooms are a surprise to behold.",ひひひ　お部屋は見てのお楽しみ
 $C2610_MAIN_1900_0200_00_sma,Front Desk,"No room changes allowed, hee hee hee.",お部屋の変更はできませんので　ひひひ
 $C2610_MAIN_2000_0100_00_cat,Cait Sith,"Hey, you!",ヘイ・ユー！
-$C2610_MAIN_2000_0110_00_cat,Cait Sith,How about a fortune? I’ll read everyone’s future!,占いはどうですか？<br>みなさんの未来　占うで～
+$C2610_MAIN_2000_0110_00_cat,Cait Sith,How about a fortune? I’ll tell everyone’s future!,占いはどうですか？<br>みなさんの未来　占うで～
 $C2610_MAIN_2000_0110_05_cld,Cloud,GOLDE_467,GOLDE_467
-$C2610_MAIN_2000_0200_00_cld,Cloud,You only read the future?,占うのは　未来だけなのか？
-$C2610_MAIN_2000_0300_00_cat,Cait Sith,"Don’t mock me! Lost stuff, lost people—I can do it all!",バカにしたらあかんで！<br>失せ物　失せ人　なんでもございや
-$C2610_MAIN_2000_0400_00_cld,Cloud,A SOLDIER once called a hero.,かつて　英雄と呼ばれたソルジャー
+$C2610_MAIN_2000_0200_00_cld,Cloud,You can only do futures?,占うのは　未来だけなのか？
+$C2610_MAIN_2000_0300_00_cat,Cait Sith,"Don’t make fun of me! Lost stuff, lost people—I can do anything!",バカにしたらあかんで！<br>失せ物　失せ人　なんでもございや
+$C2610_MAIN_2000_0400_00_cld,Cloud,"Once a hero. A SOLDIER.",かつて　英雄と呼ばれたソルジャー
 $C2610_MAIN_2000_0410_00_cld,Cloud,Where’s Sephiroth?,セフィロスは　どこにいる？
-$C2610_MAIN_2000_0500_00_cat,Cait Sith,"Oh, Sephiroth, huh...",ほう　セフィロス……ですか
-$C2610_MAIN_2000_0600_00_cat,Cait Sith,"Alrighty then, here we go!",よっしゃあ　ほな　いきまっせ～！
+$C2610_MAIN_2000_0500_00_cat,Cait Sith,"Ho, Sephiroth, huh...",ほう　セフィロス……ですか
+$C2610_MAIN_2000_0600_00_cat,Cait Sith,"Alrighty! Then, here we go!",よっしゃあ　ほな　いきまっせ～！
 $C2610_MAIN_2000_0700_00_cat,Cait Sith,GOLDE_474,GOLDE_474
 $C2610_MAIN_2000_0800_00_cld,Cloud,"""Moderate luck. Your fate will be lively.""",『中吉　活発な運勢になります』
 $C2610_MAIN_2000_0900_00_cld,Cloud,"""Lean on the kindness of others and push forward. Something shocking awaits after summer.""",『周りの人の好意に甘えて　ひと頑張りしておくと<br>　夏以降にドッキリな予感』？
 $C2610_MAIN_2000_1000_00_cld,Cloud,This is Sephiroth’s location?,これが　セフィロスの居場所か
 $C2610_MAIN_2000_1100_00_cat,Cait Sith,That’s weird.,ヘンやなあ
-$C2610_MAIN_2000_1110_00_cat,Cait Sith,"Hold up, lemme try one more, come on!",ちょっと待ってや　ワンモア　カモン！
+$C2610_MAIN_2000_1110_00_cat,Cait Sith,"Wait a sec! One more. Come on!",ちょっと待ってや　ワンモア　カモン！
 $C2610_MAIN_2000_1200_00_cld,Cloud,"""Watch out for lost items. Lucky color: Black.""",『忘れ物に注意　ラッキーカラーは黒』？
 $C2610_MAIN_2000_1200_05_blt,Barret,GOLDE_481,GOLDE_481
-$C2610_MAIN_2000_1210_00_cld,Cloud,That’s enough.,もう　いい
-$C2610_MAIN_2000_1300_00_cat,Cait Sith,"No, no, gimme one more shot!",いやいや　もっぺんやらして
-$C2610_MAIN_2000_1310_00_cat,Cait Sith,"C’mon, let’s do this!",ほら　がんばるんや！
+$C2610_MAIN_2000_1210_00_cld,Cloud,No more.,もう　いい
+$C2610_MAIN_2000_1300_00_cat,Cait Sith,"No, no, lemme try one more time!",いやいや　もっぺんやらして
+$C2610_MAIN_2000_1310_00_cat,Cait Sith,"C’mon. Give it your best now!",ほら　がんばるんや！
 $C2610_MAIN_2000_1400_00_cld,Cloud,GOLDE_485,GOLDE_485
 $C2610_MAIN_2000_1400_05_cld,Cloud,GOLDE_486,GOLDE_486
-$C2610_MAIN_2000_1500_00_cat,Cait Sith,What’s wrong?,どないしました？
+$C2610_MAIN_2000_1500_00_cat,Cait Sith,Somethin’ wrong?,どないしました？
 $C2610_MAIN_2000_1500_05_blt,Barret,GOLDE_488,GOLDE_488
 $C2610_MAIN_2000_1600_00_blt,Barret,"""Seek, and you’ll surely meet. But you’ll lose what matters most.""",『求めれば　必ず会えます<br>　しかし　最も大切なものを失います』
-$C2610_MAIN_2000_1700_00_cat,Cait Sith,"Good or bad, I can’t tell!",ええんか悪いんか　ようわからんなあ
+$C2610_MAIN_2000_1700_00_cat,Cait Sith,"Hahaha...Is it good? Is it bad? I can’t tell...",ええんか悪いんか　ようわからんなあ
 $C2610_MAIN_2000_1700_05_blt,Barret,GOLDE_491,GOLDE_491
-$C2610_MAIN_2000_1800_00_blt,Barret,You okay?,どうした？
+$C2610_MAIN_2000_1800_00_blt,Barret,What is it?,どうした？
 $C2610_MAIN_2000_1900_00_cld,Cloud,"What’s ""what matters most"" supposed to mean?",最も大切なものって　なんだろうな
 $C2610_MAIN_2000_2000_00_blt,Barret,GOLDE_494,GOLDE_494
 $C2610_MAIN_2000_2100_00_blt,Barret,Quit sayin’ complicated crap!,めんどくせえこと　言うんじゃねえ！
-$C2610_MAIN_2000_2200_00_cat,Cait Sith,Awful sorry ‘bout that!,えらい　すんません
+$C2610_MAIN_2000_2200_00_cat,Cait Sith,Really sorry ‘bout that!,えらい　すんません
 $C2610_MAIN_2000_2200_05_blt,Barret,GOLDE_497,GOLDE_497
 $C2610_MAIN_2100_0100_00_cat,Cait Sith,"Normally, I’m way better at this!",いつもは　もっとうまくやれるんやけど
-$C2610_MAIN_2100_0200_00_cat,Cait Sith,Maybe I’m off my game today.,調子悪いんかなあ
+$C2610_MAIN_2100_0200_00_cat,Cait Sith,Maybe I’m not feelin’ well...?,調子悪いんかなあ
 $C2610_MAIN_2200_0100_00_sma,Park Staff,Welcome to the elevator to hell!,地獄行きのエレベーターにようこそ
 $C2610_MAIN_2200_0200_00_cld,Cloud,4th floor.,４階を頼む
 $C2610_MAIN_2200_0300_00_sma,Park Staff,"Oh, uh, yes! To the 4th floor we go!",あっ　はい<br>それでは　４階にまいります
@@ -528,7 +528,7 @@ $C2610_MAIN_2300_1300_05_plm,Palmer,GOLDE_525,GOLDE_525
 $C2610_MAIN_2300_1400_00_plm,Palmer,"Well then, I’m off to have some fun.",じゃあ　遊んでくる
 $C2610_MAIN_2300_1410_00_plm,Palmer,Where’s the adult section?,オトナのコーナーは　どこ？
 $C2610_MAIN_2300_1410_05_eln,Elena,GOLDE_528,GOLDE_528
-$C2610_MAIN_2400_0100_00_sma,Elevator Operator,It’s on the fourth floor.,４階です
+$C2610_MAIN_2400_0100_00_sma,Elevator Operator,We’ve arrived at the 4th floor.,４階です
 $C2610_MAIN_2400_0200_00_sma,Elevator Operator,Please enjoy our hotel’s finest rooms to your heart’s content.,それでは　当ホテル自慢の部屋を<br>存分にお楽しみください
 $C2610_MAIN_2500_0050_00_tnb,Tonberry Robo,I will rent you a room.,ヘヤ　ヲ　カシツ　シマス
 $C2610_MAIN_2500_0100_00_cld,Cloud,GOLDE_532,GOLDE_532
@@ -578,13 +578,13 @@ $C2620_MAIN_0300_0200_05_tif,Tifa,GOLDE_575,GOLDE_575
 $C2620_MAIN_0300_0300_00_cld,Cloud,Anyone else around?,ほかは？
 $C2620_MAIN_0300_0400_00_tif,Tifa,Red took off somewhere. Aerith and Yuffie are on the gondola.,レッドは　どっか行っちゃった<br>エアリスとユフィは　ゴンドラ乗ってるよ
 $C2620_MAIN_0300_0500_00_tif,Tifa,"It’s couple time, I hear.",カップルタイムなんだって
-$C2620_MAIN_0300_0510_00_tif,Tifa,Guess I got left out.,私は　あぶれちゃった
+$C2620_MAIN_0300_0510_00_tif,Tifa,I...got left out.,私は　あぶれちゃった
 $C2620_MAIN_0300_0600_00_tif,Tifa,"Must be nice to hit it off so fast like those two, huh?",あのふたりみたいに<br>すぐに仲良くなれるのって得だよね
-$C2620_MAIN_0300_0700_00_cld,Cloud,"Not your style, Tifa?",ティファは違うのか？
+$C2620_MAIN_0300_0700_00_cld,Cloud,"You’re not like that, Tifa?",ティファは違うのか？
 $C2620_MAIN_0300_0800_00_tif,Tifa,I wonder.,どうだろう
 $C2620_MAIN_0300_0900_00_tif,Tifa,Maybe I’ve been pretending to be that way since I was a kid.,そういうフリはしてるかも<br>子供の頃からね
-$C2620_MAIN_0300_1000_00_tif,Tifa,"Hey, wanna take a walk together? It’s fine if you don’t want to.",ねえ　いっしょに散歩しない？<br>いやなら　いいけど
-$C2620_MAIN_0300_1100_00_cld,Cloud,Why would I say no?,いやなはずないだろう
+$C2620_MAIN_0300_1000_00_tif,Tifa,"Hey, wanna go for a walk together? It’s fine if you don’t.",ねえ　いっしょに散歩しない？<br>いやなら　いいけど
+$C2620_MAIN_0300_1100_00_cld,Cloud,I wouldn’t dislike it.,いやなはずないだろう
 $C2620_MAIN_0400_0100_00_yfi,Yuffie,"Oh, you’re awake? Awesome~!",ああ　起きてた？　よかった～！
 $C2620_MAIN_0400_0200_00_yfi,Yuffie,"So, wanna hang out and explore Gold Saucer with me?",あのさ　ゴールドソーサーまわるの<br>つきあってくんない？
 $C2620_MAIN_0400_0210_00_yfi,Yuffie,"Some stuff you can’t do solo, y’know?",ひとりじゃ　遊べないヤツがあるんだよね
@@ -865,7 +865,7 @@ $C2620_MAIN_4800_0200_00_cld,Cloud,GOLDE_862,GOLDE_862
 $C2620_MAIN_4800_0200_05_art,Aerith,GOLDE_863,GOLDE_863
 $C2620_MAIN_4800_0300_00_art,Aerith,Someone you know?,知ってるひと？
 $C2620_MAIN_4800_0400_00_cld,Cloud,Jessie.,ジェシー
-$C2620_MAIN_4800_0410_00_cld,Cloud,An Avalanche comrade. Died in Sector 7.,アバランチの仲間で　七番街で死んだ
+$C2620_MAIN_4800_0410_00_cld,Cloud,An Avalanche friend. Died in Sector 7.,アバランチの仲間で　七番街で死んだ
 $C2620_MAIN_4800_0500_00_art,Aerith,"She was an actress, huh?",女優さんだったんだね
 $C2620_MAIN_4800_0600_00_cld,Cloud,Yeah.,ああ
 $C2620_MAIN_4800_0700_00_cld,Cloud,"Tried to befriend me, even though I was standoffish.",無愛想な俺と　友達になろうとしてくれた
@@ -887,12 +887,12 @@ $C2620_MAIN_4900_0800_00_tif,Tifa,"Always smiling, right?",いつも　笑顔だ
 $C2620_MAIN_4900_0900_00_cld,Cloud,"Yeah, she was.",ああ　そうだな
 $C2620_MAIN_4900_1000_00_tif,Tifa,She taught me so much.,いろいろ　教えてもらったな
 $C2620_MAIN_4900_1100_00_tif,Tifa,"Thanks, Jessie.",ありがとう　ジェシー
-$C2620_MAIN_5000_0100_00_yfi,Yuffie,"Look, a gorgeous actress!",見て　キレーな女優さん
+$C2620_MAIN_5000_0100_00_yfi,Yuffie,"Look, a pretty actress!",見て　キレーな女優さん
 $C2620_MAIN_5000_0200_00_cld,Cloud,GOLDE_889,GOLDE_889
 $C2620_MAIN_5000_0300_00_yfi,Yuffie,"What, you know her?",なに　知ってるひと？
 $C2620_MAIN_5000_0400_00_cld,Cloud,A friend.,友達だ
 $C2620_MAIN_5000_0500_00_yfi,Yuffie,No way~ Cloud’s got friends?!,うそ～　クラウドに友達なんかいるんだ！
-$C2620_MAIN_5000_0600_00_cld,Cloud,Might’ve been my imagination.,勘違いかもしれないけどな
+$C2620_MAIN_5000_0600_00_cld,Cloud,"Might’ve been my imagination, though.",勘違いかもしれないけどな
 $C2620_MAIN_5000_0700_00_yfi,Yuffie,"Lucky you, scoring a beauty like that!",ラッキーじゃん　こんな美人！
 $C2620_MAIN_5000_0800_00_cld,Cloud,Guess so.,そうだな
 $C2620_MAIN_5000_0900_00_yfi,Yuffie,"See, Cloud’s destined to be surrounded by hotties!",クラウドの周りはさ　美人が集まる運命なんだよ
@@ -987,18 +987,18 @@ $C2620_MAIN_6100_0600_00_mma,Skywheel Staff,we’ll now guide all guests to a se
 $C2620_MAIN_6100_0700_00_sfa,Skywheel Staff,"This way, please. Follow the staff ahead of you.",こちらへどうぞ<br>前にいるスタッフの誘導に従ってください
 $C2620_MAIN_6100_0800_00_mfa,Skywheel Staff,"Over here! Take your time, no need to rush!",こちらでーす<br>あせらず　ゆっくりとお進みくださーい！
 $C2620_MAIN_6100_0800_09_cld,Cloud,GOLDE_987,GOLDE_987
-$C2620_MAIN_6100_0900_00_cat,Cait Sith,"Cloud, laddie! We’re in a right mess!",クラウドはん　大変や～！
+$C2620_MAIN_6100_0900_00_cat,Cait Sith,"Mister Cloud! Big trouble~!",クラウドはん　大変や～！
 $C2620_MAIN_6100_0900_03_cld,Cloud,GOLDE_989,GOLDE_989
 $C2620_MAIN_6100_0900_05_art,Aerith,GOLDE_990,GOLDE_990
 $C2620_MAIN_6100_1000_00_art,Aerith,Oh! So cute!,わっ　かわいい
 $C2620_MAIN_6100_1010_00_cld,Cloud,What’s wrong?,どうした？
-$C2620_MAIN_6100_1100_00_cat,Cait Sith,"Get to the Colosseum, quick as ye can!",大至急　コロシアムに来てください！
+$C2620_MAIN_6100_1100_00_cat,Cait Sith,"Come to the Colosseum quick, please!",大至急　コロシアムに来てください！
 $C2620_MAIN_6100_1100_05_art,Aerith,GOLDE_994,GOLDE_994
-$C2620_MAIN_6100_1200_00_cat,Cait Sith,There’s been a shootin’ in the Colosseum lobby!,実は　コロシアムのロビーで<br>銃撃事件がありまして
-$C2620_MAIN_6100_1300_00_cat,Cait Sith,"Witnesses say the culprit was a ""man with a gun for an arm""!",目撃者によりますと<br>犯人は『片腕が銃の男』やったそうです
+$C2620_MAIN_6100_1200_00_cat,Cait Sith,"Listen, there’s been a shootin’ in the Colosseum lobby.",実は　コロシアムのロビーで<br>銃撃事件がありまして
+$C2620_MAIN_6100_1300_00_cat,Cait Sith,"Witnesses said the culprit was ""a man with a gun for an arm,"" I heard",目撃者によりますと<br>犯人は『片腕が銃の男』やったそうです
 $C2620_MAIN_6100_1300_04_cld,Cloud,GOLDE_997,GOLDE_997
 $C2620_MAIN_6100_1300_06_art,Aerith,GOLDE_998,GOLDE_998
-$C2620_MAIN_6100_1400_00_cat,Cait Sith,"I’ll round up the others, so ye hightail it to the Colosseum!",お仲間には　ボクが伝えますから<br>急いで　コロシアムへ～！
+$C2620_MAIN_6100_1400_00_cat,Cait Sith,"I’ll tell your friends, so hurry to the Colloseum~!",お仲間には　ボクが伝えますから<br>急いで　コロシアムへ～！
 $C2620_MAIN_6100_1500_00_art,Aerith,No way...right?,うそ　だよね？
 $C2620_MAIN_6100_1500_05_cld,Cloud,GOLDE_1001,GOLDE_1001
 $C2620_MAIN_6100_1600_00_cld,Cloud,Let’s go check it out.,とにかく　行ってみよう
@@ -1016,15 +1016,15 @@ $C2620_MAIN_6200_0150_00_mma,Skywheel Staff,"We’re investigating the cause, bu
 $C2620_MAIN_6200_0160_00_mma,Skywheel Staff,we’ll now guide all guests to a secure location.,これよりお客様を　安全なところまで<br>誘導させていただきます
 $C2620_MAIN_6200_0170_00_sfa,Skywheel Staff,"This way, please. Follow the staff ahead of you.",こちらへどうぞ<br>前にいるスタッフの誘導に従ってください
 $C2620_MAIN_6200_0180_00_mfa,Skywheel Staff,"Over here! Take your time, no need to rush!",こちらでーす<br>あせらず　ゆっくりとお進みくださーい！
-$C2620_MAIN_6200_0200_00_cat,Cait Sith,"Cloud, laddie! We’re in a right mess!",クラウドはん　大変や～！
+$C2620_MAIN_6200_0200_00_cat,Cait Sith,"Mister Cloud! Big trouble~!",クラウドはん　大変や～！
 $C2620_MAIN_6200_0300_00_tif,Tifa,Huh? A cat?,えっ　ネコ？
 $C2620_MAIN_6200_0310_00_cld,Cloud,What’s wrong?,どうした？
-$C2620_MAIN_6200_0400_00_cat,Cait Sith,"Get to the Colosseum, quick as ye can!",大至急　コロシアムに来てください！
-$C2620_MAIN_6200_0500_00_cat,Cait Sith,There’s been a shootin’ in the Colosseum lobby!,実は　コロシアムのロビーで<br>銃撃事件がありまして
-$C2620_MAIN_6200_0600_00_cat,Cait Sith,"Witnesses say the culprit was a ""man with a gun for an arm""!",目撃者によりますと<br>犯人は『片腕が銃の男』やったそうです
+$C2620_MAIN_6200_0400_00_cat,Cait Sith,"Come to the Colosseum quick, please!",大至急　コロシアムに来てください！
+$C2620_MAIN_6200_0500_00_cat,Cait Sith,"Listen, there’s been a shootin’ in the Colosseum lobby.",実は　コロシアムのロビーで<br>銃撃事件がありまして
+$C2620_MAIN_6200_0600_00_cat,Cait Sith,"Witnesses said the culprit was ""a man with a gun for an arm,"" I heard",目撃者によりますと<br>犯人は『片腕が銃の男』やったそうです
 $C2620_MAIN_6200_0600_04_cld,Cloud,GOLDE_1023,GOLDE_1023
 $C2620_MAIN_6200_0600_06_tif,Tifa,GOLDE_1024,GOLDE_1024
-$C2620_MAIN_6200_0700_00_cat,Cait Sith,"I’ll round up the others, so ye hightail it to the Colosseum!",お仲間には　ボクが伝えますから<br>急いで　コロシアムへ～！
+$C2620_MAIN_6200_0700_00_cat,Cait Sith,"I’ll tell your friends, so hurry to the Colloseum~!",お仲間には　ボクが伝えますから<br>急いで　コロシアムへ～！
 $C2620_MAIN_6200_0800_00_tif,Tifa,"It’s gotta be a mistake, right?",なにかの　間違いだよね
 $C2620_MAIN_6200_0900_00_cld,Cloud,Let’s go check it out.,とにかく　行ってみよう
 $C2620_MAIN_6300_0100_00_yfi,Yuffie,"Wow, we gotta line up quick!",うわ　はやく並ばないと！
@@ -1040,22 +1040,22 @@ $C2620_MAIN_6300_0150_00_mma,Skywheel Staff,"We’re currently investigating the
 $C2620_MAIN_6300_0160_00_mma,Skywheel Staff,we’ll be guiding all guests to a safe location from here.,これよりお客様を　安全なところまで<br>誘導させていただきます
 $C2620_MAIN_6300_0170_00_sfa,Skywheel Staff,"This way, please! Follow the staff ahead of you.",こちらへどうぞ<br>前にいるスタッフの誘導に従ってください
 $C2620_MAIN_6300_0180_00_mfa,Skywheel Staff,"Over here! Take it slow, no need to rush!",こちらでーす<br>あせらず　ゆっくりとお進みくださーい！
-$C2620_MAIN_6300_0200_00_cat,Cait Sith,"Cloud-han, we’re in big trouble~!",クラウドはん　大変や～！
+$C2620_MAIN_6300_0200_00_cat,Cait Sith,"Mister Cloud! Big trouble~!",クラウドはん　大変や～！
 $C2620_MAIN_6300_0200_05_yfi,Yuffie,GOLDE_1042,GOLDE_1042
 $C2620_MAIN_6300_0300_00_yfi,Yuffie,Kitty!,にゃんこ！
 $C2620_MAIN_6300_0310_00_cld,Cloud,What’s wrong?,どうした？
-$C2620_MAIN_6300_0400_00_cat,Cait Sith,"Hurry to the coliseum, quick as ye can!",大至急　コロシアムに来てください！
+$C2620_MAIN_6300_0400_00_cat,Cait Sith,"Come to the Colosseum quick, please!",大至急　コロシアムに来てください！
 $C2620_MAIN_6300_0400_05_yfi,Yuffie,GOLDE_1046,GOLDE_1046
-$C2620_MAIN_6300_0500_00_cat,Cait Sith,"Truth is, there’s been a shootin’ in the coliseum lobby.",実は　コロシアムのロビーで<br>銃撃事件がありまして
+$C2620_MAIN_6300_0500_00_cat,Cait Sith,"Listen, there’s been a shootin’ in the Colosseum lobby.",実は　コロシアムのロビーで<br>銃撃事件がありまして
 $C2620_MAIN_6300_0500_05_yfi,Yuffie,GOLDE_1048,GOLDE_1048
-$C2620_MAIN_6300_0600_00_cat,Cait Sith,"According to witnesses, the culprit was ""a man with a gun for an arm.""",目撃者によりますと<br>犯人は『片腕が銃の男』やったそうです
+$C2620_MAIN_6300_0600_00_cat,Cait Sith,"Witnesses said the culprit was ""a man with a gun for an arm,"" I heard",目撃者によりますと<br>犯人は『片腕が銃の男』やったそうです
 $C2620_MAIN_6300_0600_04_cld,Cloud,GOLDE_1050,GOLDE_1050
 $C2620_MAIN_6300_0600_06_yfi,Yuffie,GOLDE_1051,GOLDE_1051
-$C2620_MAIN_6300_0700_00_cat,Cait Sith,"I’ll tell the others, so get yerself to the coliseum pronto~!",お仲間には　ボクが伝えますから<br>急いで　コロシアムへ～！
+$C2620_MAIN_6300_0700_00_cat,Cait Sith,"I’ll tell your friends, so hurry to the Colloseum~!",お仲間には　ボクが伝えますから<br>急いで　コロシアムへ～！
 $C2620_MAIN_6300_0800_00_yfi,Yuffie,Isn’t this getting kinda crazy?,なんか　すごいことになってない？
 $C2620_MAIN_6300_0900_00_cld,Cloud,Let’s go check it out.,とにかく　行ってみよう
 $C2620_MAIN_6350_0100_00_cld,Cloud,GOLDE_1055,GOLDE_1055
-$C2620_MAIN_6350_0200_00_cld,Cloud,Can she ride alone...?,ひとりで乗れるのか……？
+$C2620_MAIN_6350_0200_00_cld,Cloud,Can I ride alone...?,ひとりで乗れるのか……？
 $C2620_MAIN_6350_0200_05_cld,Cloud,GOLDE_1057,GOLDE_1057
 $C2620_MAIN_6350_0210_00_mfa,Passenger,GOLDE_1058,GOLDE_1058
 $C2620_MAIN_6350_0220_00_mma,Passenger,GOLDE_1059,GOLDE_1059
@@ -1066,25 +1066,25 @@ $C2620_MAIN_6350_0260_00_mma,Skywheel Staff,we’ll be guiding all guests to a s
 $C2620_MAIN_6350_0270_00_sfa,Skywheel Staff,"This way, please! Follow the staff ahead of you.",こちらへどうぞ<br>前にいるスタッフの誘導に従ってください
 $C2620_MAIN_6350_0280_00_mfa,Skywheel Staff,"Over here! Take it slow, no need to rush!",こちらでーす<br>あせらず　ゆっくりとお進みくださーい！
 $C2620_MAIN_6350_0280_08_cld,Cloud,GOLDE_1066,GOLDE_1066
-$C2620_MAIN_6350_0300_00_cat,Cait Sith,"Cloud-han, we’re in big trouble~!",クラウドはん　大変や～！
+$C2620_MAIN_6350_0300_00_cat,Cait Sith,"Mister Cloud! Big trouble~!",クラウドはん　大変や～！
 $C2620_MAIN_6350_0300_05_cld,Cloud,GOLDE_1068,GOLDE_1068
 $C2620_MAIN_6350_0400_00_cld,Cloud,What’s wrong?,どうした？
-$C2620_MAIN_6350_0500_00_cat,Cait Sith,"Hurry to the coliseum, quick as ye can!",大至急　コロシアムに来てください！
+$C2620_MAIN_6350_0500_00_cat,Cait Sith,"Come to the Colosseum quick, please!",大至急　コロシアムに来てください！
 $C2620_MAIN_6350_0510_00_cld,Cloud,What happened?,なにがあった
-$C2620_MAIN_6350_0600_00_cat,Cait Sith,"Truth is, there’s been a shootin’ in the coliseum lobby.",実は　コロシアムのロビーで<br>銃撃事件がありまして
-$C2620_MAIN_6350_0700_00_cat,Cait Sith,"According to witnesses, the culprit was ""a man with a gun for an arm.""",目撃者によりますと<br>犯人は『片腕が銃の男』やったそうです
+$C2620_MAIN_6350_0600_00_cat,Cait Sith,"Listen, there’s been a shootin’ in the Colosseum lobby.",実は　コロシアムのロビーで<br>銃撃事件がありまして
+$C2620_MAIN_6350_0700_00_cat,Cait Sith,"Witnesses said the culprit was ""a man with a gun for an arm,"" I heard",目撃者によりますと<br>犯人は『片腕が銃の男』やったそうです
 $C2620_MAIN_6350_0710_00_cld,Cloud,What?,なに？
-$C2620_MAIN_6350_0800_00_cat,Cait Sith,"I’ll tell the others, so get yerself to the coliseum pronto~!",お仲間には　ボクが伝えますから<br>急いで　コロシアムへ～！
+$C2620_MAIN_6350_0800_00_cat,Cait Sith,"I’ll tell your friends, so hurry to the Colloseum~!",お仲間には　ボクが伝えますから<br>急いで　コロシアムへ～！
 $C2620_MAIN_6400_0100_00_mma,Cast Member,We’re currently guiding guests due to equipment maintenance.,ただいま　設備点検のため<br>お客様を誘導しております
 $C2620_MAIN_6400_0200_00_mma,Cast Member,The cause of the issue is still under investigation.,トラブルの原因は　現在確認中です
 $C2620_MAIN_6400_0210_00_mma,Cast Member,Please follow the staff’s instructions and proceed slowly.,スタッフの指示に従い<br>ゆっくりとお進みください
 $C2620_MAIN_6400_0300_00_mfa,Cast Member,Staff are guiding you. Please stay calm and move along.,係員が誘導しております<br>落ちついて　移動してください
 $C2620_MAIN_6400_0400_00_mfa,Cast Member,"There’s no danger, so don’t panic. Follow the person in front of you.",危険はございませんので　慌てずに<br>前の人に続いてお進みください
 $C2620_MAIN_6500_0100_00_mma,Security Guard,"Sorry, but this area’s off-limits right now.",申し訳ありません<br>ただいま　通行禁止となっております
-$C2620_MAIN_6500_0200_00_cat,<i>Cait Sith</i>,<i>Hello~?</i>,<i>もしも～し</i>
+$C2620_MAIN_6500_0200_00_cat,<i>Cait Sith</i>,<i>Hello there~</i>,<i>もしも～し</i>
 $C2620_MAIN_6500_0300_00_mma,Security Guard,Hold on a sec.,ちょっと　お待ちください
-$C2620_MAIN_6500_0400_00_cat,<i>Cait Sith</i>,"<i>Let these folks through, no problem~!</i>",<i>その人らは　通してかまへんで～</i>
-$C2620_MAIN_6500_0410_00_cat,<i>Cait Sith</i>,<i>No problem lettin’ ‘em through~!</i>,<i>通してかまへんで～</i>
+$C2620_MAIN_6500_0400_00_cat,<i>Cait Sith</i>,"<i>Let these guys through. They won’t be a problem, kay~?</i>",<i>その人らは　通してかまへんで～</i>
+$C2620_MAIN_6500_0410_00_cat,<i>Cait Sith</i>,<i>It’s fine to let ‘em through~</i>,<i>通してかまへんで～</i>
 $C2620_MAIN_6500_0500_00_mma,Security Guard,Understood.,了解しました
 $C2620_MAIN_6500_0600_00_mma,Security Guard,My apologies. Go ahead.,失礼しました　お通りください
 $C2620_MAIN_6600_0100_00_mma,Security Guard,Why’d something so horrible happen...?,なぜ　こんな恐ろしいことに
@@ -1140,9 +1140,9 @@ $C2620_MAIN_6900_3700_00_dio,Dio,"A little competition gets the blood pumping, r
 $C2620_MAIN_6900_3700_05_dio,Dio,GOLDE_1138,GOLDE_1138
 $C2620_MAIN_6900_3800_00_dio,Dio,"Now, young ones! The culprit went down below!",さあ　若者たちよ<br>犯人は下へ行ったぞ！
 $C2620_MAIN_6900_3810_00_dio,Dio,"Run, for your friend’s sake!",友のために　走りたまえ！
-$C2620_MAIN_6900_3900_00_cat,Cait Sith,I’ll lend a paw too!,ボクも　手伝いまっせ！
-$C2620_MAIN_6900_4000_00_cat,Cait Sith,"Ye’ll need a guide, aye?",案内人は　必要でっしゃろ
-$C2620_MAIN_6900_4010_00_cat,Cait Sith,The lift down to the surface is this way!,地上へおりるリフトは　こっちです
+$C2620_MAIN_6900_3900_00_cat,Cait Sith,I’ll help too!,ボクも　手伝いまっせ！
+$C2620_MAIN_6900_4000_00_cat,Cait Sith,"Ya need a guide, right?",案内人は　必要でっしゃろ
+$C2620_MAIN_6900_4010_00_cat,Cait Sith,The elevator down to the surface is this way.,地上へおりるリフトは　こっちです
 $C2620_MAIN_7000_0100_00_cat,Cait Sith,"This way, this way!",こっち　こっち！
 $C2620_MAIN_7000_0200_00_cat,Cait Sith,"Hurry, hurry~!",はよはよ～
 $C2620_MAIN_7100_0100_00_dio,Dio,"I’ll catch that culprit, no matter what.",犯人は必ず捕らえる
@@ -1150,21 +1150,21 @@ $C2620_MAIN_7100_0110_00_dio,Dio,"They’ll regret sullying my paradise, mark my
 $C2620_MAIN_7100_0200_00_dio,Dio,Shouldn’t you get moving?,急いだほうが　いいのではないか？
 $C2620_MAIN_7200_0000_02_cat,Cait Sith,GOLDE_1149,GOLDE_1149
 $C2620_MAIN_7200_0000_05_art,Aerith,GOLDE_1150,GOLDE_1150
-$C2620_MAIN_7200_0100_00_cat,Cait Sith,"Where we’re headed is called Under Saucer,",これから行くんは　アンダーソーサーゆうて
-$C2620_MAIN_7200_0110_00_cat,Cait Sith,a place where the staff used to live back in the day.,昔は　ここで働くスタッフが<br>住んでいたとこなんやけど
-$C2620_MAIN_7200_0200_00_cat,Cait Sith,"But then monsters started creepin’ in, so they moved the lodgings up top.",いつからか　モンスターが入り込むようになって<br>上に宿舎を移したんです
-$C2620_MAIN_7200_0300_00_cat,Cait Sith,"And wouldn’t ye know it, outlaws from all over started settlin’ down here instead.",そしたらなんと　大陸中から<br>ならず者が集まって　住みついてしもたんです
-$C2620_MAIN_7200_0400_00_cat,Cait Sith,"Och, what a mess~!",い～や～ホンマ　難儀やわ～
+$C2620_MAIN_7200_0100_00_cat,Cait Sith,"The place we’re headed is called the ""Under Saucer.""",これから行くんは　アンダーソーサーゆうて
+$C2620_MAIN_7200_0110_00_cat,Cait Sith,"A long time ago, the staff used to live in this place, but...",昔は　ここで働くスタッフが<br>住んでいたとこなんやけど
+$C2620_MAIN_7200_0200_00_cat,Cait Sith,"At some point, monsters started creepin’ in, so they moved the dorms up top.",いつからか　モンスターが入り込むようになって<br>上に宿舎を移したんです
+$C2620_MAIN_7200_0300_00_cat,Cait Sith,"And wouldn’t ya know, outlaws from all over started settlin’ down here instead.",そしたらなんと　大陸中から<br>ならず者が集まって　住みついてしもたんです
+$C2620_MAIN_7200_0400_00_cat,Cait Sith,"Yaa~, what a mess~!",い～や～ホンマ　難儀やわ～
 $C2620_MAIN_7200_0500_00_art,Aerith,"Kinda like Wall Market, huh?",ウォール・マーケットみたいだね
-$C2620_MAIN_7200_0600_00_cat,Cait Sith,"Aye, but even worse than that!",ああ～あそこより　さらにタチが悪い！
-$C2620_MAIN_7200_0700_00_cat,Cait Sith,"They say once ye step inside, ye’ll never get out again.",いちど足を踏み入れたら　二度と<br>出られへんって言われてます
-$C2620_MAIN_7200_0800_00_cat,Cait Sith,"So now, folks call it this:",せやから　いまではこう呼ばれてます
+$C2620_MAIN_7200_0600_00_cat,Cait Sith,"Ah! But even worse than that!",ああ～あそこより　さらにタチが悪い！
+$C2620_MAIN_7200_0700_00_cat,Cait Sith,"They say once ya step inside, you’ll never get out again.",いちど足を踏み入れたら　二度と<br>出られへんって言われてます
+$C2620_MAIN_7200_0800_00_cat,Cait Sith,"That’s why now it’s called—",せやから　いまではこう呼ばれてます
 $C2620_MAIN_7200_0810_00_cat,Cait Sith,Corel Prison.,コレルプリズンって
 $C2620_MAIN_7200_0900_00_cat,Cait Sith,"A real desert jailhouse,",まさしく　砂漠の監獄
-$C2620_MAIN_7200_0910_00_cat,Cait Sith,"where stealin’, attackin’, killin’—anything goes!",盗む　襲う　殺す　なんでもアリ！
-$C2620_MAIN_7200_1000_00_cat,Cait Sith,"So, everyone, watch yerselves down there, aye~!",というワケで　みなさん<br>せいぜい　気をつけてくださいね～
+$C2620_MAIN_7200_0910_00_cat,Cait Sith,"Steal, attack, kill—anythin’ goes!",盗む　襲う　殺す　なんでもアリ！
+$C2620_MAIN_7200_1000_00_cat,Cait Sith,"So! That’s to say...everyone be careful as ya can, please, kay~?",というワケで　みなさん<br>せいぜい　気をつけてくださいね～
 $C2630_MAIN_0100_0100_00_yfi,Yuffie,We’re here already~?,着いちゃったよ～？
-$C2630_MAIN_0200_0100_00_cat,Cait Sith,Huh? Nobody home?,ありゃ　お留守？
+$C2630_MAIN_0200_0100_00_cat,Cait Sith,Oh? Nobody home?,ありゃ　お留守？
 $C2630_MAIN_0200_0200_00_red,Red XIII,We’re being watched.,見られているな
 $C2630_MAIN_0200_0200_05_cld,Cloud,GOLDE_1167,GOLDE_1167
 $C2630_MAIN_0200_0300_00_cld,Cloud,Stay sharp.,気を抜くな
@@ -1180,7 +1180,7 @@ $C2630_MAIN_0300_0700_00_art,Aerith,GOLDE_1177,GOLDE_1177
 $C2630_MAIN_0300_0800_00_gas,???,Hey!,おい！
 $C2630_MAIN_0300_0800_03_cld,Cloud,GOLDE_1179,GOLDE_1179
 $C2630_MAIN_0300_0800_07_gas,???,GOLDE_1180,GOLDE_1180
-$C2630_MAIN_0300_0900_00_gas,???,Welcome to Corel Prison!,コレルプリズンへ　ようこそ！
+$C2630_MAIN_0300_0900_00_gas,???,Here’s a Corel Prison welcome!,コレルプリズンへ　ようこそ！
 $C2630_MAIN_0300_0900_03_cld,Cloud,GOLDE_1182,GOLDE_1182
 $C2630_MAIN_0400_0000_13_gas,???,Time for chow soon~!,そろそろご飯の時間よ～
 $C2630_MAIN_0400_0000_14_gas,???,Good mornin’~!,おはようございま～す
@@ -1189,37 +1189,37 @@ $C2630_MAIN_0400_0000_18_mma,Outlaw,GOLDE_1186,GOLDE_1186
 $C2630_MAIN_0400_0000_19_mma,Outlaw,GOLDE_1187,GOLDE_1187
 $C2630_MAIN_0400_0000_20_mma,Outlaw,GOLDE_1188,GOLDE_1188
 $C2630_MAIN_0400_0000_21_mma,Outlaw,GOLDE_1189,GOLDE_1189
-$C2630_MAIN_0400_0100_00_gas,Garth,"Whoa there, no roughhousin’.",おっと　暴れんじゃねえ
+$C2630_MAIN_0400_0100_00_gas,Garth,"Whoa there! No roughhousin’.",おっと　暴れんじゃねえ
 $C2630_MAIN_0400_0200_00_gas,Garth,"C’mon now, follow me.",ほ～ら　ついてこい
 $C2630_MAIN_0400_0200_07_gas,Garth,Move it!,早くしろ
 $C2630_MAIN_0400_0200_08_gas,Garth,GOLDE_1193,GOLDE_1193
 $C2630_MAIN_0400_0200_09_gas,Garth,Let’s go~!,行きますよ～
 $C2630_MAIN_0400_0200_10_gas,Garth,Right this way~!,こちらでございま～す
-$C2630_MAIN_0400_0300_00_gas,Garth,"Boss, I brought ‘em!",ボス　連れてきました！
+$C2630_MAIN_0400_0300_00_gas,Garth,"Boss! I brought ‘em!",ボス　連れてきました！
 $C2630_MAIN_0400_0300_07_ges,Gus,GOLDE_1197,GOLDE_1197
 $C2630_MAIN_0400_0300_10_ges,Gus,GOLDE_1198,GOLDE_1198
-$C2630_MAIN_0400_0400_00_ges,Gus,Foh!,フォウ！
+$C2630_MAIN_0400_0400_00_ges,Gus,Fooo!,フォウ！
 $C2630_MAIN_0400_0400_05_gas,Garth,GOLDE_1200,GOLDE_1200
-$C2630_MAIN_0400_0500_00_ges,Gus,"Welcome to Corel Prison, Cloud the handyman!",コレルプリズンへ　ようこそ<br>なんでも屋のクラウド
+$C2630_MAIN_0400_0500_00_ges,Gus,"Welcome to Corel Prison, ""do-it-all"" Cloud!",コレルプリズンへ　ようこそ<br>なんでも屋のクラウド
 $C2630_MAIN_0400_0500_05_gas,Garth,GOLDE_1202,GOLDE_1202
-$C2630_MAIN_0400_0510_00_ges,Gus,"Cloud? That’s Cloud, right?",クラウド？　クラウドだったよな
-$C2630_MAIN_0400_0600_00_gas,Garth,"Yup, that’s Cloud, Boss.",クラウドであってます　ボス
-$C2630_MAIN_0400_0700_00_ges,Gus,So this Cloud guy—,で　そのクラウドってのは
-$C2630_MAIN_0400_0710_00_ges,Gus,is that you? You? YOU?,おまえか？　おまえか？　おまえか？
+$C2630_MAIN_0400_0510_00_ges,Gus,"Cloud? It’s Cloud, right?",クラウド？　クラウドだったよな
+$C2630_MAIN_0400_0600_00_gas,Garth,"Yup, it’s Cloud, Boss.",クラウドであってます　ボス
+$C2630_MAIN_0400_0700_00_ges,Gus,"So, this so-called ""Cloud""—",で　そのクラウドってのは
+$C2630_MAIN_0400_0710_00_ges,Gus,Is it you? You? YOU?,おまえか？　おまえか？　おまえか？
 $C2630_MAIN_0400_0710_05_gas,Garth,GOLDE_1207,GOLDE_1207
 $C2630_MAIN_0400_0800_00_ges,Gus,"Or wait, maybe it’s YOU?",それともまさか　おまえか？
 $C2630_MAIN_0400_0800_05_gas,Garth,GOLDE_1209,GOLDE_1209
-$C2630_MAIN_0400_0900_00_ges,Gus,"Nah, I know who it is. You’re Cloud, right!",って　本当はわかってるよ<br>おまえが　クラウドだろ！
+$C2630_MAIN_0400_0900_00_ges,Gus,"Nah, I know who it is. You’re Mr. Cloud!",って　本当はわかってるよ<br>おまえが　クラウドだろ！
 $C2630_MAIN_0400_0900_05_gas,Garth,GOLDE_1211,GOLDE_1211
 $C2630_MAIN_0400_1000_00_cld,Cloud,Have we met?,どこかで会ったか？
 $C2630_MAIN_0400_1100_00_ges,Gus,"Hey, c’mon, first time meetin’, obviously.",おいおい　初対面に決まってんだろ
 $C2630_MAIN_0400_1100_05_gas,Garth,GOLDE_1214,GOLDE_1214
-$C2630_MAIN_0400_1110_00_ges,Gus,Ain’t nobody meets me and forgets the great me!,オレ様と会って<br>オレ様を忘れるヤツがいるもんか
+$C2630_MAIN_0400_1110_00_ges,Gus,Ain’t nobody meets the great me and forgets!,オレ様と会って<br>オレ様を忘れるヤツがいるもんか
 $C2630_MAIN_0400_1110_05_gas,Garth,GOLDE_1216,GOLDE_1216
-$C2630_MAIN_0400_1200_00_ges,Gus,"But me? I know all about you, one-sided like.",ただ　オレ様は<br>おまえのことを一方的に知っている
-$C2630_MAIN_0400_1210_00_ges,Gus,"Guess why, handyman Cloud?",なぜだかわかるか　なんでも屋のクラウド
+$C2630_MAIN_0400_1200_00_ges,Gus,"But me? I know all about you, even if you don’t know me.",ただ　オレ様は<br>おまえのことを一方的に知っている
+$C2630_MAIN_0400_1210_00_ges,Gus,"Can ya guess why, do-it-all Cloud?",なぜだかわかるか　なんでも屋のクラウド
 $C2630_MAIN_0400_1210_05_gas,Garth,GOLDE_1219,GOLDE_1219
-$C2630_MAIN_0400_1300_00_ges,Gus,"Foh! Alright, I’ll clue ya in.",フォウ！　よし　教えてやろう
+$C2630_MAIN_0400_1300_00_ges,Gus,"Fooo! Alright, alright, I’ll clue ya in.",フォウ！　よし　教えてやろう
 $C2630_MAIN_0400_1310_00_ges,Gus,"In the underworld, info’s life.",裏稼業は情報が命
 $C2630_MAIN_0400_1310_05_gas,Garth,GOLDE_1222,GOLDE_1222
 $C2630_MAIN_0400_1400_00_ges,Gus,"When word gets out a guy took down the Corneo Family, you bet I’d dig into it.",ましてや　コルネオファミリーを壊滅させた<br>男がいるとなれば　調べないワケがないだろう
@@ -1227,43 +1227,43 @@ $C2630_MAIN_0400_1400_05_gas,Garth,GOLDE_1224,GOLDE_1224
 $C2630_MAIN_0400_1410_00_ges,Gus,"Congrats, bang-bang-bang! You’re a celebrity!",おめでとう　パンパンパン！<br>おまえは有名人だ
 $C2630_MAIN_0400_1410_05_gas,Garth,GOLDE_1226,GOLDE_1226
 $C2630_MAIN_0400_1500_00_cld,Cloud,We’re looking for a man with a gun—,俺たちは　片腕が銃の――
-$C2630_MAIN_0400_1600_00_ges,Gus,"Yeah, yeah, I know, I know. Don’t make me say ""info’s life"" twice.",ああ　わかってるわかってる<br>裏稼業は情報が命　二度も言わせるな
+$C2630_MAIN_0400_1600_00_ges,Gus,"Fooo! Yeah, yeah, I know, I know. Don’t make me say ""info’s life"" twice.",ああ　わかってるわかってる<br>裏稼業は情報が命　二度も言わせるな
 $C2630_MAIN_0400_1700_00_ges,Gus,I’ve got the full scoop on what went down up there.,上で起こったことは<br>すべて把握している
 $C2630_MAIN_0400_1700_05_gas,Garth,GOLDE_1230,GOLDE_1230
-$C2630_MAIN_0400_1710_00_ges,Gus,So I’ve got a job for a slick handyman like you.,そこで　腕利きのなんでも屋に仕事を頼みたい
+$C2630_MAIN_0400_1710_00_ges,Gus,So I’ve got a job for a slick do-it-all like you.,そこで　腕利きのなんでも屋に仕事を頼みたい
 $C2630_MAIN_0400_1800_00_cld,Cloud,What’s that mean?,どういうことだ？
 $C2630_MAIN_0400_1800_05_gas,Garth,GOLDE_1233,GOLDE_1233
 $C2630_MAIN_0400_1900_00_ges,Gus,"That ""man with a gun arm"" you’re after? I’ve already got him locked up.",おまえが探している『片腕が銃の男』は<br>オレ様がすでに確保している
 $C2630_MAIN_0400_1910_00_ges,Gus,Right here in the desert jail.,砂漠の牢獄にな
 $C2630_MAIN_0400_2000_00_ges,Gus,"I could tell ya where he is. Special favor, just for you!",その場所を　おまえに教えてやってもいい<br>トクベツだぞ？
 $C2630_MAIN_0400_2000_05_gas,Garth,GOLDE_1237,GOLDE_1237
-$C2630_MAIN_0400_2010_00_ges,Gus,"But the world’s all give-and-take, ain’t it?",しかし　世の中はギブ・アンド・テイクだ<br>そうだろ？
+$C2630_MAIN_0400_2010_00_ges,Gus,"But! The world’s all give-and-take, ain’t it?",しかし　世の中はギブ・アンド・テイクだ<br>そうだろ？
 $C2630_MAIN_0400_2100_00_ges,Gus,So you’re gonna bring me some cash.,だから　おまえは<br>オレ様にカネを持ってこい
-$C2630_MAIN_0400_2200_00_ges,Gus,I’m in dire need of a ton of gil right now!,オレ様は　いま<br>とんでもなく　カネが必要だ！
+$C2630_MAIN_0400_2200_00_ges,Gus,"The great me, right now, is in need of a <i>ton</i> of dough!",オレ様は　いま<br>とんでもなく　カネが必要だ！
 $C2630_MAIN_0400_2200_05_gas,Garth,GOLDE_1241,GOLDE_1241
-$C2630_MAIN_0400_2300_00_ges,Gus,Some lunatic jackass went and slaughtered Shinra soldiers without my say-so.,どこかのイカれたクソったれが<br>勝手に神羅兵をブチ殺しやがったからな
+$C2630_MAIN_0400_2300_00_ges,Gus,"Some lunatic jackass went and slaughtered Shinra soldiers without my say-so, see?",どこかのイカれたクソったれが<br>勝手に神羅兵をブチ殺しやがったからな
 $C2630_MAIN_0400_2310_00_ges,Gus,Handin’ over the perp ain’t enough to fix this now.,もう　犯人を引き渡すだけじゃ収まらねえ
 $C2630_MAIN_0400_2310_05_gas,Garth,GOLDE_1244,GOLDE_1244
-$C2630_MAIN_0400_2400_00_ges,Gus,"To protect Corel Prison, I need tribute money. A ridiculous amount!",コレルプリズンを守るためには上納金が必要だ<br>トンデモない額のな！
+$C2630_MAIN_0400_2400_00_ges,Gus,"To protect Corel Prison, I need tribute money. A ridiculous amount, ya know!",コレルプリズンを守るためには上納金が必要だ<br>トンデモない額のな！
 $C2630_MAIN_0400_2400_05_gas,Garth,GOLDE_1246,GOLDE_1246
 $C2630_MAIN_0400_2410_00_ges,Gus,Damn! Damn! Damn! Damn! DAMN IT—!,クソ　クソ　クソ　クソ<br>クソがーーー！
 $C2630_MAIN_0400_2410_02_gas,Garth,GOLDE_1248,GOLDE_1248
-$C2630_MAIN_0400_2410_05_ges,Gus,Foh...,フォゥ……
-$C2630_MAIN_0400_2500_00_ges,Gus,"You, Mr. Handyman, are gonna get me that cash. Yeah, I know, don’t worry.",そのカネを　なんでも屋のおまえに用意してもらう<br>ああわかってる　心配するな
+$C2630_MAIN_0400_2410_05_ges,Gus,Fooo...,フォゥ……
+$C2630_MAIN_0400_2500_00_ges,Gus,"You, Mr. Do-It-All, are gonna get me that cash— Ah! I know, don’t worry.",そのカネを　なんでも屋のおまえに用意してもらう<br>ああわかってる　心配するな
 $C2630_MAIN_0400_2600_00_ges,Gus,I’ve got a plan for how you’ll earn it.,カネを稼ぐ方法は考えてある
 $C2630_MAIN_0400_2600_05_gas,Garth,GOLDE_1252,GOLDE_1252
-$C2630_MAIN_0400_2700_00_ges,Gus,"You, handyman, are gonna race chocobos and win.",なんでも屋には<br>チョコボレースに出場し　優勝してもらう
+$C2630_MAIN_0400_2700_00_ges,Gus,"You, Do-It-All, are gonna race chocobos and win.",なんでも屋には<br>チョコボレースに出場し　優勝してもらう
 $C2630_MAIN_0400_2700_05_gas,Garth,GOLDE_1254,GOLDE_1254
 $C2630_MAIN_0400_2800_00_ges,Gus,So here’s the deal.,っていうワケで
 $C2630_MAIN_0400_2810_00_ges,Gus,I’ll hold onto your pals till you win.,優勝できるまで　お仲間は預からせてもらう
 $C2630_MAIN_0400_2810_05_gas,Garth,GOLDE_1257,GOLDE_1257
 $C2630_MAIN_0400_2900_00_art,Aerith,Cloud!,クラウド！
-$C2630_MAIN_0400_3000_00_cat,Cait Sith,Cloud-han!,クラウドは～ん
+$C2630_MAIN_0400_3000_00_cat,Cait Sith,Mister Cloud!,クラウドは～ん
 $C2630_MAIN_0400_3000_05_cld,Cloud,GOLDE_1260,GOLDE_1260
 $C2630_MAIN_0400_3100_00_cld,Cloud,Wait!,待て！
 $C2630_MAIN_0400_3200_00_ges,Gus,"Whoa, relax. I’ll treat ‘em real nice.",おっと　心配するな<br>丁重におもてなしするさ
 $C2630_MAIN_0400_3200_05_gas,Garth,GOLDE_1263,GOLDE_1263
-$C2630_MAIN_0400_3300_00_ges,Gus,"But if you don’t bring the cash, they might have to earn it for me instead~!",でも　もしおまえがカネを持ってこないなら<br>彼女たちに稼いでもらうことになるかもな～？
+$C2630_MAIN_0400_3300_00_ges,Gus,"But if you don’t bring the cash, the ladies might have to earn it for me instead~!",でも　もしおまえがカネを持ってこないなら<br>彼女たちに稼いでもらうことになるかもな～？
 $C2630_MAIN_0400_3300_02_gas,Garth,GOLDE_1265,GOLDE_1265
 $C2630_MAIN_0400_3300_05_ges,Gus,GOLDE_1266,GOLDE_1266
 $C2630_MAIN_0400_3400_00_ges,Gus,"Plenty of folks here like animals too, y’know?",動物好きも多いぞ？
@@ -1274,13 +1274,13 @@ $C2630_MAIN_0400_3600_00_ges,Gus,"Non, non!",ノンノン！
 $C2630_MAIN_0400_3610_00_ges,Gus,Call me Gus!,ゲスと呼んでくれ
 $C2630_MAIN_0400_3610_05_gas,Garth,GOLDE_1273,GOLDE_1273
 $C2630_MAIN_0400_3700_00_ges,Gus,Okay!,オーケー！
-$C2630_MAIN_0400_3710_00_ges,Gus,This guy’ll give ya the nitty-gritty on the race!,じゃあ　レースのつっこんだ説明は<br>こいつに聞きな！
+$C2630_MAIN_0400_3710_00_ges,Gus,Then! This guy’ll give ya the nitty-gritty on the race!,じゃあ　レースのつっこんだ説明は<br>こいつに聞きな！
 $C2630_MAIN_0400_3710_05_gas,Garth,"Got it, Boss!",了解です　ボス！
 $C2630_MAIN_0400_3800_00_ges,Gus,I’m countin’ on ya!,期待しているからな
-$C2630_MAIN_0400_3800_05_ges,Gus,GOLDE_1278,GOLDE_1278
+$C2630_MAIN_0400_3800_05_ges,Gus,Faaa...,GOLDE_1278
 $C2630_MAIN_0400_3800_08_gas,Garth,GOLDE_1279,GOLDE_1279
 $C2630_MAIN_0400_3800_10_ges,Gus,GOLDE_1280,GOLDE_1280
-$C2630_MAIN_0400_3900_00_gas,Garth,"Alright, I’ll take you to the chocobo. Follow me!",よし　チョコボのところまで案内する<br>ついてこい
+$C2630_MAIN_0400_3900_00_gas,Garth,"Alright, I’ll show you to the chocobo...heheh! Follow me!",よし　チョコボのところまで案内する<br>ついてこい
 $C2630_MAIN_0500_0100_00_gas,Garth,"C’mon, walk faster!",おら　テキパキ歩け
 $C2630_MAIN_0500_0200_00_gas,Garth,"Try runnin’ off, and I’ll bury you in the desert!",逃げたら　砂漠に埋めちまうからな
 $C2630_MAIN_0500_0300_00_gas,Garth,"Hey, hey, where you think you’re goin’?",おいおい　どこ行くつもりだ？
@@ -1293,12 +1293,12 @@ $C2630_MAIN_0550_0500_00_yfi,Yuffie,You jerk~! What’re you gonna do with me~?,
 $C2630_MAIN_0550_0600_00_yfi,Yuffie,"If push comes to shove, I’ll use my ninja skills...",いざとなったら　シノビの術で……
 $C2630_MAIN_0550_0700_00_red,Red XIII,"Back in a cage again, huh...",また　檻の中か……
 $C2630_MAIN_0550_0800_00_red,Red XIII,At least this time I’ve got company.,今回は　仲間がいるだけマシか
-$C2630_MAIN_0550_0900_00_cat,Cait Sith,"Things’ve gotten mighty strange, huh~",けったいなことになりましたな～
-$C2630_MAIN_0550_1000_00_cat,Cait Sith,"You’re our only hope now, Cloud~",クラウドはんだけが　頼りです～
+$C2630_MAIN_0550_0900_00_cat,Cait Sith,"Things’ve gotten pretty weird, huh~?",けったいなことになりましたな～
+$C2630_MAIN_0550_1000_00_cat,Cait Sith,"Mister Cloud, you’re our only hope now~",クラウドはんだけが　頼りです～
 $C2630_MAIN_0600_0100_00_gas,Garth,"Hey, I brought ‘em!",おう　つれてきたぜ
 $C2630_MAIN_0600_0100_03_est,Esther,GOLDE_1297,GOLDE_1297
 $C2630_MAIN_0600_0100_05_gas,Garth,GOLDE_1298,GOLDE_1298
-$C2630_MAIN_0600_0200_00_est,???,"So you’re Cloud, the handyman, huh?",あなたが　なんでも屋のクラウドね
+$C2630_MAIN_0600_0200_00_est,???,"So you’re Cloud, the jack-of-all-trades, huh?",あなたが　なんでも屋のクラウドね
 $C2630_MAIN_0600_0210_00_est,???,"Hmm, not a bad-looking guy, are you?",へえ　なかなかイイ男じゃない
 $C2630_MAIN_0600_0210_05_gas,Garth,GOLDE_1301,GOLDE_1301
 $C2630_MAIN_0600_0300_00_est,Esther,"I’m Esther, the chocobo manager. Nice to meet you!",私はチョコボマネージャーのエスト　よろしく
@@ -1364,8 +1364,8 @@ $C2630_MAIN_1400_0500_00_est,Esther,Gotta stock up for the next chocobo!,新し�
 $C2630_MAIN_1400_0600_00_est,Esther,This is the last part!,これが　最後のパーツ
 $C2630_MAIN_1400_0610_00_est,Esther,Now just win that race—go get ‘em!,あとはレースで勝つだけ　がんばってね！
 $C2630_MAIN_1500_0100_00_est,Esther,"Piko’s all set. Now it’s up to your skills, Cloud!",ピコちゃんの準備は万端<br>あとは　クラウドの腕次第ね
-$C2630_MAIN_1500_0200_00_est,Esther,Can’t wait to see how this handyman handles a race!,なんでも屋のレース運び　楽しみにしてるから
-$C2630_MAIN_1600_0100_00_gas,Garth,"Don’t let Guess down, got it?",ゲスさんを　ガッカリさせるんじゃねえぞ
+$C2630_MAIN_1500_0200_00_est,Esther,Can’t wait to see how this jack-of-all-trades handles a race!,なんでも屋のレース運び　楽しみにしてるから
+$C2630_MAIN_1600_0100_00_gas,Garth,"Don’t let Gus down, got it?",ゲスさんを　ガッカリさせるんじゃねえぞ
 $C2630_MAIN_1600_0200_00_gas,Garth,Quit standin’ around—go find that food!,ボサっとしてないで　エサを探してこい
 $C2630_MAIN_1700_0100_00_gas,Garth,You ready yet?,もう準備はいいのか？
 $C2630_MAIN_1700_0200_00_gas,Garth,Hurry it up!,急げよ
@@ -1510,7 +1510,7 @@ $C2630_MAIN_3600_0050_28_red,Red XIII,GOLDE_1507,GOLDE_1507
 $C2630_MAIN_3600_0050_30_ges,Gus,GOLDE_1508,GOLDE_1508
 $C2630_MAIN_3600_0050_32_yfi,Yuffie,GOLDE_1509,GOLDE_1509
 $C2630_MAIN_3600_0050_34_cat,Cait Sith,GOLDE_1510,GOLDE_1510
-$C2630_MAIN_3600_0100_00_ges,Gus,"Hyahahaha! Whoo! You did it, handyman!",ヒャッハッハー　フォウー！<br>やったな　なんでも屋
+$C2630_MAIN_3600_0100_00_ges,Gus,"Hyahahaha! Fooo! You did it, Mr. Do-it-all!",ヒャッハッハー　フォウー！<br>やったな　なんでも屋
 $C2630_MAIN_3600_0110_00_ges,Gus,"I believed in ya, man—you’re the real deal!",オレ様は信じてたぜ　おまえはヤル男だってな！
 $C2630_MAIN_3600_0200_00_ges,Gus,Now Corel Prison’s sittin’ pretty!,これで　コレルプリズンは安泰だ！
 $C2630_MAIN_3600_0300_00_cld,Cloud,Don’t care.,どうでもいい
@@ -1671,16 +1671,16 @@ $C2630_MAIN_4500_0600_00_cld,Cloud,Got it.,わかった
 $C2630_MAIN_4600_0000_07_dyn,Dyne,GOLDE_1669,GOLDE_1669
 $C2630_MAIN_4600_0100_00_blt,Barret,Dyne...is that you?,ダイン……なのか
 $C2630_MAIN_4600_0100_05_dyn,Dyne,GOLDE_1671,GOLDE_1671
-$C2630_MAIN_4600_0200_00_dyn,Dyne,"Heh, now that’s a voice I haven’t heard in a while...",へえ　懐かしい声だ……
+$C2630_MAIN_4600_0200_00_dyn,Dyne,"Heeeh...That’s a nostalgic voice...",へえ　懐かしい声だ……
 $C2630_MAIN_4600_0300_00_blt,Barret,Dyne!,ダイン！
 $C2630_MAIN_4600_0310_00_blt,Barret,"Hang on, I’ll get you outta there!",待ってろ　いま助けてやる
 $C2630_MAIN_4600_0310_05_blt,Barret,GOLDE_1675,GOLDE_1675
-$C2630_MAIN_4600_0400_00_dyn,Dyne,"This a dream? Barret, huh?",こりゃ夢か？　バレットじゃねえか
+$C2630_MAIN_4600_0400_00_dyn,Dyne,"This a dream? Barret, that you?",こりゃ夢か？　バレットじゃねえか
 $C2630_MAIN_4600_0500_00_blt,Barret,Dammit...!,クソ……！
 $C2630_MAIN_4600_0600_00_dyn,Dyne,What’s this? You here to celebrate Eleanor’s birthday too?,なんだよ　おまえも<br>エレノアの誕生日を祝いにきてくれたのか
 $C2630_MAIN_4600_0700_00_blt,Barret,GOLDE_1679,GOLDE_1679
 $C2630_MAIN_4600_0800_00_dyn,Dyne,"Hey, Eleanor, Marlene—Barret’s come to see us!",おい　エレノア　マリン<br>バレットが会いにきてくれたぞ
-$C2630_MAIN_4600_0900_00_dyn,Dyne,"Oh yeah, you look good. No, Myrna ain’t with ya.",ああそうだ　元気そうだ<br>いや　ミーナはいっしょじゃねえ
+$C2630_MAIN_4600_0900_00_dyn,Dyne,"Oh yeah, you look good. No, Myrna ain’t with him.",ああそうだ　元気そうだ<br>いや　ミーナはいっしょじゃねえ
 $C2630_MAIN_4600_1000_00_dyn,Dyne,"Wonder why that is, huh?",さあ　なんでだろうな
 $C2630_MAIN_4600_1010_00_dyn,Dyne,"Hey, Barret, what happened to Myrna?",おい　バレット<br>ミーナはどうしたんだよ
 $C2630_MAIN_4600_1100_00_blt,Barret,"Dyne, you...",ダイン　おまえ……
@@ -1694,7 +1694,7 @@ $C2630_MAIN_4600_1300_11_cld,Cloud,GOLDE_1691,GOLDE_1691
 $C2630_MAIN_4600_1300_14_tif,Tifa,GOLDE_1692,GOLDE_1692
 $C2630_MAIN_4600_1400_00_dyn,Dyne,Hey!,おい
 $C2630_MAIN_4600_1500_00_dyn,Dyne,Ain’t that a SOLDIER over there?,そいつは　ソルジャーじゃねえのか
-$C2630_MAIN_4600_1600_00_dyn,Dyne,"You bastard, you sold me out to Shinra!",てめえ　俺を神羅に売りやがったな
+$C2630_MAIN_4600_1600_00_dyn,Dyne,"You bastard...you sold me out to Shinra!",てめえ　俺を神羅に売りやがったな
 $C2630_MAIN_4600_1700_00_blt,Barret,"No, that ain’t it!",いや違う　そうじゃねえ！
 $C2630_MAIN_4600_1700_05_dyn,Dyne,GOLDE_1697,GOLDE_1697
 $C2630_MAIN_4600_1700_07_blt,Barret,GOLDE_1698,GOLDE_1698
@@ -1757,7 +1757,7 @@ $C2630_MAIN_4700_1500_00_dyn,Dyne,"But y’know, I keep hearin’ a voice in my 
 $C2630_MAIN_4700_1510_00_dyn,Dyne,Eleanor’s voice.,エレノアの声がよ
 $C2630_MAIN_4700_1600_00_dyn,Dyne,"""Don’t hate Barret. He’s not the one to blame...""",あんた　バレットを恨んじゃダメ<br>あのひとに罪はない……
 $C2630_MAIN_4700_1700_00_dyn,Dyne,Then who’s gonna pay for it?,じゃあ　誰が償ってくれるんだ？
-$C2630_MAIN_4700_1800_00_dyn,Dyne,Shinra. Ain’t nobody but Shinra!,神羅か　神羅しかねえよな！
+$C2630_MAIN_4700_1800_00_dyn,Dyne,"Shinra, huh? Ain’t nobody but Shinra!",神羅か　神羅しかねえよな！
 $C2630_MAIN_4700_1800_02_blt,Barret,GOLDE_1759,GOLDE_1759
 $C2630_MAIN_4700_1800_04_cld,Cloud,GOLDE_1760,GOLDE_1760
 $C2630_MAIN_4700_1800_05_skm,NPC,GOLDE_1761,GOLDE_1761
@@ -1771,18 +1771,18 @@ $C2630_MAIN_4700_2000_00_dyn,Dyne,"The more I kill, the more my heart dies. It�
 $C2630_MAIN_4700_2100_00_dyn,Dyne,"I wanna die already, but I can’t even do that.",もう死んじまいたい<br>でも　それができねえんだ
 $C2630_MAIN_4700_2200_00_dyn,Dyne,Why the hell not?!,なんでだよお
 $C2630_MAIN_4700_2300_00_dyn,Dyne,"In a world without Eleanor or Marlene, I shouldn’t have any regrets left!",エレノアも　マリンもいねえ世界に<br>なんの未練もないはずなのによ
-$C2630_MAIN_4700_2400_00_blt,Barret,Marlene’s alive.,マリンは　生きてる
+$C2630_MAIN_4700_2400_00_blt,Barret,Marlene...she’s alive.,マリンは　生きてる
 $C2630_MAIN_4700_2500_00_dyn,Dyne,GOLDE_1773,GOLDE_1773
 $C2630_MAIN_4700_2500_05_blt,Barret,GOLDE_1774,GOLDE_1774
 $C2630_MAIN_4700_2600_00_blt,Barret,She’s four. She’s in Midgar.,４歳だ　ミッドガルにいる
 $C2630_MAIN_4700_2600_05_dyn,Dyne,GOLDE_1776,GOLDE_1776
 $C2630_MAIN_4700_2700_00_dyn,Dyne,Marlene...Her eyes are just like Eleanor’s. Her hair too.,マリン……<br>目がエレノアにそっくりだ　髪の色も
 $C2630_MAIN_4700_2800_00_blt,Barret,"After the explosion, I was a shell of myself.",爆発事故のあと　オレは抜け殻だった
-$C2630_MAIN_4700_2900_00_blt,Barret,"Losin’ Myrna, thinkin’ you were dead—guilt and regret nearly crushed me.",ミーナを失って　おまえも死んだと思ってた<br>後悔と罪悪感に押しつぶされる寸前だった
-$C2630_MAIN_4700_2910_00_blt,Barret,Marlene’s the reason I could keep goin’.,そんなオレが動きだせたのは　マリンのおかげだ
+$C2630_MAIN_4700_2900_00_blt,Barret,"Losin’ Myrna...Thinkin’ you were dead...Guilt and regret nearly crushed me.",ミーナを失って　おまえも死んだと思ってた<br>後悔と罪悪感に押しつぶされる寸前だった
+$C2630_MAIN_4700_2910_00_blt,Barret,The reason I could keep goin’ was ‘cause of Marlene.,そんなオレが動きだせたのは　マリンのおかげだ
 $C2630_MAIN_4700_2910_05_blt,Barret,GOLDE_1781,GOLDE_1781
-$C2630_MAIN_4700_3000_00_blt,Barret,I saved her cryin’ in your house right before it burned down.,燃え落ちる寸前の<br>おまえんちで泣いていたのを助け出したんだ
-$C2630_MAIN_4700_3100_00_blt,Barret,"Since then, Marlene’s been my reason to live.",それから　マリンがオレの生きる目的になった
+$C2630_MAIN_4700_3000_00_blt,Barret,She was cryin’ in your house while it burned down. I saved her.,燃え落ちる寸前の<br>おまえんちで泣いていたのを助け出したんだ
+$C2630_MAIN_4700_3100_00_blt,Barret,"Since then, Marlene’s been my reason to keep livin’.",それから　マリンがオレの生きる目的になった
 $C2630_MAIN_4700_3100_05_dyn,Dyne,GOLDE_1784,GOLDE_1784
 $C2630_MAIN_4700_3200_00_dyn,Dyne,So that’s why you took her from me?,だから　俺から奪ったのか
 $C2630_MAIN_4700_3300_00_dyn,Dyne,"You knew how much I loved Marlene, and yet—",俺が　どれほどマリンを愛していたか<br>知ってたよな　それなのに――
@@ -1801,7 +1801,7 @@ $C2630_MAIN_4700_4100_00_dyn,Dyne,GOLDE_1798,GOLDE_1798
 $C2630_MAIN_4700_4200_00_blt,Barret,Hey...Dyne!,おい……ダイン
 $C2630_MAIN_4700_4300_00_dyn,Dyne,You...live...and suffer.,おまえは……生きて……苦しめ
 $C2630_MAIN_4700_4400_00_blt,Barret,Hey...hey!,おい……おい！
-$C2630_MAIN_4700_4500_00_dyn,Dyne,"I’m back, Eleanor.",帰ったよ　エレノア
+$C2630_MAIN_4700_4500_00_dyn,Dyne,"I’m coming back, Eleanor.",帰ったよ　エレノア
 $C2630_MAIN_4700_4600_00_dyn,Dyne,I’m home.,ただいま
 $C2630_MAIN_4700_4700_00_blt,Barret,GOLDE_1804,GOLDE_1804
 $C2630_MAIN_4800_0100_00_tif,Tifa,Barret!,バレット！
@@ -2238,7 +2238,7 @@ $C3210_MAIN_3300_0200_00_cat,Cait Sith,"Somethin’s off about him, eh?",なん�
 $C3210_MAIN_3400_0000_05_dio,Dio,GOLDE_2236,GOLDE_2236
 $C3210_MAIN_3400_0100_00_dio,Dio,"Well, well, brave young warriors! Glad to see you all in good spirits!",やあ　勇敢なる若者たちよ<br>元気そうでなによりだ
 $C3210_MAIN_3400_0100_05_cld,Cloud,GOLDE_2238,GOLDE_2238
-$C3210_MAIN_3400_0200_00_cld,Cloud,What’s wrong?,どうしたんだ？
+$C3210_MAIN_3400_0200_00_cld,Cloud,What happened?,どうしたんだ？
 $C3210_MAIN_3400_0200_05_dio,Dio,GOLDE_2240,GOLDE_2240
 $C3210_MAIN_3400_0300_00_dio,Dio,"Man, those Turks are tough! Underestimated ‘em ‘cause they’re scrawny!",いや～　タークスってのは強いんだなあ<br>細いからあなどったよ
 $C3210_MAIN_3400_0400_00_cat,Cait Sith,"Ye’re not young anymore, oughta take it easy.",もう若ないんやから　すこしひかえんと
@@ -2856,7 +2856,7 @@ $C3230_MAIN_2600_0300_00_sys,NPC,Yes,はい
 $C3230_MAIN_2600_0400_00_sys,NPC,No,いいえ
 $C3230_MAIN_2700_0100_00_art,Aerith,"Come on, come on!",きてきて！
 $C3230_MAIN_2700_0200_00_art,Aerith,GOLDE_2856,GOLDE_2856
-$C3230_MAIN_2700_0300_00_art,Aerith,"Look, hurry up!",ほら　はやく
+$C3230_MAIN_2700_0300_00_art,Aerith,"Here, hurry up!",ほら　はやく
 $C3230_MAIN_2800_0100_00_tif,Tifa,"Look Cloud, the gondola’s coming!",ほら　クラウド<br>ゴンドラが来ちゃうよ
 $C3230_MAIN_2800_0200_00_tif,Tifa,"Cloud, wanna get on?",クラウド　乗って？
 $C3230_MAIN_2800_0300_00_cld,Cloud,"After you, Tifa.",ティファから
@@ -2892,7 +2892,7 @@ $C3230_MAIN_3300_0050_11_art,Aerith,GOLDE_2889,GOLDE_2889
 $C3230_MAIN_3300_0050_12_cld,Cloud,GOLDE_2890,GOLDE_2890
 $C3230_MAIN_3300_0050_14_art,Aerith,GOLDE_2891,GOLDE_2891
 $C3230_MAIN_3300_0100_00_art,Aerith,What’s this?,なんだろ　これ？
-$C3230_MAIN_3300_0200_00_art,Aerith,"Wow, amazing~!",わあ　すご～い！
+$C3230_MAIN_3300_0200_00_art,Aerith,"Wow...amazing~!",わあ　すご～い！
 $C3230_MAIN_3300_0300_00_cld,Cloud,GOLDE_2894,GOLDE_2894
 $C3230_MAIN_3300_0300_05_art,Aerith,GOLDE_2895,GOLDE_2895
 $C3230_MAIN_3300_0400_00_art,Aerith,GOLDE_2896,GOLDE_2896
@@ -2906,24 +2906,24 @@ $C3230_MAIN_3300_0400_14_art,Aerith,GOLDE_2903,GOLDE_2903
 $C3230_MAIN_3300_0500_00_art,Aerith,"Oh, look at that!",あれ　見て！
 $C3230_MAIN_3300_0500_05_art,Aerith,GOLDE_2905,GOLDE_2905
 $C3230_MAIN_3300_0600_00_art,Aerith,So intense!,大迫力！
-$C3230_MAIN_3300_0700_00_cld,Cloud,Riding a chocobo’s way more than this.,チョコボの上は　こんなものじゃない
-$C3230_MAIN_3300_0800_00_art,Aerith,Spoken like a true expert!,さすがは　経験者
+$C3230_MAIN_3300_0700_00_cld,Cloud,Riding a chocobo’s nothing like that.,チョコボの上は　こんなものじゃない
+$C3230_MAIN_3300_0800_00_art,Aerith,As expected of our expert!,さすがは　経験者
 $C3230_MAIN_3300_0800_05_art,Aerith,GOLDE_2909,GOLDE_2909
 $C3230_MAIN_3300_0800_08_art,Aerith,GOLDE_2910,GOLDE_2910
-$C3230_MAIN_3300_0900_00_art,Aerith,"Wow, so pretty~!",わあ　きれ～！
-$C3230_MAIN_3300_1000_00_art,Aerith,"It’s beautiful, isn’t it?",きれいだね
-$C3230_MAIN_3300_1100_00_art,Aerith,"At first, I was curious because you looked so much alike.",はじめはね　そっくりだったから気になった
-$C3230_MAIN_3300_1200_00_art,Aerith,"You’re totally different people, but so alike.",ぜんぜん別人なんだけど　そっくり
+$C3230_MAIN_3300_0900_00_art,Aerith,"Wow...so pretty~!",わあ　きれ～！
+$C3230_MAIN_3300_1000_00_art,Aerith,"Beautiful, isn’t it?",きれいだね
+$C3230_MAIN_3300_1100_00_art,Aerith,"You know, at first I was curious because you looked similar.",はじめはね　そっくりだったから気になった
+$C3230_MAIN_3300_1200_00_art,Aerith,"You’re totally different people, but you’re alike.",ぜんぜん別人なんだけど　そっくり
 $C3230_MAIN_3300_1210_00_art,Aerith,"The way you walk, the way you move your hands...",歩きかた　手の動かしかた
 $C3230_MAIN_3300_1300_00_art,Aerith,I was seeing him in you.,あなたのなかに　彼を見ていた
-$C3230_MAIN_3300_1400_00_art,Aerith,But you’re different.,でも　ちがうの
-$C3230_MAIN_3300_1410_00_art,Aerith,"Now, you’re different.",いまは　ちがう
-$C3230_MAIN_3300_1500_00_art,Aerith,I want to see you.,あなたに　会いたい
+$C3230_MAIN_3300_1400_00_art,Aerith,But that’s not right.,でも　ちがうの
+$C3230_MAIN_3300_1410_00_art,Aerith,"Things are different now.",いまは　ちがう
+$C3230_MAIN_3300_1500_00_art,Aerith,It’s you I want to see.,あなたに　会いたい
 $C3230_MAIN_3300_1500_05_cld,Cloud,GOLDE_2920,GOLDE_2920
-$C3230_MAIN_3300_1600_00_art,Aerith,I’m looking for you.,あなたを　探しているの
+$C3230_MAIN_3300_1600_00_art,Aerith,It’s you...I’m looking for.,あなたを　探しているの
 $C3230_MAIN_3300_1700_00_cld,Cloud,I’m right here.,俺は　ここにいる
-$C3230_MAIN_3300_1800_00_art,Aerith,"Yeah, but...",うん　でもね……
-$C3230_MAIN_3300_1900_00_cld,Cloud,"Hey, did Tifa tell you?",なあ　ティファから聞いたか？
+$C3230_MAIN_3300_1800_00_art,Aerith,"Yeah...But...",うん　でもね……
+$C3230_MAIN_3300_1900_00_cld,Cloud,"Hey, did you hear form Tifa?",なあ　ティファから聞いたか？
 $C3230_MAIN_3300_2000_00_tif,<i>Tifa</i>,"<i>Aerith, listen—</i>",<i>エアリス　あのね――</i>
 $C3230_MAIN_3400_0200_00_tif,<i>Tifa</i>,<i>Cloud’s starting to remember Zack.</i>,<i>クラウド　ザックスのこと思い出したみたい</i>
 $C3230_MAIN_3400_0200_05_art,<i>Aerith</i>,GOLDE_2927,GOLDE_2927
@@ -2933,7 +2933,7 @@ $C3230_MAIN_3500_0100_00_art,Aerith,I wonder...I don’t think we talked about a
 $C3230_MAIN_3500_0200_00_cld,Cloud,I see.,そうか
 $C3230_MAIN_3500_0200_05_cld,Cloud,GOLDE_2932,GOLDE_2932
 $C3230_MAIN_3500_0300_00_cld,Cloud,Aerith?,エアリス？
-$C3230_MAIN_3500_0400_00_art,Aerith,Just down there is fine.,下まででいいから
+$C3230_MAIN_3500_0400_00_art,Aerith,"Just till we get off is good.",下まででいいから
 $C3230_MAIN_3500_0400_05_art,Aerith,GOLDE_2935,GOLDE_2935
 $C3230_MAIN_3500_0400_08_art,Aerith,GOLDE_2936,GOLDE_2936
 $C3230_MAIN_3500_0400_11_art,Aerith,GOLDE_2937,GOLDE_2937
@@ -3062,11 +3062,11 @@ $C3230_MAIN_3900_0100_00_blt,Barret,What the hell’s this?,なんだこりゃ
 $C3230_MAIN_3900_0100_05_blt,Barret,GOLDE_3060,GOLDE_3060
 $C3230_MAIN_3900_0100_08_blt,Barret,GOLDE_3061,GOLDE_3061
 $C3230_MAIN_3900_0200_00_blt,Barret,GOLDE_3062,GOLDE_3062
-$C3230_MAIN_3900_0300_00_blt,Barret,GOLDE_3063,GOLDE_3063
+$C3230_MAIN_3900_0300_00_blt,Barret,This—!,この...!
 $C3230_MAIN_3900_0400_00_cld,Cloud,Wait!,待て！
 $C3230_MAIN_3900_0500_00_cld,Cloud,You planning to break it?,壊すつもりか
 $C3230_MAIN_3900_0500_05_blt,Barret,GOLDE_3066,GOLDE_3066
-$C3230_MAIN_3900_0600_00_blt,Barret,Just kiddin’!,冗談だよ
+$C3230_MAIN_3900_0600_00_blt,Barret,Just messin’ around!,冗談だよ
 $C3230_MAIN_3900_0600_05_blt,Barret,GOLDE_3068,GOLDE_3068
 $C3230_MAIN_3900_0600_08_blt,Barret,GOLDE_3069,GOLDE_3069
 $C3230_MAIN_3900_0700_00_blt,Barret,"""Kweh"", huh?!",クエーってか！
@@ -3093,8 +3093,8 @@ $C3230_MAIN_3900_2100_00_blt,Barret,"Point is, you gotta make a move! Can’t ju
 $C3230_MAIN_3900_2200_00_cld,Cloud,I’ll keep that in mind.,覚えておこう
 $C3230_MAIN_3900_2300_00_blt,Barret,"So, which way you leanin’?",で　どっちだよ？
 $C3230_MAIN_3900_2400_00_cld,Cloud,What’re you talking about?,なんの話だ
-$C3230_MAIN_3900_2500_00_blt,Barret,"You overthink every damn thing, and on top of that, you’re stuck lookin’ back.",おまえは考えすぎなんだよ<br>そのうえ　うしろ向きときてやがる
-$C3230_MAIN_3900_2600_00_blt,Barret,"That’s why you freeze up! You gotta charge in, full throttle!",だから　動けなくなっちまう<br>もっと　ガーっといかねえと！
+$C3230_MAIN_3900_2500_00_blt,Barret,"You overthink things, and on top of that, you’re stuck in the past.",おまえは考えすぎなんだよ<br>そのうえ　うしろ向きときてやがる
+$C3230_MAIN_3900_2600_00_blt,Barret,"That’s why you don’t make a move! You gotta charge in, full throttle!",だから　動けなくなっちまう<br>もっと　ガーっといかねえと！
 $C3230_MAIN_3900_2700_00_cld,Cloud,And you don’t think enough.,あんたは　考えなさすぎる
 $C3230_MAIN_3900_2800_00_blt,Barret,"Ha—yeah, fair point...",あー　たしかに……
 $C3230_MAIN_3900_2810_00_blt,Barret,"Guess we make a good team, huh?",オレたち　いいコンビかもな
@@ -3194,10 +3194,10 @@ $C3230_MAIN_4100_2900_00_cld,Cloud,"Cait Sith, quiet down.",ケット・シー�
 $C3230_MAIN_4100_3000_00_cat,Cait Sith,Wha—why am I the one gettin’ scolded?!,ええ～　なんでボクが怒られなアカンのですか！
 $C3230_MAIN_4100_3000_05_cat,Cait Sith,GOLDE_3193,GOLDE_3193
 $C3230_MAIN_4100_3100_00_cat,Cait Sith,Let me off already—!,もう　おろしてーーー！
-$C3230_MAIN_4200_0100_00_art,Aerith,"Thanks, Cloud.",ありがとう　クラウド
-$C3230_MAIN_4200_0200_00_cld,Cloud,I didn’t really do anything.,べつに　俺はなにもしていない
+$C3230_MAIN_4200_0100_00_art,Aerith,"Thanks...Cloud.",ありがとう　クラウド
+$C3230_MAIN_4200_0200_00_cld,Cloud,It’s nothing. I didn’t really do anything.,べつに　俺はなにもしていない
 $C3230_MAIN_4200_0200_05_art,Aerith,GOLDE_3197,GOLDE_3197
-$C3230_MAIN_4200_0300_00_art,Aerith,"Let’s do our best tomorrow, just like we did in the slums!",明日　がんばろうね<br>スラムのときみたいに
+$C3230_MAIN_4200_0300_00_art,Aerith,"Tomorrow! Let’s do our best, okay? Just like we did in the slums.",明日　がんばろうね<br>スラムのときみたいに
 $C3230_MAIN_4200_0400_00_cld,Cloud,Yeah.,ああ
 $C3230_MAIN_4300_0100_00_tif,Tifa,Guess it’s about time to head back.,そろそろ　もどろっか
 $C3230_MAIN_4300_0200_00_cld,Cloud,Yeah...,ああ……

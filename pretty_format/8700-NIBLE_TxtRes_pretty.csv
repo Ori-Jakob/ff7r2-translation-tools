@@ -199,8 +199,8 @@ $C1910_MAIN_2220_0300_00_tif,<i>Tifa</i>,"<i>Right, that little runaway.</i>",<i
 $C1910_MAIN_2220_0310_00_tif,<i>Tifa</i>,<i>It wasn’t around that day either...</i>,<i>あの日もいなくて……</i>
 $C1910_MAIN_2230_0100_00_blt,<i>Barret</i>,<i>What’s this? You two were neighbors or somethin’?</i>,<i>なんだよ　おまえら<br>お隣さんじゃねえか</i>
 $C1910_MAIN_2230_0200_00_tif,<i>Tifa</i>,"<i>Yeah, but we didn’t hang out much, did we?</i>",<i>そうだけど　あまり行き来はなかったよね</i>
-$C1910_MAIN_2230_0300_00_cld,<i>Cloud</i>,<i>A lot happened.</i>,<i>色々あったからな</i>
-$C1910_MAIN_2230_0400_00_blt,<i>Barret</i>,"<i>Hahaha!...You messed up, huh, Cloud?</i>",<i>やらかしたな　クラウド</i>
+$C1910_MAIN_2230_0300_00_cld,<i>Cloud</i>,"<i>Well, a lot happened.</i>",<i>色々あったからな</i>
+$C1910_MAIN_2230_0400_00_blt,<i>Barret</i>,"<i>Hahaha! You messed that one up, huh, Cloud?</i>",<i>やらかしたな　クラウド</i>
 $C1910_MAIN_2230_0500_00_cld,<i>Cloud</i>,NIBLE_202,NIBLE_202
 $C1910_MAIN_2300_0100_00_tif,<i>Tifa</i>,<i>You climbed the water tower?</i>,<i>給水塔　のぼったんだ</i>
 $C1910_MAIN_2300_0200_00_cld,<i>Cloud</i>,"<i>It’d been two years since I’d been back. It felt nostalgic, you know?</i>",<i>２年ぶりの故郷だったからな<br>やっぱり　懐かしかった</i>
@@ -317,7 +317,7 @@ $C1910_MAIN_2910_0400_00_cld,Cloud,Tifa really surprised me.,ティファには�
 $C1910_MAIN_3000_0000_03_cld,Cloud,NIBLE_315,NIBLE_315
 $C1910_MAIN_3000_0000_07_cld,Cloud,NIBLE_316,NIBLE_316
 $C1910_MAIN_3000_0010_00_brn,Tifa’s Father,Have you forgotten about the mountain accident?,山 の 事故 あ 忘れた の か？
-$C1910_MAIN_3000_0020_00_znd,Mayor Zander,"Isn’t that a thing of the past? She’s already a fine adult, you know.",昔のことじゃないか?  か彼女はもう立派な大人だよ。
+$C1910_MAIN_3000_0020_00_znd,Mayor Zander,"Isn’t that a thing of the past? She’s really matured, you know.",昔のことじゃないか?  か彼女はもう立派な大人だよ。
 $C1910_MAIN_3000_0100_00_sep,Sephiroth,NIBLE_319,NIBLE_319
 $C1910_MAIN_3000_0110_00_sep,Sephiroth,We leave once the guide arrives.,ガイドが来たら　出発だ
 $C1910_MAIN_3000_0110_05_cld,Cloud,NIBLE_321,NIBLE_321
@@ -762,7 +762,7 @@ $C1910_MAIN_7000_0900_03_cld,Cloud,NIBLE_759,NIBLE_759
 $C1910_MAIN_7000_0900_08_sep,Sephiroth,NIBLE_760,NIBLE_760
 $C1910_MAIN_7000_0900_11_sep,Sephiroth,NIBLE_761,NIBLE_761
 $C1910_MAIN_7000_0900_13_sep,Sephiroth,NIBLE_762,NIBLE_762
-$C1910_MAIN_7000_1000_00_sep,Sephiroth,I’m going to meet my mother.,母に　会いに行く
+$C1910_MAIN_7000_1000_00_sep,Sephiroth,I’m going to see my mother.,母に　会いに行く
 $C1910_MAIN_7000_1100_00_cld,Cloud,Wait!,待て！
 $C1910_MAIN_7000_1110_00_cld,Cloud,"Wait, Sephiroth!",待てって　セフィロス！
 $C1910_MAIN_7000_1110_05_cld,Cloud,NIBLE_766,NIBLE_766
@@ -1430,7 +1430,7 @@ $C3110_MAIN_4600_2300_04_yfi,Yuffie,See ya!,またね！
 $C3110_MAIN_4600_2300_05_cld,Cloud,NIBLE_1428,NIBLE_1428
 $C3110_MAIN_4600_2400_00_cld,Cloud,Let’s head back.,戻ろう
 $C3110_MAIN_4700_0100_00_cat,Cait Sith,"Once we’re at the mansion, let’s hunt for that terminal first.",屋敷に行ったら　まず端末を探しましょ
-$C3110_MAIN_4700_0200_00_cat,Cait Sith,I’ll sniff it out quick-like before Cloud and the crew get back~,クラウドはんたちが戻るまでに<br>ちゃちゃっと見つけまっせ～
+$C3110_MAIN_4700_0200_00_cat,Cait Sith,I’ll sniff it out quick-like before Mister Cloud and the crew get back~,クラウドはんたちが戻るまでに<br>ちゃちゃっと見つけまっせ～
 $C3110_MAIN_4700_0300_00_art,Aerith,Roger that.,りょーかい
 $C3110_MAIN_4700_0400_00_blt,Barret,"You wait for Cloud’s group. Once ye link up, bring ‘em to us.",おまえは　クラウドたちを待て<br>合流できたら　オレたちのところへ連れてこい
 $C3110_MAIN_4700_0500_00_blt,Barret,"Can’t track us with that nose of yours, right?",その鼻で辿れんだろ？
@@ -1660,8 +1660,8 @@ $C3110_MAIN_5500_0200_00_vin,Vincent,Don’t touch anything else.,ほかのも�
 $C3110_MAIN_5500_0300_00_vin,Vincent,Let me sleep.,眠らせてくれ
 $C3110_MAIN_5500_0400_00_vin,Vincent,...,…………
 $C3110_MAIN_5600_0100_00_cat,Cait Sith,Found it!,ありましたわ！
-$C3110_MAIN_5600_0400_00_cat,Cait Sith,"Cloud, got that keycard handy?",クラウドはん　カードキーありまっか？
-$C3110_MAIN_5600_0500_00_cat,Cait Sith,"I’ll wrap this up quick, so just hang tight a wee bit.",すぐ終わらせますさかい<br>ちょ～っと待っててくださいね
+$C3110_MAIN_5600_0400_00_cat,Cait Sith,"Mister Cloud, got that keycard handy?",クラウドはん　カードキーありまっか？
+$C3110_MAIN_5600_0500_00_cat,Cait Sith,"I’ll wrap this up quick, so just sit tight, kay?",すぐ終わらせますさかい<br>ちょ～っと待っててくださいね
 $C3110_MAIN_5700_0100_00_cat,Cait Sith,"This terminal’s ancient. Bit of a hassle, eh?",この端末　えらい旧式です<br>難儀しますなあ
 $C3110_MAIN_5700_0200_00_cat,Cait Sith,"Don’t rush me too much, aye?",あんま急かさんといてください
 $C3110_MAIN_5800_0100_00_cld,Cloud,Ah...!,あっ……！

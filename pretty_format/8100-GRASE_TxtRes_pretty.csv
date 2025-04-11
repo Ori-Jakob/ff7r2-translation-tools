@@ -10,11 +10,11 @@ $C1910_MAIN_8000_0600_00_blt,Barret,Shinra’s the one makin’ the news. Those 
 $C1910_MAIN_8000_0700_00_blt,Barret,You’d have to be crazy to believe ‘em!,信じるほうがどうかしてる！
 $C1910_MAIN_8000_0700_05_art,Aerith,Excuse me~...,GRASE_9
 $C1910_MAIN_8000_0800_00_art,Aerith,"I believed it, though.",わたし　信じてましたけど
-$C1910_MAIN_8000_0900_00_blt,Barret,"Oh...right, that.",ああ……あれだ
+$C1910_MAIN_8000_0900_00_blt,Barret,"Oh...right...",ああ……あれだ
 $C1910_MAIN_8000_0910_00_blt,Barret,"Anyway, Shinra’s to blame for everything.",とにかく神羅がぜんぶ悪いってこった
 $C1910_MAIN_8000_1000_00_cld,Cloud,"Whatever the truth was five years ago, we fought Sephiroth in Midgar.",５年前の真実はともかく<br>俺たちは　ミッドガルでセフィロスと戦ってきた
 $C1910_MAIN_8000_1100_00_cld,Cloud,He’s alive.,あいつは　生きている
-$C1910_MAIN_8000_1200_00_art,Aerith,"<i>Alive</i>, or...like, he’s <i>here?</i>",生きているっていうか　いる？
+$C1910_MAIN_8000_1200_00_art,Aerith,"""Alive,"" or more like, he <i>exists</i>...?",生きているっていうか　いる？
 $C1910_MAIN_8000_1300_00_tif,Tifa,"Why’d he show up now, of all times?",どうして　いまになって現れたんだろう
 $C1910_MAIN_8000_1300_05_cld,Cloud,GRASE_17,GRASE_17
 $C1910_MAIN_8000_1400_00_tif,Tifa,What was he doing for those five years?,５年間　なにをしていたのかな

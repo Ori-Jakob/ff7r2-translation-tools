@@ -578,7 +578,7 @@ $C3010_MAIN_0700_0900_00_big,,Even though we already respected him without all t
 $C3010_MAIN_0700_0900_00_big,ACTOR,Biggs
 $C3010_MAIN_0700_1000_00_zax,,Huh...
 $C3010_MAIN_0700_1000_00_zax,ACTOR,Zack
-$C3010_MAIN_0700_1100_00_big,,"Hey, Zack, why don’t you try being a jack-of-all-trades?"
+$C3010_MAIN_0700_1100_00_big,,"Hey, Zack, why don’t you try being a ""jack-of-all-trades?"""
 $C3010_MAIN_0700_1100_00_big,ACTOR,Biggs
 $C3010_MAIN_0700_1200_00_zax,,Jack-of-all-trades?
 $C3010_MAIN_0700_1200_00_zax,ACTOR,Zack
@@ -632,7 +632,7 @@ $C3010_MAIN_0900_0500_00_big,,"I’ve been thinking ever since I woke up. Thanks
 $C3010_MAIN_0900_0500_00_big,ACTOR,Biggs
 $C3010_MAIN_1000_0100_00_zax,,"Hey, Biggs."
 $C3010_MAIN_1000_0100_00_zax,ACTOR,Zack
-$C3010_MAIN_1000_0110_00_zax,,You said earlier that there’s demand for a jack-of-all-trades.
+$C3010_MAIN_1000_0110_00_zax,,You said earlier that there’s demand for a guy who does odd-jobs.
 $C3010_MAIN_1000_0110_00_zax,ACTOR,Zack
 $C3010_MAIN_1000_0200_00_big,,Yeah.
 $C3010_MAIN_1000_0200_00_big,ACTOR,Biggs
@@ -1516,7 +1516,7 @@ $C3410_MAIN_1400_1000_05_cld,,
 $C3410_MAIN_1400_1000_05_cld,ACTOR,Cloud
 $C3410_MAIN_1400_1100_00_art,,My favorite place.
 $C3410_MAIN_1400_1100_00_art,ACTOR,Aerith
-$C3410_MAIN_1400_1110_00_art,,That’s a big hint!
+$C3410_MAIN_1400_1110_00_art,,This is already a big hint!
 $C3410_MAIN_1400_1110_00_art,ACTOR,Aerith
 $C3410_MAIN_1400_1110_05_art,,
 $C3410_MAIN_1400_1110_05_art,ACTOR,Aerith
@@ -1576,7 +1576,7 @@ $C3410_MAIN_1800_0200_00_art,,Correct.
 $C3410_MAIN_1800_0200_00_art,ACTOR,Aerith
 $C3410_MAIN_1800_0300_00_cld,,Too easy.
 $C3410_MAIN_1800_0300_00_cld,ACTOR,Cloud
-$C3410_MAIN_1800_0400_00_art,,"We don’t have many special memories, you know."
+$C3410_MAIN_1800_0400_00_art,,"Well, we don’t have many special memories, you know."
 $C3410_MAIN_1800_0400_00_art,ACTOR,Aerith
 $C3410_MAIN_1800_0500_00_cld,,We can make more from now on.
 $C3410_MAIN_1800_0500_00_cld,ACTOR,Cloud
@@ -1586,11 +1586,11 @@ $C3410_MAIN_1800_0700_00_cld,,"Yeah, of course."
 $C3410_MAIN_1800_0700_00_cld,ACTOR,Cloud
 $C3410_MAIN_1800_0700_05_art,,
 $C3410_MAIN_1800_0700_05_art,ACTOR,Aerith
-$C3410_MAIN_1800_0800_00_cld,,"We’re friends, after all."
+$C3410_MAIN_1800_0800_00_cld,,"We’re close friends, after all."
 $C3410_MAIN_1800_0800_00_cld,ACTOR,Cloud
 $C3410_MAIN_1800_0900_00_art,,"Yeah, you’re right."
 $C3410_MAIN_1800_0900_00_art,ACTOR,Aerith
-$C3410_MAIN_1800_1000_00_art,,I’m glad I heard how you feel.
+$C3410_MAIN_1800_1000_00_art,,"Cloud, your feelings...I'm glad to hear them."
 $C3410_MAIN_1800_1000_00_art,ACTOR,Aerith
 $C3410_MAIN_1800_1000_05_art,,
 $C3410_MAIN_1800_1000_05_art,ACTOR,Aerith
@@ -1602,7 +1602,7 @@ $C3410_MAIN_1800_1200_00_art,,"I wonder which ""like"" this is."
 $C3410_MAIN_1800_1200_00_art,ACTOR,Aerith
 $C3410_MAIN_1800_1300_00_cld,,"Aerith, you’re acting strange."
 $C3410_MAIN_1800_1300_00_cld,ACTOR,Cloud
-$C3410_MAIN_1800_1310_00_cld,,You’ve been acting strange all day.
+$C3410_MAIN_1800_1310_00_cld,,You’ve been weird all day.
 $C3410_MAIN_1800_1310_00_cld,ACTOR,Cloud
 $C3410_MAIN_1800_1900_00_art,,Excuse me.
 $C3410_MAIN_1800_1900_00_art,ACTOR,Aerith

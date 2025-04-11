@@ -385,9 +385,9 @@ $C1910_MAIN_2230_0100_00_blt,,<i>What’s this? You two were neighbors or someth
 $C1910_MAIN_2230_0100_00_blt,ACTOR,<i>Barret</i>
 $C1910_MAIN_2230_0200_00_tif,,"<i>Yeah, but we didn’t hang out much, did we?</i>"
 $C1910_MAIN_2230_0200_00_tif,ACTOR,<i>Tifa</i>
-$C1910_MAIN_2230_0300_00_cld,,<i>A lot happened.</i>
+$C1910_MAIN_2230_0300_00_cld,,"<i>Well, a lot happened.</i>"
 $C1910_MAIN_2230_0300_00_cld,ACTOR,<i>Cloud</i>
-$C1910_MAIN_2230_0400_00_blt,,"<i>Hahaha!...You messed up, huh, Cloud?</i>"
+$C1910_MAIN_2230_0400_00_blt,,"<i>Hahaha! You messed that one up, huh, Cloud?</i>"
 $C1910_MAIN_2230_0400_00_blt,ACTOR,<i>Barret</i>
 $C1910_MAIN_2230_0500_00_cld,,
 $C1910_MAIN_2230_0500_00_cld,ACTOR,<i>Cloud</i>
@@ -621,7 +621,7 @@ $C1910_MAIN_3000_0000_07_cld,,
 $C1910_MAIN_3000_0000_07_cld,ACTOR,Cloud
 $C1910_MAIN_3000_0010_00_brn,,Have you forgotten about the mountain accident?
 $C1910_MAIN_3000_0010_00_brn,ACTOR,Tifa’s Father
-$C1910_MAIN_3000_0020_00_znd,,"Isn’t that a thing of the past? She’s already a fine adult, you know."
+$C1910_MAIN_3000_0020_00_znd,,"Isn’t that a thing of the past? She’s really matured, you know."
 $C1910_MAIN_3000_0020_00_znd,ACTOR,Mayor Zander
 $C1910_MAIN_3000_0100_00_sep,,
 $C1910_MAIN_3000_0100_00_sep,ACTOR,Sephiroth
@@ -2821,7 +2821,7 @@ $C3110_MAIN_4600_2400_00_cld,,Let’s head back.
 $C3110_MAIN_4600_2400_00_cld,ACTOR,Cloud
 $C3110_MAIN_4700_0100_00_cat,,"Once we’re at the mansion, let’s hunt for that terminal first."
 $C3110_MAIN_4700_0100_00_cat,ACTOR,Cait Sith
-$C3110_MAIN_4700_0200_00_cat,,I’ll sniff it out quick-like before Cloud and the crew get back~
+$C3110_MAIN_4700_0200_00_cat,,I’ll sniff it out quick-like before Mister Cloud and the crew get back~
 $C3110_MAIN_4700_0200_00_cat,ACTOR,Cait Sith
 $C3110_MAIN_4700_0300_00_art,,Roger that.
 $C3110_MAIN_4700_0300_00_art,ACTOR,Aerith
@@ -3277,9 +3277,9 @@ $C3110_MAIN_5500_0400_00_vin,,...
 $C3110_MAIN_5500_0400_00_vin,ACTOR,Vincent
 $C3110_MAIN_5600_0100_00_cat,,Found it!
 $C3110_MAIN_5600_0100_00_cat,ACTOR,Cait Sith
-$C3110_MAIN_5600_0400_00_cat,,"Cloud, got that keycard handy?"
+$C3110_MAIN_5600_0400_00_cat,,"Mister Cloud, got that keycard handy?"
 $C3110_MAIN_5600_0400_00_cat,ACTOR,Cait Sith
-$C3110_MAIN_5600_0500_00_cat,,"I’ll wrap this up quick, so just hang tight a wee bit."
+$C3110_MAIN_5600_0500_00_cat,,"I’ll wrap this up quick, so just sit tight, kay?"
 $C3110_MAIN_5600_0500_00_cat,ACTOR,Cait Sith
 $C3110_MAIN_5700_0100_00_cat,,"This terminal’s ancient. Bit of a hassle, eh?"
 $C3110_MAIN_5700_0100_00_cat,ACTOR,Cait Sith
@@ -4692,7 +4692,7 @@ $NIBLE_QST_01_0800_2500_05_grb,,
 $NIBLE_QST_01_0800_2500_05_grb,ACTOR,Billy
 $NIBLE_QST_01_0800_2700_00_che,,Cloud.
 $NIBLE_QST_01_0800_2700_00_che,ACTOR,Chocobo Sage
-$NIBLE_QST_01_0800_2800_00_che,,"Ride Sirena and fetch me some ‘Chocobo Grass’, floatin’ all fluffy-like over seas and lakes, will ye?"
+$NIBLE_QST_01_0800_2800_00_che,,"Ride Sirena and fetch me some ""Chocobo Grass"", floatin’ all fluffy-like over seas and lakes, will ye?"
 $NIBLE_QST_01_0800_2800_00_che,ACTOR,Chocobo Sage
 $NIBLE_QST_01_0800_2900_00_yfi,,Hey! This geezer’s trying to boss us around again!
 $NIBLE_QST_01_0800_2900_00_yfi,ACTOR,Yuffie
