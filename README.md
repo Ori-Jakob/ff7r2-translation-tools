@@ -27,11 +27,11 @@ Why does this project exist? Well, for one, the English localization does not re
 
 You will need [Python](https://python.org)
 
-First, clone the repository (the `dev-translations` branch will usually be the most up-to-date, so pull from that) with the method of your choice:
+First, clone the repository with the method of your choice:
 
-1.  using the git command-line (requires git) `git clone %repository-link%`
+1.  Using the git command-line (requires git) `git clone %repository-link%`
 
-2.  Make sure you are on `dev-translations` branch, then click the green "Code" button dropdown, and select **Download .zip**
+2.  Click the green "Code" button dropdown, and select **Download .zip**
 
 #### External Tools
 
@@ -45,12 +45,14 @@ These tools rely on external tools. In order to have my tools be able to automat
 
 **NOTE**: I have not provided these files in this repository as they are property of their respective authors
 
+
+
 #### Making Text Changes
 
 As stated earlier, all text changes should be done on the CSV files contained within the `pretty_format` folder. 
 
 **IMPORTAT: Keep in mind that the changes need to conform with how CSVs are parsed:**
-1. `,` is a delimiter in CSV denoting the end of a column, if your text contains any `,`, you need to make sure the whole text is surround by double-quotes -> `"Currently, Midgar is facing an unprecedented crisis."
+1. `,` is a delimiter in CSV denoting the end of a column, if your text contains any `,`, you need to make sure the whole text is surround by double-quotes -> `"Currently, Midgar is facing an unprecedented crisis."`
 
 2. To *wrap* text in double-quotes, two sets are needed and the whole text needs to be wrapped in double-quotes -> `"Say ""Thanks for the food."""`
 
@@ -58,7 +60,9 @@ As stated earlier, all text changes should be done on the CSV files contained wi
 
 **If you don't follow these, then things will either not build, or you will have major errors when text is rendered**
 
-I will now explain how you know which subtitles are in which file. if you haven't figured it out each of the files has subtitles that are associated with the region (i.e. MIDGR -> Midgar, GRASE -> Grasslands, etc.). For flashbacks, the case is the same. For instance, in Cloud's reciting of his memories at the beginning of the game,  these memories take place in *Nibelheim*, so the dialog for that will be found in the corresponding file.
+I will now explain how you know which subtitles are in which file. if you haven't figured it out each of the files has subtitles that are associated with the region (i.e. MIDGR -> Midgard, GRASE -> Grasslands, etc.). For flashbacks, the case is the same. For instance, in Cloud's reciting of his memories at the beginning of the game,  these memories take place in *Nibelheim*, so the dialog for that will be found in the corresponding file.
+
+
 
 ###### Guidelines for Text
 
@@ -74,7 +78,9 @@ There are several guidelines to follow for consistency's sake. **Make sure you h
 
 5. If you are going to use an em dash, make sure to use the Unicode one — and not -
 
-6. Any eclipses being used need to be connect on both sides to text (no white space) -> `"You...You said that?!"` **and not** `"You... You said that?!"`
+6. Any ellipses being used need to be connect on both sides to text (no white space) -> `"You...You said that?!"` **and not** `"You... You said that?!"`
+
+
 
 #### Building the Mod
 
