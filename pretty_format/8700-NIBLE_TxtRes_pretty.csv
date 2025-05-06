@@ -2603,17 +2603,17 @@ $NIBLE_QST_02_0400_0100_00_dae,Di,"Leave the kitty to you~, I’ll focus on my c
 $NIBLE_QST_02_0400_0110_00_dae,Di,"Ton-to-ton-ton, to~n-ton-to~n~! Ton-to-ton-ton, to~n-ton-to~n~♪",トントトントン　ト～ントント～ン～<br>トントトントン　ト～ントント～ン～♪
 $NIBLE_QST_02_0400_0200_00_dae,Di,"Take care of my kitty, alright~♪",ネコちゃんのこと　お願いね～♪
 $NIBLE_QST_02_0500_0100_00_tif,Tifa,It reminds me of our Maru.,うちのマルのこと　思い出しちゃった
-$NIBLE_QST_02_0500_0200_00_cld,Cloud,"Yeah, me too. Whatever happened to that guy?",ああ　俺もだ<br>結局あいつはどうなったんだ？
+$NIBLE_QST_02_0500_0200_00_cld,Cloud,"Yeah, me too. Whatever happened to her?",ああ　俺もだ<br>結局あいつはどうなったんだ？
 $NIBLE_QST_02_0500_0300_00_tif,Tifa,"Five years ago, we got separated when the village burned down.",５年前　村が燃えている時に別れたきり
 $NIBLE_QST_02_0500_0400_00_cld,Cloud,Right...,そうか……
-$NIBLE_QST_02_0500_0500_00_tif,Tifa,Feels like I abandoned him or something.,私が捨てたみたいな　そんな感じかな
-$NIBLE_QST_02_0500_0600_00_tif,Tifa,I don’t even feel like I’ve got the right to hope he’s still alive.,生きていてほしいって思う<br>資格もないような気がするんだ
+$NIBLE_QST_02_0500_0500_00_tif,Tifa,Feels like I abandoned her or something.,私が捨てたみたいな　そんな感じかな
+$NIBLE_QST_02_0500_0600_00_tif,Tifa,I don’t even feel like I’ve got the right to hope she’s still alive.,生きていてほしいって思う<br>資格もないような気がするんだ
 $NIBLE_QST_02_0600_0100_00_cld,Cloud,"Hey, Tifa, there’s something I’ve been wondering.",なあ　ティファ<br>気になっていたことがあるんだ
 $NIBLE_QST_02_0600_0200_00_tif,Tifa,What’s that?,なに？
-$NIBLE_QST_02_0600_0300_00_cld,Cloud,"Why’d you name that cat Maru? He wasn’t exactly round, was he?",あのティファのネコ　どうしてマルって言うんだ<br>べつに丸くなかったよな
-$NIBLE_QST_02_0600_0400_00_tif,Tifa,"Oh, that? The village chief gave him to me on my 12th birthday.",ああ　あれ<br>マルはね　１２歳の誕生日に村長がくれたんだよね
-$NIBLE_QST_02_0600_0500_00_tif,Tifa,"He said, ‘This one’s Maru,’ so I don’t really know why.",その時に村長が『この子はマルだ』って言ったの<br>だから　理由はわからない
-$NIBLE_QST_02_0600_0600_00_tif,Tifa,"I was gonna give him a new name myself,",もちろん　新しい名前をつけるつもりでいたけど
+$NIBLE_QST_02_0600_0300_00_cld,Cloud,"Why’d you name your cat Maru? She wasn’t exactly round, was she?",あのティファのネコ　どうしてマルって言うんだ<br>べつに丸くなかったよな
+$NIBLE_QST_02_0600_0400_00_tif,Tifa,"Oh, that? The village chief gave her to me on my 12th birthday.",ああ　あれ<br>マルはね　１２歳の誕生日に村長がくれたんだよね
+$NIBLE_QST_02_0600_0500_00_tif,Tifa,"He said, ""This one’s Maru,"" so I don’t really know why.",その時に村長が『この子はマルだ』って言ったの<br>だから　理由はわからない
+$NIBLE_QST_02_0600_0600_00_tif,Tifa,"I was gonna give her a new name myself,",もちろん　新しい名前をつけるつもりでいたけど
 $NIBLE_QST_02_0600_0700_00_tif,Tifa,"but before I could, ""Maru"" spread all over the village.",それより先に　マルっていう名前が<br>村中に広まっちゃった
 $NIBLE_QST_02_0600_0800_00_tif,Tifa,"Didn’t take long for me to think it was a good name, though.",いい名前って思うようになるまで<br>そんなにかからなかったけど
 $NIBLE_QST_02_0600_0900_00_tif,Tifa,"I was kind of a handful back then, huh?",あの頃は　私も面倒な年頃だったからなあ
@@ -2623,10 +2623,10 @@ $NIBLE_QST_02_0700_0100_00_tif,Tifa,What’s wrong?,どうしたの？
 $NIBLE_QST_02_0700_0200_00_cld,Cloud,I hear a voice.,声がする
 $NIBLE_QST_02_0700_0300_00_cld,Cloud,Over there.,あそこだ
 $NIBLE_QST_02_0700_0400_00_cld,Cloud,Let’s follow it.,追いかけよう
-$NIBLE_QST_02_0800_0100_00_tif,Tifa,"Maru always had a red cloth around his neck. You remember that, right?",マル　いつも首に赤い布を巻いていたの<br>覚えてるかな
-$NIBLE_QST_02_0800_0200_00_cld,Cloud,"Yeah, he did.",ああ　そうだったな
-$NIBLE_QST_02_0800_0300_00_tif,Tifa,Dad put it on him. Cut it from one of his old shirts.,あれね　パパが巻いたの<br>自分の古いシャツを切って
-$NIBLE_QST_02_0800_0400_00_tif,Tifa,"I brought him home, but Dad might’ve doted on him more than me.",私がもらってきたネコなのに<br>パパのほうがかわいがってたかも
+$NIBLE_QST_02_0800_0100_00_tif,Tifa,"Maru always had a red cloth around her neck. You remember that, right?",マル　いつも首に赤い布を巻いていたの<br>覚えてるかな
+$NIBLE_QST_02_0800_0200_00_cld,Cloud,"Yeah, she did.",ああ　そうだったな
+$NIBLE_QST_02_0800_0300_00_tif,Tifa,"Dad put it on her. Cut it from one of his old shirts.",あれね　パパが巻いたの<br>自分の古いシャツを切って
+$NIBLE_QST_02_0800_0400_00_tif,Tifa,"I brought her home, but Dad might’ve doted on her more than me.",私がもらってきたネコなのに<br>パパのほうがかわいがってたかも
 $NIBLE_QST_02_0800_0500_00_cld,Cloud,Guess so.,そうか
 $NIBLE_QST_02_0800_0600_00_tif,Tifa,"Sorry, going on about this stuff.",ごめん　こんな話
 $NIBLE_QST_02_0800_0700_00_cld,Cloud,"No, it’s fine.",いや　いいんだ
@@ -2643,16 +2643,16 @@ $NIBLE_QST_02_1100_0700_00_anm,Maru,Meow—,にゃー
 $NIBLE_QST_02_1100_0800_00_tif,Tifa,Maru!,マル！
 $NIBLE_QST_02_1100_0900_00_tif,Tifa,"Maru, you alright?",マル　大丈夫？
 $NIBLE_QST_02_1100_1000_00_anm,Maru,NIBLE_2643,NIBLE_2643
-$NIBLE_QST_02_1100_1100_00_cld,Cloud,He’s weak.,衰弱してる
+$NIBLE_QST_02_1100_1100_00_cld,Cloud,She’s weak.,衰弱してる
 $NIBLE_QST_02_1100_1200_00_tif,Tifa,"Oh right, the cat food!",そうだ　キャットフード
 $NIBLE_QST_02_1100_1300_00_tif,Tifa,"There’s plenty, so take your time eating.",たくさんあるから　ゆっくり食べて
 $NIBLE_QST_02_1100_1500_00_tif,Tifa,We’ve gotta protect them!,守らなくちゃ！
 $NIBLE_QST_02_1110_0100_00_anm,Maru,Meow~,ニャ～
 $NIBLE_QST_02_1110_0200_00_anm,Maru,Meow~!,ニャ～！
-$NIBLE_QST_02_1110_0300_00_cld,Cloud,Let’s follow him.,追いかけよう
+$NIBLE_QST_02_1110_0300_00_cld,Cloud,Let’s follow her.,追いかけよう
 $NIBLE_QST_02_1120_0100_00_anm,Maru,Hiss!,シャーッ！
 $NIBLE_QST_02_1130_0100_00_anm,Maru,Meow~,ニャ～
-$NIBLE_QST_02_1130_0200_00_cld,Cloud,Let’s follow him.,追いかけよう
+$NIBLE_QST_02_1130_0200_00_cld,Cloud,Let’s follow her.,追いかけよう
 $NIBLE_QST_02_1140_0100_00_anm,Maru,Hiss!,シャーッ！
 $NIBLE_QST_02_1140_0200_00_anm,Kitten,Hiss!,シャーッ！
 $NIBLE_QST_02_1140_0300_00_anm,Kitten,Meow...,ニャー……
@@ -2662,10 +2662,10 @@ $NIBLE_QST_02_1150_0300_00_tif,Tifa,"Cloud, will you ask her with me?",クラウ
 $NIBLE_QST_02_1150_0400_00_cld,Cloud,"Yeah, let’s go back.",ああ　帰ろう
 $NIBLE_QST_02_1200_0100_00_anm,Maru,Grr...,ウウ～……
 $NIBLE_QST_02_1200_0200_00_tif,Tifa,"Oh, right. This isn’t the village we used to live in.",そっか　私たちが住んでいた村とは<br>違うもんね
-$NIBLE_QST_02_1200_0300_00_cld,Cloud,That’s probably why he didn’t come back.,だから　村に戻らなかったんだろうな
+$NIBLE_QST_02_1200_0300_00_cld,Cloud,That’s probably why she didn’t come back.,だから　村に戻らなかったんだろうな
 $NIBLE_QST_02_1200_0400_00_tif,Tifa,What’s wrong?,どうしたの？
 $NIBLE_QST_02_1200_0500_00_tif,Tifa,Maru?,マル？
-$NIBLE_QST_02_1200_0600_00_cld,Cloud,Let’s follow him.,追いかけよう
+$NIBLE_QST_02_1200_0600_00_cld,Cloud,Let’s follow her.,追いかけよう
 $NIBLE_QST_02_1300_0100_00_dae,Di,"Oh, it’s you two!",おや　あんたたち
 $NIBLE_QST_02_1300_0200_00_dae,Di,"Oh, my kitty! You’re safe!",あら　ネコちゃん！<br>無事だったのね
 $NIBLE_QST_02_1300_0210_00_dae,Di,And with these adorable little ones too!,しかも　こんなカワイコちゃんたちまで
@@ -2731,7 +2731,7 @@ $NIBLE_QST_02_1700_1900_00_dae,Di,Better get ready for it!,覚悟しときなさ
 $NIBLE_QST_02_1700_2000_00_anm,Kitten,Meow~,ニャ～
 $NIBLE_QST_02_1700_2100_00_dae,Di,"Alright, follow me!",さあ　ついてきな
 $NIBLE_QST_02_1700_2200_00_tif,Tifa,Playin’ the piano brought back all sorts of memories.,ピアノを弾きながら<br>いろいろ　思い出しちゃった
-$NIBLE_QST_02_1700_2300_00_tif,Tifa,"Mom teachin’ me piano, Dad’s sloppy but tasty cooking,",ママにピアノを教えてもらったこと<br>パパの雑な　でも美味しい料理
+$NIBLE_QST_02_1700_2300_00_tif,Tifa,"Mom teachin’ me piano, Dad’s sloppy but tasty cooking,",ママにピアノを教えてもらったこと<br>パパの雑な　でも美味しい料理.elem
 $NIBLE_QST_02_1700_2400_00_tif,Tifa,tea parties with Emilio and the gang.,エミリオたちとのお茶会
 $NIBLE_QST_02_1700_2410_00_tif,Tifa,"You never came no matter how much I invited you, Cloud.",クラウドは　何度誘ってもこなかったよね
 $NIBLE_QST_02_1700_2500_00_cld,Cloud,Did I?,そうだったか？

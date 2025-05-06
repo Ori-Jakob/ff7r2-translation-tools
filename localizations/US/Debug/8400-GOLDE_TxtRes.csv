@@ -735,13 +735,13 @@ $C2610_MAIN_1500_0110_00_blt,,How much damn mako are they burnin’ for this kid
 $C2610_MAIN_1500_0110_00_blt,ACTOR,Barret
 $C2610_MAIN_1500_0110_05_blt,,GOLDE_378
 $C2610_MAIN_1500_0110_05_blt,ACTOR,Barret
-$C2610_MAIN_1500_0200_00_blt,,"This too,"
+$C2610_MAIN_1500_0200_00_blt,,This too.
 $C2610_MAIN_1500_0200_00_blt,ACTOR,Barret
-$C2610_MAIN_1500_0210_00_blt,,"and that,"
+$C2610_MAIN_1500_0210_00_blt,,And that.
 $C2610_MAIN_1500_0210_00_blt,ACTOR,Barret
-$C2610_MAIN_1500_0220_00_blt,,it’s all mako!
+$C2610_MAIN_1500_0220_00_blt,,It’s all mako!
 $C2610_MAIN_1500_0220_00_blt,ACTOR,Barret
-$C2610_MAIN_1500_0300_00_blt,,"In other words, the Lifestream—the planet’s blood!"
+$C2610_MAIN_1500_0300_00_blt,,Get it? It’s the Lifestream—the planet’s blood!
 $C2610_MAIN_1500_0300_00_blt,ACTOR,Barret
 $C2610_MAIN_1500_0400_00_cld,,"Calm down, Barret."
 $C2610_MAIN_1500_0400_00_cld,ACTOR,Cloud
@@ -761,21 +761,21 @@ $C2610_MAIN_1500_0710_05_blt,,GOLDE_390
 $C2610_MAIN_1500_0710_05_blt,ACTOR,Barret
 $C2610_MAIN_1500_0800_00_cat,,"How about I read your fortune, you two?"
 $C2610_MAIN_1500_0800_00_cat,ACTOR,???
-$C2610_MAIN_1500_0900_00_cat,,"A bright future, a fun future—if it’s a rotten one, don’t blame me!"
+$C2610_MAIN_1500_0900_00_cat,,"A bright future, a fun future. Ah— If it’s a rotten one, don’t blame me!"
 $C2610_MAIN_1500_0900_00_cat,ACTOR,???
 $C2610_MAIN_1500_1000_00_blt,,What’s this thing?
 $C2610_MAIN_1500_1000_00_blt,ACTOR,Barret
-$C2610_MAIN_1500_1100_00_cat,,"Hey, big guy, over here, over here!"
+$C2610_MAIN_1500_1100_00_cat,,"Big guy, big guy! Over here, over here!"
 $C2610_MAIN_1500_1100_00_cat,ACTOR,???
 $C2610_MAIN_1500_1100_05_blt,,GOLDE_395
 $C2610_MAIN_1500_1100_05_blt,ACTOR,Barret
-$C2610_MAIN_1500_1200_00_cat,,"I’m Cait Sith, the fortune-tellin’ machine!"
+$C2610_MAIN_1500_1200_00_cat,,"I’m the fortune-tellin’ machine, Cait Sith!"
 $C2610_MAIN_1500_1200_00_cat,ACTOR,Cait Sith
 $C2610_MAIN_1500_1210_00_cat,,Nice to meetcha!
 $C2610_MAIN_1500_1210_00_cat,ACTOR,Cait Sith
 $C2610_MAIN_1500_1300_00_blt,,"A stuffed robot, huh? Pretty well made."
 $C2610_MAIN_1500_1300_00_blt,ACTOR,Barret
-$C2610_MAIN_1500_1400_00_cat,,"Big guy, gimme a smiiiile~!"
+$C2610_MAIN_1500_1400_00_cat,,"Big guy, smiiiile~!"
 $C2610_MAIN_1500_1400_00_cat,ACTOR,Cait Sith
 $C2610_MAIN_1500_1500_00_cat,,This place is for forgettin’ your daily woes and havin’ a good time!
 $C2610_MAIN_1500_1500_00_cat,ACTOR,Cait Sith
@@ -803,9 +803,9 @@ $C2610_MAIN_1700_0200_00_blt,,This hotel got no intention of lettin’ folks res
 $C2610_MAIN_1700_0200_00_blt,ACTOR,Barret
 $C2610_MAIN_1800_0000_05_cld,,GOLDE_412
 $C2610_MAIN_1800_0000_05_cld,ACTOR,Cloud
-$C2610_MAIN_1800_0100_00_blt,,"What, nobody here?"
+$C2610_MAIN_1800_0100_00_blt,,What? Nobody here?
 $C2610_MAIN_1800_0100_00_blt,ACTOR,Barret
-$C2610_MAIN_1800_0100_03_blt,,Sor—
+$C2610_MAIN_1800_0100_03_blt,,Excu—
 $C2610_MAIN_1800_0100_03_blt,ACTOR,Barret
 $C2610_MAIN_1800_0100_05_cld,,GOLDE_415
 $C2610_MAIN_1800_0100_05_cld,ACTOR,Cloud
@@ -819,13 +819,13 @@ $C2610_MAIN_1800_0200_09_sma,,GOLDE_419
 $C2610_MAIN_1800_0200_09_sma,ACTOR,Front Desk
 $C2610_MAIN_1800_0300_00_sma,,Welcome!
 $C2610_MAIN_1800_0300_00_sma,ACTOR,Front Desk
-$C2610_MAIN_1800_0400_00_blt,,Don’t sneak up on me like that!
+$C2610_MAIN_1800_0400_00_blt,,Don’t surprise me like that!
 $C2610_MAIN_1800_0400_00_blt,ACTOR,Barret
 $C2610_MAIN_1800_0500_00_sma,,"Hee hee hee, my apologies."
 $C2610_MAIN_1800_0500_00_sma,ACTOR,Front Desk
 $C2610_MAIN_1800_0600_00_blt,,"You got rooms? Two guys, three gals."
 $C2610_MAIN_1800_0600_00_blt,ACTOR,Barret
-$C2610_MAIN_1800_0700_00_blt,,"Oh, and one animal."
+$C2610_MAIN_1800_0700_00_blt,,"Uh, and one animal."
 $C2610_MAIN_1800_0700_00_blt,ACTOR,Barret
 $C2610_MAIN_1800_0700_05_sma,,GOLDE_425
 $C2610_MAIN_1800_0700_05_sma,ACTOR,Front Desk
@@ -843,7 +843,7 @@ $C2610_MAIN_1800_1200_00_sma,,My apologies. We’re fully booked tonight.
 $C2610_MAIN_1800_1200_00_sma,ACTOR,Front Desk
 $C2610_MAIN_1800_1200_05_cld,,GOLDE_432
 $C2610_MAIN_1800_1200_05_cld,ACTOR,Cloud
-$C2610_MAIN_1800_1300_00_blt,,What? Any other inns around?
+$C2610_MAIN_1800_1300_00_blt,,What the? Any other inns around?
 $C2610_MAIN_1800_1300_00_blt,ACTOR,Barret
 $C2610_MAIN_1800_1400_00_sma,,I’m terribly sorry.
 $C2610_MAIN_1800_1400_00_sma,ACTOR,Front Desk
@@ -909,21 +909,21 @@ $C2610_MAIN_1900_0200_00_sma,,"No room changes allowed, hee hee hee."
 $C2610_MAIN_1900_0200_00_sma,ACTOR,Front Desk
 $C2610_MAIN_2000_0100_00_cat,,"Hey, you!"
 $C2610_MAIN_2000_0100_00_cat,ACTOR,Cait Sith
-$C2610_MAIN_2000_0110_00_cat,,How about a fortune? I’ll read everyone’s future!
+$C2610_MAIN_2000_0110_00_cat,,How about a fortune? I’ll tell everyone’s future!
 $C2610_MAIN_2000_0110_00_cat,ACTOR,Cait Sith
 $C2610_MAIN_2000_0110_05_cld,,GOLDE_467
 $C2610_MAIN_2000_0110_05_cld,ACTOR,Cloud
-$C2610_MAIN_2000_0200_00_cld,,You only read the future?
+$C2610_MAIN_2000_0200_00_cld,,You can only do futures?
 $C2610_MAIN_2000_0200_00_cld,ACTOR,Cloud
-$C2610_MAIN_2000_0300_00_cat,,"Don’t mock me! Lost stuff, lost people—I can do it all!"
+$C2610_MAIN_2000_0300_00_cat,,"Don’t make fun of me! Lost stuff, lost people—I can do anything!"
 $C2610_MAIN_2000_0300_00_cat,ACTOR,Cait Sith
-$C2610_MAIN_2000_0400_00_cld,,A SOLDIER once called a hero.
+$C2610_MAIN_2000_0400_00_cld,,Once a hero. A SOLDIER.
 $C2610_MAIN_2000_0400_00_cld,ACTOR,Cloud
 $C2610_MAIN_2000_0410_00_cld,,Where’s Sephiroth?
 $C2610_MAIN_2000_0410_00_cld,ACTOR,Cloud
-$C2610_MAIN_2000_0500_00_cat,,"Oh, Sephiroth, huh..."
+$C2610_MAIN_2000_0500_00_cat,,"Ho, Sephiroth, huh..."
 $C2610_MAIN_2000_0500_00_cat,ACTOR,Cait Sith
-$C2610_MAIN_2000_0600_00_cat,,"Alrighty then, here we go!"
+$C2610_MAIN_2000_0600_00_cat,,"Alrighty! Then, here we go!"
 $C2610_MAIN_2000_0600_00_cat,ACTOR,Cait Sith
 $C2610_MAIN_2000_0700_00_cat,,GOLDE_474
 $C2610_MAIN_2000_0700_00_cat,ACTOR,Cait Sith
@@ -941,27 +941,27 @@ $C2610_MAIN_2000_1200_00_cld,,"""Watch out for lost items. Lucky color: Black.""
 $C2610_MAIN_2000_1200_00_cld,ACTOR,Cloud
 $C2610_MAIN_2000_1200_05_blt,,GOLDE_481
 $C2610_MAIN_2000_1200_05_blt,ACTOR,Barret
-$C2610_MAIN_2000_1210_00_cld,,That’s enough.
+$C2610_MAIN_2000_1210_00_cld,,No more.
 $C2610_MAIN_2000_1210_00_cld,ACTOR,Cloud
 $C2610_MAIN_2000_1300_00_cat,,"No, no, lemme try one more time!"
 $C2610_MAIN_2000_1300_00_cat,ACTOR,Cait Sith
-$C2610_MAIN_2000_1310_00_cat,,"C’mon, give it your best!"
+$C2610_MAIN_2000_1310_00_cat,,C’mon. Give it your best now!
 $C2610_MAIN_2000_1310_00_cat,ACTOR,Cait Sith
 $C2610_MAIN_2000_1400_00_cld,,GOLDE_485
 $C2610_MAIN_2000_1400_00_cld,ACTOR,Cloud
 $C2610_MAIN_2000_1400_05_cld,,GOLDE_486
 $C2610_MAIN_2000_1400_05_cld,ACTOR,Cloud
-$C2610_MAIN_2000_1500_00_cat,,What’s wrong?
+$C2610_MAIN_2000_1500_00_cat,,Somethin’ wrong?
 $C2610_MAIN_2000_1500_00_cat,ACTOR,Cait Sith
 $C2610_MAIN_2000_1500_05_blt,,GOLDE_488
 $C2610_MAIN_2000_1500_05_blt,ACTOR,Barret
 $C2610_MAIN_2000_1600_00_blt,,"""Seek, and you’ll surely meet. But you’ll lose what matters most."""
 $C2610_MAIN_2000_1600_00_blt,ACTOR,Barret
-$C2610_MAIN_2000_1700_00_cat,,Good? Bad? I can’t tell...
+$C2610_MAIN_2000_1700_00_cat,,Hahaha...Is it good? Is it bad? I can’t tell...
 $C2610_MAIN_2000_1700_00_cat,ACTOR,Cait Sith
 $C2610_MAIN_2000_1700_05_blt,,GOLDE_491
 $C2610_MAIN_2000_1700_05_blt,ACTOR,Barret
-$C2610_MAIN_2000_1800_00_blt,,You okay?
+$C2610_MAIN_2000_1800_00_blt,,What is it?
 $C2610_MAIN_2000_1800_00_blt,ACTOR,Barret
 $C2610_MAIN_2000_1900_00_cld,,"What’s ""what matters most"" supposed to mean?"
 $C2610_MAIN_2000_1900_00_cld,ACTOR,Cloud
@@ -2246,7 +2246,7 @@ $C2620_MAIN_7200_0000_02_cat,,GOLDE_1149
 $C2620_MAIN_7200_0000_02_cat,ACTOR,Cait Sith
 $C2620_MAIN_7200_0000_05_art,,GOLDE_1150
 $C2620_MAIN_7200_0000_05_art,ACTOR,Aerith
-$C2620_MAIN_7200_0100_00_cat,,"The place we’re headed is called the ""Under Saucer,"""
+$C2620_MAIN_7200_0100_00_cat,,"The place we’re headed is called the ""Under Saucer."""
 $C2620_MAIN_7200_0100_00_cat,ACTOR,Cait Sith
 $C2620_MAIN_7200_0110_00_cat,,"A long time ago, the staff used to live in this place, but..."
 $C2620_MAIN_7200_0110_00_cat,ACTOR,Cait Sith
@@ -2354,7 +2354,7 @@ $C2630_MAIN_0400_0510_00_ges,,"Cloud? It’s Cloud, right?"
 $C2630_MAIN_0400_0510_00_ges,ACTOR,Gus
 $C2630_MAIN_0400_0600_00_gas,,"Yup, it’s Cloud, Boss."
 $C2630_MAIN_0400_0600_00_gas,ACTOR,Garth
-$C2630_MAIN_0400_0700_00_ges,,"So, this so called ""Cloud""—"
+$C2630_MAIN_0400_0700_00_ges,,"So, this so-called ""Cloud""—"
 $C2630_MAIN_0400_0700_00_ges,ACTOR,Gus
 $C2630_MAIN_0400_0710_00_ges,,Is it you? You? YOU?
 $C2630_MAIN_0400_0710_00_ges,ACTOR,Gus
@@ -2374,13 +2374,13 @@ $C2630_MAIN_0400_1100_00_ges,,"Hey, c’mon, first time meetin’, obviously."
 $C2630_MAIN_0400_1100_00_ges,ACTOR,Gus
 $C2630_MAIN_0400_1100_05_gas,,GOLDE_1214
 $C2630_MAIN_0400_1100_05_gas,ACTOR,Garth
-$C2630_MAIN_0400_1110_00_ges,,Ain’t nobody meets me and forgets the great me!
+$C2630_MAIN_0400_1110_00_ges,,Ain’t nobody meets the great me and forgets!
 $C2630_MAIN_0400_1110_00_ges,ACTOR,Gus
 $C2630_MAIN_0400_1110_05_gas,,GOLDE_1216
 $C2630_MAIN_0400_1110_05_gas,ACTOR,Garth
-$C2630_MAIN_0400_1200_00_ges,,"But me? I know all about you, one-sided like."
+$C2630_MAIN_0400_1200_00_ges,,"But me? I know all about you, even if you don’t know me."
 $C2630_MAIN_0400_1200_00_ges,ACTOR,Gus
-$C2630_MAIN_0400_1210_00_ges,,"Guess why, do-it-all Cloud?"
+$C2630_MAIN_0400_1210_00_ges,,"Can ya guess why, do-it-all Cloud?"
 $C2630_MAIN_0400_1210_00_ges,ACTOR,Gus
 $C2630_MAIN_0400_1210_05_gas,,GOLDE_1219
 $C2630_MAIN_0400_1210_05_gas,ACTOR,Garth
@@ -2444,13 +2444,13 @@ $C2630_MAIN_0400_2410_02_gas,,GOLDE_1248
 $C2630_MAIN_0400_2410_02_gas,ACTOR,Garth
 $C2630_MAIN_0400_2410_05_ges,,Fooo...
 $C2630_MAIN_0400_2410_05_ges,ACTOR,Gus
-$C2630_MAIN_0400_2500_00_ges,,"You, Mr. Do-it-all, are gonna get me that cash— Ah! I know, don’t worry."
+$C2630_MAIN_0400_2500_00_ges,,"You, Mr. Do-It-All, are gonna get me that cash— Ah! I know, don’t worry."
 $C2630_MAIN_0400_2500_00_ges,ACTOR,Gus
 $C2630_MAIN_0400_2600_00_ges,,I’ve got a plan for how you’ll earn it.
 $C2630_MAIN_0400_2600_00_ges,ACTOR,Gus
 $C2630_MAIN_0400_2600_05_gas,,GOLDE_1252
 $C2630_MAIN_0400_2600_05_gas,ACTOR,Garth
-$C2630_MAIN_0400_2700_00_ges,,"You, Do-it-all, are gonna race chocobos and win."
+$C2630_MAIN_0400_2700_00_ges,,"You, Do-It-All, are gonna race chocobos and win."
 $C2630_MAIN_0400_2700_00_ges,ACTOR,Gus
 $C2630_MAIN_0400_2700_05_gas,,GOLDE_1254
 $C2630_MAIN_0400_2700_05_gas,ACTOR,Garth
@@ -2505,7 +2505,7 @@ $C2630_MAIN_0400_3800_08_gas,,GOLDE_1279
 $C2630_MAIN_0400_3800_08_gas,ACTOR,Garth
 $C2630_MAIN_0400_3800_10_ges,,GOLDE_1280
 $C2630_MAIN_0400_3800_10_ges,ACTOR,Gus
-$C2630_MAIN_0400_3900_00_gas,,"Alright, I’ll show you to the chocobo, heheh! Follow me!"
+$C2630_MAIN_0400_3900_00_gas,,"Alright, I’ll show you to the chocobo...heheh! Follow me!"
 $C2630_MAIN_0400_3900_00_gas,ACTOR,Garth
 $C2630_MAIN_0500_0100_00_gas,,"C’mon, walk faster!"
 $C2630_MAIN_0500_0100_00_gas,ACTOR,Garth
@@ -3275,7 +3275,7 @@ $C2630_MAIN_4600_0100_00_blt,,Dyne...is that you?
 $C2630_MAIN_4600_0100_00_blt,ACTOR,Barret
 $C2630_MAIN_4600_0100_05_dyn,,GOLDE_1671
 $C2630_MAIN_4600_0100_05_dyn,ACTOR,Dyne
-$C2630_MAIN_4600_0200_00_dyn,,"Heh, now that’s a voice I haven’t heard in a while..."
+$C2630_MAIN_4600_0200_00_dyn,,Heeeh...That’s a nostalgic voice...
 $C2630_MAIN_4600_0200_00_dyn,ACTOR,Dyne
 $C2630_MAIN_4600_0300_00_blt,,Dyne!
 $C2630_MAIN_4600_0300_00_blt,ACTOR,Barret
@@ -3283,7 +3283,7 @@ $C2630_MAIN_4600_0310_00_blt,,"Hang on, I’ll get you outta there!"
 $C2630_MAIN_4600_0310_00_blt,ACTOR,Barret
 $C2630_MAIN_4600_0310_05_blt,,GOLDE_1675
 $C2630_MAIN_4600_0310_05_blt,ACTOR,Barret
-$C2630_MAIN_4600_0400_00_dyn,,"This a dream? Barret, huh?"
+$C2630_MAIN_4600_0400_00_dyn,,"This a dream? Barret, that you?"
 $C2630_MAIN_4600_0400_00_dyn,ACTOR,Dyne
 $C2630_MAIN_4600_0500_00_blt,,Dammit...!
 $C2630_MAIN_4600_0500_00_blt,ACTOR,Barret
@@ -3293,7 +3293,7 @@ $C2630_MAIN_4600_0700_00_blt,,GOLDE_1679
 $C2630_MAIN_4600_0700_00_blt,ACTOR,Barret
 $C2630_MAIN_4600_0800_00_dyn,,"Hey, Eleanor, Marlene—Barret’s come to see us!"
 $C2630_MAIN_4600_0800_00_dyn,ACTOR,Dyne
-$C2630_MAIN_4600_0900_00_dyn,,"Oh yeah, you look good. No, Myrna ain’t with ya."
+$C2630_MAIN_4600_0900_00_dyn,,"Oh yeah, you look good. No, Myrna ain’t with him."
 $C2630_MAIN_4600_0900_00_dyn,ACTOR,Dyne
 $C2630_MAIN_4600_1000_00_dyn,,"Wonder why that is, huh?"
 $C2630_MAIN_4600_1000_00_dyn,ACTOR,Dyne
@@ -3321,7 +3321,7 @@ $C2630_MAIN_4600_1400_00_dyn,,Hey!
 $C2630_MAIN_4600_1400_00_dyn,ACTOR,Dyne
 $C2630_MAIN_4600_1500_00_dyn,,Ain’t that a SOLDIER over there?
 $C2630_MAIN_4600_1500_00_dyn,ACTOR,Dyne
-$C2630_MAIN_4600_1600_00_dyn,,"You bastard, you sold me out to Shinra!"
+$C2630_MAIN_4600_1600_00_dyn,,You bastard...you sold me out to Shinra!
 $C2630_MAIN_4600_1600_00_dyn,ACTOR,Dyne
 $C2630_MAIN_4600_1700_00_blt,,"No, that ain’t it!"
 $C2630_MAIN_4600_1700_00_blt,ACTOR,Barret
@@ -3447,7 +3447,7 @@ $C2630_MAIN_4700_1600_00_dyn,,"""Don’t hate Barret. He’s not the one to blam
 $C2630_MAIN_4700_1600_00_dyn,ACTOR,Dyne
 $C2630_MAIN_4700_1700_00_dyn,,Then who’s gonna pay for it?
 $C2630_MAIN_4700_1700_00_dyn,ACTOR,Dyne
-$C2630_MAIN_4700_1800_00_dyn,,Shinra. Ain’t nobody but Shinra!
+$C2630_MAIN_4700_1800_00_dyn,,"Shinra, huh? Ain’t nobody but Shinra!"
 $C2630_MAIN_4700_1800_00_dyn,ACTOR,Dyne
 $C2630_MAIN_4700_1800_02_blt,,GOLDE_1759
 $C2630_MAIN_4700_1800_02_blt,ACTOR,Barret
@@ -3473,7 +3473,7 @@ $C2630_MAIN_4700_2200_00_dyn,,Why the hell not?!
 $C2630_MAIN_4700_2200_00_dyn,ACTOR,Dyne
 $C2630_MAIN_4700_2300_00_dyn,,"In a world without Eleanor or Marlene, I shouldn’t have any regrets left!"
 $C2630_MAIN_4700_2300_00_dyn,ACTOR,Dyne
-$C2630_MAIN_4700_2400_00_blt,,Marlene’s alive.
+$C2630_MAIN_4700_2400_00_blt,,Marlene...she’s alive.
 $C2630_MAIN_4700_2400_00_blt,ACTOR,Barret
 $C2630_MAIN_4700_2500_00_dyn,,GOLDE_1773
 $C2630_MAIN_4700_2500_00_dyn,ACTOR,Dyne
@@ -3487,15 +3487,15 @@ $C2630_MAIN_4700_2700_00_dyn,,Marlene...Her eyes are just like Eleanor’s. Her 
 $C2630_MAIN_4700_2700_00_dyn,ACTOR,Dyne
 $C2630_MAIN_4700_2800_00_blt,,"After the explosion, I was a shell of myself."
 $C2630_MAIN_4700_2800_00_blt,ACTOR,Barret
-$C2630_MAIN_4700_2900_00_blt,,"Losin’ Myrna, thinkin’ you were dead—guilt and regret nearly crushed me."
+$C2630_MAIN_4700_2900_00_blt,,Losin’ Myrna...Thinkin’ you were dead...Guilt and regret nearly crushed me.
 $C2630_MAIN_4700_2900_00_blt,ACTOR,Barret
-$C2630_MAIN_4700_2910_00_blt,,Marlene’s the reason I could keep goin’.
+$C2630_MAIN_4700_2910_00_blt,,The reason I could keep goin’ was ‘cause of Marlene.
 $C2630_MAIN_4700_2910_00_blt,ACTOR,Barret
 $C2630_MAIN_4700_2910_05_blt,,GOLDE_1781
 $C2630_MAIN_4700_2910_05_blt,ACTOR,Barret
-$C2630_MAIN_4700_3000_00_blt,,I saved her cryin’ in your house right before it burned down.
+$C2630_MAIN_4700_3000_00_blt,,She was cryin’ in your house while it burned down. I saved her.
 $C2630_MAIN_4700_3000_00_blt,ACTOR,Barret
-$C2630_MAIN_4700_3100_00_blt,,"Since then, Marlene’s been my reason to live."
+$C2630_MAIN_4700_3100_00_blt,,"Since then, Marlene’s been my reason to keep livin’."
 $C2630_MAIN_4700_3100_00_blt,ACTOR,Barret
 $C2630_MAIN_4700_3100_05_dyn,,GOLDE_1784
 $C2630_MAIN_4700_3100_05_dyn,ACTOR,Dyne
@@ -3533,7 +3533,7 @@ $C2630_MAIN_4700_4300_00_dyn,,You...live...and suffer.
 $C2630_MAIN_4700_4300_00_dyn,ACTOR,Dyne
 $C2630_MAIN_4700_4400_00_blt,,Hey...hey!
 $C2630_MAIN_4700_4400_00_blt,ACTOR,Barret
-$C2630_MAIN_4700_4500_00_dyn,,"I’m back, Eleanor."
+$C2630_MAIN_4700_4500_00_dyn,,"I’m coming back, Eleanor."
 $C2630_MAIN_4700_4500_00_dyn,ACTOR,Dyne
 $C2630_MAIN_4700_4600_00_dyn,,I’m home.
 $C2630_MAIN_4700_4600_00_dyn,ACTOR,Dyne

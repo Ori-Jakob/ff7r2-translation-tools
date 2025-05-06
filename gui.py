@@ -9,7 +9,7 @@ import os
 
 # Only import msvcrt on Windows
 if os.name == 'nt':
-    import msvcrt
+    from msvcrt import kbhit, getch
 else:
     import termios
 
@@ -118,23 +118,24 @@ class cli_gui:
                 return True  # Keep listener alive
             case Key.down:
                 self.move(1)
-                return True  # Keep listener alive
+                return True 
             case Key.right:
                 self.move(self.terminal_size)
-                return True  # Keep listener alive
+                return True 
             case Key.left:
                 self.move(-self.terminal_size)
-                return True  # Keep listener alive
+                return True
             case Key.page_up:
                 self.move(0, absolute=True)
-                return True  # Keep listener alive
+                return True
             case Key.page_down:
                 self.move(len(self.items) - 1, absolute=True)
-                return True  # Keep listener alive
+                return True
             case Key.enter:
                 os.system("cls")
                 return False  # Stop listener on Enter
-        return True  # Default: keep listener running for unhandled keys
+            case _:
+                return True  # Default: keep listener running for unhandled keys
 
     def __update(self, items, message, reset=True):
         """
@@ -171,11 +172,12 @@ class cli_gui:
 
     def __flush_input(self):
         """
-            Flushes the input buffer (Windows-specific)
+            Flushes the input buffer (Windows-specific) to resolve 
+            issues with buffered inputs during and after program execution 
         """
         if os.name == 'nt':  # Windows only
-            while msvcrt.kbhit():
-                msvcrt.getch()
+            while kbhit():
+                getch()
         else:  # Unix-like (Linux, macOS)
             try:
                 termios.tcflush(sys.stdin, termios.TCIFLUSH)

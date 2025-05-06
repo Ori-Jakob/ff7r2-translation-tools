@@ -1339,7 +1339,7 @@ $C2210_MAIN_1100_0700_00_art,,Kinda agree with part of that.
 $C2210_MAIN_1100_0700_00_art,ACTOR,Aerith
 $C2210_MAIN_1100_0800_00_art,,"The Turks said they’re not chasing us anymore,"
 $C2210_MAIN_1100_0800_00_art,ACTOR,Aerith
-$C2210_MAIN_1100_0900_00_art,,but that bike guy said something about ‘protection.’ They need to make up their minds!
+$C2210_MAIN_1100_0900_00_art,,"but that bike guy said something about """"protection."""" They need to make up their minds!"
 $C2210_MAIN_1100_0900_00_art,ACTOR,Aerith
 $C2210_MAIN_1100_1000_00_tif,,"Yeah, exactly!"
 $C2210_MAIN_1100_1000_00_tif,ACTOR,Tifa
@@ -1717,7 +1717,7 @@ $C2210_MAIN_3200_0100_09_lud,,
 $C2210_MAIN_3200_0100_09_lud,ACTOR,Rude
 $C2210_MAIN_3200_0200_00_art,,Suspicious...
 $C2210_MAIN_3200_0200_00_art,ACTOR,Aerith
-$C2210_MAIN_3400_0100_00_mma,,"<i>Shine, polish, my sun</i>"
+$C2210_MAIN_3400_0100_00_mma,,"<i>Shine, be polished, my sun</i>"
 $C2210_MAIN_3400_0100_05_lud,,
 $C2210_MAIN_3400_0100_05_lud,ACTOR,Rude
 $C2210_MAIN_3400_0100_08_mma,,
@@ -1728,7 +1728,7 @@ $C2210_MAIN_3400_0100_16_lud,ACTOR,Rude
 $C2210_MAIN_3400_0100_18_mma,,
 $C2210_MAIN_3400_0100_21_lud,,
 $C2210_MAIN_3400_0100_21_lud,ACTOR,Rude
-$C2210_MAIN_3400_0110_00_mma,,"<i>Shine, polish, your sun</i>"
+$C2210_MAIN_3400_0110_00_mma,,"<i>Shine, be polished, your sun</i>"
 $C2210_MAIN_3400_0150_00_mma,,"Rude, please!"
 $C2210_MAIN_3400_0150_00_mma,ACTOR,Member
 $C2210_MAIN_3400_0200_00_lud,,First time here?
@@ -1753,7 +1753,7 @@ $C2210_MAIN_3400_0510_00_lud,ACTOR,Rude
 $C2210_MAIN_3400_0600_00_skm,,Hold on—he’s our captain!
 $C2210_MAIN_3400_0600_00_skm,ACTOR,Trooper
 $C2210_MAIN_3400_0600_05_skm,,
-$C2210_MAIN_3400_0600_05_skm,ACTOR,Soldier
+$C2210_MAIN_3400_0600_05_skm,ACTOR,Trooper
 $C2210_MAIN_3400_0700_00_skm,,"Captain, this bar’s a bit special—helmets don’t fly here."
 $C2210_MAIN_3400_0700_00_skm,ACTOR,Trooper
 $C2210_MAIN_3400_0700_04_cld,,
@@ -1854,7 +1854,7 @@ $C2210_MAIN_4210_0800_00_skf,ACTOR,Trooper
 $C2210_MAIN_4215_0100_00_mfa,,What’s that? I’m in the middle of an interview here!
 $C2210_MAIN_4215_0100_00_mfa,ACTOR,Announcer
 $C2210_MAIN_4215_0100_05_skm,,
-$C2210_MAIN_4215_0100_05_skm,ACTOR,Soldier
+$C2210_MAIN_4215_0100_05_skm,ACTOR,Trooper
 $C2210_MAIN_4215_0200_00_skm,,Salute the captain!
 $C2210_MAIN_4215_0200_00_skm,ACTOR,Trooper
 $C2210_MAIN_4215_0300_00_mfa,,"Oh, the captain! My apologies!"
@@ -1863,7 +1863,7 @@ $C2210_MAIN_4215_0400_00_mfa,,Perfect timing.
 $C2210_MAIN_4215_0400_00_mfa,ACTOR,Announcer
 $C2210_MAIN_4215_0410_00_mfa,,Could I trouble you for a quick interview?
 $C2210_MAIN_4215_0410_00_mfa,ACTOR,Announcer
-$C2210_MAIN_4215_0500_00_cld,,Hmph...
+$C2210_MAIN_4215_0500_00_cld,,Mmmm...No...
 $C2210_MAIN_4215_0500_00_cld,ACTOR,Cloud
 $C2210_MAIN_4215_0600_00_mfa,,This parade promises to be a fierce competition. Any secret strategies you’d care to share?
 $C2210_MAIN_4215_0600_00_mfa,ACTOR,Announcer
@@ -2041,43 +2041,43 @@ $C2210_MAIN_4265_0600_00_skm,ACTOR,Troopers
 $C2210_MAIN_4265_0610_00_skm,,
 $C2210_MAIN_4265_0620_00_skm,,
 $C2210_MAIN_4280_0100_00_skm,,"Captain, good work, sir!"
-$C2210_MAIN_4280_0100_00_skm,ACTOR,Soldier
+$C2210_MAIN_4280_0100_00_skm,ACTOR,Trooper
 $C2210_MAIN_4280_0200_00_skm,,"Good work, sir!"
 $C2210_MAIN_4280_0200_00_skm,ACTOR,Seventh Infantry
 $C2210_MAIN_4280_0300_00_skm,,We’re fully prepared!
-$C2210_MAIN_4280_0300_00_skm,ACTOR,Soldier
+$C2210_MAIN_4280_0300_00_skm,ACTOR,Trooper
 $C2210_MAIN_4280_0400_00_skm,,Ready to go!
 $C2210_MAIN_4280_0400_00_skm,ACTOR,Seventh Infantry
 $C2210_MAIN_4280_0500_00_skm,,Salute the captain!
-$C2210_MAIN_4280_0500_00_skm,ACTOR,Soldier
+$C2210_MAIN_4280_0500_00_skm,ACTOR,Trooper
 $C2210_MAIN_4280_0600_00_skm,,"Yes, sir!"
 $C2210_MAIN_4280_0600_00_skm,ACTOR,Seventh Infantry
 $C2210_MAIN_4280_0700_00_skm,,How was your shopping?
-$C2210_MAIN_4280_0700_00_skm,ACTOR,Soldier
+$C2210_MAIN_4280_0700_00_skm,ACTOR,Trooper
 $C2210_MAIN_4280_0800_00_skm,,Did you enjoy it?
 $C2210_MAIN_4280_0800_00_skm,ACTOR,Seventh Infantry
 $C2210_MAIN_4280_0900_00_skm,,The captain’s back from the hotel!
-$C2210_MAIN_4280_0900_00_skm,ACTOR,Soldier
+$C2210_MAIN_4280_0900_00_skm,ACTOR,Trooper
 $C2210_MAIN_4280_1000_00_skm,,"Good work, sir!"
 $C2210_MAIN_4280_1000_00_skm,ACTOR,Seventh Infantry
 $C2210_MAIN_4280_1100_00_skm,,Congrats on the skill-up!
-$C2210_MAIN_4280_1100_00_skm,ACTOR,Soldier
+$C2210_MAIN_4280_1100_00_skm,ACTOR,Trooper
 $C2210_MAIN_4280_1200_00_skm,,Congratulations!
-$C2210_MAIN_4280_1200_00_skm,ACTOR,Soldier
+$C2210_MAIN_4280_1200_00_skm,ACTOR,Trooper
 $C2210_MAIN_4280_1300_00_skm,,Thanks for booking the celebration venue!
-$C2210_MAIN_4280_1300_00_skm,ACTOR,Soldier
+$C2210_MAIN_4280_1300_00_skm,ACTOR,Trooper
 $C2210_MAIN_4280_1400_00_skm,,Thanks for the feast!
 $C2210_MAIN_4280_1400_00_skm,ACTOR,Seventh Infantry
 $C2210_MAIN_4280_1500_00_skm,,"Captain, everyone’s assembled!"
-$C2210_MAIN_4280_1500_00_skm,ACTOR,Soldier
+$C2210_MAIN_4280_1500_00_skm,ACTOR,Trooper
 $C2210_MAIN_4280_1600_00_skm,,All here!
 $C2210_MAIN_4280_1600_00_skm,ACTOR,Seventh Infantry
 $C2210_MAIN_4280_1700_00_skm,,"Midgar Seventh Infantry Regiment, assembled!"
-$C2210_MAIN_4280_1700_00_skm,ACTOR,Soldier
+$C2210_MAIN_4280_1700_00_skm,ACTOR,Trooper
 $C2210_MAIN_4280_1800_00_skm,,"Ready, sir!"
 $C2210_MAIN_4280_1800_00_skm,ACTOR,Seventh Infantry
 $C2210_MAIN_4300_0100_00_skm,,"Midgar Seventh Infantry Regiment, attention!"
-$C2210_MAIN_4300_0100_00_skm,ACTOR,Soldier
+$C2210_MAIN_4300_0100_00_skm,ACTOR,Trooper
 $C2210_MAIN_4300_0100_05_cld,,
 $C2210_MAIN_4300_0100_05_cld,ACTOR,Cloud
 $C2210_MAIN_4300_0200_00_art,,Cloud!
@@ -2107,15 +2107,15 @@ $C2210_MAIN_4300_1000_00_cld,ACTOR,Cloud
 $C2210_MAIN_4300_1100_00_cld,,That’s the only goal for this parade.
 $C2210_MAIN_4300_1100_00_cld,ACTOR,Cloud
 $C2210_MAIN_4300_1200_00_skm,,"Yes, sir!"
-$C2210_MAIN_4300_1200_00_skm,ACTOR,Soldier
+$C2210_MAIN_4300_1200_00_skm,ACTOR,Trooper
 $C2210_MAIN_4300_1300_00_cld,,We won’t lose to anyone!
 $C2210_MAIN_4300_1300_00_cld,ACTOR,Cloud
 $C2210_MAIN_4300_1400_00_skm,,"Yes, sir!"
-$C2210_MAIN_4300_1400_00_skm,ACTOR,Soldier
+$C2210_MAIN_4300_1400_00_skm,ACTOR,Trooper
 $C2210_MAIN_4300_1500_00_cld,,We’re the strongest!
 $C2210_MAIN_4300_1500_00_cld,ACTOR,Cloud
 $C2210_MAIN_4300_1600_00_skm,,"Yes, sir!"
-$C2210_MAIN_4300_1600_00_skm,ACTOR,Soldier
+$C2210_MAIN_4300_1600_00_skm,ACTOR,Trooper
 $C2210_MAIN_4300_1600_03_cld,,
 $C2210_MAIN_4300_1600_03_cld,ACTOR,Cloud
 $C2210_MAIN_4300_1600_06_cld,,
@@ -3085,11 +3085,11 @@ $C2210_MAIN_8500_0200_00_rch,,Too bad—did my lady ditch me?
 $C2210_MAIN_8500_0200_00_rch,ACTOR,Roche
 $C2210_MAIN_8500_0200_05_mma,,
 $C2210_MAIN_8500_0200_08_skm,,
-$C2210_MAIN_8500_0200_08_skm,ACTOR,Soldier
+$C2210_MAIN_8500_0200_08_skm,ACTOR,Trooper
 $C2210_MAIN_8500_0200_09_skm,,
-$C2210_MAIN_8500_0200_09_skm,ACTOR,Soldier
+$C2210_MAIN_8500_0200_09_skm,ACTOR,Trooper
 $C2210_MAIN_8500_0200_10_skm,,
-$C2210_MAIN_8500_0200_10_skm,ACTOR,Soldier
+$C2210_MAIN_8500_0200_10_skm,ACTOR,Trooper
 $C2210_MAIN_8500_0300_00_cld,,Who’re these guys?
 $C2210_MAIN_8500_0300_00_cld,ACTOR,Cloud
 $C2210_MAIN_8500_0400_00_rch,,
@@ -3102,13 +3102,13 @@ $C2210_MAIN_8500_0410_00_rch,ACTOR,Roche
 $C2210_MAIN_8500_0500_00_cld,,Stay back.
 $C2210_MAIN_8500_0500_00_cld,ACTOR,Cloud
 $C2210_MAIN_8500_0500_05_skm,,
-$C2210_MAIN_8500_0500_05_skm,ACTOR,Soldier
+$C2210_MAIN_8500_0500_05_skm,ACTOR,Trooper
 $C2210_MAIN_8500_0500_12_skm,,
-$C2210_MAIN_8500_0500_12_skm,ACTOR,Soldier
+$C2210_MAIN_8500_0500_12_skm,ACTOR,Trooper
 $C2210_MAIN_8500_0500_13_skm,,
-$C2210_MAIN_8500_0500_13_skm,ACTOR,Soldier
+$C2210_MAIN_8500_0500_13_skm,ACTOR,Trooper
 $C2210_MAIN_8500_0500_14_skm,,
-$C2210_MAIN_8500_0500_14_skm,ACTOR,Soldier
+$C2210_MAIN_8500_0500_14_skm,ACTOR,Trooper
 $C2210_MAIN_8500_0600_00_rch,,"Ahh, how I’ve longed for this moment!"
 $C2210_MAIN_8500_0600_00_rch,ACTOR,Roche
 $C2210_MAIN_8500_0610_00_rch,,"You feel the same, don’t you?"
@@ -3271,7 +3271,7 @@ $C2210_MAIN_8800_2000_00_skm,ACTOR,Trooper
 $C2210_MAIN_8800_2100_00_cld,,"Yeah, sure."
 $C2210_MAIN_8800_2100_00_cld,ACTOR,Cloud
 $C2210_MAIN_8800_2100_05_skm,,
-$C2210_MAIN_8800_2100_05_skm,ACTOR,Soldier
+$C2210_MAIN_8800_2100_05_skm,ACTOR,Trooper
 $C2210_MAIN_8900_0100_00_art,,Cloud!
 $C2210_MAIN_8900_0100_00_art,ACTOR,Aerith
 $C2210_MAIN_8900_0200_00_tif,,You okay?
@@ -8766,23 +8766,23 @@ $JUNOE_QST_07_0100_0100_00_skm,ACTOR,???
 $JUNOE_QST_07_0100_0200_00_cld,,Seventh Infantry Regiment.
 $JUNOE_QST_07_0100_0200_00_cld,ACTOR,Cloud
 $JUNOE_QST_07_0100_0300_00_skm,,"It’s been a while, Captain! Did you come to back us up?"
-$JUNOE_QST_07_0100_0300_00_skm,ACTOR,Soldier
+$JUNOE_QST_07_0100_0300_00_skm,ACTOR,Trooper
 $JUNOE_QST_07_0100_0400_00_cld,,"Yeah, something like that."
 $JUNOE_QST_07_0100_0400_00_cld,ACTOR,Cloud
 $JUNOE_QST_07_0100_0410_00_cld,,What’s the situation?
 $JUNOE_QST_07_0100_0410_00_cld,ACTOR,Cloud
 $JUNOE_QST_07_0100_0500_00_skm,,Sir!
-$JUNOE_QST_07_0100_0500_00_skm,ACTOR,Soldier
+$JUNOE_QST_07_0100_0500_00_skm,ACTOR,Trooper
 $JUNOE_QST_07_0100_0600_00_skm,,We’ve cornered a ferocious monster in the area ahead.
-$JUNOE_QST_07_0100_0600_00_skm,ACTOR,Soldier
+$JUNOE_QST_07_0100_0600_00_skm,ACTOR,Trooper
 $JUNOE_QST_07_0100_0700_00_skm,,But it’s proving tougher than expected...
-$JUNOE_QST_07_0100_0700_00_skm,ACTOR,Soldier
+$JUNOE_QST_07_0100_0700_00_skm,ACTOR,Trooper
 $JUNOE_QST_07_0100_0800_00_skm,,"We were waiting for reinforcements, but I never imagined you’d show up, Captain!"
-$JUNOE_QST_07_0100_0800_00_skm,ACTOR,Soldier
+$JUNOE_QST_07_0100_0800_00_skm,ACTOR,Trooper
 $JUNOE_QST_07_0100_0900_00_skm,,"It’s calm for now, but we don’t know when it’ll rampage again."
-$JUNOE_QST_07_0100_0900_00_skm,ACTOR,Soldier
+$JUNOE_QST_07_0100_0900_00_skm,ACTOR,Trooper
 $JUNOE_QST_07_0100_1000_00_skm,,Let’s head out to take it down right away!
-$JUNOE_QST_07_0100_1000_00_skm,ACTOR,Soldier
+$JUNOE_QST_07_0100_1000_00_skm,ACTOR,Trooper
 $JUNOE_QST_07_0100_1000_05_cld,,
 $JUNOE_QST_07_0100_1000_05_cld,ACTOR,Cloud
 $JUNOE_QST_07_0100_1100_00_art,,Wanna lend a hand?
@@ -8791,29 +8791,29 @@ $JUNOE_QST_07_0100_1200_00_sys,,Will you provide support?
 $JUNOE_QST_07_0100_1300_00_sys,,Yes
 $JUNOE_QST_07_0100_1400_00_sys,,No
 $JUNOE_QST_07_0100_1500_00_skm,,I see you’ve got preparations to handle. We’ll wait here for you!
-$JUNOE_QST_07_0100_1500_00_skm,ACTOR,Soldier
+$JUNOE_QST_07_0100_1500_00_skm,ACTOR,Trooper
 $JUNOE_QST_07_0100_1600_00_skm,,"This way, Captain!"
-$JUNOE_QST_07_0100_1600_00_skm,ACTOR,Soldier
+$JUNOE_QST_07_0100_1600_00_skm,ACTOR,Trooper
 $JUNOE_QST_07_0200_0100_00_skm,,The monster’s up ahead. Let’s go take it down now!
-$JUNOE_QST_07_0200_0100_00_skm,ACTOR,Soldier
+$JUNOE_QST_07_0200_0100_00_skm,ACTOR,Trooper
 $JUNOE_QST_07_0300_0100_00_skf,,You...!
 $JUNOE_QST_07_0300_0100_00_skf,ACTOR,Commander
 $JUNOE_QST_07_0300_0100_05_cld,,
 $JUNOE_QST_07_0300_0100_05_cld,ACTOR,Cloud
 $JUNOE_QST_07_0300_0100_08_skm,,
-$JUNOE_QST_07_0300_0100_08_skm,ACTOR,Soldier
+$JUNOE_QST_07_0300_0100_08_skm,ACTOR,Trooper
 $JUNOE_QST_07_0300_0100_09_skm,,
-$JUNOE_QST_07_0300_0100_09_skm,ACTOR,Soldier
+$JUNOE_QST_07_0300_0100_09_skm,ACTOR,Trooper
 $JUNOE_QST_07_0300_0100_10_skm,,
-$JUNOE_QST_07_0300_0100_10_skm,ACTOR,Soldier
+$JUNOE_QST_07_0300_0100_10_skm,ACTOR,Trooper
 $JUNOE_QST_07_0300_0200_00_cld,,"All of you, stand back!"
 $JUNOE_QST_07_0300_0200_00_cld,ACTOR,Cloud
 $JUNOE_QST_07_0300_0300_00_skm,,Sir!
-$JUNOE_QST_07_0300_0300_00_skm,ACTOR,Soldier
+$JUNOE_QST_07_0300_0300_00_skm,ACTOR,Trooper
 $JUNOE_QST_07_0300_0300_05_skm,,
-$JUNOE_QST_07_0300_0300_05_skm,ACTOR,Soldier
+$JUNOE_QST_07_0300_0300_05_skm,ACTOR,Trooper
 $JUNOE_QST_07_0300_0300_06_skm,,
-$JUNOE_QST_07_0300_0300_06_skm,ACTOR,Soldier
+$JUNOE_QST_07_0300_0300_06_skm,ACTOR,Trooper
 $JUNOE_QST_07_0400_0000_05_skf,,
 $JUNOE_QST_07_0400_0000_05_skf,ACTOR,Commander
 $JUNOE_QST_07_0400_0100_00_skf,,This is turning into a mess.
@@ -8837,7 +8837,7 @@ $JUNOE_QST_07_0400_0501_00_skf,ACTOR,Commander
 $JUNOE_QST_07_0400_0510_00_skf,,"Before I have to step in, you’ll end up as its next meal."
 $JUNOE_QST_07_0400_0510_00_skf,ACTOR,Commander
 $JUNOE_QST_07_0400_0600_00_skm,,We’ll join you as soon as we finish reporting. Good luck!
-$JUNOE_QST_07_0400_0600_00_skm,ACTOR,Soldier
+$JUNOE_QST_07_0400_0600_00_skm,ACTOR,Trooper
 $JUNOE_QST_07_0800_0100_00_skf,,Looks like you took it down clean.
 $JUNOE_QST_07_0800_0100_00_skf,ACTOR,Commander
 $JUNOE_QST_07_0800_0110_00_skf,,Thanks for the help.
@@ -8877,19 +8877,19 @@ $JUNOE_QST_07_0800_1900_02_art,ACTOR,Aerith
 $JUNOE_QST_07_0800_1900_05_skf,,Hmph...
 $JUNOE_QST_07_0800_1900_05_skf,ACTOR,Commander
 $JUNOE_QST_07_0800_2000_00_skm,,Our mission’s to take down the escaped monster and keep the civilians safe.
-$JUNOE_QST_07_0800_2000_00_skm,ACTOR,Soldier
+$JUNOE_QST_07_0800_2000_00_skm,ACTOR,Trooper
 $JUNOE_QST_07_0800_2100_00_skm,,"We tracked it down and cornered it in the restricted zone, but that’s as far as we got."
-$JUNOE_QST_07_0800_2100_00_skm,ACTOR,Soldier
+$JUNOE_QST_07_0800_2100_00_skm,ACTOR,Trooper
 $JUNOE_QST_07_0800_2200_00_skm,,Thing’s tough as nails.
-$JUNOE_QST_07_0800_2200_00_skm,ACTOR,Soldier
+$JUNOE_QST_07_0800_2200_00_skm,ACTOR,Trooper
 $JUNOE_QST_07_0800_2300_00_skm,,"After splitting from you, Captain, we rushed back to Junon and requested backup."
-$JUNOE_QST_07_0800_2300_00_skm,ACTOR,Soldier
+$JUNOE_QST_07_0800_2300_00_skm,ACTOR,Trooper
 $JUNOE_QST_07_0800_2400_00_skm,,"But they said they’re short on manpower, so we didn’t get much help."
-$JUNOE_QST_07_0800_2400_00_skm,ACTOR,Soldier
+$JUNOE_QST_07_0800_2400_00_skm,ACTOR,Trooper
 $JUNOE_QST_07_0800_2500_00_skm,,"It’s harassment, I’m sure of it."
-$JUNOE_QST_07_0800_2500_00_skm,ACTOR,Soldier
+$JUNOE_QST_07_0800_2500_00_skm,ACTOR,Trooper
 $JUNOE_QST_07_0800_2600_00_skm,,There’s a rumor going around that we’re tied to the anti-Shinra crowd.
-$JUNOE_QST_07_0800_2600_00_skm,ACTOR,Soldier
+$JUNOE_QST_07_0800_2600_00_skm,ACTOR,Trooper
 $JUNOE_QST_07_0800_2700_00_skf,,Looks like anti-Shinra groups scattered around have been secretly working together.
 $JUNOE_QST_07_0800_2700_00_skf,ACTOR,Commander
 $JUNOE_QST_07_0800_2800_00_skf,,"They might share a goal of taking down Shinra, but their ideals and methods are all over the place."
@@ -8937,11 +8937,11 @@ $JUNOE_QST_07_0800_4200_00_skm,ACTOR,Lieutenant
 $JUNOE_QST_07_0800_4300_00_skm,,Be ready when that happens.
 $JUNOE_QST_07_0800_4300_00_skm,ACTOR,Lieutenant
 $JUNOE_QST_07_0800_4400_00_skm,,With gratitude and respect for our Captain—
-$JUNOE_QST_07_0800_4400_00_skm,ACTOR,Soldier
+$JUNOE_QST_07_0800_4400_00_skm,ACTOR,Trooper
 $JUNOE_QST_07_0800_4400_08_art,,
 $JUNOE_QST_07_0800_4400_08_art,ACTOR,Aerith
 $JUNOE_QST_07_0800_4410_00_skm,,Salute!
-$JUNOE_QST_07_0800_4410_00_skm,ACTOR,Soldier
+$JUNOE_QST_07_0800_4410_00_skm,ACTOR,Trooper
 $JUNOE_QST_07_0800_4500_00_cld,,Sorry for dragging you into this.
 $JUNOE_QST_07_0800_4500_00_cld,ACTOR,Cloud
 $JUNOE_QST_07_0800_4500_05_art,,

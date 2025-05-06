@@ -2464,7 +2464,7 @@ $C3340_MAIN_1000_0000_09_lud,,FOREE_1251
 $C3340_MAIN_1000_0000_09_lud,ACTOR,Rude
 $C3340_MAIN_1000_0100_00_eln,,Hey!
 $C3340_MAIN_1000_0100_00_eln,ACTOR,Elena
-$C3340_MAIN_1000_0200_00_cat,,"Sorry ‘bout that, folks!"
+$C3340_MAIN_1000_0200_00_cat,,"Forgive me, aye~!"
 $C3340_MAIN_1000_0200_00_cat,ACTOR,Cait Sith
 $C3340_MAIN_1000_0200_05_lud,,FOREE_1254
 $C3340_MAIN_1000_0200_05_lud,ACTOR,Rude
@@ -2524,7 +2524,7 @@ $C3340_MAIN_1200_1000_00_blt,,"Damn it, we’re screwed!"
 $C3340_MAIN_1200_1000_00_blt,ACTOR,Barret
 $C3340_MAIN_1200_1000_05_blt,,FOREE_1282
 $C3340_MAIN_1200_1000_05_blt,ACTOR,Barret
-$C3340_MAIN_1200_1100_00_cat,,"Hiya, folks! Been a while, eh?"
+$C3340_MAIN_1200_1100_00_cat,,"Hey, guys! Been a while, ya?"
 $C3340_MAIN_1200_1100_00_cat,ACTOR,Cait Sith
 $C3340_MAIN_1200_1200_00_blt,,You son of a...!
 $C3340_MAIN_1200_1200_00_blt,ACTOR,Barret
@@ -2562,7 +2562,7 @@ $C3340_MAIN_1200_2200_00_cld,,Let’s go. Time to escape.
 $C3340_MAIN_1200_2200_00_cld,ACTOR,Cloud
 $C3340_MAIN_1200_2250_00_blt,,"Sorry, man. We’re countin’ on ya."
 $C3340_MAIN_1200_2250_00_blt,ACTOR,Barret
-$C3340_MAIN_1200_2250_05_cat,,"Aye, aye!"
+$C3340_MAIN_1200_2250_05_cat,,"Aye, nya!"
 $C3340_MAIN_1200_2250_05_cat,ACTOR,Cait Sith
 $C3340_MAIN_1200_2300_00_art,,Thank you.
 $C3340_MAIN_1200_2300_00_art,ACTOR,Aerith
@@ -2594,7 +2594,7 @@ $C3340_MAIN_1300_0500_00_red,,I wanted to apologize.
 $C3340_MAIN_1300_0500_00_red,ACTOR,Red XIII
 $C3340_MAIN_1400_0000_05_cat,,FOREE_1317
 $C3340_MAIN_1400_0000_05_cat,ACTOR,Cait Sith
-$C3340_MAIN_1400_0100_00_cat,,"‘Thank you’, huh? Aw, shucks, that’s embarrassin’!"
+$C3340_MAIN_1400_0100_00_cat,,"""Thank you"", huh? Geez, ya makin’ me blush!"
 $C3340_MAIN_1400_0100_00_cat,ACTOR,Cait Sith
 $C3340_MAIN_1400_0110_00_cat,,FOREE_1319
 $C3340_MAIN_1400_0110_00_cat,ACTOR,Cait Sith
@@ -2668,7 +2668,7 @@ $C3340_MAIN_1900_0000_08_yfi,,FOREE_1353
 $C3340_MAIN_1900_0000_08_yfi,ACTOR,Yuffie
 $C3340_MAIN_1900_0000_11_art,,FOREE_1354
 $C3340_MAIN_1900_0000_11_art,ACTOR,Aerith
-$C3340_MAIN_1900_0100_00_cat,,"Whoa, now that’s a sight to behold!"
+$C3340_MAIN_1900_0100_00_cat,,"Yaaa, now that’s a sight to behold!"
 $C3340_MAIN_1900_0100_00_cat,ACTOR,???
 $C3340_MAIN_1900_0200_00_blt,,How the hell’d you—!
 $C3340_MAIN_1900_0200_00_blt,ACTOR,Barret
@@ -2684,7 +2684,7 @@ $C3340_MAIN_1900_0400_01_cat,,FOREE_1361
 $C3340_MAIN_1900_0400_01_cat,ACTOR,Cait Sith
 $C3340_MAIN_1900_0400_05_art,,FOREE_1362
 $C3340_MAIN_1900_0400_05_art,ACTOR,Aerith
-$C3340_MAIN_1900_0500_00_art,,I’m so glad.
+$C3340_MAIN_1900_0500_00_art,,Thank goodness...
 $C3340_MAIN_1900_0500_00_art,ACTOR,Aerith
 $C3340_MAIN_1900_0600_00_cat,,"Aw, stop it!"
 $C3340_MAIN_1900_0600_00_cat,ACTOR,Cait Sith
@@ -2842,7 +2842,7 @@ $C3340_MAIN_2200_0800_05_cld,,FOREE_1440
 $C3340_MAIN_2200_0800_05_cld,ACTOR,Cloud
 $C3340_MAIN_2200_0800_07_tif,,FOREE_1441
 $C3340_MAIN_2200_0800_07_tif,ACTOR,Tifa
-$C3340_MAIN_2200_0900_00_tif,,"Cloud, no!"
+$C3340_MAIN_2200_0900_00_tif,,"Cloud, you can’t!"
 $C3340_MAIN_2200_0900_00_tif,ACTOR,Tifa
 $C3340_MAIN_2300_0100_00_cld,,FOREE_1443
 $C3340_MAIN_2300_0100_00_cld,ACTOR,Cloud
@@ -2886,9 +2886,9 @@ $C3340_MAIN_2400_0300_00_cld,,Please...
 $C3340_MAIN_2400_0300_00_cld,ACTOR,Cloud
 $C3340_MAIN_2400_0301_00_cld,,Please...
 $C3340_MAIN_2400_0301_00_cld,ACTOR,Cloud
-$C3340_MAIN_2400_0400_00_cld,,Trust me.
+$C3340_MAIN_2400_0400_00_cld,,"Believe me, please."
 $C3340_MAIN_2400_0400_00_cld,ACTOR,Cloud
-$C3340_MAIN_2400_0401_00_cld,,Trust me.
+$C3340_MAIN_2400_0401_00_cld,,"Believe me, please."
 $C3340_MAIN_2400_0401_00_cld,ACTOR,Cloud
 $C3340_MAIN_2400_0500_00_cld,,Let’s protect the Planet together.
 $C3340_MAIN_2400_0500_00_cld,ACTOR,Cloud
@@ -3530,7 +3530,7 @@ $C3510_MAIN_3100_0900_00_sep,,You have nothing.
 $C3510_MAIN_3100_0900_00_sep,ACTOR,Sephiroth
 $C3510_MAIN_3100_0900_07_cld,,FOREE_1785
 $C3510_MAIN_3100_0900_07_cld,ACTOR,Cloud
-$C3510_MAIN_3100_1000_00_art,,Cloud’s gonna be fine.
+$C3510_MAIN_3100_1000_00_art,,"Cloud, you’ll gonna be fine."
 $C3510_MAIN_3100_1000_00_art,ACTOR,Aerith
 $C3510_MAIN_3100_1000_05_cld,,FOREE_1787
 $C3510_MAIN_3100_1000_05_cld,ACTOR,Cloud
@@ -3544,7 +3544,7 @@ $C3510_MAIN_3100_1200_00_tif,,Aerith!
 $C3510_MAIN_3100_1200_00_tif,ACTOR,Tifa
 $C3510_MAIN_3100_1300_00_blt,,You bastard!
 $C3510_MAIN_3100_1300_00_blt,ACTOR,Barret
-$C3510_MAIN_3100_1400_00_sep,,Here it begins.
+$C3510_MAIN_3100_1400_00_sep,,"So, here it begins."
 $C3510_MAIN_3100_1400_00_sep,ACTOR,Sephiroth
 $C3510_MAIN_3100_1500_00_sep,,Worlds brimming with every emotion will collide.
 $C3510_MAIN_3100_1500_00_sep,ACTOR,Sephiroth
