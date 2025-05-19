@@ -853,7 +853,7 @@ $C2610_MAIN_1800_1500_00_blt,,
 $C2610_MAIN_1800_1500_00_blt,ACTOR,Barret
 $C2610_MAIN_1800_1500_05_blt,,
 $C2610_MAIN_1800_1500_05_blt,ACTOR,Barret
-$C2610_MAIN_1800_1600_00_cat,,Hello there~! Are you having trouble?
+$C2610_MAIN_1800_1600_00_cat,,Hello there~! Are ya having trouble?
 $C2610_MAIN_1800_1600_00_cat,ACTOR,Cait Sith
 $C2610_MAIN_1800_1700_00_blt,,You again!?
 $C2610_MAIN_1800_1700_00_blt,ACTOR,Barret
@@ -1146,7 +1146,7 @@ $C2620_MAIN_0300_1000_00_tif,,"Hey, wanna go for a walk together? It’s fine if
 $C2620_MAIN_0300_1000_00_tif,ACTOR,Tifa
 $C2620_MAIN_0300_1100_00_cld,,I wouldn’t dislike it.
 $C2620_MAIN_0300_1100_00_cld,ACTOR,Cloud
-$C2620_MAIN_0400_0100_00_yfi,,"Oh, you’re awake? Awesome~!"
+$C2620_MAIN_0400_0100_00_yfi,,"Oh, you’re awake? That’s great~!"
 $C2620_MAIN_0400_0100_00_yfi,ACTOR,Yuffie
 $C2620_MAIN_0400_0200_00_yfi,,"So, wanna hang out and explore Gold Saucer with me?"
 $C2620_MAIN_0400_0200_00_yfi,ACTOR,Yuffie
@@ -1160,11 +1160,11 @@ $C2620_MAIN_0400_0400_05_cld,,
 $C2620_MAIN_0400_0400_05_cld,ACTOR,Cloud
 $C2620_MAIN_0400_0500_00_cld,,"You act like you’ve been with us forever, though."
 $C2620_MAIN_0400_0500_00_cld,ACTOR,Cloud
-$C2620_MAIN_0400_0600_00_yfi,,It’s my specialty!
+$C2620_MAIN_0400_0600_00_yfi,,"It’s my specialty, y’know!"
 $C2620_MAIN_0400_0600_00_yfi,ACTOR,Yuffie
-$C2620_MAIN_0400_0700_00_yfi,,Slippin’ in smooth and snaggin’ the goods~!
+$C2620_MAIN_0400_0700_00_yfi,,"Something like slipping in smoothly and going ""gotcha!"""
 $C2620_MAIN_0400_0700_00_yfi,ACTOR,Yuffie
-$C2620_MAIN_0400_0800_00_yfi,,"C’mon, let’s go!"
+$C2620_MAIN_0400_0800_00_yfi,,"Alright, let’s go!"
 $C2620_MAIN_0400_0800_00_yfi,ACTOR,Yuffie
 $C2620_MAIN_0450_0100_00_cld,,"A dream, huh..."
 $C2620_MAIN_0450_0100_00_cld,ACTOR,Cloud
@@ -1185,7 +1185,7 @@ $C2620_MAIN_0600_0000_09_blt,ACTOR,Barret
 $C2620_MAIN_0600_0000_11_blt,,
 $C2620_MAIN_0600_0000_11_blt,ACTOR,Barret
 $C2620_MAIN_0600_0000_13_mma,,
-$C2620_MAIN_0600_0000_14_blt,,Sorry...
+$C2620_MAIN_0600_0000_14_blt,,My bad...
 $C2620_MAIN_0600_0000_14_blt,ACTOR,Barret
 $C2620_MAIN_0600_0000_17_blt,,
 $C2620_MAIN_0600_0000_17_blt,ACTOR,Barret
@@ -1338,11 +1338,11 @@ $C2620_MAIN_1900_0100_00_mma,,"Go, charge in!"
 $C2620_MAIN_1900_0100_00_mma,ACTOR,Spectator
 $C2620_MAIN_1900_0200_00_mma,,"Lose, and you’re done for!"
 $C2620_MAIN_1900_0200_00_mma,ACTOR,Spectator
-$C2620_MAIN_2000_0100_00_art,,"Hmm, this is one heck of a race, rare even in recent years!"
+$C2620_MAIN_2000_0100_00_art,,"Hmm, hmm, this is one heck of a race, rare even in recent years!"
 $C2620_MAIN_2000_0100_00_art,ACTOR,Aerith
 $C2620_MAIN_2000_0110_00_art,,"So, Cloud, which one do you think’ll win?"
 $C2620_MAIN_2000_0110_00_art,ACTOR,Aerith
-$C2620_MAIN_2000_0200_00_cld,,You can gauge their ability from their coat and muscle build.
+$C2620_MAIN_2000_0200_00_cld,,"If you look at their coat and muscle build, you can roughly gauge their ability."
 $C2620_MAIN_2000_0200_00_cld,ACTOR,Cloud
 $C2620_MAIN_2100_0100_00_tif,,The energy here’s wild. Could get dangerous if you get too into it.
 $C2620_MAIN_2100_0100_00_tif,ACTOR,Tifa
@@ -1350,9 +1350,9 @@ $C2620_MAIN_2100_0100_05_cld,,
 $C2620_MAIN_2100_0100_05_cld,ACTOR,Cloud
 $C2620_MAIN_2100_0200_00_cld,,Let’s keep it in check.
 $C2620_MAIN_2100_0200_00_cld,ACTOR,Cloud
-$C2620_MAIN_2200_0100_00_yfi,,"Go, go~! Charge it!"
+$C2620_MAIN_2200_0100_00_yfi,,"Come on, come on~! Go, go!"
 $C2620_MAIN_2200_0100_00_yfi,ACTOR,Yuffie
-$C2620_MAIN_2200_0200_00_yfi,,"Oh, wait, I haven’t bet yet!"
+$C2620_MAIN_2200_0200_00_yfi,,"Oh, wait, I haven’t placed a bet yet!"
 $C2620_MAIN_2200_0200_00_yfi,ACTOR,Yuffie
 $C2620_MAIN_2200_0300_00_cld,,
 $C2620_MAIN_2200_0300_00_cld,ACTOR,Cloud
@@ -1400,13 +1400,13 @@ $C2620_MAIN_2900_0100_00_tif,,"Cloud, you feeling okay?"
 $C2620_MAIN_2900_0100_00_tif,ACTOR,Tifa
 $C2620_MAIN_2900_0200_00_cld,,"Yeah, sleep helped."
 $C2620_MAIN_2900_0200_00_cld,ACTOR,Cloud
-$C2620_MAIN_2900_0300_00_tif,,Good to hear.
+$C2620_MAIN_2900_0300_00_tif,,That’s good.
 $C2620_MAIN_2900_0300_00_tif,ACTOR,Tifa
 $C2620_MAIN_2900_0400_00_tif,,And now you’re already running around having fun.
 $C2620_MAIN_2900_0400_00_tif,ACTOR,Tifa
 $C2620_MAIN_2900_0500_00_cld,,Not really...
 $C2620_MAIN_2900_0500_00_cld,ACTOR,Cloud
-$C2620_MAIN_2900_0600_00_art,,"Tifa, you taking a break?"
+$C2620_MAIN_2900_0600_00_art,,"Tifa, are you taking a break?"
 $C2620_MAIN_2900_0600_00_art,ACTOR,Aerith
 $C2620_MAIN_2900_0700_00_yfi,,What’s Tifa up to? Taking a break?
 $C2620_MAIN_2900_0700_00_yfi,ACTOR,Yuffie
@@ -1414,7 +1414,7 @@ $C2620_MAIN_2900_0800_00_tif,,"Yeah, my eyes are getting a little dazzled."
 $C2620_MAIN_2900_0800_00_tif,ACTOR,Tifa
 $C2620_MAIN_2900_0900_00_cld,,You okay?
 $C2620_MAIN_2900_0900_00_cld,ACTOR,Cloud
-$C2620_MAIN_2900_1000_00_tif,,"Yeah, but it’s hard to get used to this. All sparkly—like another world."
+$C2620_MAIN_2900_1000_00_tif,,"Yeah, but it’s hard to get used to this. It’s all sparkly, like another world."
 $C2620_MAIN_2900_1000_00_tif,ACTOR,Tifa
 $C2620_MAIN_2900_1100_00_tif,,"I’ll look around a bit more, then rest."
 $C2620_MAIN_2900_1100_00_tif,ACTOR,Tifa
@@ -1527,7 +1527,7 @@ $C2620_MAIN_3800_0200_00_tif,,"Not bad for a newbie, right?"
 $C2620_MAIN_3800_0200_00_tif,ACTOR,Tifa
 $C2620_MAIN_3800_0300_00_tif,,"You’re new, so it’s understandable."
 $C2620_MAIN_3800_0300_00_tif,ACTOR,Tifa
-$C2620_MAIN_3900_0100_00_yfi,,"Way to go, Cloud! Take me to real space someday, okay?"
+$C2620_MAIN_3900_0100_00_yfi,,"Way to go, Cloud! Take me to Space for real someday, okay?"
 $C2620_MAIN_3900_0100_00_yfi,ACTOR,Yuffie
 $C2620_MAIN_3900_0200_00_yfi,,Maybe you should train with the Space Knights a bit longer.
 $C2620_MAIN_3900_0200_00_yfi,ACTOR,Yuffie
@@ -1585,17 +1585,17 @@ $C2620_MAIN_4100_0400_00_art,,Could it be...a date?
 $C2620_MAIN_4100_0400_00_art,ACTOR,Aerith
 $C2620_MAIN_4100_0500_00_cld,,It’s not like that.
 $C2620_MAIN_4100_0500_00_cld,ACTOR,Cloud
-$C2620_MAIN_4100_0600_00_yfi,,"Aw, c’mon, Cloud’s all shy now! Deep down, he’s thrilled a cute girl like me asked him out~!"
+$C2620_MAIN_4100_0600_00_yfi,,"Aww, Cloud’s all embarrassed! Deep down, he’s thrilled to be asked out by a cute girl like me~!"
 $C2620_MAIN_4100_0600_00_yfi,ACTOR,Yuffie
-$C2620_MAIN_4100_0700_00_yfi,,How about being honest for once? You could even toss me a Materia as a gift!
+$C2620_MAIN_4100_0700_00_yfi,,"Be more honest! It’d be nice if you gave me a Materia as a gift, y’know?"
 $C2620_MAIN_4100_0700_00_yfi,ACTOR,Yuffie
-$C2620_MAIN_4100_0800_00_cld,,She dragged me along.
+$C2620_MAIN_4100_0800_00_cld,,She dragged me along forcefully.
 $C2620_MAIN_4100_0800_00_cld,ACTOR,Cloud
 $C2620_MAIN_4100_0900_00_yfi,,Getting dragged around by a cute girl? Sounds like a win to me!
 $C2620_MAIN_4100_0900_00_yfi,ACTOR,Yuffie
 $C2620_MAIN_4100_1000_00_cld,,Just makes my head spin.
 $C2620_MAIN_4100_1000_00_cld,ACTOR,Cloud
-$C2620_MAIN_4100_1100_00_art,,Looks like fun!
+$C2620_MAIN_4100_1100_00_art,,Seems like fun!
 $C2620_MAIN_4100_1100_00_art,ACTOR,Aerith
 $C2620_MAIN_4150_0100_00_art,,"Oh, Cloud!"
 $C2620_MAIN_4150_0100_00_art,ACTOR,Aerith
@@ -1691,9 +1691,9 @@ $C2620_MAIN_4800_0700_00_cld,,"Tried to befriend me, even though I was standoffi
 $C2620_MAIN_4800_0700_00_cld,ACTOR,Cloud
 $C2620_MAIN_4800_0800_00_art,,Friends...not lovers?
 $C2620_MAIN_4800_0800_00_art,ACTOR,Aerith
-$C2620_MAIN_4800_0810_00_art,,"You’re oblivious to that stuff, aren’t you, Cloud?"
+$C2620_MAIN_4800_0810_00_art,,"Cloud, you’re oblivious to that stuff, aren’t you?"
 $C2620_MAIN_4800_0810_00_art,ACTOR,Aerith
-$C2620_MAIN_4800_0900_00_cld,,"She teased me a lot, but I got that much. I’m not that dense."
+$C2620_MAIN_4800_0900_00_cld,,"She said a lot of things, but she was just teasing. I got that much."
 $C2620_MAIN_4800_0900_00_cld,ACTOR,Cloud
 $C2620_MAIN_4800_1000_00_art,,Was it really that simple?
 $C2620_MAIN_4800_1000_00_art,ACTOR,Aerith
@@ -1701,7 +1701,7 @@ $C2620_MAIN_4800_1100_00_cld,,What do you mean?
 $C2620_MAIN_4800_1100_00_cld,ACTOR,Cloud
 $C2620_MAIN_4800_1200_00_art,,"Young man, you’ve got a lot to learn."
 $C2620_MAIN_4800_1200_00_art,ACTOR,Aerith
-$C2620_MAIN_4800_1300_00_art,,
+$C2620_MAIN_4800_1300_00_art,,Y’know?
 $C2620_MAIN_4800_1300_00_art,ACTOR,Aerith
 $C2620_MAIN_4900_0100_00_tif,,This is...
 $C2620_MAIN_4900_0100_00_tif,ACTOR,Tifa
@@ -1725,7 +1725,7 @@ $C2620_MAIN_4900_1000_00_tif,,She taught me so much.
 $C2620_MAIN_4900_1000_00_tif,ACTOR,Tifa
 $C2620_MAIN_4900_1100_00_tif,,"Thanks, Jessie."
 $C2620_MAIN_4900_1100_00_tif,ACTOR,Tifa
-$C2620_MAIN_5000_0100_00_yfi,,"Look, a pretty actress!"
+$C2620_MAIN_5000_0100_00_yfi,,Look at this pretty actress!
 $C2620_MAIN_5000_0100_00_yfi,ACTOR,Yuffie
 $C2620_MAIN_5000_0200_00_cld,,
 $C2620_MAIN_5000_0200_00_cld,ACTOR,Cloud
@@ -1741,7 +1741,7 @@ $C2620_MAIN_5000_0700_00_yfi,,"Lucky you, scoring a beauty like that!"
 $C2620_MAIN_5000_0700_00_yfi,ACTOR,Yuffie
 $C2620_MAIN_5000_0800_00_cld,,Guess so.
 $C2620_MAIN_5000_0800_00_cld,ACTOR,Cloud
-$C2620_MAIN_5000_0900_00_yfi,,"See, Cloud’s destined to be surrounded by hotties!"
+$C2620_MAIN_5000_0900_00_yfi,,"See, Cloud’s destined to be surrounded by beauties!"
 $C2620_MAIN_5000_0900_00_yfi,ACTOR,Yuffie
 $C2620_MAIN_5000_0900_02_yfi,,
 $C2620_MAIN_5000_0900_02_yfi,ACTOR,Yuffie
@@ -1753,7 +1753,7 @@ $C2620_MAIN_5000_1100_00_yfi,,"Let’s go, Cloud!"
 $C2620_MAIN_5000_1100_00_yfi,ACTOR,Yuffie
 $C2620_MAIN_5000_1200_00_cld,,Sure.
 $C2620_MAIN_5000_1200_00_cld,ACTOR,Cloud
-$C2620_MAIN_5000_1300_00_cld,,She wanted to eat pizza.
+$C2620_MAIN_5000_1300_00_cld,,Pizza...I wanted to eat it.
 $C2620_MAIN_5000_1300_00_cld,ACTOR,Cloud
 $C2620_MAIN_5050_0100_00_cld,,
 $C2620_MAIN_5050_0100_00_cld,ACTOR,Cloud
@@ -1936,7 +1936,7 @@ $C2620_MAIN_6100_1100_05_art,,
 $C2620_MAIN_6100_1100_05_art,ACTOR,Aerith
 $C2620_MAIN_6100_1200_00_cat,,"Listen, there’s been a shootin’ in the Colosseum lobby."
 $C2620_MAIN_6100_1200_00_cat,ACTOR,Cait Sith
-$C2620_MAIN_6100_1300_00_cat,,"Witnesses said the culprit was ""a man with a gun for an arm,"" I heard"
+$C2620_MAIN_6100_1300_00_cat,,"Witnesses said the culprit was ""a man with a gun for an arm,"" I heard."
 $C2620_MAIN_6100_1300_00_cat,ACTOR,Cait Sith
 $C2620_MAIN_6100_1300_04_cld,,
 $C2620_MAIN_6100_1300_04_cld,ACTOR,Cloud
@@ -1988,7 +1988,7 @@ $C2620_MAIN_6200_0400_00_cat,,"Come to the Colosseum quick, please!"
 $C2620_MAIN_6200_0400_00_cat,ACTOR,Cait Sith
 $C2620_MAIN_6200_0500_00_cat,,"Listen, there’s been a shootin’ in the Colosseum lobby."
 $C2620_MAIN_6200_0500_00_cat,ACTOR,Cait Sith
-$C2620_MAIN_6200_0600_00_cat,,"Witnesses said the culprit was ""a man with a gun for an arm,"" I heard"
+$C2620_MAIN_6200_0600_00_cat,,"Witnesses said the culprit was ""a man with a gun for an arm,"" I heard."
 $C2620_MAIN_6200_0600_00_cat,ACTOR,Cait Sith
 $C2620_MAIN_6200_0600_04_cld,,
 $C2620_MAIN_6200_0600_04_cld,ACTOR,Cloud
@@ -2042,7 +2042,7 @@ $C2620_MAIN_6300_0500_00_cat,,"Listen, there’s been a shootin’ in the Coloss
 $C2620_MAIN_6300_0500_00_cat,ACTOR,Cait Sith
 $C2620_MAIN_6300_0500_05_yfi,,
 $C2620_MAIN_6300_0500_05_yfi,ACTOR,Yuffie
-$C2620_MAIN_6300_0600_00_cat,,"Witnesses said the culprit was ""a man with a gun for an arm,"" I heard"
+$C2620_MAIN_6300_0600_00_cat,,"Witnesses said the culprit was ""a man with a gun for an arm,"" I heard."
 $C2620_MAIN_6300_0600_00_cat,ACTOR,Cait Sith
 $C2620_MAIN_6300_0600_04_cld,,
 $C2620_MAIN_6300_0600_04_cld,ACTOR,Cloud
@@ -2056,7 +2056,7 @@ $C2620_MAIN_6300_0900_00_cld,,Let’s go check it out.
 $C2620_MAIN_6300_0900_00_cld,ACTOR,Cloud
 $C2620_MAIN_6350_0100_00_cld,,
 $C2620_MAIN_6350_0100_00_cld,ACTOR,Cloud
-$C2620_MAIN_6350_0200_00_cld,,Can I ride alone...?
+$C2620_MAIN_6350_0200_00_cld,,Can you ride alone...?
 $C2620_MAIN_6350_0200_00_cld,ACTOR,Cloud
 $C2620_MAIN_6350_0200_05_cld,,
 $C2620_MAIN_6350_0200_05_cld,ACTOR,Cloud
@@ -2090,7 +2090,7 @@ $C2620_MAIN_6350_0510_00_cld,,What happened?
 $C2620_MAIN_6350_0510_00_cld,ACTOR,Cloud
 $C2620_MAIN_6350_0600_00_cat,,"Listen, there’s been a shootin’ in the Colosseum lobby."
 $C2620_MAIN_6350_0600_00_cat,ACTOR,Cait Sith
-$C2620_MAIN_6350_0700_00_cat,,"Witnesses said the culprit was ""a man with a gun for an arm,"" I heard"
+$C2620_MAIN_6350_0700_00_cat,,"Witnesses said the culprit was ""a man with a gun for an arm,"" I heard."
 $C2620_MAIN_6350_0700_00_cat,ACTOR,Cait Sith
 $C2620_MAIN_6350_0710_00_cld,,What?
 $C2620_MAIN_6350_0710_00_cld,ACTOR,Cloud

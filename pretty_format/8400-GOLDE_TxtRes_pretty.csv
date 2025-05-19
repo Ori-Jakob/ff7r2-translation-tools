@@ -437,7 +437,7 @@ $C2610_MAIN_1800_1400_00_sma,Front Desk,I’m terribly sorry.,申し訳ありま
 $C2610_MAIN_1800_1410_00_sma,Front Desk,All hotels in the Gold Saucer are fully booked tonight.,本日　ゴールドソーサーにある<br>すべてのホテルが満室となっております
 $C2610_MAIN_1800_1500_00_blt,Barret,GOLDE_436,GOLDE_436
 $C2610_MAIN_1800_1500_05_blt,Barret,GOLDE_437,GOLDE_437
-$C2610_MAIN_1800_1600_00_cat,Cait Sith,"Hello there~! Are you having trouble?",もしもし　お困りですか？
+$C2610_MAIN_1800_1600_00_cat,Cait Sith,"Hello there~! Are ya having trouble?",もしもし　お困りですか？
 $C2610_MAIN_1800_1700_00_blt,Barret,You again!?,また　おまえか！
 $C2610_MAIN_1800_1800_00_cat,Cait Sith,"If ya like, I can snag ya a room!",よければ　ボクが部屋　用意しましょか？
 $C2610_MAIN_1800_1900_00_blt,Barret,GOLDE_441,GOLDE_441
@@ -585,16 +585,16 @@ $C2620_MAIN_0300_0800_00_tif,Tifa,I wonder.,どうだろう
 $C2620_MAIN_0300_0900_00_tif,Tifa,Maybe I’ve been pretending to be that way since I was a kid.,そういうフリはしてるかも<br>子供の頃からね
 $C2620_MAIN_0300_1000_00_tif,Tifa,"Hey, wanna go for a walk together? It’s fine if you don’t.",ねえ　いっしょに散歩しない？<br>いやなら　いいけど
 $C2620_MAIN_0300_1100_00_cld,Cloud,I wouldn’t dislike it.,いやなはずないだろう
-$C2620_MAIN_0400_0100_00_yfi,Yuffie,"Oh, you’re awake? Awesome~!",ああ　起きてた？　よかった～！
+$C2620_MAIN_0400_0100_00_yfi,Yuffie,"Oh, you’re awake? That’s great~!",ああ　起きてた？　よかった～！
 $C2620_MAIN_0400_0200_00_yfi,Yuffie,"So, wanna hang out and explore Gold Saucer with me?",あのさ　ゴールドソーサーまわるの<br>つきあってくんない？
 $C2620_MAIN_0400_0210_00_yfi,Yuffie,"Some stuff you can’t do solo, y’know?",ひとりじゃ　遊べないヤツがあるんだよね
 $C2620_MAIN_0400_0300_00_cld,Cloud,What about Aerith and the others?,エアリスたちは？
 $C2620_MAIN_0400_0400_00_yfi,Yuffie,They’re off riding the gondola together. No consideration for the newbie here~!,ふたりで　ゴンドラに乗ってる<br>新参者への配慮ってもんがないよ～
 $C2620_MAIN_0400_0400_05_cld,Cloud,GOLDE_591,GOLDE_591
 $C2620_MAIN_0400_0500_00_cld,Cloud,"You act like you’ve been with us forever, though.",おまえは　ずっと一緒にいるような態度だけどな
-$C2620_MAIN_0400_0600_00_yfi,Yuffie,It’s my specialty!,得意なんだよね
-$C2620_MAIN_0400_0700_00_yfi,Yuffie,Slippin’ in smooth and snaggin’ the goods~!,スルッと入り込んで　いただき～みたいなの
-$C2620_MAIN_0400_0800_00_yfi,Yuffie,"C’mon, let’s go!",さあ　行こう！
+$C2620_MAIN_0400_0600_00_yfi,Yuffie,"It’s my specialty, y’know!",得意なんだよね
+$C2620_MAIN_0400_0700_00_yfi,Yuffie,"Something like slipping in smoothly and going ""gotcha!""",スルッと入り込んで　いただき～みたいなの
+$C2620_MAIN_0400_0800_00_yfi,Yuffie,"Alright, let’s go!",さあ　行こう！
 $C2620_MAIN_0450_0100_00_cld,Cloud,"A dream, huh...",夢か……
 $C2620_MAIN_0450_0200_00_cld,Cloud,Guess I’ll go clear my head.,気晴らしにでも行くか
 $C2620_MAIN_0500_0100_00_sma,Elevator Operator,"To the first-floor front desk, right?",１階のフロントでよろしいですか？
@@ -606,7 +606,7 @@ $C2620_MAIN_0600_0000_08_mma,NPC,GOLDE_603,GOLDE_603
 $C2620_MAIN_0600_0000_09_blt,Barret,GOLDE_604,GOLDE_604
 $C2620_MAIN_0600_0000_11_blt,Barret,GOLDE_605,GOLDE_605
 $C2620_MAIN_0600_0000_13_mma,NPC,GOLDE_606,GOLDE_606
-$C2620_MAIN_0600_0000_14_blt,Barret,Sorry...,すまねえ……
+$C2620_MAIN_0600_0000_14_blt,Barret,My bad...,すまねえ……
 $C2620_MAIN_0600_0000_17_blt,Barret,GOLDE_608,GOLDE_608
 $C2620_MAIN_0600_0000_19_blt,Barret,GOLDE_609,GOLDE_609
 $C2620_MAIN_0600_0000_21_mma,NPC,GOLDE_610,GOLDE_610
@@ -685,14 +685,14 @@ $C2620_MAIN_1800_0100_00_yfi,Yuffie,I’m gonna take a breather.,アタシは　
 $C2620_MAIN_1900_0050_05_mma,NPC,GOLDE_683,GOLDE_683
 $C2620_MAIN_1900_0100_00_mma,Spectator,"Go, charge in!",いけ　つっこめ！
 $C2620_MAIN_1900_0200_00_mma,Spectator,"Lose, and you’re done for!",負けたら　承知しねえからな！
-$C2620_MAIN_2000_0100_00_art,Aerith,"Hmm, this is one heck of a race, rare even in recent years!",ふむふむ　これは近年まれに見る<br>熱いレースですなあ
+$C2620_MAIN_2000_0100_00_art,Aerith,"Hmm, hmm, this is one heck of a race, rare even in recent years!",ふむふむ　これは近年まれに見る<br>熱いレースですなあ
 $C2620_MAIN_2000_0110_00_art,Aerith,"So, Cloud, which one do you think’ll win?",クラウドさんは　どの子が来ると思います？
-$C2620_MAIN_2000_0200_00_cld,Cloud,You can gauge their ability from their coat and muscle build.,毛並みと筋肉の付き方を見れば<br>だいたいの能力はわかる
-$C2620_MAIN_2100_0100_00_tif,Tifa,The energy here’s wild. Could get dangerous if you get too into it.,すごい熱気　のめりこんじゃうと危険だね
+$C2620_MAIN_2000_0200_00_cld,Cloud,"If you look at their coat and muscle build, you can roughly gauge their ability.",毛並みと筋肉の付き方を見れば<br>だいたいの能力はわかる
+$C2620_MAIN_2100_0100_00_tif,Tifa,Such intense enthusiasm! It could get dangerous if you get too into it.,すごい熱気　のめりこんじゃうと危険だね
 $C2620_MAIN_2100_0100_05_cld,Cloud,GOLDE_690,GOLDE_690
 $C2620_MAIN_2100_0200_00_cld,Cloud,Let’s keep it in check.,ほどほどにしておこう
-$C2620_MAIN_2200_0100_00_yfi,Yuffie,"Go, go~! Charge it!",いけいけ～　ゴーゴー！
-$C2620_MAIN_2200_0200_00_yfi,Yuffie,"Oh, wait, I haven’t bet yet!",って　まだ賭けてないんだった
+$C2620_MAIN_2200_0100_00_yfi,Yuffie,"Come on, come on~! Go, go!",いけいけ～　ゴーゴー！
+$C2620_MAIN_2200_0200_00_yfi,Yuffie,"Oh, wait, I haven’t placed a bet yet!",って　まだ賭けてないんだった
 $C2620_MAIN_2200_0300_00_cld,Cloud,GOLDE_694,GOLDE_694
 $C2620_MAIN_2300_0100_00_sfa,Receptionist,Welcome to the Chocobo Festival! Please present your membership card.,チョコボの祭典へようこそ！<br>会員証のご提示をお願いします
 $C2620_MAIN_2300_0200_00_cld,Cloud,Don’t have one.,ない
@@ -722,14 +722,14 @@ $C2620_MAIN_2800_0100_00_mma,Park Staff,This is the riders’ lounge. No entry e
 $C2620_MAIN_2800_0300_00_mma,Park Staff,Guests aren’t allowed in.,お客様は入れません
 $C2620_MAIN_2900_0100_00_tif,Tifa,"Cloud, you feeling okay?",クラウド　体調はいいの？
 $C2620_MAIN_2900_0200_00_cld,Cloud,"Yeah, sleep helped.",ああ　寝たらよくなった
-$C2620_MAIN_2900_0300_00_tif,Tifa,Good to hear.,よかった
+$C2620_MAIN_2900_0300_00_tif,Tifa,That’s good.,よかった
 $C2620_MAIN_2900_0400_00_tif,Tifa,And now you’re already running around having fun.,で　さっそく遊びまわってるんだ
 $C2620_MAIN_2900_0500_00_cld,Cloud,Not really...,いや……
-$C2620_MAIN_2900_0600_00_art,Aerith,"Tifa, you taking a break?",ティファは　休憩？
+$C2620_MAIN_2900_0600_00_art,Aerith,"Tifa, are you taking a break?",ティファは　休憩？
 $C2620_MAIN_2900_0700_00_yfi,Yuffie,What’s Tifa up to? Taking a break?,ティファはなにしてんの　休憩？
 $C2620_MAIN_2900_0800_00_tif,Tifa,"Yeah, my eyes are getting a little dazzled.",うん　ちょっと目がチカチカしちゃって
 $C2620_MAIN_2900_0900_00_cld,Cloud,You okay?,大丈夫か？
-$C2620_MAIN_2900_1000_00_tif,Tifa,"Yeah, but it’s hard to get used to this. All sparkly—like another world.",うん　でも慣れないよね　こんなの<br>キラキラして　別世界だもん
+$C2620_MAIN_2900_1000_00_tif,Tifa,"Yeah, but it’s hard to get used to this. It’s all sparkly, like another world.",うん　でも慣れないよね　こんなの<br>キラキラして　別世界だもん
 $C2620_MAIN_2900_1100_00_tif,Tifa,"I’ll look around a bit more, then rest.",もうすこし見たら　休むつもり
 $C2620_MAIN_3000_0100_00_tif,Tifa,Watching the chocobos run made me miss Piko.,走ってるチョコボを見てたら<br>ピコに会いたくなちゃった
 $C2620_MAIN_3050_0100_00_mom,Madam M,"Oh, c’mon, what are you doing?! Take the inside, the inside!",ああもう　なにしてんだい<br>インを突くんだよ　インを！
@@ -762,11 +762,11 @@ $C2620_MAIN_3070_0100_00_mom,Madam M,"That Sam guy’s makin’ a killing off th
 $C2620_MAIN_3070_0200_00_mom,Madam M,Maybe I should open a massage parlor Gold Saucer branch.,あたしも　手揉み屋ゴールドソーサー店でも<br>出そうかね
 $C2620_MAIN_3100_0100_00_mma,Space Ranger,"New recruits, welcome to the Space Knights!",新兵の諸君　ようこそ宇宙騎士団へ！
 $C2620_MAIN_3100_0200_00_mma,Space Ranger,We’ll jump right into the briefing for this mission. Listen up good.,早速だが　本作戦のブリーフィングを行う<br>心して聞くように
-$C2620_MAIN_3100_0200_05_mma,NPC,GOLDE_763,GOLDE_763
-$C2620_MAIN_3100_0200_07_mma,NPC,GOLDE_764,GOLDE_764
-$C2620_MAIN_3100_0300_00_mmk,Passenger,GOLDE_765,GOLDE_765
-$C2620_MAIN_3200_0100_00_art,Aerith,"Hey, Cloud, wanna join up too?",クラウドも　入団してみる？
-$C2620_MAIN_3200_0200_00_cld,Cloud,Space isn’t my thing.,宇宙は専門外だ
+$C2620_MAIN_3100_0200_05_mma,NPC,Yes sir!,GOLDE_763
+$C2620_MAIN_3100_0200_07_mma,Kids,Yes sir!,GOLDE_764
+$C2620_MAIN_3100_0300_00_mmk,Kids,Yes sir!,GOLDE_765
+$C2620_MAIN_3200_0100_00_art,Aerith,"Cloud, wanna try joining too?",クラウドも　入団してみる？
+$C2620_MAIN_3200_0200_00_cld,Cloud,Space is outside my expertise.,宇宙は専門外だ
 $C2620_MAIN_3300_0000_05_tif,Tifa,GOLDE_768,GOLDE_768
 $C2620_MAIN_3300_0100_00_tif,Tifa,Is that how Cloud was as a rookie?,クラウドも新人の時は　あんな感じ？
 $C2620_MAIN_3300_0200_00_cld,Cloud,I’d like to think I was a bit better.,もうすこしマシだったと思う
@@ -788,7 +788,7 @@ $C2620_MAIN_3700_0300_00_art,Aerith,"Even the great Cloud struggles with space, 
 $C2620_MAIN_3800_0100_00_tif,Tifa,That was some impressive work for a rookie!,新人とは思えない働きだったね
 $C2620_MAIN_3800_0200_00_tif,Tifa,"Not bad for a newbie, right?",新人にしては　まずまずの活躍だったんじゃない？
 $C2620_MAIN_3800_0300_00_tif,Tifa,"You’re new, so it’s understandable.",新人だもの　しかたないよね
-$C2620_MAIN_3900_0100_00_yfi,Yuffie,"Way to go, Cloud! Take me to real space someday, okay?",さすがクラウド！<br>いつか　ホンモノの宇宙につれてってよ
+$C2620_MAIN_3900_0100_00_yfi,Yuffie,"Way to go, Cloud! Take me to Space for real someday, okay?",さすがクラウド！<br>いつか　ホンモノの宇宙につれてってよ
 $C2620_MAIN_3900_0200_00_yfi,Yuffie,Maybe you should train with the Space Knights a bit longer.,しばらく　宇宙騎士団で修行したほうがいいかもね
 $C2620_MAIN_3900_0300_00_yfi,Yuffie,"Aw, what a rookie flop!",あ～あ　落ちこぼれの新兵だね
 $C2620_MAIN_4000_0100_00_art,Aerith,"Oh, Cloud!",あっ　クラウド！
@@ -802,27 +802,27 @@ $C2620_MAIN_4000_0700_00_art,Aerith,"Aw, I’m jealous~ Moments like this really
 $C2620_MAIN_4000_0800_00_art,Aerith,I wonder if there’s someone out there~ Someone who’d have fun with me.,だれか　いないかな～<br>いっしょに楽しんでくれそうなひと
 $C2620_MAIN_4000_0900_00_cld,Cloud,No way.,ダメだ
 $C2620_MAIN_4000_1000_00_art,Aerith,Huh?,ん？
-$C2620_MAIN_4000_1100_00_cld,Cloud,That’s not a good idea.,そういうのはよくない
+$C2620_MAIN_4000_1100_00_cld,Cloud,"That’s not a good idea, right?",そういうのはよくない
 $C2620_MAIN_4000_1200_00_tif,Tifa,...That’s what Cloud says.,……と　クラウドが言ってます
 $C2620_MAIN_4000_1200_05_cld,Cloud,GOLDE_805,GOLDE_805
 $C2620_MAIN_4000_1300_00_cld,Cloud,"They might seem nice, but they could be dangerous. Or just plain weird.",良さそうに見えても　危険なヤツかもしれない<br>変なヤツかもしれない
 $C2620_MAIN_4000_1400_00_cld,Cloud,Could even be a Shinra trap.,神羅の罠の可能性もある
 $C2620_MAIN_4000_1400_04_tif,Tifa,GOLDE_808,GOLDE_808
 $C2620_MAIN_4000_1400_05_art,Aerith,GOLDE_809,GOLDE_809
-$C2620_MAIN_4000_1500_00_art,Aerith,"I think I’ve got a decent eye for people, thank you very much.",もうすこし　見る目<br>あると思いますけど　わたし
-$C2620_MAIN_4000_1600_00_cld,Cloud,"Alright, if you say so.",そうか　それならいいんだ
-$C2620_MAIN_4000_1700_00_art,Aerith,"Thanks for worrying about me, though. Enjoy your date!",でも　心配してくれてありがとう<br>デート　楽しんでね
+$C2620_MAIN_4000_1500_00_art,Aerith,"I think I have a bit better judgment than that, you know.",もうすこし　見る目<br>あると思いますけど　わたし
+$C2620_MAIN_4000_1600_00_cld,Cloud,"I see, if that’s the case, fine.",そうか　それならいいんだ
+$C2620_MAIN_4000_1700_00_art,Aerith,"But, thanks for worrying about me. Enjoy your date!",でも　心配してくれてありがとう<br>デート　楽しんでね
 $C2620_MAIN_4100_0100_00_art,Aerith,"Oh, Cloud!",あっ　クラウド！
 $C2620_MAIN_4100_0200_00_art,Aerith,"Hm? No, uh...Hmmm?",うん？　ううん　う～～～ん？
 $C2620_MAIN_4100_0300_00_cld,Cloud,What?,なんだ？
 $C2620_MAIN_4100_0400_00_art,Aerith,Could it be...a date?,もしかして　デート？
 $C2620_MAIN_4100_0500_00_cld,Cloud,It’s not like that.,そんなんじゃない
-$C2620_MAIN_4100_0600_00_yfi,Yuffie,"Aw, c’mon, Cloud’s all shy now! Deep down, he’s thrilled a cute girl like me asked him out~!",え～　もうクラウドったら照れちゃってえ<br>本当はこんな美少女に誘われて嬉しいくせに～！
-$C2620_MAIN_4100_0700_00_yfi,Yuffie,How about being honest for once? You could even toss me a Materia as a gift!,もっと素直になって　マテリアのひとつぐらい<br>プレゼントしてくれてもいいんだよ？
-$C2620_MAIN_4100_0800_00_cld,Cloud,She dragged me along.,強引に連れ出されたんだ
+$C2620_MAIN_4100_0600_00_yfi,Yuffie,"Aww, Cloud’s all embarrassed! Deep down, he’s thrilled to be asked out by a cute girl like me~!",え～　もうクラウドったら照れちゃってえ<br>本当はこんな美少女に誘われて嬉しいくせに～！
+$C2620_MAIN_4100_0700_00_yfi,Yuffie,"Be more honest! It’d be nice if you gave me a Materia as a gift, y’know?",もっと素直になって　マテリアのひとつぐらい<br>プレゼントしてくれてもいいんだよ？
+$C2620_MAIN_4100_0800_00_cld,Cloud,She dragged me along forcefully.,強引に連れ出されたんだ
 $C2620_MAIN_4100_0900_00_yfi,Yuffie,Getting dragged around by a cute girl? Sounds like a win to me!,美少女に振り回されるなんて　最高じゃん！
 $C2620_MAIN_4100_1000_00_cld,Cloud,Just makes my head spin.,目が回るだけだ
-$C2620_MAIN_4100_1100_00_art,Aerith,Looks like fun!,楽しそうだね
+$C2620_MAIN_4100_1100_00_art,Aerith,Seems like fun!,楽しそうだね
 $C2620_MAIN_4150_0100_00_art,Aerith,"Oh, Cloud!",あっ　クラウド！
 $C2620_MAIN_4150_0200_00_art,Aerith,"What, feeling lonely?",もしかして　さびしくなった？
 $C2620_MAIN_4150_0300_00_cld,Cloud,No...,いや……
@@ -836,9 +836,9 @@ $C2620_MAIN_4150_0900_05_cld,Cloud,GOLDE_833,GOLDE_833
 $C2620_MAIN_4150_1000_00_cld,Cloud,"They might seem nice, but they could be dangerous. Or just plain weird.",良さそうに見えても　危険なヤツかもしれない<br>変なヤツかもしれない
 $C2620_MAIN_4150_1100_00_cld,Cloud,Could even be a Shinra trap.,神羅の罠の可能性もある
 $C2620_MAIN_4150_1100_05_art,Aerith,GOLDE_836,GOLDE_836
-$C2620_MAIN_4150_1200_00_art,Aerith,"I think I’ve got a decent eye for people, thank you very much.",もうすこし　見る目<br>あると思いますけど　わたし
-$C2620_MAIN_4150_1300_00_cld,Cloud,"Alright, if you say so.",そうか　それならいいんだ
-$C2620_MAIN_4150_1400_00_art,Aerith,"Thanks for worrying about me, though.",でも　心配してくれてありがとう
+$C2620_MAIN_4150_1200_00_art,Aerith,"I think I have a bit better judgment than that, you know.",もうすこし　見る目<br>あると思いますけど　わたし
+$C2620_MAIN_4150_1300_00_cld,Cloud,"I see, if that’s the case, fine.",そうか　それならいいんだ
+$C2620_MAIN_4150_1400_00_art,Aerith,"But, thanks for worrying about me.",でも　心配してくれてありがとう
 $C2620_MAIN_4200_0100_00_art,Aerith,Guess I’ll go look for Red and hang out.,わたしは　レッド探して遊ぼうかな
 $C2620_MAIN_4300_0100_00_cld,Cloud,Hold on.,待て
 $C2620_MAIN_4400_0100_00_art,Aerith,Are they looking for us?,わたしたち　探してる？
@@ -870,24 +870,24 @@ $C2620_MAIN_4800_0500_00_art,Aerith,"She was an actress, huh?",女優さんだ�
 $C2620_MAIN_4800_0600_00_cld,Cloud,Yeah.,ああ
 $C2620_MAIN_4800_0700_00_cld,Cloud,"Tried to befriend me, even though I was standoffish.",無愛想な俺と　友達になろうとしてくれた
 $C2620_MAIN_4800_0800_00_art,Aerith,Friends...not lovers?,友達……恋人じゃなく？
-$C2620_MAIN_4800_0810_00_art,Aerith,"You’re oblivious to that stuff, aren’t you, Cloud?",クラウド　そういうの気づかないでしょ
-$C2620_MAIN_4800_0900_00_cld,Cloud,"She teased me a lot, but I got that much. I’m not that dense.",色々言われたけど　俺をからかってたんだ<br>それくらい　わかるさ
+$C2620_MAIN_4800_0810_00_art,Aerith,"Cloud, you’re oblivious to that stuff, aren’t you?",クラウド　そういうの気づかないでしょ
+$C2620_MAIN_4800_0900_00_cld,Cloud,"She said a lot of things, but she was just teasing. I got that much.",色々言われたけど　俺をからかってたんだ<br>それくらい　わかるさ
 $C2620_MAIN_4800_1000_00_art,Aerith,Was it really that simple?,そんなに　単純かなあ
 $C2620_MAIN_4800_1100_00_cld,Cloud,What do you mean?,どういうことだ
 $C2620_MAIN_4800_1200_00_art,Aerith,"Young man, you’ve got a lot to learn.",青年よ　もっと学びたまえ
-$C2620_MAIN_4800_1300_00_art,Aerith,GOLDE_876,GOLDE_876
+$C2620_MAIN_4800_1300_00_art,Aerith,Y’know?,GOLDE_876
 $C2620_MAIN_4900_0100_00_tif,Tifa,This is...,これって……
 $C2620_MAIN_4900_0200_00_cld,Cloud,GOLDE_878,GOLDE_878
 $C2620_MAIN_4900_0300_00_tif,Tifa,Jessie.,ジェシー
-$C2620_MAIN_4900_0400_00_tif,Tifa,"Just when I was getting used to the slums, I got caught up in some trouble.",スラムに慣れたかなって思った頃に<br>トラブルに巻き込まれてね
+$C2620_MAIN_4900_0400_00_tif,Tifa,"Just when I thought I was getting used to the slums, I got caught up in some trouble.",スラムに慣れたかなって思った頃に<br>トラブルに巻き込まれてね
 $C2620_MAIN_4900_0500_00_tif,Tifa,That’s when Jessie saved me. That’s how it all started.,その時に　ジェシーが助けてくれたの<br>それが始まり
 $C2620_MAIN_4900_0600_00_cld,Cloud,I see.,そうか
-$C2620_MAIN_4900_0700_00_tif,Tifa,"She was this cool, big-city girl.",かっこいい　都会のお姉さんだった
-$C2620_MAIN_4900_0800_00_tif,Tifa,"Always smiling, right?",いつも　笑顔だったよね
-$C2620_MAIN_4900_0900_00_cld,Cloud,"Yeah, she was.",ああ　そうだな
-$C2620_MAIN_4900_1000_00_tif,Tifa,She taught me so much.,いろいろ　教えてもらったな
-$C2620_MAIN_4900_1100_00_tif,Tifa,"Thanks, Jessie.",ありがとう　ジェシー
-$C2620_MAIN_5000_0100_00_yfi,Yuffie,"Look, a pretty actress!",見て　キレーな女優さん
+$C2620_MAIN_4900_0700_00_tif,Tifa,"She was this cool, big-city older sister.",かっこいい　都会のお姉さんだった
+$C2620_MAIN_4900_0800_00_tif,Tifa,"She was always smiling, wasn’t she?",いつも　笑顔だったよね
+$C2620_MAIN_4900_0900_00_cld,Cloud,"Yeah, that’s right.",ああ　そうだな
+$C2620_MAIN_4900_1000_00_tif,Tifa,She taught me a lot.,いろいろ　教えてもらったな
+$C2620_MAIN_4900_1100_00_tif,Tifa,"Thank you, Jessie.",ありがとう　ジェシー
+$C2620_MAIN_5000_0100_00_yfi,Yuffie,"Look at this pretty actress!",見て　キレーな女優さん
 $C2620_MAIN_5000_0200_00_cld,Cloud,GOLDE_889,GOLDE_889
 $C2620_MAIN_5000_0300_00_yfi,Yuffie,"What, you know her?",なに　知ってるひと？
 $C2620_MAIN_5000_0400_00_cld,Cloud,A friend.,友達だ
@@ -895,13 +895,13 @@ $C2620_MAIN_5000_0500_00_yfi,Yuffie,No way~ Cloud’s got friends?!,うそ～　
 $C2620_MAIN_5000_0600_00_cld,Cloud,"Might’ve been my imagination, though.",勘違いかもしれないけどな
 $C2620_MAIN_5000_0700_00_yfi,Yuffie,"Lucky you, scoring a beauty like that!",ラッキーじゃん　こんな美人！
 $C2620_MAIN_5000_0800_00_cld,Cloud,Guess so.,そうだな
-$C2620_MAIN_5000_0900_00_yfi,Yuffie,"See, Cloud’s destined to be surrounded by hotties!",クラウドの周りはさ　美人が集まる運命なんだよ
+$C2620_MAIN_5000_0900_00_yfi,Yuffie,"See, Cloud’s destined to be surrounded by beauties!",クラウドの周りはさ　美人が集まる運命なんだよ
 $C2620_MAIN_5000_0900_02_yfi,Yuffie,GOLDE_897,GOLDE_897
 $C2620_MAIN_5000_0900_05_cld,Cloud,GOLDE_898,GOLDE_898
 $C2620_MAIN_5000_1000_00_cld,Cloud,Should I thank fate or what?,運命に感謝するか
 $C2620_MAIN_5000_1100_00_yfi,Yuffie,"Let’s go, Cloud!",行こうよ　クラウド
 $C2620_MAIN_5000_1200_00_cld,Cloud,Sure.,ああ
-$C2620_MAIN_5000_1300_00_cld,Cloud,She wanted to eat pizza.,ピザ　食べたかった
+$C2620_MAIN_5000_1300_00_cld,Cloud,Pizza...I wanted to eat it.,ピザ　食べたかった
 $C2620_MAIN_5050_0100_00_cld,Cloud,GOLDE_903,GOLDE_903
 $C2620_MAIN_5050_0200_00_cld,Cloud,Jessie?,ジェシー？
 $C2620_MAIN_5050_0300_00_cld,Cloud,She wanted to eat pizza.,ピザ　食べたかった
@@ -915,7 +915,7 @@ $C2620_MAIN_5100_0200_00_mfa,Audience,Yeah.,うん
 $C2620_MAIN_5100_0300_00_mfa,Audience,Where to next?,次はどこ行く？
 $C2620_MAIN_5100_0400_00_mma,Audience,How about the chocobo races?,チョコボレースはどう？
 $C2620_MAIN_5100_0500_00_mfa,Audience,"Ugh, again~?",ええ～　また～？
-$C2620_MAIN_5200_0100_00_art,Aerith,It’s over? Bummer.,終わっちゃった？　ざんねん
+$C2620_MAIN_5200_0100_00_art,Aerith,It’s over? That’s a shame.,終わっちゃった？　ざんねん
 $C2620_MAIN_5200_0200_00_art,Aerith,"Jessie performed on this stage, right?",ジェシー　この舞台に立ってたんだよね
 $C2620_MAIN_5200_0300_00_cld,Cloud,Probably.,たぶんな
 $C2620_MAIN_5200_0400_00_art,Aerith,I wanted to see it.,観たかったね
@@ -995,7 +995,7 @@ $C2620_MAIN_6100_1010_00_cld,Cloud,What’s wrong?,どうした？
 $C2620_MAIN_6100_1100_00_cat,Cait Sith,"Come to the Colosseum quick, please!",大至急　コロシアムに来てください！
 $C2620_MAIN_6100_1100_05_art,Aerith,GOLDE_994,GOLDE_994
 $C2620_MAIN_6100_1200_00_cat,Cait Sith,"Listen, there’s been a shootin’ in the Colosseum lobby.",実は　コロシアムのロビーで<br>銃撃事件がありまして
-$C2620_MAIN_6100_1300_00_cat,Cait Sith,"Witnesses said the culprit was ""a man with a gun for an arm,"" I heard",目撃者によりますと<br>犯人は『片腕が銃の男』やったそうです
+$C2620_MAIN_6100_1300_00_cat,Cait Sith,"Witnesses said the culprit was ""a man with a gun for an arm,"" I heard.",目撃者によりますと<br>犯人は『片腕が銃の男』やったそうです
 $C2620_MAIN_6100_1300_04_cld,Cloud,GOLDE_997,GOLDE_997
 $C2620_MAIN_6100_1300_06_art,Aerith,GOLDE_998,GOLDE_998
 $C2620_MAIN_6100_1400_00_cat,Cait Sith,"I’ll tell your friends, so hurry to the Colloseum~!",お仲間には　ボクが伝えますから<br>急いで　コロシアムへ～！
@@ -1021,7 +1021,7 @@ $C2620_MAIN_6200_0300_00_tif,Tifa,Huh? A cat?,えっ　ネコ？
 $C2620_MAIN_6200_0310_00_cld,Cloud,What’s wrong?,どうした？
 $C2620_MAIN_6200_0400_00_cat,Cait Sith,"Come to the Colosseum quick, please!",大至急　コロシアムに来てください！
 $C2620_MAIN_6200_0500_00_cat,Cait Sith,"Listen, there’s been a shootin’ in the Colosseum lobby.",実は　コロシアムのロビーで<br>銃撃事件がありまして
-$C2620_MAIN_6200_0600_00_cat,Cait Sith,"Witnesses said the culprit was ""a man with a gun for an arm,"" I heard",目撃者によりますと<br>犯人は『片腕が銃の男』やったそうです
+$C2620_MAIN_6200_0600_00_cat,Cait Sith,"Witnesses said the culprit was ""a man with a gun for an arm,"" I heard.",目撃者によりますと<br>犯人は『片腕が銃の男』やったそうです
 $C2620_MAIN_6200_0600_04_cld,Cloud,GOLDE_1023,GOLDE_1023
 $C2620_MAIN_6200_0600_06_tif,Tifa,GOLDE_1024,GOLDE_1024
 $C2620_MAIN_6200_0700_00_cat,Cait Sith,"I’ll tell your friends, so hurry to the Colloseum~!",お仲間には　ボクが伝えますから<br>急いで　コロシアムへ～！
@@ -1048,14 +1048,14 @@ $C2620_MAIN_6300_0400_00_cat,Cait Sith,"Come to the Colosseum quick, please!",�
 $C2620_MAIN_6300_0400_05_yfi,Yuffie,GOLDE_1046,GOLDE_1046
 $C2620_MAIN_6300_0500_00_cat,Cait Sith,"Listen, there’s been a shootin’ in the Colosseum lobby.",実は　コロシアムのロビーで<br>銃撃事件がありまして
 $C2620_MAIN_6300_0500_05_yfi,Yuffie,GOLDE_1048,GOLDE_1048
-$C2620_MAIN_6300_0600_00_cat,Cait Sith,"Witnesses said the culprit was ""a man with a gun for an arm,"" I heard",目撃者によりますと<br>犯人は『片腕が銃の男』やったそうです
+$C2620_MAIN_6300_0600_00_cat,Cait Sith,"Witnesses said the culprit was ""a man with a gun for an arm,"" I heard.",目撃者によりますと<br>犯人は『片腕が銃の男』やったそうです
 $C2620_MAIN_6300_0600_04_cld,Cloud,GOLDE_1050,GOLDE_1050
 $C2620_MAIN_6300_0600_06_yfi,Yuffie,GOLDE_1051,GOLDE_1051
 $C2620_MAIN_6300_0700_00_cat,Cait Sith,"I’ll tell your friends, so hurry to the Colloseum~!",お仲間には　ボクが伝えますから<br>急いで　コロシアムへ～！
 $C2620_MAIN_6300_0800_00_yfi,Yuffie,Isn’t this getting kinda crazy?,なんか　すごいことになってない？
 $C2620_MAIN_6300_0900_00_cld,Cloud,Let’s go check it out.,とにかく　行ってみよう
 $C2620_MAIN_6350_0100_00_cld,Cloud,GOLDE_1055,GOLDE_1055
-$C2620_MAIN_6350_0200_00_cld,Cloud,Can I ride alone...?,ひとりで乗れるのか……？
+$C2620_MAIN_6350_0200_00_cld,Cloud,Can you ride alone...?,ひとりで乗れるのか……？
 $C2620_MAIN_6350_0200_05_cld,Cloud,GOLDE_1057,GOLDE_1057
 $C2620_MAIN_6350_0210_00_mfa,Passenger,GOLDE_1058,GOLDE_1058
 $C2620_MAIN_6350_0220_00_mma,Passenger,GOLDE_1059,GOLDE_1059
@@ -1072,7 +1072,7 @@ $C2620_MAIN_6350_0400_00_cld,Cloud,What’s wrong?,どうした？
 $C2620_MAIN_6350_0500_00_cat,Cait Sith,"Come to the Colosseum quick, please!",大至急　コロシアムに来てください！
 $C2620_MAIN_6350_0510_00_cld,Cloud,What happened?,なにがあった
 $C2620_MAIN_6350_0600_00_cat,Cait Sith,"Listen, there’s been a shootin’ in the Colosseum lobby.",実は　コロシアムのロビーで<br>銃撃事件がありまして
-$C2620_MAIN_6350_0700_00_cat,Cait Sith,"Witnesses said the culprit was ""a man with a gun for an arm,"" I heard",目撃者によりますと<br>犯人は『片腕が銃の男』やったそうです
+$C2620_MAIN_6350_0700_00_cat,Cait Sith,"Witnesses said the culprit was ""a man with a gun for an arm,"" I heard.",目撃者によりますと<br>犯人は『片腕が銃の男』やったそうです
 $C2620_MAIN_6350_0710_00_cld,Cloud,What?,なに？
 $C2620_MAIN_6350_0800_00_cat,Cait Sith,"I’ll tell your friends, so hurry to the Colloseum~!",お仲間には　ボクが伝えますから<br>急いで　コロシアムへ～！
 $C2620_MAIN_6400_0100_00_mma,Cast Member,We’re currently guiding guests due to equipment maintenance.,ただいま　設備点検のため<br>お客様を誘導しております

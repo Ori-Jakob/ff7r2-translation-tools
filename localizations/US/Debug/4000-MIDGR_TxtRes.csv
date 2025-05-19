@@ -398,7 +398,7 @@ $C2610_MAIN_3200_0000_09_elm,,MIDGR___204
 $C2610_MAIN_3200_0000_09_elm,ACTOR,Elmyra
 $C2610_MAIN_3200_0100_00_elm,,Want some too?
 $C2610_MAIN_3200_0100_00_elm,ACTOR,Elmyra
-$C2610_MAIN_3200_0200_00_zax,,"Yeah, yeah!"
+$C2610_MAIN_3200_0200_00_zax,,"Sure. I’ll eat, I’ll eat!"
 $C2610_MAIN_3200_0200_00_zax,ACTOR,Zack
 $C2610_MAIN_3200_0200_05_zax,,MIDGR___207
 $C2610_MAIN_3200_0200_05_zax,ACTOR,Zack
@@ -444,7 +444,7 @@ $C2610_MAIN_3400_0500_00_mrn,,So Biggs isn’t coming back either.
 $C2610_MAIN_3400_0500_00_mrn,ACTOR,Marlene
 $C2610_MAIN_3400_0500_05_elm,,MIDGR___228
 $C2610_MAIN_3400_0500_05_elm,ACTOR,Elmyra
-$C2610_MAIN_3400_0600_00_zax,,Then I’ll go find Biggs.
+$C2610_MAIN_3400_0600_00_zax,,Well then...I’ll go find Biggs.
 $C2610_MAIN_3400_0600_00_zax,ACTOR,Zack
 $C2610_MAIN_3400_0610_00_zax,,And bring him back!
 $C2610_MAIN_3400_0610_00_zax,ACTOR,Zack
