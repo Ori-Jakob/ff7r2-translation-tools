@@ -2353,36 +2353,36 @@ $C3230_MAIN_0200_0900_00_cld,Cloud,What about the others?,ほかの連中は？
 $C3230_MAIN_0200_1000_00_art,Aerith,How about we forget them for a little bit?,ちょっとだけ　忘れる？
 $C3230_MAIN_0200_1100_00_cld,Cloud,GOLDE_2352,GOLDE_2352
 $C3230_MAIN_0200_1200_00_art,Aerith,Let’s go!,いこ！
-$C3230_MAIN_0300_0100_00_tif,Tifa,Were you asleep?,寝てた？
+$C3230_MAIN_0300_0100_00_tif,Tifa,Were you sleeping?,寝てた？
 $C3230_MAIN_0300_0200_00_cld,Cloud,No.,いや
 $C3230_MAIN_0300_0300_00_tif,Tifa,You’ve got pillow marks.,枕のあとがついてる
 $C3230_MAIN_0300_0300_05_cld,Cloud,GOLDE_2357,GOLDE_2357
-$C3230_MAIN_0300_0400_00_cld,Cloud,"Yeah, I was asleep.",うん　寝てた
+$C3230_MAIN_0300_0400_00_cld,Cloud,"Yeah, I was sleeping.",うん　寝てた
 $C3230_MAIN_0300_0400_05_tif,Tifa,GOLDE_2359,GOLDE_2359
-$C3230_MAIN_0300_0500_00_tif,Tifa,"How about catching a play to unwind? They’re doing ""LOVELESS.""",気分転換に　お芝居でもどう？<br>『LOVELESS』やってるんだって
+$C3230_MAIN_0300_0500_00_tif,Tifa,"For a change of pace, how about a play? They say they’re doing ""LOVELESS.""",気分転換に　お芝居でもどう？<br>『LOVELESS』やってるんだって
 $C3230_MAIN_0300_0510_00_tif,Tifa,I’ve got tickets.,チケット　あるんだけど
 $C3230_MAIN_0300_0510_05_cld,Cloud,GOLDE_2362,GOLDE_2362
 $C3230_MAIN_0300_0600_00_cld,Cloud,Sounds good.,いいな
-$C3230_MAIN_0300_0700_00_tif,Tifa,And maybe the gondola after?,そのあとゴンドラも　どうかな？
-$C3230_MAIN_0300_0800_00_cld,Cloud,We missed it last time.,前回は乗りそびれたからな
-$C3230_MAIN_0300_0900_00_tif,Tifa,"This time for sure, right?",今度こそ　ね！
+$C3230_MAIN_0300_0700_00_tif,Tifa,And maybe the gondola afterward?,そのあとゴンドラも　どうかな？
+$C3230_MAIN_0300_0800_00_cld,Cloud,"We missed it last time, huh.",前回は乗りそびれたからな
+$C3230_MAIN_0300_0900_00_tif,Tifa,"This time for sure, right!",今度こそ　ね！
 $C3230_MAIN_0300_1000_00_cld,Cloud,Nice plan.,いいコースだ
 $C3230_MAIN_0300_1100_00_tif,Tifa,Yeah!,うん
-$C3230_MAIN_0400_0100_00_yfi,Yuffie,Hey!,よう！
+$C3230_MAIN_0400_0100_00_yfi,Yuffie,Yo!,よう！
 $C3230_MAIN_0400_0200_00_cld,Cloud,Hey.,ああ
-$C3230_MAIN_0400_0300_00_yfi,Yuffie,Were you asleep?,寝てた？
+$C3230_MAIN_0400_0300_00_yfi,Yuffie,Were ya sleepin’?,寝てた？
 $C3230_MAIN_0400_0400_00_cld,Cloud,No.,いや
-$C3230_MAIN_0400_0500_00_yfi,Yuffie,There’s this cool-looking stage show~!,面白そうなステージがあるんだよね～
-$C3230_MAIN_0400_0510_00_yfi,Yuffie,I nabbed some tickets—wanna tag along?,チケットもらったし　つきあってくんない？
-$C3230_MAIN_0400_0600_00_cld,Cloud,"Tomorrow’s a big day, Yuffie. You’re key—better rest.",明日はユフィも重要な戦力だ　休んだほうがいい
+$C3230_MAIN_0400_0500_00_yfi,Yuffie,"There’s this super cool stage show goin’ on, y’know~",面白そうなステージがあるんだよね～
+$C3230_MAIN_0400_0510_00_yfi,Yuffie,"Snagged some tickets, so how ‘bout taggin’ along?",チケットもらったし　つきあってくんない？
+$C3230_MAIN_0400_0600_00_cld,Cloud,"Tomorrow’s a big day, Yuffie. You’re key—better get some rest.",明日はユフィも重要な戦力だ　休んだほうがいい
 $C3230_MAIN_0400_0700_00_yfi,Yuffie,"I know, I know, but~",わかってるけど～
-$C3230_MAIN_0400_0800_00_yfi,Yuffie,"Look, we didn’t get to ride the gondola last time, right? It bugs me to leave stuff unfinished.",ほら　このまえゴンドラに乗れなかったじゃん？<br>やり残したままだと　気持ち悪いんだよね
+$C3230_MAIN_0400_0800_00_yfi,Yuffie,"Look, we didn’t get to ride the gondola last time, right? Leavin’ stuff undone just bugs me, y’know.",ほら　このまえゴンドラに乗れなかったじゃん？<br>やり残したままだと　気持ち悪いんだよね
 $C3230_MAIN_0400_0900_00_cld,Cloud,You wanna ride it?,乗る気か？
 $C3230_MAIN_0400_1000_00_yfi,Yuffie,"If I don’t burn off this excitement, I won’t sleep! Gotta play hard and tire myself out!",このままだと　興奮して眠れないから<br>いっぱい遊んで疲れないと！
 $C3230_MAIN_0400_1100_00_yfi,Yuffie,Watch the stage~ Ride the gondola~,ステージ観て～　ゴンドラ乗って～
 $C3230_MAIN_0400_1200_00_cld,Cloud,"You’re set on riding it, huh?",乗る気か？
 $C3230_MAIN_0400_1300_00_yfi,Yuffie,Shh-shh-shh!,シッシッシ！
-$C3230_MAIN_0400_1400_00_yfi,Yuffie,"You’ve been all gloomy lately, Cloud~ So Yuffie’s gonna fix you right up!",クラウドここんとこ　すぐ暗い顔するからさ～<br>ユフィちゃんが　なんとかしてやろうと思って
+$C3230_MAIN_0400_1400_00_yfi,Yuffie,"Cloud, you’ve been all mopey lately~ So Yuffie’s gonna cheer you up!",クラウドここんとこ　すぐ暗い顔するからさ～<br>ユフィちゃんが　なんとかしてやろうと思って
 $C3230_MAIN_0400_1500_00_yfi,Yuffie,"Let’s go, let’s go!",いこいこ！
 $C3230_MAIN_0500_0100_00_blt,Barret,Yo...,よお……
 $C3230_MAIN_0500_0200_00_blt,Barret,"What, you sleepy or somethin’?",なんだ　オネムだったか？
@@ -2398,24 +2398,24 @@ $C3230_MAIN_0600_0100_00_red,Red XIII,Hey.,やあ
 $C3230_MAIN_0600_0200_00_red,Red XIII,"Oh, were you asleep?",ああ　寝てた？
 $C3230_MAIN_0600_0200_05_cld,Cloud,GOLDE_2397,GOLDE_2397
 $C3230_MAIN_0600_0300_00_cld,Cloud,Something up?,なにか　あったのか？
-$C3230_MAIN_0600_0400_00_red,Red XIII,"Everyone’s gone, so I thought you might be here.",みんな　いないからさ<br>ここにいるのかと思って
+$C3230_MAIN_0600_0400_00_red,Red XIII,"Since everyone’s gone, I figured they’d be here.",みんな　いないからさ<br>ここにいるのかと思って
 $C3230_MAIN_0600_0500_00_cld,Cloud,Just me.,俺だけだ
 $C3230_MAIN_0600_0600_00_red,Red XIII,I see...,そっか……
-$C3230_MAIN_0600_0700_00_red,Red XIII,I’d like to see a play—mind coming with me?,お芝居を　観てみたいんだけど<br>ついてきてもらっていい？
-$C3230_MAIN_0600_0800_00_red,Red XIII,"I got tickets, but I might not get in alone, y’know.",チケットもらったんだけど<br>ほら　オイラだけだと入れないかもしれないから
-$C3230_MAIN_0600_0900_00_cld,Cloud,Got it.,わかった
-$C3230_MAIN_0600_1000_00_red,Red XIII,Sweet!,やった！
-$C3230_MAIN_0700_0100_00_cat,Cait Sith,"Oh, were ye sleepin’?",あっ　寝てました？
+$C3230_MAIN_0600_0700_00_red,Red XIII,"I wanna check out a play, do mind comin’ along?",お芝居を　観てみたいんだけど<br>ついてきてもらっていい？
+$C3230_MAIN_0600_0800_00_red,Red XIII,"I got some tickets, but, y’know, I might not get in alone.",チケットもらったんだけど<br>ほら　オイラだけだと入れないかもしれないから
+$C3230_MAIN_0600_0900_00_cld,Cloud,Alright.,わかった
+$C3230_MAIN_0600_1000_00_red,Red XIII,Hooray!,やった！
+$C3230_MAIN_0700_0100_00_cat,Cait Sith,"Ah, were ye sleepin’?",あっ　寝てました？
 $C3230_MAIN_0700_0100_05_cld,Cloud,GOLDE_2407,GOLDE_2407
 $C3230_MAIN_0700_0200_00_cld,Cloud,Something up?,なにか　あったのか？
 $C3230_MAIN_0700_0300_00_cat,Cait Sith,"Well, I nabbed tickets to the smash-hit play ""LOVELESS""!",いやね　大人気舞台<br>『LOVELESS』のチケットが手に入ったんで
-$C3230_MAIN_0700_0400_00_cat,Cait Sith,"Thought ye might wanna come along, Cloud~",クラウドさんもどうかな～と思いまして
+$C3230_MAIN_0700_0400_00_cat,Cait Sith,"Thought ya might wanna come along, Cloud~",クラウドさんもどうかな～と思いまして
 $C3230_MAIN_0700_0400_05_cld,Cloud,GOLDE_2411,GOLDE_2411
 $C3230_MAIN_0700_0500_00_cld,Cloud,Shinra connection?,神羅つながりか
 $C3230_MAIN_0700_0500_05_cat,Cait Sith,GOLDE_2413,GOLDE_2413
-$C3230_MAIN_0700_0600_00_cat,Cait Sith,"Naw, naw, everyone else ran off, and ye two were the only ones I could nab!",いえいえ　みなさん出かけてしもて<br>つかまったのが　このおふたりだけなんです
+$C3230_MAIN_0700_0600_00_cat,Cait Sith,"Nah, nah, everyone else ran off, and you two were the only ones I could nab!",いえいえ　みなさん出かけてしもて<br>つかまったのが　このおふたりだけなんです
 $C3230_MAIN_0700_0600_05_cid,Cid,GOLDE_2415,GOLDE_2415
-$C3230_MAIN_0700_0700_00_cid,Cid,Watchin’ with the boys ain’t half bad! Let’s make some fun memories!,野郎どもで観るのも　オツじゃねえか<br>楽しい思い出　作ろうぜぃ
+$C3230_MAIN_0700_0700_00_cid,Cid,"Watchin’ with the boys ain’t half bad! Let’s make some fun memories!",野郎どもで観るのも　オツじゃねえか<br>楽しい思い出　作ろうぜぃ
 $C3230_MAIN_0700_0700_05_cld,Cloud,GOLDE_2417,GOLDE_2417
 $C3230_MAIN_0800_0100_00_mma,Theater Staff,"The special performance of ""LOVELESS: G Edition"" will begin shortly.",特別公演『LOVELESS・Gエディション』<br>まもなく開演となります
 $C3230_MAIN_0800_0200_00_mma,Theater Staff,"Guests planning to attend, please proceed to the theater.",観劇予定のお客様は<br>劇場までお越しください
@@ -2594,13 +2594,13 @@ $C3230_MAIN_1715_0100_00_cld,Alphreid,Should I press on or stay put?,進むべ�
 $C3230_MAIN_1720_0050_00_cld,Alphreid,Let’s hurry ahead.,先を急ごう
 $C3230_MAIN_1720_0100_00_cld,Alphreid,Now’s the time to break these chains and take flight!,いまこそ鎖を断ち切り　飛び立とう
 $C3230_MAIN_1720_0200_00_cld,Alphreid,Release me! My sword exists for vengeance!,出せ　我が剣は復讐のためにある！
-$C3230_MAIN_1720_0300_00_art,Rosa,"Alphreid, you okay?",アルフリード　だいじょうぶ？
+$C3230_MAIN_1720_0300_00_art,Rosa,"Alphreid, are you okay?",アルフリード　だいじょうぶ？
 $C3230_MAIN_1720_0400_00_tif,Rosa,"Alphreid, I’m here to save you!",アルフリード　助けにきたよ
 $C3230_MAIN_1720_0500_00_yfi,Rosa,"Alphreid, I came to rescue you!",アルフリード　助けにきてあげたよ
 $C3230_MAIN_1720_0600_00_cld,Alphreid,"Rosa, why are you here?",ルーザ　どうしてここに？
 $C3230_MAIN_1720_0600_10_cld,Alphreid,"Rosa, why are you here?",ルーザ　どうしてここに？
 $C3230_MAIN_1720_0600_20_cld,Alphreid,"Rosa, why are you here?",ルーザ　どうしてここに？
-$C3230_MAIN_1720_0700_00_art,Rosa,I heard the brave hero was crying in his cell.,勇者さんが　牢屋で泣いてるって聞いて
+$C3230_MAIN_1720_0700_00_art,Rosa,I heard the brave hero’s cry from within his cell.,勇者さんが　牢屋で泣いてるって聞いて
 $C3230_MAIN_1720_0800_00_tif,Rosa,I had a bad feeling—maybe it’s the goddess’s will.,悪い予感がして　女神様の思し召しかな
 $C3230_MAIN_1720_0900_00_yfi,Rosa,"Princess intuition, maybe? You’d better thank me!",お姫様のカンってやつかな　感謝してよね
 $C3230_MAIN_1720_1000_00_blt,???,"Where do you think you’re going, princess?",どこへ行くつもりだ　姫君よ
@@ -2686,8 +2686,8 @@ $C3230_MAIN_1745_1700_00_sys,NPC,<button=RS> Choose your beloved.,<button=RS> �
 $C3230_MAIN_1745_1800_00_sys,NPC,Rosa,ルーザ
 $C3230_MAIN_1745_1900_00_sys,NPC,Evil Dragon King Varvados,悪竜王ヴァルヴァドス
 $C3230_MAIN_1745_2000_00_sys,NPC,Hellhound Garm,地獄の番犬ガルム
-$C3230_MAIN_1750_0090_00_cld,Alphreid,GOLDE_2687,GOLDE_2687
-$C3230_MAIN_1750_0091_00_cld,Alphreid,GOLDE_2688,GOLDE_2688
+$C3230_MAIN_1750_0090_00_cld,Alphreid,Shall we?,さあ
+$C3230_MAIN_1750_0091_00_cld,Alphreid,Shall we?,さあ
 $C3230_MAIN_1750_0100_00_art,Rosa,Alphreid...,アルフリード……
 $C3230_MAIN_1750_0200_00_tif,Rosa,Alphreid...,アルフリード……
 $C3230_MAIN_1750_0300_00_yfi,Rosa,Alphreid...,アルフリード……
@@ -2859,7 +2859,7 @@ $C3230_MAIN_2700_0200_00_art,Aerith,GOLDE_2856,GOLDE_2856
 $C3230_MAIN_2700_0300_00_art,Aerith,"Here, hurry up!",ほら　はやく
 $C3230_MAIN_2800_0100_00_tif,Tifa,"Look Cloud, the gondola’s coming!",ほら　クラウド<br>ゴンドラが来ちゃうよ
 $C3230_MAIN_2800_0200_00_tif,Tifa,"Cloud, wanna get on?",クラウド　乗って？
-$C3230_MAIN_2800_0300_00_cld,Cloud,"After you, Tifa.",ティファから
+$C3230_MAIN_2800_0300_00_cld,Cloud,"Tifa, after you.",ティファから
 $C3230_MAIN_2800_0400_00_tif,Tifa,"Cloud, come on!",クラウド　ほら！
 $C3230_MAIN_2800_0400_03_cld,Cloud,GOLDE_2862,GOLDE_2862
 $C3230_MAIN_2800_0400_06_cld,Cloud,GOLDE_2863,GOLDE_2863
@@ -2872,7 +2872,7 @@ $C3230_MAIN_2900_0300_05_yfi,Yuffie,GOLDE_2869,GOLDE_2869
 $C3230_MAIN_2900_0400_00_yfi,Yuffie,For the day that’s coming soon!,やがて　来る日のために！
 $C3230_MAIN_2900_0400_03_yfi,Yuffie,GOLDE_2871,GOLDE_2871
 $C3230_MAIN_2900_0400_06_yfi,Yuffie,GOLDE_2872,GOLDE_2872
-$C3230_MAIN_2900_0500_00_yfi,Yuffie,"Hey, escort me!",おい　エスコート！
+$C3230_MAIN_2900_0500_00_yfi,Yuffie,"Oi! Escort me!",おい　エスコート！
 $C3230_MAIN_3000_0000_05_blt,Barret,GOLDE_2874,GOLDE_2874
 $C3230_MAIN_3000_0000_08_cld,Cloud,GOLDE_2875,GOLDE_2875
 $C3230_MAIN_3000_0100_00_cld,Cloud,Are we really doing this?,本当に乗るのか？
@@ -2905,9 +2905,9 @@ $C3230_MAIN_3300_0400_11_art,Aerith,GOLDE_2902,GOLDE_2902
 $C3230_MAIN_3300_0400_14_art,Aerith,GOLDE_2903,GOLDE_2903
 $C3230_MAIN_3300_0500_00_art,Aerith,"Oh, look at that!",あれ　見て！
 $C3230_MAIN_3300_0500_05_art,Aerith,GOLDE_2905,GOLDE_2905
-$C3230_MAIN_3300_0600_00_art,Aerith,So intense!,大迫力！
+$C3230_MAIN_3300_0600_00_art,Aerith,So thrilling!,大迫力！
 $C3230_MAIN_3300_0700_00_cld,Cloud,Riding a chocobo’s nothing like that.,チョコボの上は　こんなものじゃない
-$C3230_MAIN_3300_0800_00_art,Aerith,As expected of our expert!,さすがは　経験者
+$C3230_MAIN_3300_0800_00_art,Aerith,As expected of the expert!,さすがは　経験者
 $C3230_MAIN_3300_0800_05_art,Aerith,GOLDE_2909,GOLDE_2909
 $C3230_MAIN_3300_0800_08_art,Aerith,GOLDE_2910,GOLDE_2910
 $C3230_MAIN_3300_0900_00_art,Aerith,"Wow...so pretty~!",わあ　きれ～！
@@ -2967,14 +2967,14 @@ $C3230_MAIN_3700_0210_00_cld,Cloud,"I wonder if she still likes him.",まだ好�
 $C3230_MAIN_3700_0300_00_cld,Cloud,"Aerith, about Zack, I mean.",エアリスは　ザックスのこと
 $C3230_MAIN_3700_0400_00_tif,Tifa,I don’t think it’s that simple.,そんなに　単純な話じゃないと思うな
 $C3230_MAIN_3700_0490_00_tif,Tifa,GOLDE_2967,GOLDE_2967
-$C3230_MAIN_3700_0500_00_tif,Tifa,"It’s strange, being here with you like this, Cloud.",クラウドとこんなふうにしてるなんて　不思議
-$C3230_MAIN_3700_0600_00_cld,Cloud,"Really? No...I guess it is.",そうか？　いや……そうだな
-$C3230_MAIN_3700_0700_00_tif,Tifa,"Thinking back to when we were kids, or even since this journey started...",子供の頃のことを考えても<br>この旅が始まってからのことを考えても
+$C3230_MAIN_3700_0500_00_tif,Tifa,"Hey, Cloud, being with you like this, it’s strange.",クラウドとこんなふうにしてるなんて　不思議
+$C3230_MAIN_3700_0600_00_cld,Cloud,"Is it? No...I guess so.",そうか？　いや……そうだな
+$C3230_MAIN_3700_0700_00_tif,Tifa,"Whether I think back to when we were kids, or even since this journey started...",子供の頃のことを考えても<br>この旅が始まってからのことを考えても
 $C3230_MAIN_3700_0800_00_tif,Tifa,It’s still so strange.,やっぱり　不思議
 $C3230_MAIN_3700_0900_00_tif,Tifa,Being this close to you...,こんなに　近くにいる
 $C3230_MAIN_3700_0900_03_cld,Cloud,GOLDE_2973,GOLDE_2973
 $C3230_MAIN_3700_0900_05_tif,Tifa,GOLDE_2974,GOLDE_2974
-$C3230_MAIN_3700_1000_00_tif,Tifa,"Hey, are you just going through the motions again?",ねえ　また流されてる？
+$C3230_MAIN_3700_1000_00_tif,Tifa,"Hey, are you just going with the flow again?",ねえ　また流されてる？
 $C3230_MAIN_3700_1100_00_cld,Cloud,Again?,また？
 $C3230_MAIN_3700_1200_00_tif,Tifa,"Yeah, again...",うん　また……
 $C3230_MAIN_3700_1200_05_tif,Tifa,GOLDE_2978,GOLDE_2978
@@ -3004,17 +3004,17 @@ $C3230_MAIN_3800_0900_11_yfi,Yuffie,GOLDE_3001,GOLDE_3001
 $C3230_MAIN_3800_0900_15_yfi,Yuffie,GOLDE_3002,GOLDE_3002
 $C3230_MAIN_3800_0900_17_yfi,Yuffie,GOLDE_3003,GOLDE_3003
 $C3230_MAIN_3800_1000_00_yfi,Yuffie,"You and Tifa are childhood friends, right?",ティファとは　幼なじみなんだよね
-$C3230_MAIN_3800_1100_00_cld,Cloud,"Y—yeah.",ああ
+$C3230_MAIN_3800_1100_00_cld,Cloud,"Yeah.",ああ
 $C3230_MAIN_3800_1200_00_yfi,Yuffie,"And you were Tifa’s first love, huh?",ティファの　初恋の相手なんだってね？
 $C3230_MAIN_3800_1300_00_cld,Cloud,Dunno.,さあ
-$C3230_MAIN_3800_1400_00_yfi,Yuffie,"Cloud was a weirdo back then, kinda a jerk, honestly.",クラウドは変わり者で<br>どっちかというと　嫌なヤツだったけど
+$C3230_MAIN_3800_1400_00_yfi,Yuffie,"Cloud was a weirdo back then, kinda a jerk, to be honest.",クラウドは変わり者で<br>どっちかというと　嫌なヤツだったけど
 $C3230_MAIN_3800_1500_00_yfi,Yuffie,"But one day, she suddenly realized she liked you!",ある日　とつぜん<br>好きだって気づいたんだって！
-$C3230_MAIN_3800_1600_00_yfi,Yuffie,"What about you, Cloud?",クラウドは　どうなの？
+$C3230_MAIN_3800_1600_00_yfi,Yuffie,"Cloud, so what about you?",クラウドは　どうなの？
 $C3230_MAIN_3800_1700_00_cld,Cloud,Forgot.,忘れた
 $C3230_MAIN_3800_1800_00_yfi,Yuffie,GOLDE_3012,GOLDE_3012
-$C3230_MAIN_3800_1900_00_yfi,Yuffie,Tifa said she got so busy after moving to Midgar that she forgot too.,ティファも　ミッドガルに移ってからは<br>忙しくて忘れてたって言ってたけど
+$C3230_MAIN_3800_1900_00_yfi,Yuffie,"Tifa said she got so busy in Midgar that she forgot about it too, though.",ティファも　ミッドガルに移ってからは<br>忙しくて忘れてたって言ってたけど
 $C3230_MAIN_3800_1900_05_cld,Cloud,GOLDE_3014,GOLDE_3014
-$C3230_MAIN_3800_2000_00_yfi,Yuffie,My first love was a SOLDIER!,アタシの初恋の相手　ソルジャーなんだよね
+$C3230_MAIN_3800_2000_00_yfi,Yuffie,"My first love, he was a SOLDIER, y’know.",アタシの初恋の相手　ソルジャーなんだよね
 $C3230_MAIN_3800_2010_00_yfi,Yuffie,Met him on the battlefield—pretty sure he was a SOLDIER.,戦場で出会った　たぶんソルジャー
 $C3230_MAIN_3800_2100_00_yfi,Yuffie,"Back then, I unleashed my ultimate move!",その頃の　アタシの最高のワザを出したんだ
 $C3230_MAIN_3800_2110_00_yfi,Yuffie,Shoo-shoo-shoo-shoo!,シュシュシュシュって
@@ -3027,15 +3027,15 @@ $C3230_MAIN_3800_2700_00_yfi,Yuffie,"But y’know, thinking about it, he was kin
 $C3230_MAIN_3800_2800_00_yfi,Yuffie,"And while I was mulling that over, I was like, ""Oh, maybe I like him~!""",そんなこと考えてるうちに<br>ああ　好きかも～ってさ
 $C3230_MAIN_3800_2900_00_yfi,Yuffie,Maybe that’s why I still can’t shoot energy waves.,そのせいかな<br>まだ　波動は出ないよ
 $C3230_MAIN_3800_3000_00_cld,Cloud,I’ll help you out.,手伝ってやる
-$C3230_MAIN_3800_3100_00_yfi,Yuffie,Training? Love?,しゅぎょー？　こい？
+$C3230_MAIN_3800_3100_00_yfi,Yuffie,Training? Or Love?,しゅぎょー？　こい？
 $C3230_MAIN_3800_3200_00_cld,Cloud,Love? I wouldn’t know that.,恋なんて　俺にはわからない
-$C3230_MAIN_3800_3300_00_yfi,Yuffie,"Aw, what a pity we are~!",あ～あ　残念なアタシたちだね～
+$C3230_MAIN_3800_3300_00_yfi,Yuffie,"Aw, what a sorry pair we are~!",あ～あ　残念なアタシたちだね～
 $C3230_MAIN_3800_3300_05_cld,Cloud,GOLDE_3031,GOLDE_3031
-$C3230_MAIN_3800_3400_00_yfi,Yuffie,"Y’know, I was just kinda feeling that vibe or whatever~?",いや～　その　なんか<br>そ～ゆ～フンイキかな～？
-$C3230_MAIN_3800_3500_00_yfi,Yuffie,That’s what I was thinking...,って思ったわけよ……
-$C3230_MAIN_3800_3600_00_yfi,Yuffie,No deep meaning behind it!,とくに　深い意味はないから
+$C3230_MAIN_3800_3400_00_yfi,Yuffie,"Well~ like, y’know, just that kinda vibe or whatever~?",いや～　その　なんか<br>そ～ゆ～フンイキかな～？
+$C3230_MAIN_3800_3500_00_yfi,Yuffie,That’s what I was thinkin’...,って思ったわけよ……
+$C3230_MAIN_3800_3600_00_yfi,Yuffie,"No deep meanin’ behind it, ‘kay?",とくに　深い意味はないから
 $C3230_MAIN_3800_3600_05_yfi,Yuffie,GOLDE_3035,GOLDE_3035
-$C3230_MAIN_3800_3700_00_yfi,Yuffie,"Hey, say something already~!",おい　なんとか言え～！
+$C3230_MAIN_3800_3700_00_yfi,Yuffie,"Hey, say somethin’ already~!",おい　なんとか言え～！
 $C3230_MAIN_3800_3800_00_cld,Cloud,Something.,ナントカ
 $C3230_MAIN_3800_3900_00_yfi,Yuffie,What’s that supposed to mean?! You didn’t even dodge it!,なんだ～それ！<br>自分だって　よけなかったくせに
 $C3230_MAIN_3800_3900_05_yfi,Yuffie,GOLDE_3039,GOLDE_3039
@@ -3129,29 +3129,29 @@ $C3230_MAIN_4000_1100_00_cld,Cloud,What’s up?,なんだ？
 $C3230_MAIN_4000_1200_00_red,Red XIII,"Uh, I’d like you to pretend you didn’t hear this, but...",あのね　聞かなかったことにしてほしいんだけど
 $C3230_MAIN_4000_1300_00_red,Red XIII,"Back in Midgar, Aerith and I...we knew the future.",ミッドガルにいたとき<br>エアリスとオイラは　未来を知ってたんだ
 $C3230_MAIN_4000_1400_00_cld,Cloud,"Yeah, I had a feeling. Not anymore, though?",ああ　そんな気がしていた<br>いまはもう　違うのか？
-$C3230_MAIN_4000_1500_00_red,Red XIII,Nope. It’s gone now.,うん　もう知らない
+$C3230_MAIN_4000_1500_00_red,Red XIII,"Yeah, I don’t know anymore.",うん　もう知らない
 $C3230_MAIN_4000_1600_00_red,Red XIII,"When we left Midgar, I think the Feelers took it away.",ミッドガルを出るとき<br>フィーラーに　奪われたんだと思う
 $C3230_MAIN_4000_1700_00_cld,Cloud,I see.,そうか
-$C3230_MAIN_4000_1800_00_red,Red XIII,"They were...fate’s watchdogs, right?",運命の……番人だったよね
+$C3230_MAIN_4000_1800_00_red,Red XIII,"They were...fate’s guardians, weren’t they?",運命の……番人だったよね
 $C3230_MAIN_4000_1900_00_cld,Cloud,That’s what you called ‘em.,おまえが　そう言ったんだ
 $C3230_MAIN_4000_2000_00_red,Red XIII,Did I...? Will we forget about them too?,そうだっけ……<br>あいつらのことも忘れちゃうのかな？
 $C3230_MAIN_4000_2100_00_cld,Cloud,Doesn’t matter. I don’t care about fate.,べつにいいさ<br>運命なんて気にしない
-$C3230_MAIN_4000_2200_00_cld,Cloud,No point in trying to.,気にしようがない
-$C3230_MAIN_4000_2300_00_red,Red XIII,True.,そうだね
+$C3230_MAIN_4000_2200_00_cld,Cloud,No point in worrying about it.,気にしようがない
+$C3230_MAIN_4000_2300_00_red,Red XIII,That’s true.,そうだね
 $C3230_MAIN_4000_2310_00_red,Red XIII,But there’s one thing I don’t want you to forget.,でも　ひとつだけ忘れないでほしいことがあるんだ
 $C3230_MAIN_4000_2400_00_red,Red XIII,Let’s protect Aerith...,エアリスを……守ろう
 $C3230_MAIN_4000_2500_00_cld,Cloud,GOLDE_3141,GOLDE_3141
 $C3230_MAIN_4000_2600_00_red,Red XIII,We’ve gotta protect Aerith.,エアリスを守ろう
-$C3230_MAIN_4000_2700_00_red,Red XIII,That’s the only thing I still remember—that we can’t forget this.,このことを忘れちゃいけないってことしか<br>覚えてないんだ
+$C3230_MAIN_4000_2700_00_red,Red XIII,The only thing I remember is that we can’t forget this.,このことを忘れちゃいけないってことしか<br>覚えてないんだ
 $C3230_MAIN_4000_2700_03_cld,Cloud,GOLDE_3144,GOLDE_3144
 $C3230_MAIN_4000_2700_05_red,Red XIII,GOLDE_3145,GOLDE_3145
 $C3230_MAIN_4000_2800_00_red,Red XIII,So...,じゃあ……
 $C3230_MAIN_4000_2900_00_cld,Cloud,What?,なんだ？
 $C3230_MAIN_4000_3000_00_red,Red XIII,A pact handshake!,誓いの握手！
 $C3230_MAIN_4000_3000_05_red,Red XIII,GOLDE_3149,GOLDE_3149
-$C3230_MAIN_4000_3100_00_cld,Cloud,It’s soft.,やわらかいんだな
+$C3230_MAIN_4000_3100_00_cld,Cloud,"It’s soft, huh?",やわらかいんだな
 $C3230_MAIN_4000_3200_00_red,Red XIII,GOLDE_3151,GOLDE_3151
-$C3230_MAIN_4000_3300_00_cld,Cloud,"No, never mind.",いや　なんでもない
+$C3230_MAIN_4000_3300_00_cld,Cloud,"No, it’s nothing.",いや　なんでもない
 $C3230_MAIN_4100_0100_00_cid,Cid,"Just ridin’ along, huh? Borin’ as hell—put a damn joystick on this thing!",ただ乗るだけかよ<br>つまんねえな～　操縦桿つけろい！
 $C3230_MAIN_4100_0200_00_cat,Cait Sith,"Looks like there’s a wheel, though.",ハンドルはあるみたいやけど
 $C3230_MAIN_4100_0300_00_cid,Cid,GOLDE_3155,GOLDE_3155
@@ -3173,7 +3173,7 @@ $C3230_MAIN_4100_1500_05_cat,Cait Sith,GOLDE_3170,GOLDE_3170
 $C3230_MAIN_4100_1500_07_cat,Cait Sith,GOLDE_3171,GOLDE_3171
 $C3230_MAIN_4100_1500_09_cat,Cait Sith,GOLDE_3172,GOLDE_3172
 $C3230_MAIN_4100_1600_00_cat,Cait Sith,"I get asked to fortune-tell races all the time,",ボク　よくレースの占いを頼まれるんですけど
-$C3230_MAIN_4100_1700_00_cat,Cait Sith,"But if I could predict the outcomes, I’d be placin’ bets myself, wouldn’t I?",いやいや　結果が予言できるんやったら<br>自分で賭けるっちゅーねん　ねえ？
+$C3230_MAIN_4100_1700_00_cat,Cait Sith,"But if I could predict the outcomes, I’d be placin’ bets myself, y’know?",いやいや　結果が予言できるんやったら<br>自分で賭けるっちゅーねん　ねえ？
 $C3230_MAIN_4100_1800_00_cld,Cloud,GOLDE_3175,GOLDE_3175
 $C3230_MAIN_4100_1900_00_cid,Cid,GOLDE_3176,GOLDE_3176
 $C3230_MAIN_4100_2000_00_vin,Vincent,GOLDE_3177,GOLDE_3177
