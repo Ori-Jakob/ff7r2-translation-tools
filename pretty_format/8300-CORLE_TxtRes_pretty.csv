@@ -344,9 +344,9 @@ $C2410_MAIN_4000_0200_00_art,Aerith,Kept ya waiting!,おまたせ～！
 $C2410_MAIN_4000_0400_00_blt,Barret,CORLE_342,CORLE_342
 $C2410_MAIN_4000_0410_00_blt,Barret,Ain’t no damn tension here at all!,緊張感ってモンがねえぜ　まったく
 $C2410_MAIN_4000_0600_00_tif,Tifa,"Cloud, something wrong?",クラウド　どうかした？
-$C2410_MAIN_4000_0700_00_cld,Cloud,"Nah, it’s just...",ああ　いや……
-$C2410_MAIN_4000_0710_00_cld,Cloud,The sun’s real strong here.,ここは……その　日射しが強い
-$C2410_MAIN_4000_0800_00_cld,Cloud,"Watch out. Overdo it, and it’ll sting later.",気をつけろ　焼きすぎると痛い　あとでな
+$C2410_MAIN_4000_0700_00_cld,Cloud,"Huh? Ahh...no.",ああ　いや……
+$C2410_MAIN_4000_0710_00_cld,Cloud,"It’s...well, the sunlight’s intense here.",ここは……その　日射しが強い
+$C2410_MAIN_4000_0800_00_cld,Cloud,"Be careful. If you get too much sun, it’ll hurt later.",気をつけろ　焼きすぎると痛い　あとでな
 $C2410_MAIN_4000_0800_05_mma,NPC,CORLE_348,CORLE_348
 $C2410_MAIN_4000_0800_06_mma,NPC,CORLE_349,CORLE_349
 $C2410_MAIN_4000_0900_00_art,Aerith,Nothing else to say?,もっとなんか　ないの？
@@ -369,7 +369,7 @@ $C2410_MAIN_4000_1100_00_art,Aerith,Hojo...,宝条……
 $C2410_MAIN_4000_1200_00_hjo,Hojo,"What’s this? You lot came too, did you?",なんだ　君たちも来ていたのかね
 $C2410_MAIN_4000_1300_00_hjo,Hojo,My goal today isn’t Aerith.,今日の目的は　エアリスじゃない
 $C2410_MAIN_4000_1310_00_hjo,Hojo,"Of course, if you’d cooperate, I’d welcome it.",もちろん　協力してくれるというのなら<br>歓迎するがね
-$C2410_MAIN_4000_1400_00_art,Aerith,No thanks.,お断りします
+$C2410_MAIN_4000_1400_00_art,Aerith,I refuse.,お断りします
 $C2410_MAIN_4000_1500_00_hjo,Hojo,More importantly...,それより……
 $C2410_MAIN_4000_1500_05_mnt,NPC,CORLE_372,CORLE_372
 $C2410_MAIN_4000_1600_00_hjo,Hojo,My little spectacle’s about to begin.,これから　私の見世物が始まる

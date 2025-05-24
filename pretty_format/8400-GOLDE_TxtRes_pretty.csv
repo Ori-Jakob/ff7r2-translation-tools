@@ -393,12 +393,12 @@ $C2610_MAIN_1500_0710_05_blt,Barret,GOLDE_390,GOLDE_390
 $C2610_MAIN_1500_0800_00_cat,???,"How about I read your fortune, you two?",おふたりさん　よかったら占いましょか？
 $C2610_MAIN_1500_0900_00_cat,???,"A bright future, a fun future. Ah— If it’s a rotten one, don’t blame me!",明るいミライ　ゆかいなミライ<br>悲惨な未来が出たら　かんにんしてや
 $C2610_MAIN_1500_1000_00_blt,Barret,What’s this thing?,なんだ　こいつ
-$C2610_MAIN_1500_1100_00_cat,???,"Big guy, big guy! Over here, over here!",お兄さんお兄さん　こっちこっち
+$C2610_MAIN_1500_1100_00_cat,???,"Big bro, big bro! Over here, over here!",お兄さんお兄さん　こっちこっち
 $C2610_MAIN_1500_1100_05_blt,Barret,GOLDE_395,GOLDE_395
 $C2610_MAIN_1500_1200_00_cat,Cait Sith,"I’m the fortune-tellin’ machine, Cait Sith!",ボクは　占いマシーンのケット・シー
 $C2610_MAIN_1500_1210_00_cat,Cait Sith,Nice to meetcha!,よろしゅう！
 $C2610_MAIN_1500_1300_00_blt,Barret,"A stuffed robot, huh? Pretty well made.",ぬいぐるみのロボットか　よくできてんじゃねえか
-$C2610_MAIN_1500_1400_00_cat,Cait Sith,"Big guy, smiiiile~!",お兄さん　スマ～イル！
+$C2610_MAIN_1500_1400_00_cat,Cait Sith,"Big bro, smiiiile~!",お兄さん　スマ～イル！
 $C2610_MAIN_1500_1500_00_cat,Cait Sith,This place is for forgettin’ your daily woes and havin’ a good time!,ここは　日頃の面倒ごとを忘れて<br>楽しむ場所やねんから
 $C2610_MAIN_1500_1510_00_cat,Cait Sith,"C’mon, laugh it up!",ほら　笑って笑って！
 $C2610_MAIN_1500_1600_00_blt,Barret,Shut it!,うるせえ！
@@ -2114,36 +2114,36 @@ $C3210_MAIN_2100_0700_00_cid,Cid,That’s why I love the sky. Ain’t nobody up 
 $C3210_MAIN_2100_0800_00_cid,Cid,Let ‘em yell from below all they want—can’t hear a damn thing!,せいぜい　下から叫んでろって<br>聞こえねえぞ……ってな！
 $C3210_MAIN_2100_0900_00_cid,Cid,"Man, I wanna fly again...",くう～　飛びてえなあ
 $C3210_MAIN_2200_0100_00_cld,Cloud,"Cait Sith, fill us in on the Keystone now while we’ve got time.",ケット・シー<br>いまのうちにキーストーンの話を頼む
-$C3210_MAIN_2200_0200_00_cat,Cait Sith,"Aye, sir!",はいな！
-$C3210_MAIN_2200_0300_00_cat,Cait Sith,"This goes back about 20 years. Some antique-lovin’ Shinra employee convinced the company,",２０年ほど前の話なんですが<br>とある骨董好き社員が会社を説得して
-$C3210_MAIN_2200_0400_00_cat,Cait Sith,and they built a museum called the Archaeological Hall.,考古の館という博物館を建てたんです
-$C3210_MAIN_2200_0500_00_cat,Cait Sith,"Records say the Keystone was kept there, seems like.",記録によると　そこにキーストーンが<br>保管されとったみたいですね
-$C3210_MAIN_2200_0600_00_yfi,Yuffie,Isn’t it at the Gold Saucer?,ゴールドソーサーにあるんじゃないの？
+$C3210_MAIN_2200_0200_00_cat,Cait Sith,"Got it!",はいな！
+$C3210_MAIN_2200_0300_00_cat,Cait Sith,"‘Bout twenty years back, see, some antique-lovin’ Shinra fella talked the company into it, y’know.",２０年ほど前の話なんですが<br>とある骨董好き社員が会社を説得して
+$C3210_MAIN_2200_0400_00_cat,Cait Sith,"And they built a museum called the Archaeological Hall, ya",考古の館という博物館を建てたんです
+$C3210_MAIN_2200_0500_00_cat,Cait Sith,"Word is, the Keystone was stashed there, seems like.",記録によると　そこにキーストーンが<br>保管されとったみたいですね
+$C3210_MAIN_2200_0600_00_yfi,Yuffie,Ain’t it at the Gold Saucer?,ゴールドソーサーにあるんじゃないの？
 $C3210_MAIN_2200_0700_00_cat,Cait Sith,"Now, now, hear me out to the end!",まあまあ　最後まで聞いてください
-$C3210_MAIN_2200_0800_00_cat,Cait Sith,"That Archaeological Hall was a total flop, just downright unpopular,",その考古の館が　それはもう<br>とんでもなく不人気で
-$C3210_MAIN_2200_0900_00_cat,Cait Sith,and it shut down quick as ye please.,すぐに　閉館になってしもて
-$C3210_MAIN_2200_1000_00_cat,Cait Sith,"In the chaos of closin’ up shop, the Keystone went missin’, that’s the story!",で　その閉館のドサクサにまぎれて<br>キーストーンが消えたっちゅうワケです
+$C3210_MAIN_2200_0800_00_cat,Cait Sith,"That Archaeological Hall was a total flop, just downright unpopular, y’know.",その考古の館が　それはもう<br>とんでもなく不人気で
+$C3210_MAIN_2200_0900_00_cat,Cait Sith,So it ended up closin’ down.,すぐに　閉館になってしもて
+$C3210_MAIN_2200_1000_00_cat,Cait Sith,"And in all the closin’ chaos, the Keystone up and vanished—that’s the tale!",で　その閉館のドサクサにまぎれて<br>キーストーンが消えたっちゅうワケです
 $C3210_MAIN_2200_1100_00_yfi,Yuffie,So it’s not here after all!,やっぱり　ないんじゃん！
 $C3210_MAIN_2200_1200_00_cld,Cloud,No leads at all?,手がかりはないのか？
-$C3210_MAIN_2200_1300_00_cat,Cait Sith,The old curator might know somethin’ if ye ask him.,元館長に聞けば　なんか知ってるかもしれません
+$C3210_MAIN_2200_1300_00_cat,Cait Sith,The old curator might know somethin’ if ya ask him.,元館長に聞けば　なんか知ってるかもしれません
 $C3210_MAIN_2200_1400_00_vin,Vincent,Dio?,ディオか
-$C3210_MAIN_2200_1500_00_cid,Cid,"You sure know a lot, huh, pal.",やけに詳しいな　兄ちゃん
+$C3210_MAIN_2200_1500_00_cid,Cid,"You sure know a lot, don’t ya, pal.",やけに詳しいな　兄ちゃん
 $C3210_MAIN_2200_1600_00_vin,Vincent,My tenure with the company...has been substantial.,社歴は……そこそこ長い
-$C3210_MAIN_2200_1700_00_cat,Cait Sith,"Dio hit rock bottom after a demotion from curator, then pitched the Gold Saucer idea,",館長からの降格で　ドン底やったディオはんが<br>ゴールドソーサーを企画して
-$C3210_MAIN_2200_1800_00_cat,Cait Sith,climbed back up to overseer—a real Shinra dream come true!,園長にまで登りつめる復活劇<br>これは神羅ドリームのひとつですわ
+$C3210_MAIN_2200_1700_00_cat,Cait Sith,"Mister Dio down in the dumps after gettin’ demoted from curator, went and pitched the Gold Saucer idea, see.",館長からの降格で　ドン底やったディオはんが<br>ゴールドソーサーを企画して
+$C3210_MAIN_2200_1800_00_cat,Cait Sith,"Climbed all the way to overseer—a real Shinra dream come true, that’s what it is!",園長にまで登りつめる復活劇<br>これは神羅ドリームのひとつですわ
 $C3210_MAIN_2400_0100_00_cld,Cloud,Let’s split up and find Dio.,手分けして　ディオを探そう
 $C3210_MAIN_2400_0200_00_yfi,Yuffie,Got it!,りょーかい！
-$C3210_MAIN_2400_0300_00_blt,Barret,"Listen up, no goofin’ off!",いいか　チャラチャラ遊ぶなよ
+$C3210_MAIN_2400_0300_00_blt,Barret,"Listen up, no messin’ around!",いいか　チャラチャラ遊ぶなよ
 $C3210_MAIN_2400_0300_05_yfi,Yuffie,Eek!,ギクッ！
 $C3210_MAIN_2500_0100_00_cat,Cait Sith,"Cloud, sir, got a sec?",クラウドさん　ちょっといいですか？
-$C3210_MAIN_2500_0200_00_cat,Cait Sith,There’s somethin’ about the Temple of the Ancients I haven’t told the others.,古代種の神殿のことで<br>みなさんに言ってないことがあるんです
-$C3210_MAIN_2500_0300_00_cat,Cait Sith,"Truth is, there’s a right creepy legend about it.",実は　イヤ～な伝説が残ってまして
+$C3210_MAIN_2500_0200_00_cat,Cait Sith,TThere’s somethin’ ‘bout the Temple of the Ancients I ain’t told the others yet.,古代種の神殿のことで<br>みなさんに言ってないことがあるんです
+$C3210_MAIN_2500_0300_00_cat,Cait Sith,"Truth is, there’s this real creepy legend floatin’ ‘round.",実は　イヤ～な伝説が残ってまして
 $C3210_MAIN_2500_0400_00_cld,Cloud,What is it?,なんだ？
 $C3210_MAIN_2500_0500_00_cat,Cait Sith,"""No one who’s entered the Temple has come back alive"", or somethin’ like that.",『神殿に入って生きて帰った者はいない』<br>とかなんとか
-$C3210_MAIN_2500_0510_00_cat,Cait Sith,Is it really okay takin’ everyone to a place like that?,そんなとこに<br>みなさんをつれてって　ええんやろか？
+$C3210_MAIN_2500_0510_00_cat,Cait Sith,"Is it really okay takin’ everyone to a place like that, I wonder?",そんなとこに<br>みなさんをつれてって　ええんやろか？
 $C3210_MAIN_2500_0510_05_cld,Cloud,GOLDE_2142,GOLDE_2142
 $C3210_MAIN_2500_0600_00_cld,Cloud,Don’t worry about it. It’s just a legend.,気にするな　ただの伝説だ
-$C3210_MAIN_2500_0700_00_cat,Cait Sith,"Aye, I suppose that’s true,",それはそうなんやけど
+$C3210_MAIN_2500_0700_00_cat,Cait Sith,"Aye, that’s true an’ all, but...",それはそうなんやけど
 $C3210_MAIN_2500_0800_00_cld,Cloud,Focus on the Keystone first. Let’s find Dio.,まずはキーストーンだ　ディオを探そう
 $C3210_MAIN_2600_0100_00_tif,Tifa,"Cloud, looks like Dio’s not around here.",クラウド<br>このあたりにディオはいないみたい
 $C3210_MAIN_2600_0200_00_tif,Tifa,Doesn’t anyone here know about the war?,みんな　戦争のことは知らないのかな
@@ -2151,12 +2151,12 @@ $C3210_MAIN_2600_0300_00_cld,Cloud,War’s just a distant story to most people.,
 $C3210_MAIN_2600_0310_00_cld,Cloud,Until they’re standin’ on the battlefield.,戦場に立つまではな
 $C3210_MAIN_2600_0400_00_tif,Tifa,"Hey, Cloud.",ねえ　クラウド
 $C3210_MAIN_2600_0500_00_cld,Cloud,GOLDE_2151,GOLDE_2151
-$C3210_MAIN_2600_0600_00_tif,Tifa,I thought I could do so much more.,私　もっと色々できることがあると思ってた
-$C3210_MAIN_2600_0610_00_tif,Tifa,"Fight, protect, talk, make people understand.",戦って　守って　話して　わかってもらって
-$C3210_MAIN_2600_0700_00_tif,Tifa,But the problems just keep piling up.,でも　問題はどんどん増えていく
+$C3210_MAIN_2600_0600_00_tif,Tifa,I believed I could do so much more.,私　もっと色々できることがあると思ってた
+$C3210_MAIN_2600_0610_00_tif,Tifa,"Fight, protect, speak, get people to understand.",戦って　守って　話して　わかってもらって
+$C3210_MAIN_2600_0700_00_tif,Tifa,But the problems just keep stacking up.,でも　問題はどんどん増えていく
 $C3210_MAIN_2600_0710_00_tif,Tifa,"No matter how far I reach, it’s never enough.",どんなに手を広げても　届かない
 $C3210_MAIN_2600_0800_00_tif,Tifa,I was too full of myself...,思いあがってた……
-$C3210_MAIN_2600_0900_00_cat,Cait Sith,"Aye, true enough. But knowin’ yer limits ain’t a bad thing.",そうですなあ<br>でも　己の器を知るのは悪いことじゃありません
+$C3210_MAIN_2600_0900_00_cat,Cait Sith,"Well, that’s how it is, ain’t it? But figurin’ out ya limits ain’t no bad thing, y’know.",そうですなあ<br>でも　己の器を知るのは悪いことじゃありません
 $C3210_MAIN_2600_1000_00_cld,Cloud,It’ll reach.,届く
 $C3210_MAIN_2600_1100_00_cld,Cloud,We’re not the kids who tumbled down Nibel Mountain anymore.,俺たちは　もう<br>ニブル山から転げ落ちた子供じゃない
 $C3210_MAIN_2600_1110_00_cld,Cloud,"We’ve gotten stronger, and we’ve got allies now.",強くなったし　仲間もいる
@@ -2171,7 +2171,7 @@ $C3210_MAIN_2610_0100_00_mma,Staff,Couples out there!,カップルの皆様
 $C3210_MAIN_2610_0110_00_mma,Staff,Tickets for the special match are running low!,スペシャルマッチのチケットが<br>残り少なくなっております
 $C3210_MAIN_2610_0200_00_mma,Staff,A grand spectacle tomorrow at the Battle Square!,明日　バトルスクエアで開催される特別な祭典
 $C3210_MAIN_2610_0210_00_mma,Staff,Don’t miss out on grabbin’ yours!,決して　お買い逃がしのないように
-$C3210_MAIN_2700_0100_00_blt,Barret,"Yo, looks like Dio ain’t here neither.",おう　ここにディオはいねえみてえだな
+$C3210_MAIN_2700_0100_00_blt,Barret,"Yo, looks like Dio ain’t here either.",おう　ここにディオはいねえみてえだな
 $C3210_MAIN_2700_0200_00_blt,Barret,Did ya know Jessie used to act as a performer here?,おまえ　ジェシーがここで<br>女優やってたって知ってたか？
 $C3210_MAIN_2700_0300_00_cld,Cloud,Yeah.,ああ
 $C3210_MAIN_2700_0400_00_blt,Barret,That so...,そうか……
@@ -2241,9 +2241,9 @@ $C3210_MAIN_3400_0100_05_cld,Cloud,GOLDE_2238,GOLDE_2238
 $C3210_MAIN_3400_0200_00_cld,Cloud,What happened?,どうしたんだ？
 $C3210_MAIN_3400_0200_05_dio,Dio,GOLDE_2240,GOLDE_2240
 $C3210_MAIN_3400_0300_00_dio,Dio,"Man, those Turks are tough! Underestimated ‘em ‘cause they’re scrawny!",いや～　タークスってのは強いんだなあ<br>細いからあなどったよ
-$C3210_MAIN_3400_0400_00_cat,Cait Sith,"Ye’re not young anymore, oughta take it easy.",もう若ないんやから　すこしひかえんと
+$C3210_MAIN_3400_0400_00_cat,Cait Sith,"Ya ain’t young no more, so ya gotta take it easy,",もう若ないんやから　すこしひかえんと
 $C3210_MAIN_3400_0400_05_cat,Cait Sith,GOLDE_2243,GOLDE_2243
-$C3210_MAIN_3400_0500_00_cat,Cait Sith,"By the by, Dio, ye know about the Keystone, aye?",ところで　ディオはん<br>キーストーン　知ってますよね？
+$C3210_MAIN_3400_0500_00_cat,Cait Sith,"By the way, Mister Dio, ya know ‘bout the Keystone, don’tcha?",ところで　ディオはん<br>キーストーン　知ってますよね？
 $C3210_MAIN_3400_0600_00_cld,Cloud,"You used to have it, didn’t you?",以前は　あんたが持っていたはずだ
 $C3210_MAIN_3400_0600_05_dio,Dio,GOLDE_2246,GOLDE_2246
 $C3210_MAIN_3400_0610_00_cld,Cloud,We want to know where that Keystone’s at now.,俺たちは　そのキーストーンの行方を知りたい
@@ -2251,9 +2251,9 @@ $C3210_MAIN_3400_0610_05_dio,Dio,GOLDE_2248,GOLDE_2248
 $C3210_MAIN_3400_0700_00_dio,Dio,The Keystone? Still got it right here!,キーストーンは　いまも私が持っているよ
 $C3210_MAIN_3400_0800_00_art,Aerith,I’m a descendant of the Cetra.,わたし　セトラの末裔なんです
 $C3210_MAIN_3400_0810_00_art,Aerith,"The Keystone belongs to the Cetra, right?",キーストーンは　セトラのものですよね
-$C3210_MAIN_3400_0900_00_dio,Dio,"Claimin’ rights, huh? I see...Makes sense.",権利の主張か　そうか……なるほど
+$C3210_MAIN_3400_0900_00_dio,Dio,"Hmm, claiming rights? I see...Makes sense.",権利の主張か　そうか……なるほど
 $C3210_MAIN_3400_1000_00_dio,Dio,GOLDE_2253,GOLDE_2253
-$C3210_MAIN_3400_1010_00_dio,Dio,"Young lady, if you’re truly a Cetra descendant, I’d gladly return the Keystone to ya!",お嬢さん　あなたがセトラの末裔だというのなら<br>喜んで　キーストーンをお返ししましょう
+$C3210_MAIN_3400_1010_00_dio,Dio,"Young lady, if you’re truly a Cetra descendant, I’ll gladly return the Keystone to ya!",お嬢さん　あなたがセトラの末裔だというのなら<br>喜んで　キーストーンをお返ししましょう
 $C3210_MAIN_3400_1100_00_dio,Dio,But there’s a catch!,ただし　条件つきでね
 $C3210_MAIN_3400_1200_00_dio,Dio,Muscle Colosseum Special Event!,マッスルコロシアム　スペシャルイベント！
 $C3210_MAIN_3400_1210_00_dio,Dio,Naming Rights Showdown Match!,ネーミングライツ争奪マッチ！
@@ -2267,11 +2267,11 @@ $C3210_MAIN_3400_1400_17_koc,Kotch,"Come at us, bro!",かかってこいや！
 $C3210_MAIN_3400_1400_21_dio,Dio,GOLDE_2265,GOLDE_2265
 $C3210_MAIN_3400_1400_24_dio,Dio,GOLDE_2266,GOLDE_2266
 $C3210_MAIN_3400_1410_00_dio,Dio,Muscle!,マッスール！
-$C3210_MAIN_3400_1420_00_dio,Dio,"Folks, still training hard today?",諸君　今日も元気に鍛えているかな？
-$C3210_MAIN_3400_1500_00_dio,Dio,"But as you can see, I’m in a sorry state!",しかし　このとおり　私はこの有様
-$C3210_MAIN_3400_1600_00_dio,Dio,"Thought it was all over for me, then you lot showed up!",もはやこれまでかと途方に暮れていたら<br>君たちが現れた！
+$C3210_MAIN_3400_1420_00_dio,Dio,"My friends, are you still training hard today?",諸君　今日も元気に鍛えているかな？
+$C3210_MAIN_3400_1500_00_dio,Dio,"But as you can see, I’m in quite a sorry state!",しかし　このとおり　私はこの有様
+$C3210_MAIN_3400_1600_00_dio,Dio,"Thought it was all over for me, when you all showed up!",もはやこれまでかと途方に暮れていたら<br>君たちが現れた！
 $C3210_MAIN_3400_1700_00_dio,Dio,"THE Fate—nay, Destiny itself!",THE 運命　すなわち　ディスティニー！
-$C3210_MAIN_3400_1800_00_dio,Dio,"So, how about it? Fight as Dio’s Legion against the Corneo Family?",どうかね　ディオ軍団として<br>コルネオファミリーと戦ってくれないか？
+$C3210_MAIN_3400_1800_00_dio,Dio,"So, what do you say? Will you fight as Dio’s Legion against the Corneo Family?",どうかね　ディオ軍団として<br>コルネオファミリーと戦ってくれないか？
 $C3210_MAIN_3400_1900_00_art,Aerith,I’m in!,わたし　やる！
 $C3210_MAIN_3400_1900_06_cld,Cloud,GOLDE_2274,GOLDE_2274
 $C3210_MAIN_3400_1900_07_art,Aerith,GOLDE_2275,GOLDE_2275
@@ -2281,10 +2281,10 @@ $C3210_MAIN_3400_2200_00_cld,Cloud,We’ll take it on.,引き受けよう
 $C3210_MAIN_3400_2300_00_dio,Dio,Contract sealed!,契約成立だ！
 $C3210_MAIN_3400_2400_00_dio,Dio,GOLDE_2280,GOLDE_2280
 $C3210_MAIN_3400_2410_00_dio,Dio,"Then tonight, rest up at my hotel and recharge for the fight ahead!",それでは　今宵は我がホテルでゆっくりと休んで<br>英気を養ってくれたまえ
-$C3210_MAIN_3400_2500_00_cat,Cait Sith,"Right then, I’ll go tell the others!",ほな　ボク<br>みなさんにお伝えしときます！
+$C3210_MAIN_3400_2500_00_cat,Cait Sith,"Alrighty then, I’ll go let the others know!",ほな　ボク<br>みなさんにお伝えしときます！
 $C3210_MAIN_3400_2500_07_art,Aerith,GOLDE_2283,GOLDE_2283
-$C3210_MAIN_3410_0100_00_dio,Dio,The Gold Saucer’s fate rests on your shoulders! Countin’ on ya!,ゴールドソーサーは　君たちの肩にかかっている<br>よろしく頼むよ
-$C3210_MAIN_3410_0200_00_dio,Dio,Rooms are ready for ya. Rest up and shake off that travel fatigue!,部屋は用意してある<br>明日に備えて　旅の疲れを癒したまえ
+$C3210_MAIN_3410_0100_00_dio,Dio,The Gold Saucer’s fate rests on your shoulders! I’m countin’ on ya!,ゴールドソーサーは　君たちの肩にかかっている<br>よろしく頼むよ
+$C3210_MAIN_3410_0200_00_dio,Dio,Rooms are ready for you. Rest up and shake off that travel fatigue!,部屋は用意してある<br>明日に備えて　旅の疲れを癒したまえ
 $C3210_MAIN_3415_0100_00_red,Red XIII,"Alright, Card Bout time!",さあ　カードバウトだ！
 $C3210_MAIN_3415_0200_00_red,Red XIII,Time to show off my skills!,私の腕前を見せてやろう
 $C3210_MAIN_3415_0300_00_red,Red XIII,Time to show off my skills!,私の腕前を見せてやろう
@@ -2323,7 +2323,7 @@ $C3210_MAIN_3470_0100_00_cat,Cait Sith,"Aerith~ how ya holdin’ up?",エアリ�
 $C3210_MAIN_3470_0200_00_art,Aerith,Struggling...,苦戦中……
 $C3210_MAIN_3470_0300_00_cat,Cait Sith,Can ya even write lyrics in the first place?,だいたい　歌詞なんか作れるんですか？
 $C3210_MAIN_3470_0300_05_cat,Cait Sith,GOLDE_2323,GOLDE_2323
-$C3210_MAIN_3470_0400_00_art,Aerith,"I don’t know, but I wanted to give it a try.",わからないよ<br>でも　やってみたいって思ったの
+$C3210_MAIN_3470_0400_00_art,Aerith,"I don’t know, but...I wanted to give it a try.",わからないよ<br>でも　やってみたいって思ったの
 $C3210_MAIN_3470_0500_00_cat,Cait Sith,"A real challenger, huh? Impressive, impressive!",チャレンジャーでんなあ　感心感心
 $C3210_MAIN_3470_0500_05_cat,Cait Sith,GOLDE_2326,GOLDE_2326
 $C3210_MAIN_3470_0500_08_art,Aerith,GOLDE_2327,GOLDE_2327
@@ -2390,8 +2390,8 @@ $C3230_MAIN_0500_0200_05_cld,Cloud,GOLDE_2387,GOLDE_2387
 $C3230_MAIN_0500_0300_00_cld,Cloud,Something up?,なにか　あったのか？
 $C3230_MAIN_0500_0400_00_blt,Barret,"There’s a play startin’...""LOVELESS.""",芝居が始まるんだ……『LOVELESS』
 $C3230_MAIN_0500_0410_00_blt,Barret,Got some tickets handed to me.,チケット　もらっちまってよ
-$C3230_MAIN_0500_0500_00_blt,Barret,"Jessie was in that play—wanna see it. How about comin’ along? You’re free anyway, right?",ジェシーが出てた芝居だから　見ておきてえ<br>いっしょにどうだ　どうせヒマだろ？
-$C3230_MAIN_0500_0600_00_cld,Cloud,Why me?,どうして　あんたと
+$C3230_MAIN_0500_0500_00_blt,Barret,"Jessie was in that play, so I wanna check it out. Come along, yeah? You’re free anyway, ain’t ya?",ジェシーが出てた芝居だから　見ておきてえ<br>いっしょにどうだ　どうせヒマだろ？
+$C3230_MAIN_0500_0600_00_cld,Cloud,Why’s it gotta be with you?,どうして　あんたと
 $C3230_MAIN_0500_0700_00_blt,Barret,"Just come on, merc!",いいから来いよ　なんでも屋！
 $C3230_MAIN_0500_0800_00_cld,Cloud,It’ll cost ya.,カネ　取るぞ
 $C3230_MAIN_0600_0100_00_red,Red XIII,Hey.,やあ
@@ -2876,7 +2876,7 @@ $C3230_MAIN_2900_0500_00_yfi,Yuffie,"Hey, escort me!",おい　エスコート�
 $C3230_MAIN_3000_0000_05_blt,Barret,GOLDE_2874,GOLDE_2874
 $C3230_MAIN_3000_0000_08_cld,Cloud,GOLDE_2875,GOLDE_2875
 $C3230_MAIN_3000_0100_00_cld,Cloud,Are we really doing this?,本当に乗るのか？
-$C3230_MAIN_3000_0200_00_blt,Barret,"It’s quieter up here than down there, ain’t it?",こんなかのほうが　いくらか静かだろ
+$C3230_MAIN_3000_0200_00_blt,Barret,"It’s quieter up there than down here, ain’t it?",こんなかのほうが　いくらか静かだろ
 $C3230_MAIN_3000_0300_00_blt,Barret,Keep me company.,つきあえ
 $C3230_MAIN_3100_0100_00_red,Red XIII,"Cloud, quick, quick!",クラウド　はやくはやく！
 $C3230_MAIN_3100_0100_05_cld,Cloud,GOLDE_2880,GOLDE_2880
@@ -3075,19 +3075,19 @@ $C3230_MAIN_3900_0700_08_blt,Barret,GOLDE_3072,GOLDE_3072
 $C3230_MAIN_3900_0700_11_blt,Barret,GOLDE_3073,GOLDE_3073
 $C3230_MAIN_3900_0700_14_blt,Barret,GOLDE_3074,GOLDE_3074
 $C3230_MAIN_3900_0800_00_blt,Barret,"When I was your age, I got sick of workin’ in the coal mines.",おまえぐらいのとき<br>炭坑で働くことがイヤになっちまってよ
-$C3230_MAIN_3900_0900_00_blt,Barret,"But it ain’t like I had somethin’ I wanted to do instead. Just loafed around, messin’ about.",かといって　やりたいことがあるわけでもなくて<br>プラプラと遊び回ってたんだよ
+$C3230_MAIN_3900_0900_00_blt,Barret,"Not like I had somethin’ else I wanted to do, though. Just loafed around, messin’ about.",かといって　やりたいことがあるわけでもなくて<br>プラプラと遊び回ってたんだよ
 $C3230_MAIN_3900_1000_00_blt,Barret,"That’s when I met Myrna. Love at first sight, man.",そんなときさ　ミーナと知り合ったのは<br>ひとめぼれってやつだ
 $C3230_MAIN_3900_1100_00_blt,Barret,"At first, she wouldn’t give me the time of day.",最初はまったく　相手にされなくてよお
 $C3230_MAIN_3900_1110_00_blt,Barret,"""Come back when you’re a real man, kid."" That’s how it went.",一人前になってから出直しておいで坊や<br>ってなもんよ
-$C3230_MAIN_3900_1200_00_blt,Barret,"After that, I turned things around and worked hard. Wanted Myrna to see me for real.",それからは　心を入れ替えて働いたぜ<br>ミーナに認めてもらえるように
+$C3230_MAIN_3900_1200_00_blt,Barret,"After that, I turned things around and busted my ass, so Myrna’d see me for real.",それからは　心を入れ替えて働いたぜ<br>ミーナに認めてもらえるように
 $C3230_MAIN_3900_1300_00_blt,Barret,Our first date was at an amusement park.,最初のデートは　遊園地だったな
 $C3230_MAIN_3900_1400_00_blt,Barret,"Not a big place like this, though. Just a small, traveling carnival.",といっても　ここみたいなデカいとこじゃなくて<br>こじんまりとした移動遊園地さ
 $C3230_MAIN_3900_1500_00_blt,Barret,"We rode a wooden chocobo, spinnin’ round and round, laughin’ our heads off.",木でできたチョコボに乗ってグルグル回されてよ<br>ゲラゲラ笑い合ったよ
-$C3230_MAIN_3900_1600_00_blt,Barret,"My life story’s pretty damn boring, huh?",オレの自分語りなんて　つまんねえよな
+$C3230_MAIN_3900_1600_00_blt,Barret,"My life story’s pretty damn dull, huh?",オレの自分語りなんて　つまんねえよな
 $C3230_MAIN_3900_1700_00_cld,Cloud,Too late to say that. You’re always like this.,いまさら　あんたはいつもそんな感じだ
 $C3230_MAIN_3900_1700_05_blt,Barret,GOLDE_3086,GOLDE_3086
 $C3230_MAIN_3900_1800_00_blt,Barret,"Anyway, if you ever find your soulmate, don’t you dare let ‘em slip away!",とにかく　おまえも運命の相手を見つけたら<br>ぜってえ逃すんじゃねえぞ
-$C3230_MAIN_3900_1900_00_blt,Barret,"Though, hangin’ out with me like this, maybe you’ve already missed your shot.",まあ　オレとこうしてるってことは<br>すでに逃してるかもしんねーけどな
+$C3230_MAIN_3900_1900_00_blt,Barret,"Though, hangin’ out with me like this, you might’ve already blown it.",まあ　オレとこうしてるってことは<br>すでに逃してるかもしんねーけどな
 $C3230_MAIN_3900_2000_00_cld,Cloud,Weren’t you the one who dragged me here?,あんたが　誘ってきたんだろ？
 $C3230_MAIN_3900_2100_00_blt,Barret,"Point is, you gotta make a move! Can’t just sit around waitin’!",まず　おまえが動けって話だ<br>待ってるだけじゃなくてよ
 $C3230_MAIN_3900_2200_00_cld,Cloud,I’ll keep that in mind.,覚えておこう
