@@ -205,7 +205,7 @@ $C2610_MAIN_3000_0300_00_zax,Zack,"Materia, huh? Weird color.",マテリアか�
 $C2610_MAIN_3200_0000_05_elm,Elmyra,MIDGR___203,MIDGR___203
 $C2610_MAIN_3200_0000_09_elm,Elmyra,MIDGR___204,MIDGR___204
 $C2610_MAIN_3200_0100_00_elm,Elmyra,Want some too?,あんたも食べるかい？
-$C2610_MAIN_3200_0200_00_zax,Zack,"Yeah, yeah!",食べる食べる！
+$C2610_MAIN_3200_0200_00_zax,Zack,"Sure. I’ll eat, I’ll eat!",食べる食べる！
 $C2610_MAIN_3200_0200_05_zax,Zack,MIDGR___207,MIDGR___207
 $C2610_MAIN_3200_0300_00_mrn,Marlene,"Say ""Thanks for the food.""",『いただきます』です
 $C2610_MAIN_3200_0400_00_zax,Zack,"Yes, yes!",はいはい！
@@ -228,7 +228,7 @@ $C2610_MAIN_3400_0300_06_elm,Elmyra,MIDGR___225,MIDGR___225
 $C2610_MAIN_3400_0400_00_mrn,Marlene,Biggs isn’t coming back. ‘Cause Daddy and Tifa haven’t come back either!,ビッグスは　もう来ないよ<br>だって　父ちゃんもティファも帰ってこないもん！
 $C2610_MAIN_3400_0500_00_mrn,Marlene,So Biggs isn’t coming back either.,だから　ビッグスももう来ないの
 $C2610_MAIN_3400_0500_05_elm,Elmyra,MIDGR___228,MIDGR___228
-$C2610_MAIN_3400_0600_00_zax,Zack,Then I’ll go find Biggs.,そんじゃ　俺がビッグスを探しに行くよ
+$C2610_MAIN_3400_0600_00_zax,Zack,"Well then...I’ll go find Biggs.",そんじゃ　俺がビッグスを探しに行くよ
 $C2610_MAIN_3400_0610_00_zax,Zack,And bring him back!,そんで　連れてくる！
 $C2610_MAIN_3400_0610_05_mrn,Marlene,MIDGR___231,MIDGR___231
 $C2610_MAIN_3400_0700_00_mrn,Marlene,Really?,ほんと？
@@ -417,15 +417,15 @@ $C3220_MAIN_0100_0000_05_elm,Elmyra,Here.,MIDGR___414
 $C3220_MAIN_0100_0000_08_zax,Zack,MIDGR___415,MIDGR___415
 $C3220_MAIN_0100_0100_00_elm,Elmyra,I’ll take care of Aerith later.,エアリスは　あとで私がやるからね
 $C3220_MAIN_0100_0200_00_zax,Zack,Got it.,了解
-$C3220_MAIN_0200_0100_00_zax,Zack,Aerith sure sleeps a lot.,エアリスは　よく寝るよなあ
+$C3220_MAIN_0200_0100_00_zax,Zack,"Aerith sure sleeps a lot, huh?",エアリスは　よく寝るよなあ
 $C3220_MAIN_0200_0200_00_mrn,Marlene,It’s better that way.,そのほうがいいの
 $C3220_MAIN_0200_0300_00_zax,Zack,"Huh, why?",なんで？
-$C3220_MAIN_0200_0400_00_mrn,Marlene,Because Cloud is still sick.,だって　クラウドがまだ病気だから
+$C3220_MAIN_0200_0400_00_mrn,Marlene,‘Cause Cloud’s still sick.,だって　クラウドがまだ病気だから
 $C3220_MAIN_0200_0400_05_zax,Zack,MIDGR___422,MIDGR___422
-$C3220_MAIN_0200_0500_00_mrn,Marlene,"Zack, please cure Cloud quickly.",ザックス<br>クラウドをはやく治して　おねがい
+$C3220_MAIN_0200_0500_00_mrn,Marlene,"Zack, heal Cloud quick, please!",ザックス<br>クラウドをはやく治して　おねがい
 $C3220_MAIN_0200_0500_05_zax,Zack,MIDGR___424,MIDGR___424
-$C3220_MAIN_0200_0600_00_zax,Zack,"I want to, but...",俺だって　そうしたいけど
-$C3220_MAIN_0200_0700_00_zax,Zack,"Wait, what do you mean it’s better for Aerith to sleep because Cloud is sick?",でも　クラウドが病気だから<br>エアリスは寝てたほうがいいって　どういうこと？
+$C3220_MAIN_0200_0600_00_zax,Zack,"Man, I wanna do that too...",俺だって　そうしたいけど
+$C3220_MAIN_0200_0700_00_zax,Zack,"But what do you mean, Cloud’s sick, so Aerith’s better off sleeping?",でも　クラウドが病気だから<br>エアリスは寝てたほうがいいって　どういうこと？
 $C3220_MAIN_0200_0800_00_mrn,Marlene,If she wakes up...,起きたら……
 $C3220_MAIN_0200_0810_00_mrn,Marlene,Big sis will die.,お姉ちゃん　死んじゃうの
 $C3220_MAIN_0200_0900_00_zax,Zack,"Sorry, Marlene, I don’t understand at all.",ごめん　マリン　全然わかんない
@@ -433,14 +433,14 @@ $C3220_MAIN_0200_0900_05_zax,Zack,MIDGR___430,MIDGR___430
 $C3220_MAIN_0200_1000_00_mrn,Marlene,"You won’t tell anyone, right?",だれにも言わない？
 $C3220_MAIN_0200_1000_05_zax,Zack,MIDGR___432,MIDGR___432
 $C3220_MAIN_0200_1000_08_zax,Zack,MIDGR___433,MIDGR___433
-$C3220_MAIN_0200_1100_00_mrn,Marlene,Big sis will be killed by a scary person.,お姉ちゃんはね　こわい人に殺されちゃうの
+$C3220_MAIN_0200_1100_00_mrn,Marlene,"Big sis, she’s gonna get killed by a scary person.",お姉ちゃんはね　こわい人に殺されちゃうの
 $C3220_MAIN_0200_1100_05_zax,Zack,MIDGR___435,MIDGR___435
-$C3220_MAIN_0200_1200_00_mrn,Marlene,"Cloud will try to save her, but he won’t make it in time.",クラウドが助けようとするけど　間に合わないの
+$C3220_MAIN_0200_1200_00_mrn,Marlene,"Cloud’ll try to save her, but he won’t make it in time.",クラウドが助けようとするけど　間に合わないの
 $C3220_MAIN_0200_1210_00_mrn,Marlene,"He’s so close, but he won’t make it!",もうすこしなのに　間に合わないの！
 $C3220_MAIN_0200_1300_00_mrn,Marlene,"Big sis is really happy that Cloud, who she really likes, comes for her.",お姉ちゃんは　大好きなクラウドがきてくれて<br>とってもうれしいんだけど
 $C3220_MAIN_0200_1310_00_mrn,Marlene,But...,でも……
 $C3220_MAIN_0200_1400_00_mrn,Marlene,But she dies.,でも　死んじゃうの
-$C3220_MAIN_0200_1500_00_mrn,Marlene,"So, we need to cure Cloud quickly so he can protect her.",だから　はやくクラウドの病気を治して<br>お姉ちゃんを守ってもらわなくちゃ
+$C3220_MAIN_0200_1500_00_mrn,Marlene,"So, we gotta cure Cloud’s sickness quick so he can protect her!",だから　はやくクラウドの病気を治して<br>お姉ちゃんを守ってもらわなくちゃ
 $C3220_MAIN_0200_1500_05_zax,Zack,MIDGR___442,MIDGR___442
 $C3220_MAIN_0200_1600_00_zax,Zack,"Marlene, is this...a dream?",マリン　その話は……夢？
 $C3220_MAIN_0200_1600_05_mrn,Marlene,No.,ううん
@@ -452,16 +452,16 @@ $C3220_MAIN_0200_2000_00_zax,Zack,"I believe you. In a world like this, I’ll b
 $C3220_MAIN_0200_2000_05_zax,Zack,MIDGR___450,MIDGR___450
 $C3220_MAIN_0200_2000_08_mrn,Marlene,Yeah...,うん……
 $C3220_MAIN_0200_2100_00_zax,Zack,"So, Marlene, one more question.",んで　マリン　質問なんだけど
-$C3220_MAIN_0200_2200_00_zax,Zack,Who is this scary person? What do they look like?,そのこわい人って　だれ？　どんな人？
+$C3220_MAIN_0200_2200_00_zax,Zack,Who’s this scary person? What do they look like?,そのこわい人って　だれ？　どんな人？
 $C3220_MAIN_0200_2300_00_mrn,Marlene,Long hair...,髪が長くて……
 $C3220_MAIN_0200_2300_04_zax,Zack,MIDGR___455,MIDGR___455
 $C3220_MAIN_0200_2300_07_zax,Zack,MIDGR___456,MIDGR___456
-$C3220_MAIN_0200_2310_00_mrn,Marlene,Silver.,銀色なの
-$C3220_MAIN_0200_2400_00_zax,Zack,Oh boy.,まいったな
+$C3220_MAIN_0200_2310_00_mrn,Marlene,And Silver.,銀色なの
+$C3220_MAIN_0200_2400_00_zax,Zack,I’m in trouble.,まいったな
 $C3220_MAIN_0300_0100_00_elm,Elmyra,"Zack, look.",ザックス　見てごらん
 $C3220_MAIN_0300_0100_05_zax,Zack,MIDGR___460,MIDGR___460
 $C3220_MAIN_0300_0200_00_elm,Elmyra,The flowers are blooming.,花が咲いてるよ
-$C3220_MAIN_0300_0300_00_zax,Zack,They are!,ほんとだ！
+$C3220_MAIN_0300_0300_00_zax,Zack,They really are!,ほんとだ！
 $C3220_MAIN_0300_0400_00_elm,Elmyra,Aerith loves these flowers.,エアリスは　この花が大好きなんだ
 $C3220_MAIN_0300_0400_05_elm,Elmyra,MIDGR___464,MIDGR___464
 $C3220_MAIN_0300_0500_00_elm,Elmyra,Maybe she’ll wake up.,あの子　目を覚ますのかもね
@@ -469,10 +469,10 @@ $C3220_MAIN_0300_0500_05_zax,Zack,MIDGR___466,MIDGR___466
 $C3220_MAIN_0300_0600_00_zax,Zack,"Yeah, I hope so.",うん　そうだといいな
 $C3220_MAIN_0300_0600_04_zax,Zack,MIDGR___468,MIDGR___468
 $C3220_MAIN_0300_0600_07_zax,Zack,MIDGR___469,MIDGR___469
-$C3220_MAIN_0300_0700_00_zax,Zack,"Hey, I’m going out for a bit. To ask about Cloud.",あのさ　ちょっとでかけてくるよ<br>クラウドのこと　相談しにいく
+$C3220_MAIN_0300_0700_00_zax,Zack,"Hey, I’m gonna step out for a bit. Gotta talk to someone about Cloud.",あのさ　ちょっとでかけてくるよ<br>クラウドのこと　相談しにいく
 $C3220_MAIN_0300_0700_05_elm,Elmyra,MIDGR___471,MIDGR___471
-$C3220_MAIN_0300_0800_00_elm,Elmyra,Is there someone like that?,そんな人がいるのかい？
-$C3220_MAIN_0300_0810_00_elm,Elmyra,A doctor?,お医者さんかい？
+$C3220_MAIN_0300_0800_00_elm,Elmyra,Is there someone like that out there?,そんな人がいるのかい？
+$C3220_MAIN_0300_0810_00_elm,Elmyra,"A doctor, is it?",お医者さんかい？
 $C3220_MAIN_0300_0900_00_zax,Zack,MIDGR___474,MIDGR___474
 $C3220_MAIN_0300_0900_07_zax,Zack,MIDGR___475,MIDGR___475
 $C3220_MAIN_0300_1000_00_zax,Zack,Something like that.,まあ　そんなとこ
@@ -480,7 +480,7 @@ $C3220_MAIN_0300_1100_00_elm,Elmyra,Don’t be late. We’ve gotten used to havi
 $C3220_MAIN_0300_1200_00_elm,Elmyra,It’s unsettling when you’re not here.,いないと　不安になる
 $C3220_MAIN_0300_1200_05_zax,Zack,MIDGR___479,MIDGR___479
 $C3220_MAIN_0300_1300_00_zax,Zack,"Got it. I’ll take the bike, so it’ll be quick.",わかったよ　バイクで行くからすぐだ
-$C3220_MAIN_0300_1310_00_zax,Zack,Take care of Aerith and Cloud.,じゃあ　エアリスとクラウドをよろしく
+$C3220_MAIN_0300_1310_00_zax,Zack,"Alright, take care of Aerith and Cloud.",じゃあ　エアリスとクラウドをよろしく
 $C3220_MAIN_0300_1310_05_elm,Elmyra,MIDGR___482,MIDGR___482
 $C3220_MAIN_0300_1400_00_zax,Zack,"Even if they wake up, don’t let them go anywhere.",もし目が覚めても　どこへも行かせないで
 $C3220_MAIN_0300_1400_05_elm,Elmyra,MIDGR___484,MIDGR___484
