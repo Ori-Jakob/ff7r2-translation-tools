@@ -2923,7 +2923,7 @@ $C3230_MAIN_3300_1500_05_cld,Cloud,GOLDE_2920,GOLDE_2920
 $C3230_MAIN_3300_1600_00_art,Aerith,It’s you...I’m looking for.,あなたを　探しているの
 $C3230_MAIN_3300_1700_00_cld,Cloud,I’m right here.,俺は　ここにいる
 $C3230_MAIN_3300_1800_00_art,Aerith,"Yeah...But...",うん　でもね……
-$C3230_MAIN_3300_1900_00_cld,Cloud,"Hey, did you hear form Tifa?",なあ　ティファから聞いたか？
+$C3230_MAIN_3300_1900_00_cld,Cloud,"Hey, did you hear from Tifa?",なあ　ティファから聞いたか？
 $C3230_MAIN_3300_2000_00_tif,<i>Tifa</i>,"<i>Aerith, listen—</i>",<i>エアリス　あのね――</i>
 $C3230_MAIN_3400_0200_00_tif,<i>Tifa</i>,<i>Cloud’s starting to remember Zack.</i>,<i>クラウド　ザックスのこと思い出したみたい</i>
 $C3230_MAIN_3400_0200_05_art,<i>Aerith</i>,GOLDE_2927,GOLDE_2927
